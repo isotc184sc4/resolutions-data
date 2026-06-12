@@ -1,0 +1,338 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
+metadata:
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Gyeongju, Korea, November 3, 2013 – November 8, 2013
+  dates:
+  - start: '2013-11-03'
+    end: '2013-11-08'
+    kind: meeting
+  source: ISO/TC 184/SC 4 Secretariat
+  venue: Gyeongju, Korea
+resolutions:
+- identifier: '858'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Reappointment of WG 2 Convener
+  dates:
+  - start: '2013-11-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: 'Reappointment of WG 2 Convener
+
+      Resolution: SC 4 appoints Nikolaus Ondracek as Convener for WG2 for a
+
+      further three-year term, with appreciation for his offer to serve in that capacity'
+    dates:
+    - start: '2013-11-15'
+      kind: effective
+- identifier: '859'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Reappointment of WG 12 Deputy Convener
+  dates:
+  - start: '2013-11-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: 'Reappointment of WG 12 Deputy Convener
+
+
+      Resolution: SC 4 appoints Jochen Haenisch as Deputy Convener for WG 12 for
+
+      a further three-year term, with appreciation for his offer to serve in that capacity'
+    dates:
+    - start: '2013-11-15'
+      kind: effective
+- identifier: '860'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Approval of Co-Leader for SC 4 Implementation Forum
+  dates:
+  - start: '2013-11-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: 'Approval of Co-Leader for SC 4 Implementation Forum
+
+      Resolution: SC 4 appoints Dr Martin Hardwick as Co- leader for the Implementation
+
+      Forum.'
+    dates:
+    - start: '2013-11-15'
+      kind: effective
+- identifier: '861'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: ISO/TC 184/SC 4 – ISO/TC 59/SC 13 JWG 12
+  dates:
+  - start: '2013-11-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: 'ISO/TC 184/SC 4 – ISO/TC 59/SC 13 JWG 12
+
+      Resolution:
+
+      ISO/TC 184/SC 4 agrees to the request of ISO/TC 59/SC 13 to transfer the Standard
+
+      ISO 16739 to the administration of SC 13'
+    dates:
+    - start: '2013-11-15'
+      kind: effective
+  - type: resolves
+    message: .
+    dates:
+    - start: '2013-11-15'
+      kind: effective
+  - type: requests
+    message: 'SC 4 requests its secretary to arrange any necessary transfer of the standard to the
+
+      SC 13 work program'
+    dates:
+    - start: '2013-11-15'
+      kind: effective
+  - type: resolves
+    message: .
+    dates:
+    - start: '2013-11-15'
+      kind: effective
+  - type: requests
+    message: 'SC 4 requests SC 13 to ensure that SC 4 Secretariat is informed of all ballot actions in
+
+      order to circulate the documents to the members of SC 4'
+    dates:
+    - start: '2013-11-15'
+      kind: effective
+  - type: resolves
+    message: .
+    dates:
+    - start: '2013-11-15'
+      kind: effective
+  - type: encourages
+    message: SC 4 encourages SC 13 to work with SC 4 on other data-related standards
+    dates:
+    - start: '2013-11-15'
+      kind: effective
+  - type: resolves
+    message: .
+    dates:
+    - start: '2013-11-15'
+      kind: effective
+  - type: resolves
+    message: 'SC 4 is prepared to nominate representatives to the proposed JWG 12 maintenance
+
+      and validation teams'
+    dates:
+    - start: '2013-11-15'
+      kind: effective
+  - type: resolves
+    message: .
+    dates:
+    - start: '2013-11-15'
+      kind: effective
+  - type: welcomes
+    message: 'SC 4 welcomes the proposal of SC 13 to alternate co-located JWG 12 meetings
+
+      between the two parent committees'
+    dates:
+    - start: '2013-11-15'
+      kind: effective
+  - type: resolves
+    message: .
+    dates:
+    - start: '2013-11-15'
+      kind: effective
+  - type: encourages
+    message: 'SC 4 encourages its members to nominate appropriate additional technical experts
+
+      to participate in the work of JWG 12.
+
+      NOTE:
+
+      The necessary HTML-documentation Guidelines requested by JWG 12 are publicly
+
+      available on the SC 4 eCommittees site.'
+    dates:
+    - start: '2013-11-15'
+      kind: effective
+- identifier: '862'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Unified Architecture Framework (UAF)
+  dates:
+  - start: '2013-11-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: 'Unified Architecture Framework (UAF)
+
+      Resolution: SC 4 notes the proposal from the US to offer the Unified Architecture
+
+      Framework (UAF) for standardization in ISO/TC 184/SC 4, possibly in collaboration
+
+      with other Standard Development Bodies (SDOs)  such as OMG, OASIS, JTC1, and
+
+      INCOSE, , and invites the US member body to submit a Preliminary Work Item (PWI)
+
+      for consideration.
+
+      NOTE: The PWI should clearly demonstrate the relationship between SysML. UPDM
+
+      and UAF'
+    dates:
+    - start: '2013-11-15'
+      kind: effective
+- identifier: '863'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: ISO/PAS 18828
+  dates:
+  - start: '2013-11-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: 'ISO/PAS 18828
+
+      Resolution: SC 4 establishes an ad hoc group with the task to improve the ISO/PAS
+
+      18828 document for submission at the next meeting of SC 4 on 2014-05-04/09.'
+    dates:
+    - start: '2013-11-15'
+      kind: effective
+- identifier: '864'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Appreciation for Service of Dr Burton
+  dates:
+  - start: '2013-11-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: 'Appreciation for Service of Dr Burton
+
+      Gischner
+
+      Resolution: SC 4 expresses its special recognition and thanks to Dr Burton
+
+      Gischner for his exceptional dedication and outstanding service for many years in the
+
+      international standardization community'
+    dates:
+    - start: '2013-11-15'
+      kind: effective
+  - type: resolves
+    message: 'SC 4 especially thanks Dr Gischner for his
+
+      long standing service as the U.S. Head of Delegation.
+
+      ACKNOWLEDGEMENTS and APPRECIATIONS
+
+      ACCLAMATION
+
+      Appreciation to our SC 4 Liaisons and those projects who presented at the Opening
+
+      Technical Plenary:
+
+      TC59 / SC13 / JWG12 Liaison Report - Thomas Liebich, buildingSMART International
+
+
+      OASIS PLCS Liaison Report - Howard Mason, Co-chair, PLCS TC
+
+      ACCLAMATION
+
+      Appreciation to those who presented at the Open Technical Forum:
+
+      Jean Brange, BOOST - “BoostAeroSpace – Competitiveness and Innovation for the
+
+      European Aerospace & Defence Industry”
+
+      Jochen Haenisch, JOTNE – “CLOUDFLOW: Computational Cloud Services And
+
+      Workflows For Agile Engineering”
+
+      David Leal- “Industrial Data on the Web - Dereferencing”
+
+      Howard Mason, AIA – “Industrial Data in the Cloud: A US Aerospace and Defense
+
+      Perspective”
+
+      ACCLAMATION'
+    dates:
+    - start: '2013-11-15'
+      kind: effective
+  - type: appreciation
+    message: 'SC 4 expresses its appreciation to Prof Soonhung Han for his organization of the
+
+      Industry Day, and to the speakers for attending and presenting on matters of interest
+
+      to the SC 4 community.
+
+      ACCLAMATION'
+    dates:
+    - start: '2013-11-15'
+      kind: effective
+  - type: appreciation
+    message: 'SC 4 expresses its appreciation to Prof Soonhung Han, the Korean Agency for
+
+      Technology and Standards (KATS), Korea STEP Center (KSTEP), and Korea
+
+      Advanced Institute of Science and Technology (KAIST) for their hosting and support of
+
+      the 66th ISO TC 184/SC 4 Plenary meetings at Hotel Hyundai in Gyeongju, Korea.
+
+      We especially commend them for an excellent venue and outstanding service to the'
+    dates:
+    - start: '2013-11-15'
+      kind: effective
+  - type: communicating
+    message: 'SC 4 community. A special acknowledgement is extended to Seung-joo Nam,
+
+      Kyudong Kim
+
+      and Jihye Kang for their outstanding support during the week.  Special
+
+      acknowledgement is extended to the KATS and its staff for their seamless and
+
+      attentive support.'
+    dates:
+    - start: '2013-11-15'
+      kind: effective
+- identifier: '865'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Approval of Project Leaders and Project Editors for SC 4 Projects
+  dates:
+  - start: '2013-11-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: 'Approval of Project Leaders and Project Editors for SC 4 Projects
+
+      Resolution: SC 4 appoints Sheron Koshy as Project Editor for Projects below:
+
+      
+
+      ISO 8000-10
+
+      
+
+      ISO 8000- 20
+
+      
+
+      ISO 8000- 30
+
+      
+
+      ISO 8000- 40
+
+      
+
+      ISO 8000- 100
+
+      
+
+      ISO 8000- 120
+
+      
+
+      ISO 8000- 130
+
+      
+
+      ISO 8000- 140'
+    dates:
+    - start: '2013-11-15'
+      kind: effective

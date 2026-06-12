@@ -1,0 +1,187 @@
+metadata:
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Saint-Denis, France, June 3, 2013 – June 8, 2013
+  dates:
+  - start: '2013-06-03'
+    end: '2013-06-08'
+    kind: meeting
+  source: ISO/TC 184/SC 4 Secretariat
+  venue: Saint-Denis, France
+resolutions:
+- identifier: '852'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Appointment of Coordinator Quality Committee
+  dates:
+  - start: '2013-06-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: 'Appointment of Coordinator Quality Committee
+
+      Resolution: SC 4 expresses its special recognition and thanks to Peter Benson for
+
+      his exceptional dedication and service for the past three years in the position of
+
+
+      Coordinator, Quality Committee'
+    dates:
+    - start: '2013-06-15'
+      kind: effective
+  - type: approves
+    message: 'SC 4 approves Dr
+
+      Gerald Radack as Coordinator, Quality Committee for a period of three years.'
+    dates:
+    - start: '2013-06-15'
+      kind: effective
+  - type: thanks
+    message: 'SC 4 thanks Dr Radack’s offer to act as Coordinator,
+
+      Quality Committee and appoints him to serve in that capacity'
+    dates:
+    - start: '2013-06-15'
+      kind: effective
+- identifier: '853'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Cancellation of ISO 8000-050
+  dates:
+  - start: '2013-06-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: 'Cancellation of ISO 8000-050
+
+      Resolution: SC 4 approves removal of ISO-8000-050 from the list of standards in the'
+    dates:
+    - start: '2013-06-15'
+      kind: effective
+  - type: resolves
+    message: SC 4 work programme
+    dates:
+    - start: '2013-06-15'
+      kind: effective
+  - type: resolves
+    message: .
+    dates:
+    - start: '2013-06-15'
+      kind: effective
+  - type: requests
+    message: 'SC 4 requests its Secretariat to update the SC 4 database and inform ISO CS of this
+
+      change to the work programme'
+    dates:
+    - start: '2013-06-15'
+      kind: effective
+- identifier: '854'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Launch of new edition 3 of 10303-210
+  dates:
+  - start: '2013-06-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: 'Launch of new edition 3 of 10303-210
+
+      Resolution: SC 4 approves a NP to create a new edition 3 of 10303-210 with the
+
+      same scope as 10303-210 ed2, using the accelerated timescale, with Thomas
+
+      Thurman as the project leader'
+    dates:
+    - start: '2013-06-15'
+      kind: effective
+  - type: decides
+    message: 'SC 4 decides that the project should proceed direct
+
+      to DIS ballot.'
+    dates:
+    - start: '2013-06-15'
+      kind: effective
+- identifier: '855'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Harve stin g “S ysML” a n d “UPDM”
+  dates:
+  - start: '2013-06-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: 'Harve stin g “S ysML” a n d “UPDM”
+
+      Resolution: SC 4 welcomes the proposed submission from OMG of SysML1.3 for
+
+      harvesting as NWI/CD and UPDM 2.1 for harvesting as DIS under the SC4
+
+      harvesting procedures.'
+    dates:
+    - start: '2013-06-15'
+      kind: effective
+- identifier: '856'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Secretariat for JWG with ISO/TC 59/SC 13
+  dates:
+  - start: '2013-06-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: 'Secretariat for JWG with ISO/TC 59/SC 13
+
+      Resolution: SC 4 agrees that Standards Norway should take the administrative lead
+
+      for the Joint Working Group, on the understanding that the first task of the JWG will
+
+      be to create the operational procedures for the support of ISO 16739, for approval by
+
+      the next plenary meetings of SC 4 and SC 13.
+
+      NOTE: France proposes Bernard Ferries'
+    dates:
+    - start: '2013-06-15'
+      kind: effective
+- identifier: '857'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: ISO 8000 Programme Dates
+  dates:
+  - start: '2013-06-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: 'ISO 8000 Programme Dates
+
+      Resolution: SC 4 notes that the revised dates for delivery are within the SC 4
+
+      planned timescales and requests its Secretariat to inform ISO CS of the requirement
+
+      to place ISO 8000-8, 9, 10, 20, 30, 40 on the ISO extended timescale
+
+      ACKNOWLEDGEMENTS and APPRECIATIONS
+
+      ACCLAMATION – St Denis
+
+      Appreciation to those who presented at the Change Management Plenary:
+
+      ISO 8000 part 62 – Ismael Caballero and Sunho Kim
+
+      SysML – Andreas Korff, OMG
+
+      UPDM – Andreas Korff, OMG
+
+      ACCLAMATION- St Denis'
+    dates:
+    - start: '2013-06-15'
+      kind: effective
+  - type: appreciation
+    message: 'SC 4 expresses its appreciation to Isabelle Rimbert, Stephane Mouliere, Ghislaine
+
+      Ines Magnan and Martine Degardin for their hosting and support of the 65th ISO TC
+
+      184/SC 4 Plenary meetings at AFNOR in St Denis, France. We especially commend
+
+      AFNOR and Jean Brange for an excellent venue and outstanding service to the SC 4
+
+      community.      A special acknowledgement is extended to Christophe Mouton and to
+
+      Bruno Schultz, for their support during the week.  Special acknowledgement is
+
+      extended to AFNOR and its staff for their seamless and attentive support.'
+    dates:
+    - start: '2013-06-15'
+      kind: effective

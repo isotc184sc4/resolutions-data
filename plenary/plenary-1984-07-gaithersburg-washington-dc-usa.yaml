@@ -1,0 +1,241 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
+metadata:
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Washington, D.C., United States, July 11, 1984 – July 21, 1984
+  dates:
+  - start: '1984-07-11'
+    end: '1984-07-21'
+    kind: meeting
+  source: ISO/TC 184/SC 4 Secretariat
+  venue: Washington, D.C., United States
+resolutions:
+- identifier: '1'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: the need for a new standard for the external representation of
+  dates:
+  - start: '1984-07-15'
+    kind: decision
+  actions:
+  - type: recognizes
+    message: 'SC 4 recognizes the need for a new standard for the external representation of
+
+      product model data. This standard will be based upon existing data exchange
+
+      initiatives including the US IGES and PDDI, the French SET, the German
+
+      VDA/BDMA-FS, and the UK NEDO.'
+    dates:
+    - start: '1984-07-15'
+      kind: effective
+- identifier: '2'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: The SC adopts the following goal and objectives.
+  dates:
+  - start: '1984-07-15'
+    kind: decision
+  actions:
+  - type: adopts
+    message: 'The SC adopts the following goal and objectives.
+
+      Goal:  The creation of a standard which enables the capture of information comprising
+
+      a computerized product model in a neutral form without loss of completeness
+
+      and integrity, throughout the life cycle of the product.
+
+      Design Objectives:  The standard must feature:
+
+      - Flexibility to permit expansion without invalidating existing portions of
+
+      the standard.
+
+      - Efficiency for processing, communication and storage.
+
+      - Rigorous and formal documentation.
+
+      - The minimum possible set of data elements.
+
+      - Separation of data content from physical format.
+
+      - A logical classification of data elements.
+
+      - Compatibility with other existing relevant standards.
+
+      Near Term Objectives:
+
+      The initial objective is to produce a Version 1 of standard for
+
+      discrete mechanical parts including the following:
+
+      -
+
+      A product model core to include:
+
+      * Geometry
+
+      3-D wireframe/surfaces
+
+      Boundary representation
+
+      Constructive solid geometry
+
+      * Tolerances
+
+      * Features
+
+      * Bill of materials including: material, process specification, part
+
+      identification, notes.
+
+      -
+
+      Application data requirements or application influence on product model core
+
+
+      from the following areas:
+
+      * Drafting
+
+      * Finite element modelling
+
+      * Machining
+
+      * Quality assurance.
+
+      * Data management
+
+      -
+
+      A mechanism for standard parts
+
+      -
+
+      Parametric design features.
+
+      -
+
+      Data syntax and file structure independent of the above contents.
+
+      Drafting is to include existing national and international standard requirements. Where
+
+      possible, common semantics will be defined for use with a flag identifying desired
+
+      drafting standard to produce specific display information
+
+      More stable geometric forms of curves and surfaces preferred. Implementation
+
+      guidelines should include conversion methods.  Constructive and evaluated (result)
+
+      forms of geometric entities are needed.
+
+      A draft proposal for Version 1 is required for ballot by SC 4 by the end of 1985.'
+    dates:
+    - start: '1984-07-15'
+      kind: effective
+- identifier: '3'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: its member bodies involved in the technical development of the
+  dates:
+  - start: '1984-07-15'
+    kind: decision
+  actions:
+  - type: recommends
+    message: 'SC 4 recommends that its member bodies involved in the technical development of the
+
+      standard for the external representation of product model data should adopt an
+
+      organizational structure within their national activities to address four discrete main
+
+      topics:
+
+      - Definition of data content (semantics)
+
+      - Definition of data syntax and file structure
+
+      - Specification of information for applications
+
+      - Implementation and validation of the standard.
+
+      The structure will support international collaboration within each topic, as well as
+
+      integration of activities across individual national efforts.'
+    dates:
+    - start: '1984-07-15'
+      kind: effective
+- identifier: '4'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: establish Working Group 1, Technical Coordination and Support, with
+  dates:
+  - start: '1984-07-15'
+    kind: decision
+  actions:
+  - type: agrees
+    message: 'SC 4 agrees to establish Working Group 1, Technical Coordination and Support, with
+
+      the following terms of reference:
+
+      - To provide technical support and recommendations for SC 4
+
+      - To coordinate national technical developments
+
+      - To resolve technical differences
+
+      - To collate national technical contributions for inclusion in
+
+      the draft ISO document.
+
+      Jerry Weiss is appointed Convener'
+    dates:
+    - start: '1984-07-15'
+      kind: effective
+  - type: resolves
+    message: .
+    dates:
+    - start: '1984-07-15'
+      kind: effective
+  - type: recognizes
+    message: 'SC 4 recognizes a possible need to establish other working groups in the future to
+
+      cover:
+
+      - Guidelines for implementation
+
+      - Procedures for validation
+
+      - Data for specific applications
+
+      - Developments due to new technology'
+    dates:
+    - start: '1984-07-15'
+      kind: effective
+- identifier: '5'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: ISO/TC 184/SC 4 thanks Mr. Bradford Smith for providing his excellent work as
+  dates:
+  - start: '1984-07-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: 'ISO/TC 184/SC 4 thanks Mr. Bradford Smith for providing his excellent work as
+
+      chairman of this meeting and proposes to nominate Mr. Smith as Chairman of ISO/TC
+
+      184/SC 4 for a three-year term.'
+    dates:
+    - start: '1984-07-15'
+      kind: effective
+- identifier: '6'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: ISO/TC 184/SC 4 expresses its appreciation to NBS and ANSI and the members of
+  dates:
+  - start: '1984-07-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: 'ISO/TC 184/SC 4 expresses its appreciation to NBS and ANSI and the members of
+
+      these delegations for their gracious hospitality and for the excellent services provided
+
+      for this meeting.'
+    dates:
+    - start: '1984-07-15'
+      kind: effective

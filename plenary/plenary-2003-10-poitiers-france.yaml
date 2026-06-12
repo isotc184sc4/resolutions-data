@@ -1,0 +1,546 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
+metadata:
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Poitiers, France, October 25, 2003 – October 31, 2003
+  dates:
+  - start: '2003-10-25'
+    end: '2003-10-31'
+    kind: meeting
+  source: ISO/TC 184/SC 4 Secretariat
+  venue: Poitiers, France
+resolutions:
+- identifier: '588'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Leadership and Editorship Approvals
+  dates:
+  - start: '2003-10-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: SC 4 Project Leadership and Editorship Approvals
+    dates:
+    - start: '2003-10-15'
+      kind: effective
+  - type: approves
+    message: SC 4 approves the following new project leaders or project editors for the associated
+    dates:
+    - start: '2003-10-15'
+      kind: effective
+  - type: resolves
+    message: 'SC 4 projects:
+
+      Project
+
+      Leader
+
+      Editor
+
+      ISO 10303-0058
+
+      Rolf Lervik
+
+      ISO 10303-0240
+
+      Chiaki Sakamoto
+
+      Len Slovensky
+
+      ISO 15531-0041
+
+      Anne-Françoise Cutting-Decelle Jean-J. Michel
+
+      ISO 15531-0043
+
+      Anne-Françoise Cutting-Decelle Jean-J. Michel'
+    dates:
+    - start: '2003-10-15'
+      kind: effective
+- identifier: '589'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Cancellation of STEP Part 314
+  dates:
+  - start: '2003-10-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Cancellation of STEP Part 314
+    dates:
+    - start: '2003-10-15'
+      kind: effective
+  - type: agrees
+    message: SC 4 agrees to cancel STEP Part 314 due to lack of progress.
+    dates:
+    - start: '2003-10-15'
+      kind: effective
+- identifier: '590'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Timescales for ISO standard development stages
+  dates:
+  - start: '2003-10-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Timescales for ISO standard development stages
+    dates:
+    - start: '2003-10-15'
+      kind: effective
+  - type: notes
+    message: 'SC 4 notes the objectives of the new timeframes and accepts the overall timescales
+
+      proposed, although it must be recognised that reduced timescales are often
+
+      incompatible with adequate quality, consensus and market relevance.  However, SC
+
+      4 notes that the intermediate milestones proposed in the new timeframe do not take
+
+      sufficient account of the need for technical discussion and consensus building, while
+
+      allowing extended periods for publication and administration. The use of publication
+
+      tools to accelerate the administrative tasks means that SC 4 does not need to exploit
+
+      the full time allowed for administration, but requires the maximum time possible for
+
+      technical work'
+    dates:
+    - start: '2003-10-15'
+      kind: effective
+  - type: resolves
+    message: .
+    dates:
+    - start: '2003-10-15'
+      kind: effective
+  - type: resolves
+    message: 'SC 4 therefore requests ISO/CS to confirm that the intermediate milestones of the new
+
+      timeframes can be adjusted to allow appropriate work planning, within the overall time
+
+      limits given'
+    dates:
+    - start: '2003-10-15'
+      kind: effective
+  - type: resolves
+    message: .
+    dates:
+    - start: '2003-10-15'
+      kind: effective
+  - type: resolves
+    message: SC 4 also seeks confirmation that ISO/CS can achieve its timescales for processing,
+    dates:
+    - start: '2003-10-15'
+      kind: effective
+  - type: resolves
+    message: noting that there are examples of FDIS processing exceeding three months.
+    dates:
+    - start: '2003-10-15'
+      kind: effective
+- identifier: '591'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: ISO/PAS 12006-3 Building construction — Organization of information about
+  dates:
+  - start: '2003-10-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: 'ISO/PAS 12006-3 Building construction — Organization of information about
+
+      construction works — Part 3: Framework for object-oriented information exchange
+
+      —  revised version 2'
+    dates:
+    - start: '2003-10-15'
+      kind: effective
+  - type: asks
+    message: 'SC 4 asks its secretariat to submit a liaison statement to ISO/TC 59 “Building
+
+      construction" explaining the area of work of SC 4, especially to point out the activities
+
+      of its WG 2 and WG 3 work on modelling within the area of building construction'
+    dates:
+    - start: '2003-10-15'
+      kind: effective
+  - type: resolves
+    message: .
+    dates:
+    - start: '2003-10-15'
+      kind: effective
+  - type: resolves
+    message: 'SC 4 also requests ISO/TC 59, especially ISO/TC 59/SC 13/WG 6, to identify areas of
+
+      need for harmonization with SC 4 standards such as ISO 10303-225 and ISO 15926
+
+      in its work programme, in order to foster cooperation and collaboration in the future'
+    dates:
+    - start: '2003-10-15'
+      kind: effective
+  - type: resolves
+    message: .
+    dates:
+    - start: '2003-10-15'
+      kind: effective
+  - type: appoints
+    message: 'SC 4 appoints Tatsuo Terai as a physical liaison to ISO/TC 59/SC 13/WG 6 in order to
+
+      support the required cooperation and requests its Secretariat to establish the liaison.
+
+      Action:  National Bodies of SC 4 should examine this initiative to promote ISO
+
+      12006 as a DIS and assess it against the existing procurement regulations in their
+
+      countries.'
+    dates:
+    - start: '2003-10-15'
+      kind: effective
+- identifier: '592'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: ISO/DIS 16792 Technical product documentation - digital product definition data
+  dates:
+  - start: '2003-10-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: 'ISO/DIS 16792 Technical product documentation - digital product definition data
+
+      practices'
+    dates:
+    - start: '2003-10-15'
+      kind: effective
+  - type: asks
+    message: 'SC 4 asks its secretariat to inform ISO/TC 10 that the planned publication of ISO
+
+      16792 will lead to significant changes in already existing and published standards by
+
+      SC 4'
+    dates:
+    - start: '2003-10-15'
+      kind: effective
+  - type: encourages
+    message: 'SC 4 encourages ISO/TC 10 and ISO/TC 213 to reach a clear consensus on
+
+      unambiguous and consistent representations of 2D and 3D annotation that can be
+
+      referenced by the SC 4 standards for digital representation of product information
+
+      when they are revised, since it will not be viable to support conflicting forms of
+
+      annotation.
+
+      Further, SC 4 asks ISO/TC 10 to provide a clear strategic statement on their future
+
+      development plans; especially because SC 4 has referenced several ISO/TC 10
+
+      standards on annotation and drafting.
+
+      Action: The teams of AP 202, 203, 210, 212, 214 and are requested to check the
+
+      potential impact of the content of ISO16792 against their projects, with a view to
+
+      directly referencing the standard in future'
+    dates:
+    - start: '2003-10-15'
+      kind: effective
+- identifier: '593'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Industrial Data Framework
+  dates:
+  - start: '2003-10-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Industrial Data Framework
+    dates:
+    - start: '2003-10-15'
+      kind: effective
+  - type: investigates
+    message: 'SC 4 invites member bodies to review the proposal to update the Industrial Data
+
+      Framework as an ISO Technical Report and to indicate to the Secretariat by the end
+
+      of December 2003 whether there will be sufficient industry interest to justify the
+
+      creation of a NWI, and whether they would be willing to provide the necessary
+
+      resources.'
+    dates:
+    - start: '2003-10-15'
+      kind: effective
+- identifier: '594'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: ISO/IEC Guide for the common use of parts library definitions
+  dates:
+  - start: '2003-10-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: ISO/IEC Guide for the common use of parts library definitions
+    dates:
+    - start: '2003-10-15'
+      kind: effective
+  - type: notes
+    message: 'SC 4 notes the ad hoc meeting to develop the ISO/IEC Guide on "Product properties
+
+      and classification" in Berlin on Wednesday, 2003-12-10 and nominates Wolfgang
+
+      Wilkes, Guy Pierra, Karlheinz Rosan,  Nils Sandsmark, Tim King and Norman
+
+      Swindells to attend the meeting'
+    dates:
+    - start: '2003-10-15'
+      kind: effective
+  - type: resolves
+    message: .
+    dates:
+    - start: '2003-10-15'
+      kind: effective
+  - type: investigates
+    message: SC 4 invites its Working Groups to nominate additional delegates to this meeting
+    dates:
+    - start: '2003-10-15'
+      kind: effective
+- identifier: '595'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Liaison to OAGI
+  dates:
+  - start: '2003-10-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Liaison to OAGI
+    dates:
+    - start: '2003-10-15'
+      kind: effective
+  - type: appoints
+    message: 'SC 4 appoints Günter Staub to serve as the liaison officer to OAGI and requests its
+
+      Secretariat to make the appointment accordingly'
+    dates:
+    - start: '2003-10-15'
+      kind: effective
+- identifier: '596'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Public Availability of SC 4 Standards and Specifications
+  dates:
+  - start: '2003-10-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Public Availability of SC 4 Standards and Specifications
+    dates:
+    - start: '2003-10-15'
+      kind: effective
+  - type: notes
+    message: 'SC 4 notes with disappointment the ISO Council’s rejection of the request to make
+
+      some SC 4 Standards freely available on the Web'
+    dates:
+    - start: '2003-10-15'
+      kind: effective
+  - type: resolves
+    message: .
+    dates:
+    - start: '2003-10-15'
+      kind: effective
+  - type: appreciates
+    message: 'SC 4 appreciates the freedom to permit distribution of these standards to other ISO
+
+      and IEC groups for further standards development'
+    dates:
+    - start: '2003-10-15'
+      kind: effective
+  - type: resolves
+    message: .
+    dates:
+    - start: '2003-10-15'
+      kind: effective
+  - type: endorses
+    message: 'SC 4 endorses the response of its Chair (Document SC 4 N1606) which notes that the
+
+      ISO Council has not addressed several of the issues raised in the previous SC 4
+
+      Resolution'
+    dates:
+    - start: '2003-10-15'
+      kind: effective
+  - type: resolves
+    message: .
+    dates:
+    - start: '2003-10-15'
+      kind: effective
+  - type: resolves
+    message: 'SC 4 further urges its member national bodies to approach their ISO Council and
+
+      TMB members and impress upon them the urgency and importance of this issue.
+
+
+      Attached documents: SC 4 N1606, SC 4 N1456'
+    dates:
+    - start: '2003-10-15'
+      kind: effective
+- identifier: '597'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Task Force for Dictionaries, part libraries and reference data libraries
+  dates:
+  - start: '2003-10-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Task Force for Dictionaries, part libraries and reference data libraries
+    dates:
+    - start: '2003-10-15'
+      kind: effective
+  - type: establishes
+    message: 'SC 4 establishes a task force to produce a white paper on the scope, relationship
+
+      between ISO 10303, ISO 13584 and ISO 15926 and their industrial usage to meet
+
+      business requirements for the definition of dictionaries, part libraries and reference
+
+      data libraries. The white paper will be issued by the 15th of February 2004 and the
+
+      team will report to SC 4 at the next ISO/TC 184 SC 4 meeting in Ft Lauderdale, spring
+
+      2004.
+
+      The results shall be clearly understandable by SC 4 experts and stakeholders, in order
+
+      to promote consistent presentation of SC 4 products to the market place.
+
+      ISO/TC 184/SC 4 appoints the following task force team members:
+
+      -
+
+      Gerry Radack (Task force team leader)
+
+      -
+
+      Guy Pierra
+
+      -
+
+      Wolfgang Wilkes
+
+      -
+
+      Karlheinz Rosan
+
+      -
+
+      Hiroshi Murayama
+
+      -
+
+      Margaret Christison
+
+      -
+
+      Ricardo Gonçalves
+
+      -
+
+      Nils Sandsmark
+
+      -
+
+      Magne Valen-Sendstad
+
+      -
+
+      Andries van Renssen
+
+      -
+
+      Paul van Exel Norman Swindells
+
+      -
+
+      Yamine AIT-AMEUR
+
+      -
+
+      Junfeng Zhan'
+    dates:
+    - start: '2003-10-15'
+      kind: effective
+- identifier: '598'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Liaison with ECCMA
+  dates:
+  - start: '2003-10-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Liaison with ECCMA
+    dates:
+    - start: '2003-10-15'
+      kind: effective
+  - type: accepts
+    message: 'SC 4 accepts the request from the Electronic Commerce Code Management
+
+      Association (ECCMA) to form a two-way Category A liaison, and appoints Gerry
+
+      Radack as liaison officer from SC 4 to ECCMA.'
+    dates:
+    - start: '2003-10-15'
+      kind: effective
+- identifier: '599'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Appreciations
+  dates:
+  - start: '2003-10-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: 'Appreciations
+
+
+      Acclamation:'
+    dates:
+    - start: '2003-10-15'
+      kind: effective
+  - type: appreciation
+    message: 'SC 4 expresses its deep appreciation to the AFNOR and ENSMA/LiSi team, its
+
+      Members, Sponsors and the staff of the Clarion Hotel FUTUROSCOPE for their
+
+      efforts in organizing this meeting, arranging the facilities, excellent food, social
+
+      events, and excellent accompanying events'
+    dates:
+    - start: '2003-10-15'
+      kind: effective
+  - type: resolves
+    message: 'SC 4 also expresses its appreciation for
+
+      their hospitality and outstanding support before, during, and after the meeting
+
+      Acclamation:'
+    dates:
+    - start: '2003-10-15'
+      kind: effective
+  - type: resolves
+    message: 'SC 4 expresses its particular thanks to Prof Guy Pierra and his staff, Yamine AIT
+
+      AMEUR, Aïda  AIT AMEUR, Frédéric CARREAU, Claudine RAULT, Ladjel
+
+      BELLATRECHE, Youcef AKLOUS, Sofiane CHALLAL, Hondjack DEHAINSALA, and
+
+      Zum DUNG for their superior administrative support, outstanding hospitality, and
+
+      patience both before and during the ISO/TC 184/SC 4 meeting
+
+      Acclamation:'
+    dates:
+    - start: '2003-10-15'
+      kind: effective
+  - type: resolves
+    message: 'SC 4 would like to thank Mr. John Dunford for his significant contributions and
+
+      support to the SC 4 community. His untiring efforts as Working Group 3, Team 8
+
+      (Product Life- Cycle) Team Leader, his many project and technical contributions, and
+
+      wishes him all the best for his future. The significant contributions due to his
+
+      innovative and creative leadership will be greatly missed.'
+    dates:
+    - start: '2003-10-15'
+      kind: effective

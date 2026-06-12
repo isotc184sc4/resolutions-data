@@ -1,0 +1,361 @@
+metadata:
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Hangzhou, China, October 16, 2005 – October 21, 2005
+  dates:
+  - start: '2005-10-16'
+    end: '2005-10-21'
+    kind: meeting
+  source: ISO/TC 184/SC 4 Secretariat
+  venue: Hangzhou, China
+resolutions:
+- identifier: '654'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Approval of Project Leaders and Project Editors for SC 4 Projects
+  dates:
+  - start: '2005-10-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Approval of Project Leaders and Project Editors for SC 4 Projects
+    dates:
+    - start: '2005-10-15'
+      kind: effective
+  - type: approves
+    message: SC 4 approves the following new project leaders or project editors for the associated
+    dates:
+    - start: '2005-10-15'
+      kind: effective
+  - type: resolves
+    message: 'SC 4 projects:
+
+      Project
+
+      Leader
+
+      Editor
+
+      ISO 10303-0059
+
+      Hiroyuki Hiraoka
+
+      Akihiko Otaka'
+    dates:
+    - start: '2005-10-15'
+      kind: effective
+- identifier: '655'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Termination of the Liaison between SC 4 and PLCS, Inc
+  dates:
+  - start: '2005-10-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Termination of the Liaison between SC 4 and PLCS, Inc
+    dates:
+    - start: '2005-10-15'
+      kind: effective
+  - type: nominates
+    message: 'SC 4 terminates its liaison with PLCS, Inc.
+
+      The liaison with OASIS established under resolutions 580 and 629 remains in place, in
+
+      order to address any SC 4 standardisation requirements arising from activities under
+
+      the OASIS PLCS Technical Committee.'
+    dates:
+    - start: '2005-10-15'
+      kind: effective
+  considerations:
+  - type: recognizing
+    message: 'Recognizing the successful completion of the development of AP239, and the closure
+
+
+      of the PLCS, Inc consortium'
+    dates:
+    - start: '2005-10-15'
+      kind: effective
+- identifier: '656'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Liaisons
+  dates:
+  - start: '2005-10-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Liaisons
+    dates:
+    - start: '2005-10-15'
+      kind: effective
+  - type: requests
+    message: 'SC 4 requests an active two-way liaison with ISO/TC 37/SC 2, 3 and 4, and
+
+      requests the SC 4 Secretary to confirm these liaisons with the ISO Central
+
+      Secretariat'
+    dates:
+    - start: '2005-10-15'
+      kind: effective
+  - type: appoints
+    message: 'SC 4 appoints Gerald Radack, Peter Benson, Magne Valen-Sendstad
+
+      and Guy Pierra as
+
+      liaison officers from SC 4 to ISO/TC 37/SC 2, 3 and 4, and requests them to report back
+
+      on any relevant implications for SC 4 standards and projects, after each ISO/TC 37
+
+      and subcommittee meeting.'
+    dates:
+    - start: '2005-10-15'
+      kind: effective
+- identifier: '657'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Nomination of Experts to ISO/TC 184/SC 5/WG 7 "Diagnostic and maintenance
+  dates:
+  - start: '2005-10-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: 'Nomination of Experts to ISO/TC 184/SC 5/WG 7 "Diagnostic and maintenance
+
+      a p p lica tion s in te gratio n”
+
+      In addition to the appointments and nominations stated in SC 4 Resolution # 646, SC
+
+      4 proposes that the ISO/TC 184/SC 4/JWG 8 Convener, Jean-Jacques MICHEL, be
+
+      nominated as expert to SC 5/WG 7 by its National Body'
+    dates:
+    - start: '2005-10-15'
+      kind: effective
+  - type: resolves
+    message: .
+    dates:
+    - start: '2005-10-15'
+      kind: effective
+  - type: appoints
+    message: 'SC 4 appoints him as liaison officer to ISO/TC 184/SC 5 and invites him to participate
+
+      in the joint SC 1, SC 4 and SC 5 review on “Diagnostics and maintenance
+
+      applications integration”.'
+    dates:
+    - start: '2005-10-15'
+      kind: effective
+- identifier: '658'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: JWG 1
+  dates:
+  - start: '2005-10-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: JWG 1
+    dates:
+    - start: '2005-10-15'
+      kind: effective
+  - type: notes
+    message: 'SC 4 notes the potential impact on many ISO Technical Committees of the proposed
+
+      content of the JWG 1” Guide for the Specification of Product Properties and
+
+      Classes”'
+    dates:
+    - start: '2005-10-15'
+      kind: effective
+  - type: resolves
+    message: .
+    dates:
+    - start: '2005-10-15'
+      kind: effective
+  - type: recommends
+    message: 'SC 4 recommends that National Bodies ensure that any ballot on these documents
+
+      is reviewed by their representatives to SC 4 and other affected Technical
+
+      Committees.'
+    dates:
+    - start: '2005-10-15'
+      kind: effective
+- identifier: '659'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Task Force on Dictionaries, Part Libraries and Reference Data Libraries
+  dates:
+  - start: '2005-10-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Task Force on Dictionaries, Part Libraries and Reference Data Libraries
+    dates:
+    - start: '2005-10-15'
+      kind: effective
+  - type: appreciates
+    message: 'SC 4 appreciates the content of the report of the Task Force on Dictionaries, Part
+
+      Libraries and Reference Data Libraries (SC 4 N2016), since it supports the
+
+      acceptance and knowledge about the SC 4 standards and their relations in industrial
+
+      use'
+    dates:
+    - start: '2005-10-15'
+      kind: effective
+  - type: disbands
+    message: SC 4 disbands the Task Force.
+    dates:
+    - start: '2005-10-15'
+      kind: effective
+  - type: thanks
+    message: SC 4 thanks the Task Force for its efforts
+    dates:
+    - start: '2005-10-15'
+      kind: effective
+- identifier: '660'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Allocation of the Project ISO 22745 "Open Technical Dictionary"
+  dates:
+  - start: '2005-10-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Allocation of the Project ISO 22745 "Open Technical Dictionary"
+    dates:
+    - start: '2005-10-15'
+      kind: effective
+  - type: assigns
+    message: SC 4 assigns the Open Technical Dictionary Project to WG 12.
+    dates:
+    - start: '2005-10-15'
+      kind: effective
+- identifier: '661'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: L iaiso n to ISO/T C 60 "Ge a rs”
+  dates:
+  - start: '2005-10-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: L iaiso n to ISO/T C 60 "Ge a rs”
+    dates:
+    - start: '2005-10-15'
+      kind: effective
+  - type: establishes
+    message: 'SC 4 establishes a liaison to ISO/TC 60 Gears to enable a close cooperation on data
+
+      exchange for gears. To avoid inconsistencies and incompatibilities with existing SC 4
+
+      standards, SC 4 nominates Alan Crawford and Len Slovensky as liaison officers.'
+    dates:
+    - start: '2005-10-15'
+      kind: effective
+- identifier: '662'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Nomination of representative to TMB ad hoc meeting on "Publication of Standar...
+  dates:
+  - start: '2005-10-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: 'Nomination of representative to TMB ad hoc meeting on "Publication of Standards as
+
+      databases" - Geneva 10/11 November'
+    dates:
+    - start: '2005-10-15'
+      kind: effective
+  - type: resolves
+    message: .
+    dates:
+    - start: '2005-10-15'
+      kind: effective
+  - type: nominates
+    message: 'SC 4 nominates its chairman Howard Mason to attend the ISO/TMB ad hoc meeting
+
+      on 2005-11-10/11 in Geneva. The objective of this nomination is to reflect the interest
+
+      of SC 4 projects and users of SC 4 publications to make these publicly available and
+
+      free of charge, in order to facilitate their use.
+
+      The position of SC 4 should be compiled and circulated to SC 4 for review prior to the
+
+      meeting.'
+    dates:
+    - start: '2005-10-15'
+      kind: effective
+- identifier: '663'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Acknowledgements and Appreciations
+  dates:
+  - start: '2005-10-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: 'Acknowledgements and Appreciations
+
+      Acclamation:
+
+      Appreciation to our SC 4 Liaisons. We appreciate your representation to and for
+
+      ISO/TC 184/SC 4.
+
+      A special thank you to the SC 4 Liaison Plenary presenters for their insightful and
+
+      comprehensive presentations:
+
+
+      IAI
+
+      Thomas Liebich
+
+      ISO/TC 207
+
+      Anna Moreno
+
+      ECCMA / NATO AC 135
+
+      Peter Benson & Gerry
+
+      Radack ISO/TC 37
+
+      Christian Galinski
+
+      Appreciation:'
+    dates:
+    - start: '2005-10-15'
+      kind: effective
+  - type: resolves
+    message: 'SC 4 wishes to give its unanimous thanks to CNIS, its Members and the staff of the
+
+      HangZhou Huagang HNA Resort Hotel for their efforts in organizing this meeting,
+
+      arranging the facilities, excellent food, and excellent social events.
+
+      Appreciation:'
+    dates:
+    - start: '2005-10-15'
+      kind: effective
+  - type: resolves
+    message: 'SC 4 expresses its thanks to Mr. Bisong Liu and his staff,  Mr. Guangli Qin, Mr.
+
+      Junfeng Zhan, Mr. Wenfeng Sun, Mr. Hanjing Hu, Mr. Wenwu Li, Mr. Yan Hong, Ms.
+
+      Xiaojing Zhang and Ms. Ping Xu for their superior administrative support, outstanding
+
+      hospitality, both before and during the ISO/TC 184/SC 4 meeting.  Our Special thanks
+
+      to Mr.
+
+      Zhiqiang Wang, CNIS system administrator, and Ms. Jianghua Liao and Ms.
+
+      Shanshan Sun for their excellent support with printing and copying requirements for'
+    dates:
+    - start: '2005-10-15'
+      kind: effective
+  - type: resolves
+    message: 'the SC 4 Delegation. Finally, SC 4 expresses its particular thanks to Mr. Ping Wang
+
+      for providing the overall excellent coordination for the entire SC 4 Meeting in
+
+      HangZhou.'
+    dates:
+    - start: '2005-10-15'
+      kind: effective

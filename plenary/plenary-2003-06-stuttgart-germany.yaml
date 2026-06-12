@@ -1,0 +1,553 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
+metadata:
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Stuttgart, Germany, June 22, 2003 – June 27, 2003
+  dates:
+  - start: '2003-06-22'
+    end: '2003-06-27'
+    kind: meeting
+  source: ISO/TC 184/SC 4 Secretariat
+  venue: Stuttgart, Germany
+resolutions:
+- identifier: '574'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Leadership and Editorship Approvals
+  dates:
+  - start: '2003-06-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: SC 4 Project Leadership and Editorship Approvals
+    dates:
+    - start: '2003-06-15'
+      kind: effective
+  - type: approves
+    message: SC 4 approves the following new project leaders or project editors for the associated
+    dates:
+    - start: '2003-06-15'
+      kind: effective
+  - type: resolves
+    message: 'SC 4 projects:
+
+      Project
+
+      ISO 10303-0055
+
+      Leader
+
+      Mike Pratt
+
+      Editor
+
+      Mike Pratt
+
+      ISO 10303-0523
+
+      Lothar Klein
+
+      Ray Goult
+
+
+      ISO 10303-0238
+
+      Alan Crawford
+
+      Dave Loffredo
+
+      ISO 10303-0054
+
+      John Dunford
+
+      David Leal
+
+      ISO 18629-4x
+
+      Line Pouchard'
+    dates:
+    - start: '2003-06-15'
+      kind: effective
+- identifier: '575'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Appointment of WG 2 Deputy Convener
+  dates:
+  - start: '2003-06-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Appointment of WG 2 Deputy Convener
+    dates:
+    - start: '2003-06-15'
+      kind: effective
+  - type: appoints
+    message: 'SC 4 appoints Guy Pierra as Deputy Convener of WG 2 for an additional three-year
+
+      term.'
+    dates:
+    - start: '2003-06-15'
+      kind: effective
+- identifier: '576'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Appointment of Quality Coordinator
+  dates:
+  - start: '2003-06-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Appointment of Quality Coordinator
+    dates:
+    - start: '2003-06-15'
+      kind: effective
+  - type: appoints
+    message: 'SC 4 appoints Mats Elgh from Sweden as the new Quality Coordinator, for a three
+
+      year term'
+    dates:
+    - start: '2003-06-15'
+      kind: effective
+  - type: resolves
+    message: .
+    dates:
+    - start: '2003-06-15'
+      kind: effective
+  - type: appreciation
+    message: 'SC 4 expresses its appreciation to Rob Anderson for his commitment and efforts in
+
+      leading quality activities in SC 4.'
+    dates:
+    - start: '2003-06-15'
+      kind: effective
+- identifier: '577'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Officer with ISO/TC 10
+  dates:
+  - start: '2003-06-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: SC 4 Liaison Officer with ISO/TC 10
+    dates:
+    - start: '2003-06-15'
+      kind: effective
+  - type: approves
+    message: 'SC 4 approves Tatsuo Terai to serve as the Liaison Officer to ISO/TC 10 for a period
+
+      of two years and requests its Secretariat to make the appointment accordingly'
+    dates:
+    - start: '2003-06-15'
+      kind: effective
+  - type: resolves
+    message: .
+    dates:
+    - start: '2003-06-15'
+      kind: effective
+  - type: appreciation
+    message: 'SC 4 expresses its appreciation to Alain Bezos for his liaison role with ISO/TC 10
+
+      and accepts his resignation from that position.'
+    dates:
+    - start: '2003-06-15'
+      kind: effective
+- identifier: '578'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: WITH ISO/TC 211
+  dates:
+  - start: '2003-06-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: SC 4 LIAISON WITH ISO/TC 211
+    dates:
+    - start: '2003-06-15'
+      kind: effective
+  - type: resolves
+    message: 'SC 4 wishes to thank Bernd Wenzel for his liaison role with ISO/TC 211 and the
+
+      ISO/IEC Joint Spatial Group (JSG) since June 1997 and accepts his resignation from
+
+      this position'
+    dates:
+    - start: '2003-06-15'
+      kind: effective
+  - type: resolves
+    message: .
+    dates:
+    - start: '2003-06-15'
+      kind: effective
+  - type: approves
+    message: 'SC 4 approves Jerry Smith as the liaison from SC 4 to ISO/TC 211 - Geographic
+
+      Information Systems/Geomatics and the ISO/IEC Joint Steering Group on Spatial
+
+      Standardization and Related Interoperability (JSG) and requests its Secretariat to
+
+      make the appointment accordingly.'
+    dates:
+    - start: '2003-06-15'
+      kind: effective
+- identifier: '579'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: ESTABLISH LIAISON WITH ISO/IEC JTC 1/SC 31
+  dates:
+  - start: '2003-06-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: 'ESTABLISH LIAISON WITH ISO/IEC JTC 1/SC 31
+
+      In accordance with ISO/TC 184 resolution # 320, SC 4 requests its Secretariat to take
+
+      the necessary actions to implement a liaison between ISO/TC 184/SC 4 and ISO/IEC
+
+      JTC 1/SC 31 and its WG 2, and nominate Dr. King Yee (UID ad hoc chair) and Mr.
+
+      Frank Goodell (USA) as the physical liaisons.'
+    dates:
+    - start: '2003-06-15'
+      kind: effective
+- identifier: '580'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: ESTABLISHMENT OF LIAISON WITH OASIS
+  dates:
+  - start: '2003-06-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: ESTABLISHMENT OF LIAISON WITH OASIS
+    dates:
+    - start: '2003-06-15'
+      kind: effective
+  - type: requests
+    message: 'SC 4 requests its Secretariat to establish a liaison to the OASIS consortium,
+
+      nominates David Leal as the liaison officer, and requests the Secretariat to make the
+
+      appointment'
+    dates:
+    - start: '2003-06-15'
+      kind: effective
+  - type: resolves
+    message: .
+    dates:
+    - start: '2003-06-15'
+      kind: effective
+  - type: investigates
+    message: 'SC 4 invites OASIS to make a reciprocal nomination, and to invite any of its ISO/TCs
+
+      with activities in the scope of SC 4 to establish liaison arrangements.'
+    dates:
+    - start: '2003-06-15'
+      kind: effective
+- identifier: '581'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: CANCELLATION OF XI'AN MEETING
+  dates:
+  - start: '2003-06-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: CANCELLATION OF XI'AN MEETING
+    dates:
+    - start: '2003-06-15'
+      kind: effective
+  - type: endorses
+    message: 'SC 4 endorses the decision of the Chair and Secretariat to cancel the Xi''an meeting
+
+      scheduled for October 2003, due to natural events beyond the control of the
+
+      organisers, and instructs its secretariat to offer October 2005 as an alternative date'
+    dates:
+    - start: '2003-06-15'
+      kind: effective
+  - type: resolves
+    message: .
+    dates:
+    - start: '2003-06-15'
+      kind: effective
+  - type: resolves
+    message: 'SC 4 offers its best wishes for good health to the Chinese delegation, and it''s
+
+      apologies for any inconvenience caused.'
+    dates:
+    - start: '2003-06-15'
+      kind: effective
+- identifier: '582'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: HARVESTING OF ASAM ODS 5.0
+  dates:
+  - start: '2003-06-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: HARVESTING OF ASAM ODS 5.0
+    dates:
+    - start: '2003-06-15'
+      kind: effective
+  - type: creates
+    message: 'SC 4 creates an ad hoc group led by Len Slovensky to assess the proposal from
+
+      ASAM to transpose the ODS 5.0 specification into a Publicly Available Specification
+
+      (PAS)'
+    dates:
+    - start: '2003-06-15'
+      kind: effective
+  - type: resolves
+    message: .
+    dates:
+    - start: '2003-06-15'
+      kind: effective
+  - type: investigates
+    message: 'SC 4 invites WG 3, WG 11, WG 12, PPC and the Quality Committee (QC) to
+
+      nominate representatives by 2003-08-31. The ad hoc group is requested to assess
+
+      the specification and explanatory report (N1508), negotiate with ASAM on any
+
+      issues, and make a recommendation to SC 4 by 2003-09-30 on how to process the
+
+      proposal.'
+    dates:
+    - start: '2003-06-15'
+      kind: effective
+- identifier: '583'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: REGISTRATION OF SC 4 MIME-TYPES
+  dates:
+  - start: '2003-06-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: REGISTRATION OF SC 4 MIME-TYPES
+    dates:
+    - start: '2003-06-15'
+      kind: effective
+  - type: requests
+    message: 'SC 4 requests its Secretariat to register STEP Part 21 MIME-types with the Internet
+
+      IANA Registration Authority as .stp, and .step.for files according to ISO 10303
+
+      Application protocols and .p21 for general use including those according to ISO 10303,
+
+      ISO 13584 and ISO 15926'
+    dates:
+    - start: '2003-06-15'
+      kind: effective
+  - type: resolves
+    message: .
+    dates:
+    - start: '2003-06-15'
+      kind: effective
+  - type: requests
+    message: 'SC 4 requests its Secretariat to register STEP Express MIME-types with the Internet
+
+      IANA Registration Authority as .exp, and .expr.
+
+      Additionally, WG 11 is requested to amend Parts 11 and 21 to recommend the use
+
+      of these extensions in all STEP applications.'
+    dates:
+    - start: '2003-06-15'
+      kind: effective
+- identifier: '584'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: ISO/IEC GUIDE FOR COMMON USE OF PARTS LIBRARY DEFINITIONS
+  dates:
+  - start: '2003-06-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: 'ISO/IEC GUIDE FOR COMMON USE OF PARTS LIBRARY DEFINITIONS
+
+      ISO/TC 184/SC 4 strongly supports the German initiative to create an ISO/IEC Guide
+
+      for the common use of parts library definitions to encourage all IEC and ISO
+
+      committees dealing with the standardization of products to use the description and
+
+      definitions of IEC 61360 and ISO 13584 for the development of product libraries.'
+    dates:
+    - start: '2003-06-15'
+      kind: effective
+- identifier: '585'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: LIAISON BETWEEN ISO/TC 184 SC 4 WG 2 AND ISO/TC 37
+  dates:
+  - start: '2003-06-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: 'LIAISON BETWEEN ISO/TC 184 SC 4 WG 2 AND ISO/TC 37
+
+      To avoid duplication or contradictory work, SC 4  wishes to encourage ISO/TC 37 to
+
+      inform ISO/TC 184/SC 4/WG 2 about the actual status on "Basic principles of
+
+      multilingual classification for electronic commerce" and related activities'
+    dates:
+    - start: '2003-06-15'
+      kind: effective
+  - type: resolves
+    message: 'SC 4
+
+      strongly encourages ISO/TC 37 to consider adoption of the SC 4 standards as a
+
+      basis for their ongoing activities in related fields. Based on that response, ISO/TC
+
+      184/SC 4 may wish to establish a liaison with the committee within ISO/TC 37
+
+      working on that work item.
+
+      Required actions following approval of this resolution:
+
+      To submit this resolution directly to ISO/TC 37 secretariat with a request to provide
+
+      information about their results and plans and to contact ISO/TC 184/SC 4/WG 2 with
+
+      the goal to establish a liaison to identify overlapping or contradicting work
+
+      (Secretariat).'
+    dates:
+    - start: '2003-06-15'
+      kind: effective
+- identifier: '586'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: EXPRESSION OF APPRECIATION TO PROFESSOR KIMURA
+  dates:
+  - start: '2003-06-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: EXPRESSION OF APPRECIATION TO PROFESSOR KIMURA
+    dates:
+    - start: '2003-06-15'
+      kind: effective
+  - type: resolves
+    message: 'SC 4 would like to thank Professor Kimura for his significant contributions and support
+
+
+      to the SC 4 community since its inception in 1984. His untiring efforts and excellent
+
+      performance as Head of the Japan National Committee in supporting the work of the'
+    dates:
+    - start: '2003-06-15'
+      kind: effective
+  - type: resolves
+    message: SC 4 sets the high water-mark for the SC 4 community
+    dates:
+    - start: '2003-06-15'
+      kind: effective
+  - type: resolves
+    message: .
+    dates:
+    - start: '2003-06-15'
+      kind: effective
+  - type: resolves
+    message: 'SC 4 looks forward to continued cooperation with the new leader of the Japan National
+
+      Committee Mr. Ohtaka.'
+    dates:
+    - start: '2003-06-15'
+      kind: effective
+- identifier: '587'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Appreciations
+  dates:
+  - start: '2003-06-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: 'Appreciations
+
+      Acclamation:'
+    dates:
+    - start: '2003-06-15'
+      kind: effective
+  - type: appreciation
+    message: 'SC 4 expresses its deep appreciation to the team of Büro Management Mohrmann, its
+
+      Members and the staff of the Kongresshotel Europe for their efforts in organizing this
+
+      meeting, arranging the facilities, excellent food, social events, and excellent
+
+      accompanying events'
+    dates:
+    - start: '2003-06-15'
+      kind: effective
+  - type: resolves
+    message: 'SC 4 also expresses its appreciation for their hospitality and
+
+      outstanding support before, during, and after the meeting.
+
+      Acclamation:
+
+      Appreciation to our SC 4 Liaisons. We appreciate your representation to and
+
+      for ISO/TC 184/SC 4.
+
+      A special thank you to the SC 4 Liaison Plenary presenters for their insightful and
+
+      comprehensive presentations:
+
+      PDES, Inc
+
+      Tony Ranger
+
+      PLCS
+
+      Margaret Christison
+
+      OMG
+
+      Rob Bodington
+
+      ASAM
+
+      Gerald Sammer
+
+      PROSTEP
+
+      Max Ungerer
+
+      ISO/TC 29 / WG 34
+
+      Norman Swindells
+
+      FSIG
+
+      Maria José
+
+      Nunyez
+
+      IAI
+
+      Thomas Liebich
+
+      VAMAS &ISO/TC 207
+
+      Anna
+
+      Moreno PIEBASE
+
+      Paul van
+
+      Exel
+
+      MoU/MG
+
+      Howard Mason
+
+      Acclamation:'
+    dates:
+    - start: '2003-06-15'
+      kind: effective
+  - type: resolves
+    message: 'SC 4 expresses its particular thanks to Mrs Bärbel Mohrmann and her staff, Sabine
+
+
+      Ludwig, Ulrike Müller, Amaya Steinhilber and Christian Schwinge for their superior
+
+      administrative support, outstanding hospitality, and patience both before and during
+
+      the ISO/TC 184/SC 4 meeting.'
+    dates:
+    - start: '2003-06-15'
+      kind: effective

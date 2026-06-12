@@ -1,0 +1,343 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
+metadata:
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Davos, Switzerland, May 12, 1994 – May 22, 1994
+  dates:
+  - start: '1994-05-12'
+    end: '1994-05-22'
+    kind: meeting
+  source: ISO/TC 184/SC 4 Secretariat
+  venue: Davos, Switzerland
+resolutions:
+- identifier: '195'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: its Secretariat to incorporate the corrections developed in response to
+  dates:
+  - start: '1994-05-15'
+    kind: decision
+  actions:
+  - type: directs
+    message: 'SC 4 directs its Secretariat to incorporate the corrections developed in response to
+
+      ballots on Parts 1, 11, 21, 31, 41, 42, 43, 44, 46, 101, 201 and 203.
+
+      In these documents, only changes of the following nature may be included:
+
+      -
+
+      spelling corrections;
+
+      -
+
+      changes to correct English grammar;
+
+      -
+
+      changes to match ISO wording requirements;
+
+      -
+
+      changes to ensure overall consistency so long as they correspond to ballot
+
+      comments and introduce no new functionality.
+
+      Modified documents will be made available on SOLIS when the updates have been
+
+      completed, in order to allow confirmation that the agreed edits have successfully been
+
+      incorporated; this is not a reballot process;
+
+      Upon completion of the above process, SC 4 further directs its Secretariat to send the
+
+      resulting documents to Geneva, no later than 1st September 1994, for publication as
+
+      International Standards.'
+    dates:
+    - start: '1994-05-15'
+      kind: effective
+- identifier: '196'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: If any of the documents have not been received by the SC 4 Secretariat by 1
+  dates:
+  - start: '1994-05-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: 'If any of the documents have not been received by the SC 4 Secretariat by 1
+
+      September 1994, SC 4 asks its Secretariat to submit the complete Initial Release DIS
+
+      version of ISO 10303 to the ISO Central Secretariat for publication.'
+    dates:
+    - start: '1994-05-15'
+      kind: effective
+- identifier: '197'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: In reference to resolutions 78, 82, 129 and 130, SC 4 wishes to reiterate its...
+  dates:
+  - start: '1994-05-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: 'In reference to resolutions 78, 82, 129 and 130, SC 4 wishes to reiterate its concern
+
+      for the documentation of methods and procedures'
+    dates:
+    - start: '1994-05-15'
+      kind: effective
+  - type: resolves
+    message: 'SC 4 does not authorise the use
+
+      or development of methods and procedures other than those used to develop the
+
+      STEP Initial Release, until the methods and procedures for the Initial Release are
+
+      documented and accepted by PMAG and SC 4.'
+    dates:
+    - start: '1994-05-15'
+      kind: effective
+- identifier: '198'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: the WG 8 Convener and the WG 8 P1 Project Leader, to perform a
+  dates:
+  - start: '1994-05-15'
+    kind: decision
+  actions:
+  - type: directs
+    message: 'SC 4 directs the WG 8 Convener and the WG 8 P1 Project Leader, to perform a
+
+      feasibility study to demonstrate how a data modelling methodology can be used in
+
+      the EDI domain. This study will use STEP and MANDATE approaches as far as
+
+      possible. A final report is expected to be delivered during the next ISO/TC 184/SC 4
+
+      plenary meeting.'
+    dates:
+    - start: '1994-05-15'
+      kind: effective
+- identifier: '199'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: the WG 8 Convener to research with the bodies developing
+  dates:
+  - start: '1994-05-15'
+    kind: decision
+  actions:
+  - type: encourages
+    message: 'SC 4 encourages the WG 8 Convener to research with the bodies developing
+
+      EDIFACT message models, the suitable material for manufacturing management
+
+      requirements.  If it is not possible to find such material, ISO/TC 184/SC 4/WG 8
+
+      should propose a new work item for developing a standard, refining the needed
+
+      messages, preferably in accordance with the EDIFACT organisation.'
+    dates:
+    - start: '1994-05-15'
+      kind: effective
+- identifier: '200'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: its Secretariat to circulate a new work item ballot on parametrics to
+  dates:
+  - start: '1994-05-15'
+    kind: decision
+  actions:
+  - type: instructs
+    message: 'SC 4 instructs its Secretariat to circulate a new work item ballot on parametrics to
+
+      pursue the goals, activities and workplan presented in the document ISO/TC 184/SC
+
+      4/WG 3 N318.
+
+      NOTE:
+
+      include recommendation of Roberto Greening as Project Leader in
+
+      the NWI ballot papers.'
+    dates:
+    - start: '1994-05-15'
+      kind: effective
+- identifier: '201'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: PMAG to recommend a solution for the interoperability of application
+  dates:
+  - start: '1994-05-15'
+    kind: decision
+  actions:
+  - type: directs
+    message: 'SC 4 directs PMAG to recommend a solution for the interoperability of application
+
+      protocols and circulate it to P-members before the end of 1994.'
+    dates:
+    - start: '1994-05-15'
+      kind: effective
+- identifier: '202'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: AP projects for Parts 201 and 203 to deliver their respective Abstract Test
+  dates:
+  - start: '1994-05-15'
+    kind: decision
+  actions:
+  - type: directs
+    message: 'SC 4 directs AP projects for Parts 201 and 203 to deliver their respective Abstract Test
+
+      Suites as Committee Drafts as soon as possible and not later than March 1995.'
+    dates:
+    - start: '1994-05-15'
+      kind: effective
+- identifier: '203'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: PMAG to organise an expert review of the technical lessons learned
+  dates:
+  - start: '1994-05-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: 'SC 4 requests PMAG to organise an expert review of the technical lessons learned
+
+      from the Initial Release of STEP, particularly with respect to the current architecture,
+
+      methods and practices. The group shall make recommendations to SC 4 on methods
+
+      and frameworks used in the standard to support future development. The expert
+
+      group shall include, but not be limited to, one representative from each of the SC 4
+
+      working groups.'
+    dates:
+    - start: '1994-05-15'
+      kind: effective
+- identifier: '204'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: its Secretariat to organise a review of organisational issues and to
+  dates:
+  - start: '1994-05-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: 'SC 4 requests its Secretariat to organise a review of organisational issues and to
+
+      make recommendations to SC 4 at its next meeting.'
+    dates:
+    - start: '1994-05-15'
+      kind: effective
+- identifier: '205'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: the EXPRESS language (ISO 10303-11) should be flexible enough
+  dates:
+  - start: '1994-05-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: 'SC 4 affirms that the EXPRESS language (ISO 10303-11) should be flexible enough
+
+      to support the specification of data models regardless of the application area.
+
+      Requirements for the extension of EXPRESS resulting from this objective can be
+
+      brought forward from other International Standardization bodies, National Standards
+
+      bodies, and other such public agencies that develop and promulgate standards such
+
+      as industry associations.
+
+      While inputs from private organizations are welcome, no special priority is given to
+
+      their requirements.
+
+      It is recognized that requirements for the EXPRESS language that go beyond those
+
+      supporting SC 4 projects may require additional resources before resolution is
+
+      possible.'
+    dates:
+    - start: '1994-05-15'
+      kind: effective
+- identifier: '206'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: the new AP project, Plant Spatial Configuration (ISO/TC 184/SC 4
+  dates:
+  - start: '1994-05-15'
+    kind: decision
+  actions:
+  - type: approves
+    message: 'SC 4 approves the new AP project, Plant Spatial Configuration (ISO/TC 184/SC 4
+
+      PMAG N130) with the understanding that it will be closely coordinated with AP 221'
+    dates:
+    - start: '1994-05-15'
+      kind: effective
+  - type: resolves
+    message: ''
+    dates:
+    - start: '1994-05-15'
+      kind: effective
+  - type: appoints
+    message: 'SC 4 appoints Jack Skeels as Project Leader.
+
+      NOTE:
+
+      Six countries indicated their intent to actively participate in this project;
+
+      FR,
+
+      DE, JP, NL, UK & US.'
+    dates:
+    - start: '1994-05-15'
+      kind: effective
+- identifier: '207'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Dr James Fulton as liaison to ISO/IEC JTC 1/SC 7/WG 11
+  dates:
+  - start: '1994-05-15'
+    kind: decision
+  actions:
+  - type: appoints
+    message: SC 4 appoints Dr James Fulton as liaison to ISO/IEC JTC 1/SC 7/WG 11.
+    dates:
+    - start: '1994-05-15'
+      kind: effective
+- identifier: '208'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: the new AP proposal, ISO/TC 184/SC 4 PMAG N122, Ship Mechanical
+  dates:
+  - start: '1994-05-15'
+    kind: decision
+  actions:
+  - type: approves
+    message: 'SC 4 approves the new AP proposal, ISO/TC 184/SC 4 PMAG N122, Ship Mechanical
+
+      Systems Application Protocol, and names Jerry Goodwin as the Project Leader.'
+    dates:
+    - start: '1994-05-15'
+      kind: effective
+- identifier: '209'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: it’s thanks to Mr Bill Danner for his efforts as the WG 5 Convener in
+  dates:
+  - start: '1994-05-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: 'SC 4 EXPRESSes it’s thanks to Mr Bill Danner for his efforts as the WG 5 Convener in
+
+      developing the STEP Development Methods and especially for the development of the
+
+      EXPRESS language.'
+    dates:
+    - start: '1994-05-15'
+      kind: effective
+- identifier: '210'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: thank the Swiss member body for its hospitality and the excellent
+  dates:
+  - start: '1994-05-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: 'SC 4 wishes to thank the Swiss member body for its hospitality and the excellent
+
+      facilities and support at the May 1994 SC 4 and Working Group meetings in Davos.'
+    dates:
+    - start: '1994-05-15'
+      kind: effective

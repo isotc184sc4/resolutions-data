@@ -1,0 +1,230 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
+metadata:
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Sydney, Australia, March 19, 1995 – March 29, 1995
+  dates:
+  - start: '1995-03-19'
+    end: '1995-03-29'
+    kind: meeting
+  source: ISO/TC 184/SC 4 Secretariat
+  venue: Sydney, Australia
+resolutions:
+- identifier: '231'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: a Policy and Planning Committee to become the single advisory
+  dates:
+  - start: '1995-03-15'
+    kind: decision
+  actions:
+  - type: establishes
+    message: 'SC 4 establishes a Policy and Planning Committee to become the single advisory
+
+      group to assist the SC 4 Chairman, Committee, Conveners and Project Leaders:
+
+      To facilitate the smooth running of the organisation, including a leading role in conflict
+
+      resolution between WGs, monitoring progress in critical issues and ensuring effective
+
+      communication across the organisation.
+
+      To complete the development of the SC 4 Organisation Handbook by 15 July
+
+      1995.
+
+      To monitor the effectiveness of the organisation and to make recommendations
+
+      to the SC 4 chairman on improvements to the organisation and its processes
+
+      and procedures as defined in the SC 4 Organisation Handbook.
+
+      In promoting the work and results of SC 4.
+
+      In strategic and tactical planning, including resource planning
+
+      The PPC shall not only provide advice in response to formally submitted requests but
+
+      also operate meetings to address specific issues.
+
+      The PPC members shall act as "Ombudsmen", providing a focus for issues relating to
+
+      the organisation, process and procedure. PPC members shall endeavour to resolve
+
+      such issues by communicating with those involved, referring the issue to SC 4 only
+
+      when settlement is not possible.
+
+      The PPC should establish an electronic capability for virtual meetings that can be
+
+      proactive and reactive to expressed needs within two weeks.'
+    dates:
+    - start: '1995-03-15'
+      kind: effective
+- identifier: '232'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Mr
+  dates:
+  - start: '1995-03-15'
+    kind: decision
+  actions:
+  - type: appoints
+    message: 'SC 4 appoints Mr. Julian Fowler as the convener of Working Group 10, Technical
+
+      Architecture'
+    dates:
+    - start: '1995-03-15'
+      kind: effective
+- identifier: '233'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Bernd Wenzel as deputy convener for Working Group 10 on architecture
+  dates:
+  - start: '1995-03-15'
+    kind: decision
+  actions:
+  - type: appoints
+    message: SC 4 appoints Bernd Wenzel as deputy convener for Working Group 10 on architecture.
+    dates:
+    - start: '1995-03-15'
+      kind: effective
+- identifier: '234'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: For the new work item for Amendment 1 to 10303-1, SC 4 appoints Howard Mason
+  dates:
+  - start: '1995-03-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: 'For the new work item for Amendment 1 to 10303-1, SC 4 appoints Howard Mason
+
+      project leader.'
+    dates:
+    - start: '1995-03-15'
+      kind: effective
+- identifier: '235'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: For the new work item STEP Development Methods, SC 4 appoints Julian Fowler
+  dates:
+  - start: '1995-03-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: 'For the new work item STEP Development Methods, SC 4 appoints Julian Fowler
+
+      project leader and assigns this project to WG 10. The WG 5 Project 2 is transferred
+
+      to WG 10 to support this project.'
+    dates:
+    - start: '1995-03-15'
+      kind: effective
+- identifier: '236'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: For the new work item STEP Building Construction Core Model, SC 4 appoints Jeff
+  dates:
+  - start: '1995-03-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: 'For the new work item STEP Building Construction Core Model, SC 4 appoints Jeff
+
+      Wix project leader and assigns this project to WG 3.'
+    dates:
+    - start: '1995-03-15'
+      kind: effective
+- identifier: '237'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: For the new work item Building Services, Heating, Ventilation and AC, SC 4 ap...
+  dates:
+  - start: '1995-03-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: 'For the new work item Building Services, Heating, Ventilation and AC, SC 4 appoints
+
+      Patrice Poyet project leader and assigns this project to WG 3.'
+    dates:
+    - start: '1995-03-15'
+      kind: effective
+- identifier: '238'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: For the new work item Building Structural Frame, SC 4 appoints Alistair Watson
+  dates:
+  - start: '1995-03-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: 'For the new work item Building Structural Frame, SC 4 appoints Alistair Watson
+
+      project leader and assigns this project to WG 3.'
+    dates:
+    - start: '1995-03-15'
+      kind: effective
+- identifier: '239'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: its parent committee to revise the title of ISO/TC 184/SC 4 from
+  dates:
+  - start: '1995-03-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: 'SC 4 requests its parent committee to revise the title of ISO/TC 184/SC 4 from
+
+      Industrial Data and Global Manufacturing Programming Languages to Industrial Data.'
+    dates:
+    - start: '1995-03-15'
+      kind: effective
+- identifier: '241'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: its desire to establish a Category A liaison with ISO/TC 211 on
+  dates:
+  - start: '1995-03-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: 'SC 4 expresses its desire to establish a Category A liaison with ISO/TC 211 on
+
+      Geographic Information Systems and appoints Barbara Warthen as that liaison to
+
+
+      actively manage information flow between the two committees.'
+    dates:
+    - start: '1995-03-15'
+      kind: effective
+- identifier: '242'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: its desire to establish a Category A liaison with EPISTLE
+  dates:
+  - start: '1995-03-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: SC 4 expresses its desire to establish a Category A liaison with EPISTLE.
+    dates:
+    - start: '1995-03-15'
+      kind: effective
+- identifier: '243'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: give its unanimous thanks to John Mitchell, and to the following
+  dates:
+  - start: '1995-03-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: 'SC 4 wishes to give its unanimous thanks to John Mitchell, and to the following
+
+      members of Standards Australia: Brigitte Catteau, David Bruce-Steer, Rhonda
+
+      Putman, Rosie Sabadina, Betty Titcombe, Linda Young, Cheryl O''Neill and Katalin
+
+      Veres, for the wonderful staff support and the excellent meeting facilities'
+    dates:
+    - start: '1995-03-15'
+      kind: effective
+  - type: resolves
+    message: 'SC 4
+
+      members both at the meeting and from various countries on the Internet also wish to
+
+      thank Dick Wittenoom from AusSTEP Consultants for providing computer support
+
+      and SC 4''s first use of meeting Web pages.'
+    dates:
+    - start: '1995-03-15'
+      kind: effective

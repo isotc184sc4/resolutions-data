@@ -1,0 +1,579 @@
+metadata:
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Fukuoka, Japan, September 30, 2001 – October 5, 2001
+  dates:
+  - start: '2001-09-30'
+    end: '2001-10-05'
+    kind: meeting
+  source: ISO/TC 184/SC 4 Secretariat
+  venue: Fukuoka, Japan
+resolutions:
+- identifier: '509'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Leadership and Editorship Approvals
+  dates:
+  - start: '2001-10-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: SC 4 Project Leadership and Editorship Approvals
+    dates:
+    - start: '2001-10-15'
+      kind: effective
+  - type: approves
+    message: SC 4 approves the following new project leaders or project editors for the associated
+    dates:
+    - start: '2001-10-15'
+      kind: effective
+  - type: resolves
+    message: 'SC 4 projects:
+
+      Project
+
+      Project Leader
+
+      Editor
+
+      20542 Systems Engineering PAS Jim U''ren'
+    dates:
+    - start: '2001-10-15'
+      kind: effective
+- identifier: '510'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Project Planning Requirements
+  dates:
+  - start: '2001-10-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Project Planning Requirements
+    dates:
+    - start: '2001-10-15'
+      kind: effective
+  - type: sends
+    message: 'SC 4 amends clause 2.3 of the Organization Handbook to define the NWI
+
+      requirements
+
+      for an accompanying work plan as follows:
+
+      "The NWI shall contain a work plan identifying target dates for the following events,'
+    dates:
+    - start: '2001-10-15'
+      kind: effective
+  - type: resolves
+    message: 'noting the suggested elapsed times from NWI approval:
+
+      ISO Stage
+
+      Milestone
+
+      Normal time from NWI
+
+      20.20
+
+      First working draft available on SOLIS
+
+      +12 months
+
+      30.20
+
+      CD/TR/TS ballot initiated by SC 4 Secretariat
+
+      +18 months
+
+
+      40.00
+
+      DIS document accepted for ballot by ISO
+
+      +28 months
+
+      50.00
+
+      FDIS ballot registered for formal approval (if
+
+      FDIS required)
+
+      +36 months
+
+      60.00
+
+      Final text accepted for publication by ISO
+
+      +40 months
+
+      The originator of the NWI shall nominate a Project Leader."'
+    dates:
+    - start: '2001-10-15'
+      kind: effective
+- identifier: '511'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Harvesting of IAI IFC2x
+  dates:
+  - start: '2001-10-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Harvesting of IAI IFC2x
+    dates:
+    - start: '2001-10-15'
+      kind: effective
+  - type: creates
+    message: 'SC 4 creates an ad hoc group to assess the proposal from the IAI to transpose the
+
+      IFC2x platform into a Publicly Available Specification (PAS)'
+    dates:
+    - start: '2001-10-15'
+      kind: effective
+  - type: resolves
+    message: .
+    dates:
+    - start: '2001-10-15'
+      kind: effective
+  - type: investigates
+    message: 'SC 4 invites WG 3, WG 10, WG 11, WG 12, PPC and the Quality Committee (QC)
+
+      to nominate representatives by 2001-10-30. The ad hoc group is requested to
+
+      assess the specification and explanatory report (N1211), negotiate with IAI on any
+
+      issues, and make a recommendation to SC 4 by 2002-01-15 on how to process
+
+      the proposal.'
+    dates:
+    - start: '2001-10-15'
+      kind: effective
+- identifier: '512'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Harvesting of ATA Spec2000 Chapter 9, Bar Coding
+  dates:
+  - start: '2001-10-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Harvesting of ATA Spec2000 Chapter 9, Bar Coding
+    dates:
+    - start: '2001-10-15'
+      kind: effective
+  - type: creates
+    message: 'SC 4 creates an ad hoc group to assess the proposal from the ATA to transpose
+
+      the ATA Spec 2000 Chapter 9, Bar Coding, into an International Standard (IS)'
+    dates:
+    - start: '2001-10-15'
+      kind: effective
+  - type: resolves
+    message: .
+    dates:
+    - start: '2001-10-15'
+      kind: effective
+  - type: appoints
+    message: 'SC 4 appoints King Yee as the Convener of the group and invites WG 3, WG 12,
+
+      PPC and the Quality Committee (QC) to nominate representatives by 2001-10-30.
+
+      The ad hoc group is requested to assess the specification and explanatory report
+
+      (N1212),
+
+      negotiate with ATA on any issues, and make a recommendation to SC 4 by 2002-01-15
+
+      on how to process the proposal.'
+    dates:
+    - start: '2001-10-15'
+      kind: effective
+- identifier: '513'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Reappointment of Matthew West as WG 10 Deputy Convener
+  dates:
+  - start: '2001-10-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Reappointment of Matthew West as WG 10 Deputy Convener
+    dates:
+    - start: '2001-10-15'
+      kind: effective
+  - type: appoints
+    message: 'SC 4 appoints Matthew West as Deputy Convenor of WG 10 to serve for a period of
+
+      three years.'
+    dates:
+    - start: '2001-10-15'
+      kind: effective
+- identifier: '514'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: )
+  dates:
+  - start: '2001-10-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: ')
+
+
+      AP227ed2 Ballot Period'
+    dates:
+    - start: '2001-10-15'
+      kind: effective
+  - type: resolves
+    message: 'SC 4 authorizes AP227 to use a three-month ballot cycle for the initial CD ballot of
+
+      second and subsequent editions of the part.'
+    dates:
+    - start: '2001-10-15'
+      kind: effective
+- identifier: '515'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: AP Module Referencing
+  dates:
+  - start: '2001-10-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: AP Module Referencing
+    dates:
+    - start: '2001-10-15'
+      kind: effective
+  - type: directs
+    message: 'SC 4 directs WG 10, in cooperation with WG 3, JWG 9, WG 11, WG 12, and the
+
+      Implementors Forum, to  assess the feasibility of allowing Application Modules to
+
+      accurately and unambiguously reference content from IS Application Protocols rather
+
+      than re-working the AP content, to identify and resolve any issues arising from this
+
+      process, and to identify the changes required to the following documents:
+
+       Guidelines for the contents of Application Modules
+
+       Application Module development points within AP development process
+
+       Guidelines for the contents of APs that use Application Modules
+
+      The work should address issues related to configuration management and the context,
+
+      constraints, and rules associated with reference elements'
+    dates:
+    - start: '2001-10-15'
+      kind: effective
+  - type: resolves
+    message: .
+    dates:
+    - start: '2001-10-15'
+      kind: effective
+  - type: investigates
+    message: 'SC 4 invites its member bodies to nominate appropriate resources to WG 10 to
+
+      accomplish the task. WG 10 is invited to report on this issue at the February 2002
+
+      meeting.'
+    dates:
+    - start: '2001-10-15'
+      kind: effective
+- identifier: '516'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Publication of SC 4 Standards in HTML
+  dates:
+  - start: '2001-10-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Publication of SC 4 Standards in HTML
+    dates:
+    - start: '2001-10-15'
+      kind: effective
+  - type: resolves
+    message: 'SC 4 cancels Resolution 436 and establishes the following policy with regard to
+
+      publication of standards in HTML'
+    dates:
+    - start: '2001-10-15'
+      kind: effective
+  - type: resolves
+    message: .
+    dates:
+    - start: '2001-10-15'
+      kind: effective
+  - type: resolves
+    message: 'SC 4 resolves to allow SC 4 projects to enter any stage ballot with drafts documented
+
+      using HTML. It is the responsibility of the Project Leader to ensure that any
+
+      documents entering Stage 4 or higher are in a form acceptable to the ISO Central
+
+      Secretariat. The provisions of Resolution 395 with respect to the use of guideline
+
+      development by the WG 10 STEP Modularization PWI remain in effect'
+    dates:
+    - start: '2001-10-15'
+      kind: effective
+  - type: resolves
+    message: .
+    dates:
+    - start: '2001-10-15'
+      kind: effective
+  - type: instructs
+    message: 'SC 4 instructs the Quality Committee to develop guidelines for the use of HTML for
+
+      publication of documents, with reference to guidance provided by ISO CS and the
+
+
+      ITSIG "Guide for the use of IT in the development and delivery of standards".'
+    dates:
+    - start: '2001-10-15'
+      kind: effective
+- identifier: '517'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Harmonization of ISO 10303-219 and ISO 22093 (DMIS)
+  dates:
+  - start: '2001-10-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Harmonization of ISO 10303-219 and ISO 22093 (DMIS)
+    dates:
+    - start: '2001-10-15'
+      kind: effective
+  - type: resolves
+    message: 'SC 4 respectfully urges its members to coordinate their national experts on ISO
+
+      10303- 219, ISO 10303-238, and other relevant STEP APs and ISO 22093 in order to
+
+      avoid inconsistencies between these ISO/TC 184 standards.'
+    dates:
+    - start: '2001-10-15'
+      kind: effective
+- identifier: '518'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Conformance testing of XML implementations
+  dates:
+  - start: '2001-10-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: 'Conformance testing of XML implementations
+
+      Following the completion of ISO 10303-28 edition 1, SC 4 asks WG 11 to establish the
+
+      requirements for conformance testing of XML implementations of STEP conforming to
+
+      ISO 10303-28 editions 1 and 2.
+
+      WG 11 is requested to prepare an NWI proposal and national bodies are invited to
+
+      nominate appropriate resources.'
+    dates:
+    - start: '2001-10-15'
+      kind: effective
+- identifier: '519'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: ISA SP95 – Enterprise Control Integration
+  dates:
+  - start: '2001-10-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: ISA SP95 – Enterprise Control Integration
+    dates:
+    - start: '2001-10-15'
+      kind: effective
+  - type: resolves
+    message: 'SC 4 respectfully urges its members to review carefully IEC 62264-1, 2 and 3 against
+
+      the work of SC 4 and send their comments to Secretariat of ISO/TC 184.'
+    dates:
+    - start: '2001-10-15'
+      kind: effective
+- identifier: '520'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Resolution from Integrated Manufacturing Task Force
+  dates:
+  - start: '2001-10-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Resolution from Integrated Manufacturing Task Force
+    dates:
+    - start: '2001-10-15'
+      kind: effective
+  - type: asks
+    message: 'SC 4 asks its secretariat to circulate the report of the Task Force on Integrated
+
+      Manufacturing (N1214-N1216) to P-members, O-members, and Liaisons for
+
+      comments and proposals for further requirements for manufacturing tasks.
+
+      Responses should be received by the Secretariat not later than 2002-01-15.
+
+      The Final Report of Task Force on Integrated Manufacturing should contain specific
+
+      recommendations for any new work required in SC 4 or other Committees.'
+    dates:
+    - start: '2001-10-15'
+      kind: effective
+- identifier: '521'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Review of Impact of Express Edition 2
+  dates:
+  - start: '2001-10-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Review of Impact of Express Edition 2
+    dates:
+    - start: '2001-10-15'
+      kind: effective
+  - type: notes
+    message: 'SC 4 notes the review of the new Edition of Part 11 (WG 11N179) undertaken by WG
+
+      11 members at the Fukuoka meeting, and requests WG 11 to circulate WG 11N179
+
+
+      to the full membership of the Working Group and to the Implementors for further
+
+      review'
+    dates:
+    - start: '2001-10-15'
+      kind: effective
+  - type: resolves
+    message: .
+    dates:
+    - start: '2001-10-15'
+      kind: effective
+  - type: requests
+    message: SC 4 requests its Secretariat to circulate WG 11N179 to P-members for information in
+    dates:
+    - start: '2001-10-15'
+      kind: effective
+  - type: resolves
+    message: considering their responses to the DIS ballot on ISO 10303-11 Edition 2
+    dates:
+    - start: '2001-10-15'
+      kind: effective
+  - type: resolves
+    message: .
+    dates:
+    - start: '2001-10-15'
+      kind: effective
+  - type: directs
+    message: 'SC 4 directs WG 11 to prepare a proposal for the implementation of the necessary
+
+      changes to the 10303-2x series parts and 10303-14, in consultation with affected
+
+      Working Groups, for consideration at the February 2002 SC 4 meeting.  This should
+
+      include estimates of timescales and resource requirements.'
+    dates:
+    - start: '2001-10-15'
+      kind: effective
+- identifier: '522'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Appreciations
+  dates:
+  - start: '2001-10-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Appreciations
+    dates:
+    - start: '2001-10-15'
+      kind: effective
+- identifier: 522-acclamation-1
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  dates:
+  - start: '2001-10-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: 'SC 4 expresses its deep appreciation to the Electronic Commerce Promotion Council
+
+      of Japan (ECOM) and the staff of the Grand Hyatt Fukuoka for their efforts in
+
+      organizing this meeting, arranging the facilities, excellent food, and social events.  SC
+
+      4 also
+
+      expresses its appreciation for their hospitality and outstanding support before, during,
+
+      and after the meeting.
+
+      SC 4 addresses a special recognition to the staff and associates of ECOM, Mr.
+
+      Hotsuma Miyakawa, Director of ECOM, Ms. Tomoko Fukugawa, Chief,
+
+      International Policy Planning and Research Division, Kyushu Bureau of the Ministry
+
+      of Economy, Trade and Industry (METI); Mr. Takashi Inouye, Mr. Yoshitaka
+
+      Terakado, Ms. Chie Kouchi, Mr. Masahiko Chida, and Ms. Hiroko Tawara for their
+
+      hospitality and outstanding support both before and during the ISO/TC 184/SC 4
+
+      meeting.'
+    dates:
+    - start: '2001-10-15'
+      kind: decision
+- identifier: 522-acclamation-2
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  dates:
+  - start: '2001-10-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: 'SC 4 expresses its deep appreciation to Mr. Julian Fowler for his untiring efforts as
+
+      Deputy Coordinator of the Quality Committee. It is with great regret that SC 4 accepts
+
+      his resignation and his announcement of reduced contributions to the SC 4 world.
+
+      Julian has been a major pillar to the organization since its earliest days, and his
+
+      contributions in developing consensus and convergence has always been valued. His
+
+      willingness to take on unpopular, but essential tasks, has been exemplary, and the
+
+      challenge of finding a replacement will not be trivial.
+
+
+      SC 4 wishes him well in his new role!'
+    dates:
+    - start: '2001-10-15'
+      kind: decision
+- identifier: 522-acclamation-3
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  dates:
+  - start: '2001-10-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: 'SC 4 expresses its deep appreciation to Mr. Christophe Viel for his efforts as WG 11
+
+      Convenor, his many project and technical contributions, and wishes him all the best for
+
+      his future. His innovative and creative leadership was greatly appreciated'
+    dates:
+    - start: '2001-10-15'
+      kind: decision
+- identifier: 522-acclamation-4
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  dates:
+  - start: '2001-10-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: 'SC 4 expresses its sincere thanks to Chris Kreiler for his untiring efforts and excellent
+
+      performance as acting Secretary before and during the meeting, in the absence of the
+
+      regular secretariat.
+
+      SC 4 also thanks Ms Allison Barnard-Feeney for her support of the Secretariat from
+
+      NIST both before and during the meeting.
+
+      SC 4 sends its good wishes to Teresa Brittingham for a rapid recovery.'
+    dates:
+    - start: '2001-10-15'
+      kind: decision

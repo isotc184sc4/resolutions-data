@@ -1,0 +1,820 @@
+metadata:
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Melbourne, Australia, February 14, 2000 – February 18, 2000
+  dates:
+  - start: '2000-02-14'
+    end: '2000-02-18'
+    kind: meeting
+  source: ISO/TC 184/SC 4 Secretariat
+  venue: Melbourne, Australia
+resolutions:
+- identifier: '440'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Project Leader/Editor Changes
+  dates:
+  - start: '2000-02-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Project Leader/Editor Changes
+    dates:
+    - start: '2000-02-15'
+      kind: effective
+  - type: approves
+    message: SC 4 approves the following new project leaders or project editors for the associated
+    dates:
+    - start: '2000-02-15'
+      kind: effective
+  - type: resolves
+    message: 'SC 4 projects:
+
+      ISO Project
+
+      Project Lead
+
+      Document Editor
+
+      10303-108
+
+      Mike Pratt
+
+      10303-28
+
+      Peter Bergstrom
+
+      Robin
+
+      Lafontaine 10303-215
+
+      Tim
+
+
+      Turner
+
+      10303-216
+
+      Tim Turner
+
+      Tim Turner
+
+      10303-218
+
+      Len Slovensky
+
+      10303-318
+
+      Yong Dae Kim
+
+      Yong Dae Kim
+
+      10303-234
+
+      Stian Ruud
+
+      Jochen Haenisch
+
+      10303-334
+
+      Stian Ruud
+
+      Jochen
+
+      Haenisch 10303-14 Martin Hardwick
+
+      Peter Denno
+
+      10303-11: amd
+
+      Phil Spiby
+
+      Phil Spiby
+
+      10303 11: Ed 2
+
+      Phil Spiby
+
+      Don Sanderson
+
+      10303-21: amd ed 2:
+
+      David Loffredo
+
+      David
+
+      Loffredo 10303-24 David Price
+
+      David Price
+
+      10303-27
+
+      Lothar Klein
+
+      Lothar Klein
+
+      10303-29
+
+      Tom Rando
+
+      Tom Rando
+
+      10303-34
+
+      Chritophe Viel
+
+      Bob
+
+      Mathews 10303-35 Lothar Klein
+
+      Lothar Klein
+
+      10303-223
+
+      Gerald Radack
+
+      10303-323
+
+      Gerald Radack
+
+      10303-229 (PWI)
+
+      Gerald Radack
+
+      10303-329 (PWI)
+
+      Gerald Radack
+
+      10303-321
+
+      Andries van Renssen
+
+      David
+
+      Leal'
+    dates:
+    - start: '2000-02-15'
+      kind: effective
+- identifier: '441'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Cancellation of AP230 and ATS 330
+  dates:
+  - start: '2000-02-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Cancellation of AP230 and ATS 330
+    dates:
+    - start: '2000-02-15'
+      kind: effective
+  - type: resolves
+    message: 'SC 4 resolves to cancel AP230 and its associated ATS 330- Building Structural
+
+      Frame: Steelwork.'
+    dates:
+    - start: '2000-02-15'
+      kind: effective
+- identifier: '442'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Clarification of the SEDS process
+  dates:
+  - start: '2000-02-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Clarification of the SEDS process
+    dates:
+    - start: '2000-02-15'
+      kind: effective
+  - type: directs
+    message: 'SC 4 directs its Secretariat to make the following changes to the SC 4 Handbook.
+
+      Add the following to the first sentence of 3.3 (added text italicized):
+
+      … the use of the SC 4 Standards and Standing Documents, and to gather requirements
+
+      and proposals for enhancements to future editions, the Standard Enhancement and
+
+
+      Discrepancy System (SEDS) tracking system has …
+
+      Add the following paragraph after the bullet list in 3.3.1:
+
+      Any issues submitted during the ISO ballot process that are classified as “deferred”
+
+      during the ballot resolution process are transferred into the SEDS process by the
+
+      responsible Project Leader and/or Convener. This procedure ensures that all relevant
+
+      issues are considered when amendments or new editions are being proposed or
+
+      developed. All issues transferred from ballots are assigned priority 0 or priority 1, as
+
+      defined in 3.3.3.2 below.
+
+      In the first bullet point of 3.3.2, correct the spelling of “ensure”.'
+    dates:
+    - start: '2000-02-15'
+      kind: effective
+- identifier: '443'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Revisions to the operation of the Quality Committee
+  dates:
+  - start: '2000-02-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Revisions to the operation of the Quality Committee
+    dates:
+    - start: '2000-02-15'
+      kind: effective
+  - type: directs
+    message: 'SC 4 directs its Secretariat to make the following changes to the SC 4 Handbook (SC
+
+      4 N935).
+
+      replace 6.3.1 by the following:
+
+      6.3.1 Tasks
+
+      The Quality Committee performs the following tasks and activities.
+
+      Conducting periodic reviews of the SC 4 Quality System with Working Group
+
+      Conveners;
+
+      Coordinating tasks that revise or extend the components of the SC 4 Quality System, in
+
+      response to the needs of SC 4 projects, issues (including those raised through the
+
+      SEDS process), and the requirements of the ISO Technical Management Board and
+
+      Central Secretariat;
+
+      Liaising with the SC 4 Secretariat and the ISO Central Secretariat on matters related
+
+      to quality;
+
+      Coordinating audits of SC 4 projects;
+
+      Establishing and implementing a formal process for collecting quality related issues
+
+      that fall outside the scope of the SEDS process;
+
+      Managing the assignment of and ensuring closure for resolutions of any issue; and
+
+
+      Providing revisions to the SC 4 Organization Handbook related to quality matters.
+
+      The Quality Committee’s coordination tasks are primarily undertaken using electronic
+
+      communications and at QC Plenary meetings held as part of the main SC 4 Working
+
+      Group meetings. Additional task-related meetings and workshops are arranged as
+
+      required.
+
+      replace 6.3.2 by the following:
+
+      6.3.2 The Coordinator
+
+      The Coordinator of the Quality Committee is appointed by SC 4. The Coordinator is
+
+      responsible for the following tasks.
+
+      Receiving and logging requests for creation or revision of documents that comprise'
+    dates:
+    - start: '2000-02-15'
+      kind: effective
+  - type: resolves
+    message: 'the SC 4 Quality System.
+
+      Requesting resources to work on QC tasks from SC 4 projects and P-members; the
+
+      Coordinator works with the PPC, SC 4 Chair and SC 4 Secretariat to encourage
+
+      projects, P-members and A-liaisons to provide resources to undertake the tasks.
+
+      Ensuring consistency amongst the documents that comprise the SC 4 Quality System.
+
+      Coordinating audits of SC 4 projects.
+
+      Reporting QC activities to SC 4.
+
+      Convening QC plenary meetings.
+
+      Scheduling and facilitating technical meetings and workshops as required.
+
+      A Deputy Coordinator is appointed by SC 4 to assist the Coordinator. The Coordinator
+
+      and Deputy Coordinator agree to and document their individual responsibilities. If the
+
+      Coordinator is unable to attend a particular meeting of SC 4, the Deputy Coordinator
+
+      will fulfil the Coordinator’s responsibilities at that meeting.
+
+      Assessment of the performance of the Coordinator / Deputy Coordinator is the
+
+      responsibility of SC 4. Input on the performance may be provided by the SC 4 Chair
+
+      and the SC 4 Secretariat and assisted by the PPC.
+
+      The Coordinator / Deputy Coordinator must have resources to travel to at least three
+
+
+      meetings of SC 4 and its Working Groups each year; access to electronic mail; good
+
+      communication skills, knowledge of the English language, and technical writing
+
+      abilities; knowledge of ISO standards processes and procedures; quality systems
+
+      (ISO 9000), and familiarity with the domains of SC 4''s standardization efforts.
+
+      replace 6.3.3 by the following:
+
+      6.3.3 The Membership
+
+      The P-Members and A-Liaisons of SC 4 nominate the members of the Quality
+
+      Committee'
+    dates:
+    - start: '2000-02-15'
+      kind: effective
+  - type: resolves
+    message: 'The SC 4 Secretariat maintains a list of members of the Quality
+
+      Committee (names and addresses, project affiliation, fax, phone and e-mail).
+
+      Additional resources participate in the work of the Quality Committee on a task-by-
+
+      task basis; these resources are provided by SC 4 Projects, P-members, and A-
+
+      liaisons.
+
+      Delete 6.4'
+    dates:
+    - start: '2000-02-15'
+      kind: effective
+  - type: resolves
+    message: .
+    dates:
+    - start: '2000-02-15'
+      kind: effective
+  - type: resolves
+    message: 'SC 4 also directs the Quality Committee to ensure that the SC 4 Quality Manual is
+
+      consistent with the revised description of the QC’s mode of operation as described
+
+      above.'
+    dates:
+    - start: '2000-02-15'
+      kind: effective
+- identifier: '444'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Appointment of QC Coordinator and Deputy Coordinator
+  dates:
+  - start: '2000-02-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Appointment of QC Coordinator and Deputy Coordinator
+    dates:
+    - start: '2000-02-15'
+      kind: effective
+  - type: appoints
+    message: 'SC 4 appoints Tom Warren as Coordinator of the Quality Committee, and Julian
+
+      Fowler as Deputy Coordinator of the Quality Committee.'
+    dates:
+    - start: '2000-02-15'
+      kind: effective
+- identifier: '445'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: UML
+  dates:
+  - start: '2000-02-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: UML
+    dates:
+    - start: '2000-02-15'
+      kind: effective
+  - type: encourages
+    message: 'SC 4 encourages OMG to accept interoperability between UML and EXPRESS
+
+      (ISO 10303-11) as a mandatory requirement in the UML 2.0 development effort'
+    dates:
+    - start: '2000-02-15'
+      kind: effective
+  - type: resolves
+    message: .
+    dates:
+    - start: '2000-02-15'
+      kind: effective
+  - type: directs
+    message: 'SC 4 directs its WGs 10 and 11 to work closely with OMG, especially the UML 2.0 WG
+
+      in OMG’s  Analysis and Design PTF, in support of this goal'
+    dates:
+    - start: '2000-02-15'
+      kind: effective
+  - type: resolves
+    message: .
+    dates:
+    - start: '2000-02-15'
+      kind: effective
+  - type: asks
+    message: 'SC 4 asks its member bodies and liaison organisations to support these efforts
+
+      adequately in OMG through their member companies and organisations.'
+    dates:
+    - start: '2000-02-15'
+      kind: effective
+- identifier: '446'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Appreciation Change of Project Leader for ISO 10303-28
+  dates:
+  - start: '2000-02-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Appreciation Change of Project Leader for ISO 10303-28
+    dates:
+    - start: '2000-02-15'
+      kind: effective
+  - type: thanks
+    message: 'SC 4 thanks Nigel Shaw and Daniel Rivers-Moore for their effort as project leader
+
+      under WG 11.'
+    dates:
+    - start: '2000-02-15'
+      kind: effective
+- identifier: '447'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Title Change for ISO 10303-28
+  dates:
+  - start: '2000-02-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Title Change for ISO 10303-28
+    dates:
+    - start: '2000-02-15'
+      kind: effective
+  - type: accepts
+    message: 'SC 4 accepts the recommendation of WG 11 to change the title of ISO 10303-28 to:
+
+      Product data representation and exchange: Implementation methods: XML
+
+      representation of EXPRESS schemas and data.'
+    dates:
+    - start: '2000-02-15'
+      kind: effective
+- identifier: '448'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Rationalization of SC 4 Liaisons
+  dates:
+  - start: '2000-02-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Rationalization of SC 4 Liaisons
+    dates:
+    - start: '2000-02-15'
+      kind: effective
+  - type: notes
+    message: 'SC 4 notes that a number of its liaisons are inactive, due to evolving requirements
+
+      and changes in other organizations, and resolves to terminate its direct liaisons with
+
+      the following organisations:
+
+      CAM-I
+
+      UN/ECE
+
+      ISO/IEC JTC 1 SC 24
+
+      ISO/IEC JTC 1/SC 14
+
+      ISO/IEC JTC 1/SC 21/WG 3
+
+      ISO/IEC JTC 1/SC 21/WG 3/CSMF
+
+      ISO/IEC JTC 1/SC 6
+
+      ISO/IEC JTC 1/SC 7
+
+      ISO/IEC JTC 1/SC 7/WG
+
+      11 ISO/IEC JTC 1/WG 4'
+    dates:
+    - start: '2000-02-15'
+      kind: effective
+  - type: notes
+    message: 'SC 4 notes the importance of its relation with UN/CEFACT which will be continued
+
+      as part of participation in the MoU management group for electronic business.'
+    dates:
+    - start: '2000-02-15'
+      kind: effective
+- identifier: '449'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Balloting procedures for Technical Specifications
+  dates:
+  - start: '2000-02-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Balloting procedures for Technical Specifications
+    dates:
+    - start: '2000-02-15'
+      kind: effective
+  - type: requests
+    message: 'SC 4 requests its secretariat to amend the Organisation Handbook as follows:
+
+      Amend Clause 2.3 to add reference to Technical Specifications "…… (CD) or
+
+      Preliminary Draft Technical Specification (PDTS), (2)…..
+
+      Amend Clause 2.4 by replacing the reference to "CD" by "ballot"
+
+      Amend Clause 2.5 by replacing all references to "CD ballot" by
+
+      "ballot"'
+    dates:
+    - start: '2000-02-15'
+      kind: effective
+  - type: resolves
+    message: .
+    dates:
+    - start: '2000-02-15'
+      kind: effective
+  - type: resolves
+    message: 'SC 4 also requests its secretariat to make any corresponding changes to the
+
+      standardisation process summary on the SC 4 web site.'
+    dates:
+    - start: '2000-02-15'
+      kind: effective
+- identifier: '450'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Recognition of Sophie Clivio services to SC 4
+  dates:
+  - start: '2000-02-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Recognition of Sophie Clivio services to SC 4
+    dates:
+    - start: '2000-02-15'
+      kind: effective
+  - type: resolves
+    message: .
+    dates:
+    - start: '2000-02-15'
+      kind: effective
+  - type: recognizes
+    message: 'SC 4 recognizes the excellence of the support and advice of Mrs. Sophie Clivio in the
+
+      interpretation and explanation of the ISO Directives and the many TMB decisions
+
+      complementing the Directives'
+    dates:
+    - start: '2000-02-15'
+      kind: effective
+  - type: resolves
+    message: .
+    dates:
+    - start: '2000-02-15'
+      kind: effective
+  - type: recommends
+    message: 'SC 4 recommends the ISO/CS to publish a new edition of the ISO Directives Parts 1
+
+      and 3 incorporating the various ISO/TMB decisions, in order to facilitate the access to
+
+      the rules governing the Committee work.'
+    dates:
+    - start: '2000-02-15'
+      kind: effective
+  - type: thanks
+    message: 'SC 4 thanks the ISO/CEO for the nomination of Mrs. Sophie Clivio as Technical
+
+      Officer for ISO/TC 184 and ISO/TC 184/SC 4'
+    dates:
+    - start: '2000-02-15'
+      kind: effective
+- identifier: '451'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Establish Liaison with ISO/TC 207/SC 5
+  dates:
+  - start: '2000-02-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Establish Liaison with ISO/TC 207/SC 5
+    dates:
+    - start: '2000-02-15'
+      kind: effective
+  - type: accepts
+    message: 'SC 4 accepts the request from ISO/TC 207/SC 5 to establish a liaison and appoints
+
+      Dr. Anna Moreno as the liaison officer from SC 4 to ISO/TC 207/SC 5.'
+    dates:
+    - start: '2000-02-15'
+      kind: effective
+- identifier: '452'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Establish Liaison with VAMAS
+  dates:
+  - start: '2000-02-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Establish Liaison with VAMAS
+    dates:
+    - start: '2000-02-15'
+      kind: effective
+  - type: requests
+    message: 'SC 4 requests the Versailles Project on Advanced Materials and Standards (VAMAS) to
+
+      establish a Category A liaison with SC 4, directed particularly at Technical Working
+
+      Area (TWA) 10'
+    dates:
+    - start: '2000-02-15'
+      kind: effective
+  - type: appoints
+    message: 'SC 4 appoints Dr. Anna Moreno as the liaison officer from SC 4 to
+
+      VAMAS.'
+    dates:
+    - start: '2000-02-15'
+      kind: effective
+- identifier: '453'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: ISO/TC 184/SC 4 QC Resolution Paper
+  dates:
+  - start: '2000-02-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: ISO/TC 184/SC 4 QC Resolution Paper
+    dates:
+    - start: '2000-02-15'
+      kind: effective
+  - type: resolves
+    message: 'SC 4 resolves to accept the amendments to the SC 4 Organization Handbook
+
+
+      as defined in SC 4 QC N123, with immediate effect.'
+    dates:
+    - start: '2000-02-15'
+      kind: effective
+- identifier: '454'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Cooperation Between SC 4 and Object Management Group (OMG)
+  dates:
+  - start: '2000-02-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Cooperation Between SC 4 and Object Management Group (OMG)
+    dates:
+    - start: '2000-02-15'
+      kind: effective
+  - type: resolves
+    message: 'The SC 4 Secretariat has received a communication from the Object Management
+
+      Group (OMG) concerning mutual interest and potential cooperative activities'
+    dates:
+    - start: '2000-02-15'
+      kind: effective
+  - type: resolves
+    message: 'SC 4
+
+      fully supports and looks forward to working with the OMG organization to achieve
+
+      mutual benefits in the development, balloting, and accreditation of appropriate
+
+      specifications which qualify as ISO deliverables.'
+    dates:
+    - start: '2000-02-15'
+      kind: effective
+- identifier: '455'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Appreciation Resolutions
+  dates:
+  - start: '2000-02-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Appreciation Resolutions
+    dates:
+    - start: '2000-02-15'
+      kind: effective
+  - type: appreciation
+    message: 'SC 4 expresses its appreciation to Ms. Nicole Watkinson, Director of Manufacturing
+
+      Industry, Victoria, in the Department of Industry and Regional Development,
+
+      speaking on behalf of the Victorian Minister for Manufacturing and Industry, for her
+
+      welcoming remarks and expressions of support for the work of SC 4.'
+    dates:
+    - start: '2000-02-15'
+      kind: effective
+- identifier: 455-acclamation-1
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  dates:
+  - start: '2000-02-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: 'SC 4 expresses its appreciation to its meeting host, Standards Authority of Australia
+
+      (SAA), for the excellent meeting facilities, good food, and superb desserts as well as
+
+      the wonderful banquet on Tuesday evening.  SC 4 also expresses its appreciation to
+
+      Mr.
+
+      David Bruce-Steer, Belinda Sparks, Sylvia Minton, Liam Wallwork and Helen Gomes
+
+      for their hospitality and outstanding support both before and during the meeting.'
+    dates:
+    - start: '2000-02-15'
+      kind: decision
+- identifier: 455-acclamation-2
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  dates:
+  - start: '2000-02-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: 'SC 4 expresses its appreciation to the Convenors, Project Leaders and Rapporteurs
+
+      for their efforts in support of the work of SC 4 and for the preparation of the reports
+
+      that reflect these activities.'
+    dates:
+    - start: '2000-02-15'
+      kind: decision
+- identifier: 455-acclamation-3
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  dates:
+  - start: '2000-02-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: 'SC 4 expresses its appreciation to Rob Anderson of BSI and Howard Mason of BAE
+
+      SYSTEMS for their efforts in support of the clean-up, verification, and validation of
+
+      the SC 4 database. This is a major contribution that is key to the successful
+
+      operation of SC 4.'
+    dates:
+    - start: '2000-02-15'
+      kind: decision
+- identifier: 455-acclamation-4
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  dates:
+  - start: '2000-02-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: 'SC 4 expresses its appreciation to the Drafting Committee for the completion of its
+
+      resolutions.'
+    dates:
+    - start: '2000-02-15'
+      kind: decision
+- identifier: 455-acclamation-5
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  dates:
+  - start: '2000-02-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: 'SC 4 expresses its appreciation to its Chairman, Mr. Dick Wandmacher, for his fine
+
+      efforts in bringing about another successful SC 4 Plenary Meeting. His continuous
+
+      leadership, patience, good humor and attention to getting the work done are critical to
+
+      the success of SC 4.'
+    dates:
+    - start: '2000-02-15'
+      kind: decision
+- identifier: 455-acclamation-6
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  dates:
+  - start: '2000-02-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: 'SC 4 expresses its appreciation to Gabriel Barta for his service and contributions as
+
+      Technical Officer for ISO/TC 184/SC 4.'
+    dates:
+    - start: '2000-02-15'
+      kind: decision

@@ -1,0 +1,643 @@
+metadata:
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, San Diego, United States, March 10, 2003 – March 14, 2003
+  dates:
+  - start: '2003-03-10'
+    end: '2003-03-14'
+    kind: meeting
+  source: ISO/TC 184/SC 4 Secretariat
+  venue: San Diego, United States
+resolutions:
+- identifier: '559'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Leadership and Editorship Approvals
+  dates:
+  - start: '2003-03-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: SC 4 Project Leadership and Editorship Approvals
+    dates:
+    - start: '2003-03-15'
+      kind: effective
+  - type: approves
+    message: SC 4 approves the following new project leaders or project editors for the associated
+    dates:
+    - start: '2003-03-15'
+      kind: effective
+  - type: resolves
+    message: 'SC 4 projects:
+
+      Project
+
+      ISO 10303 – 1348
+
+      Leader
+
+      Jim U’Ren
+
+      Editor
+
+      Ian Bailey
+
+      ISO 10303 – 1227
+
+      Bill Anderson
+
+      Darla Nettles
+
+      ISO 10303 – 1228
+
+      Bill Anderson
+
+      Darla Nettles
+
+      ISO 15531 – 0032
+
+      Robert Young
+
+      ISO 10303 – 0210
+
+      Darla Nettles'
+    dates:
+    - start: '2003-03-15'
+      kind: effective
+- identifier: '560'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Review of Active Experts
+  dates:
+  - start: '2003-03-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Review of Active Experts
+    dates:
+    - start: '2003-03-15'
+      kind: effective
+  - type: requests
+    message: 'SC 4 requests its secretary to request its national bodies to review their list of active
+
+      persons for SC 4 and send input for update of database to SC 4 secretary previous to'
+    dates:
+    - start: '2003-03-15'
+      kind: effective
+  - type: resolves
+    message: SC 4 meetings.
+    dates:
+    - start: '2003-03-15'
+      kind: effective
+- identifier: '561'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Meetings Frequency
+  dates:
+  - start: '2003-03-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Meetings Frequency
+    dates:
+    - start: '2003-03-15'
+      kind: effective
+  - type: resolves
+    message: 'SC 4 reviews the necessity of 3 meetings per year and asks its member bodies
+
+      whether they support the current situation. If the member bodies agree to reduce the
+
+      number of meetings to two meetings a year, then this shall be installed as soon as
+
+      possible. The existing schedule and invitations from some countries need to be
+
+      considered because they have already done some preparatory work'
+    dates:
+    - start: '2003-03-15'
+      kind: effective
+- identifier: '562'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Appointment of Keith Hunten as Convenor of WG 12
+  dates:
+  - start: '2003-03-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Appointment of Keith Hunten as Convenor of WG 12
+    dates:
+    - start: '2003-03-15'
+      kind: effective
+  - type: approves
+    message: 'SC 4 approves Keith Hunten to serve as Convenor of its Working Group 12 for a
+
+      period of three years'
+    dates:
+    - start: '2003-03-15'
+      kind: effective
+  - type: resolves
+    message: .
+    dates:
+    - start: '2003-03-15'
+      kind: effective
+  - type: resolves
+    message: 'SC 4 expresses a special recognition and thanks to Greg Paul for his exceptional
+
+      dedication and service for the past six years in the position of Convenor of its
+
+      Working Group 12.'
+    dates:
+    - start: '2003-03-15'
+      kind: effective
+- identifier: '563'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Appointment of Len Slovensky as Deputy Convenor of WG 3
+  dates:
+  - start: '2003-03-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Appointment of Len Slovensky as Deputy Convenor of WG 3
+    dates:
+    - start: '2003-03-15'
+      kind: effective
+  - type: approves
+    message: 'SC 4 approves Len Slovensky to serve as Deputy Convenor of its Working Group 3
+
+      for a period of three years.'
+    dates:
+    - start: '2003-03-15'
+      kind: effective
+- identifier: '564'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Cancellation of ISO/TC 184/SC 4 Resolution 462
+  dates:
+  - start: '2003-03-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Cancellation of ISO/TC 184/SC 4 Resolution 462
+    dates:
+    - start: '2003-03-15'
+      kind: effective
+  - type: resolves
+    message: 'SC 4 cancels its Resolution 462 that established a STEP Modules Harmonization Team
+
+      and urges its Working Groups 3, 8, 9 and 12 along with the active module development
+
+      projects to cooperate in module harmonization'
+    dates:
+    - start: '2003-03-15'
+      kind: effective
+  - type: resolves
+    message: .
+    dates:
+    - start: '2003-03-15'
+      kind: effective
+  - type: requests
+    message: 'SC 4 requests the conveners of WG 3, 8, 9, and 12 to report on module
+
+      harmonization activities to plenary meetings of SC 4 and its Working Groups'
+    dates:
+    - start: '2003-03-15'
+      kind: effective
+  - type: resolves
+    message: .
+    dates:
+    - start: '2003-03-15'
+      kind: effective
+  - type: resolves
+    message: 'SC 4 also urges its Working Groups 3, 8, 9 and 12 to complete and update the
+
+
+      guidelines documents for module creation.
+
+      In particular, SC 4 requests that guidance on module harmonization be added to the
+
+      Module Development Guidelines, and that consideration be given to the use of ISO
+
+      18876 in this context.'
+    dates:
+    - start: '2003-03-15'
+      kind: effective
+- identifier: '565'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Exte n sion of T a sk Fo rce f o r “Ind u stria l Data on t he W eb ”
+  dates:
+  - start: '2003-03-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Exte n sion of T a sk Fo rce f o r “Ind u stria l Data on t he W eb ”
+    dates:
+    - start: '2003-03-15'
+      kind: effective
+  - type: directs
+    message: 'SC 4 directs the ad hoc group for Industrial Data on the Web (IDW) to report regularly
+
+      to SC 4 plenaries concerning the impact of established and emerging Web
+
+      technologies on the work of SC 4.  These technologies include web services, such as
+
+      WSDL, UDDI and LDAP.
+
+      IDW will be a mechanism by which web-related technologies developed by individual'
+    dates:
+    - start: '2003-03-15'
+      kind: effective
+  - type: resolves
+    message: 'SC 4 WGs are shared.
+
+      IDW will deliver SC 4 resolutions, tutorials, N docs and technology demonstrations'
+    dates:
+    - start: '2003-03-15'
+      kind: effective
+  - type: resolves
+    message: .
+    dates:
+    - start: '2003-03-15'
+      kind: effective
+  - type: resolves
+    message: 'SC 4 urges the ad hoc group to recommend liaisons with W3C committees, and to
+
+      coordinate their activities with the Education and Outreach Committee'
+    dates:
+    - start: '2003-03-15'
+      kind: effective
+  - type: resolves
+    message: .
+    dates:
+    - start: '2003-03-15'
+      kind: effective
+  - type: appoints
+    message: 'SC 4 appoints Jim U''Ren as the leader of this ad hoc group, and David Leal as the
+
+      deputy.
+
+      IDW will deliver a report to the last SC 4 meeting in 2004 with a recommendation as to
+
+      the continuation of the ad hoc group.'
+    dates:
+    - start: '2003-03-15'
+      kind: effective
+- identifier: '566'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Establishment of Liaison with SASIG
+  dates:
+  - start: '2003-03-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Establishment of Liaison with SASIG
+    dates:
+    - start: '2003-03-15'
+      kind: effective
+  - type: resolves
+    message: 'SC 4 proposes the establishment of a Category A liaison with the Strategic Automotive
+
+      product data Standards Industry Group (SASIG) and nominates Oscar Rocha as its
+
+      liaison officer for the next two years.
+
+      It is requested that the SC 4 secretary confirm this liaison with the ISO Central
+
+      Secretariat.
+
+      SASIG is similarly invited to select a liaison officer from their organization to ISO/TC
+
+      184/SC 4'
+    dates:
+    - start: '2003-03-15'
+      kind: effective
+- identifier: '567'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Minor Revision of ISO 10303-210:2001
+  dates:
+  - start: '2003-03-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Minor Revision of ISO 10303-210:2001
+    dates:
+    - start: '2003-03-15'
+      kind: effective
+  - type: approves
+    message: 'SC 4 approves the creation of a new edition of ISO 10303-210 as a minor revision to
+
+      correct errors in EXPRESS, Mapping Tables, Application Object definitions, and
+
+      orthography'
+    dates:
+    - start: '2003-03-15'
+      kind: effective
+  - type: resolves
+    message: .
+    dates:
+    - start: '2003-03-15'
+      kind: effective
+  - type: requests
+    message: 'SC 4 requests its Secretariat to submit the completed document to ISO CS for
+
+      FDIS ballot as a Minor Revision when available'
+    dates:
+    - start: '2003-03-15'
+      kind: effective
+- identifier: '568'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Liaison with ISO/TC 67
+  dates:
+  - start: '2003-03-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Liaison with ISO/TC 67
+    dates:
+    - start: '2003-03-15'
+      kind: effective
+  - type: resolves
+    message: 'SC 4 proposes a Category A liaison with ISO/TC 67, nominates Nils Sandsmark as
+
+      the liaison officer for a period of two years, and requests that the SC 4 secretary
+
+      confirms this liaison with the ISO Central Secretariat'
+    dates:
+    - start: '2003-03-15'
+      kind: effective
+  - type: resolves
+    message: .
+    dates:
+    - start: '2003-03-15'
+      kind: effective
+  - type: investigates
+    message: SC 4 invites ISO/TC 67 to nominate a liaison to SC 4
+    dates:
+    - start: '2003-03-15'
+      kind: effective
+  - type: resolves
+    message: .
+    dates:
+    - start: '2003-03-15'
+      kind: effective
+  - type: resolves
+    message: 'SC 4 also requests its Secretariat to forward the NWIP and Change Management
+
+      forms for the proposed work on 15926 Parts 4-7 to ISO/TC 67, in parallel with review
+
+      by SC 4.'
+    dates:
+    - start: '2003-03-15'
+      kind: effective
+- identifier: '569'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Requirements for Education and Outreach
+  dates:
+  - start: '2003-03-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Requirements for Education and Outreach
+    dates:
+    - start: '2003-03-15'
+      kind: effective
+  - type: resolves
+    message: 'SC 4 seeks to effectively spread and enhance the perception of SC 4 standards in
+
+      industrial, academic and research communities'
+    dates:
+    - start: '2003-03-15'
+      kind: effective
+  - type: resolves
+    message: .
+    dates:
+    - start: '2003-03-15'
+      kind: effective
+  - type: investigates
+    message: 'SC 4 invites its experts, member bodies and liaisons to provide input to the Education
+
+      and Outreach Rapporteur about the major problems of perception that have been
+
+      identified and the needs and opportunities for outreach, education, and promotional
+
+      activities.
+
+      Responses are requested by 2003-05-15 to allow a summary report to be made
+
+      available at the Stuttgart meeting.'
+    dates:
+    - start: '2003-03-15'
+      kind: effective
+- identifier: '570'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Public Availability of SC 4 Standards and Specifications
+  dates:
+  - start: '2003-03-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Public Availability of SC 4 Standards and Specifications
+    dates:
+    - start: '2003-03-15'
+      kind: effective
+  - type: requests
+    message: 'SC 4 requests its Secretariat to request approval from the ISO Council to make the
+
+      following documents publicly available, free of charge, on the World Wide Web:
+
+      • ISO 10303 (STEP)
+
+      • ISO 13584 (PLIB)
+
+      • ISO 15926 (Process Plant)
+
+      • ISO 18876 (IIDEAS)
+
+      The rationale to be included with this request is contained in document SC 4N1456.'
+    dates:
+    - start: '2003-03-15'
+      kind: effective
+- identifier: '571'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Proposal to VAMAS for the Testing of Material Standards
+  dates:
+  - start: '2003-03-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Proposal to VAMAS for the Testing of Material Standards
+    dates:
+    - start: '2003-03-15'
+      kind: effective
+  - type: endorses
+    message: 'SC 4 endorses the proposal N1457 to VAMAS for the comparison and validation of
+
+      the different standards for the representation and the exchange of data for Life Cycle
+
+      Assessment (LCA), as part of the liaison between ISO/TC 184/SC 4 and VAMAS'
+    dates:
+    - start: '2003-03-15'
+      kind: effective
+  - type: resolves
+    message: .
+    dates:
+    - start: '2003-03-15'
+      kind: effective
+  - type: recognizes
+    message: 'SC 4 recognizes the key role that the national research centers, represented in
+
+      VAMAS, could play in the exploitation and validation of the International and industry
+
+      Standards identified in the proposal'
+    dates:
+    - start: '2003-03-15'
+      kind: effective
+  - type: resolves
+    message: .
+    dates:
+    - start: '2003-03-15'
+      kind: effective
+  - type: requests
+    message: 'SC 4 requests its secretariat to forward the proposal to VAMAS, and to invite material
+
+      domain experts to contribute to the further development of these SC 4 standards.'
+    dates:
+    - start: '2003-03-15'
+      kind: effective
+- identifier: '572'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Reappointment of JWG 8 Convenor
+  dates:
+  - start: '2003-03-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Reappointment of JWG 8 Convenor
+    dates:
+    - start: '2003-03-15'
+      kind: effective
+  - type: resolves
+    message: 'SC 4 re-appoints Jean-Jacques MICHEL as convenor of JWG 8 for an additional
+
+      three- year term.'
+    dates:
+    - start: '2003-03-15'
+      kind: effective
+- identifier: '573'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Appreciations
+  dates:
+  - start: '2003-03-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Appreciations
+    dates:
+    - start: '2003-03-15'
+      kind: effective
+- identifier: 573-acclamation-1
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  dates:
+  - start: '2003-03-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: 'SC 4 expresses its deep appreciation to US PRO, its Members and the staff of the
+
+      Hyatt Islandia Hotel for their efforts in organizing this meeting, arranging the facilities,
+
+      excellent food, social events, and excellent accompanying events.  SC 4 also
+
+      expresses its appreciation for their hospitality and outstanding support before, during,
+
+      and after the meeting.'
+    dates:
+    - start: '2003-03-15'
+      kind: decision
+- identifier: 573-acclamation-2
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  dates:
+  - start: '2003-03-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: 'SC 4 appreciates the participation and support of the new ISO/TC 184 Chair Mr. Jean-
+
+      Marc CHATELARD and the Secretary Ms Christine HERMETET-FILEZ.'
+    dates:
+    - start: '2003-03-15'
+      kind: decision
+- identifier: 573-acclamation-3
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  dates:
+  - start: '2003-03-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: 'SC 4 expresses its sincere thanks to Chris Kreiler (CACI) for his untiring efforts and
+
+      excellent performance in supporting the work of the Secretariat.'
+    dates:
+    - start: '2003-03-15'
+      kind: decision
+- identifier: 573-acclamation-4
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  dates:
+  - start: '2003-03-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: 'SC 4 expresses its sincere thanks to Mark Palmer for his long-standing, dedicated
+
+      efforts and excellent performance as the leader of T20, WG 3.'
+    dates:
+    - start: '2003-03-15'
+      kind: decision
+- identifier: 573-acclamation-5
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  dates:
+  - start: '2003-03-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: 'Appreciation to our SC 4 Liaisons. We appreciate your representation to and for
+
+      ISO/TC 184/SC 4.
+
+      A special thank you to the SC 4 Liaison Plenary presenters for their insightful and
+
+      comprehensive presentations:
+
+      UBL
+
+      -
+
+      Jon Bosak
+
+      PDES, Inc.  -
+
+      Bob Kiggans & Simon Frechette
+
+      PLCS -
+
+      John Dunford
+
+      EPISTLE -
+
+      Matthew West
+
+      OAGI
+
+      Tony Blazej'
+    dates:
+    - start: '2003-03-15'
+      kind: decision
+- identifier: 573-acclamation-6
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  dates:
+  - start: '2003-03-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: 'SC 4 expresses its particular thanks to Mr. Chuck Stark, Ms Sarah Hartline, Ms
+
+      Charlotte Lewis and Mrs. JoAnn Norek for their superior administrative support,
+
+      outstanding hospitality, and patience both before and during the ISO/TC 184/SC 4
+
+      meeting.'
+    dates:
+    - start: '2003-03-15'
+      kind: decision

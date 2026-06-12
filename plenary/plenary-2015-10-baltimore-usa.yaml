@@ -1,0 +1,439 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
+metadata:
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Baltimore, United States, October 18, 2015 – October 23, 2015
+  dates:
+  - start: '2015-10-18'
+    end: '2015-10-23'
+    kind: meeting
+  source: ISO/TC 184/SC 4 Secretariat
+  venue: Baltimore, United States
+resolutions:
+- identifier: '907'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: the following new project leaders and/or project editors for the
+  dates:
+  - start: '2015-10-15'
+    kind: decision
+  actions:
+  - type: approves
+    message: 'SC 4 approves the following new project leaders and/or project editors for the
+
+      associated SC 4 projects:
+
+      ISO Project #
+
+      Project Lead
+
+      Document Editor
+
+      15926-10
+
+      Manoj Dharwadkar
+
+      Hiroshi Okada'
+    dates:
+    - start: '2015-10-15'
+      kind: effective
+- identifier: '908'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Reappointment of Change Management Convener
+  dates:
+  - start: '2015-10-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Reappointment of Change Management Convener
+    dates:
+    - start: '2015-10-15'
+      kind: effective
+  - type: appoints
+    message: 'SC 4 appoints Mr. Howard Mason as Convener for the Change Management
+
+      Committee for a further three-year term, with an appreciation for his offer to serve in that
+
+      capacity.'
+    dates:
+    - start: '2015-10-15'
+      kind: effective
+- identifier: '909'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Reappointment of WG 03 Convener
+  dates:
+  - start: '2015-10-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Reappointment of WG 03 Convener
+    dates:
+    - start: '2015-10-15'
+      kind: effective
+  - type: appoints
+    message: 'SC 4 appoints Paul van Exel as Convener for WG 03 “Oil, Gas, Process and Power” for
+
+      a further three year term, with appreciation for his offer to serve in that capacity.'
+    dates:
+    - start: '2015-10-15'
+      kind: effective
+- identifier: '910'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Reappointment of WG 21 Convener
+  dates:
+  - start: '2015-10-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Reappointment of WG 21 Convener
+    dates:
+    - start: '2015-10-15'
+      kind: effective
+  - type: appoints
+    message: 'SC 4 appoints Keith Hunten as Convener for WG 21 “SMRL Validation Team” for a
+
+      further three-year term, with appreciation for his offer to serve in that capacity.'
+    dates:
+    - start: '2015-10-15'
+      kind: effective
+- identifier: '911'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Reappointment of WG 21 Deputy Convener
+  dates:
+  - start: '2015-10-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Reappointment of WG 21 Deputy Convener
+    dates:
+    - start: '2015-10-15'
+      kind: effective
+  - type: appoints
+    message: 'SC 4 appoints Jochen Haenisch as Deputy Convener for WG 21 “SMRL Validation
+
+      Team” for a further three-year term, with appreciation for his offer to serve in that
+
+      capacity.'
+    dates:
+    - start: '2015-10-15'
+      kind: effective
+- identifier: '912'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Reappointment of WG 22 Convener
+  dates:
+  - start: '2015-10-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Reappointment of WG 22 Convener
+    dates:
+    - start: '2015-10-15'
+      kind: effective
+  - type: appoints
+    message: 'SC 4 appoints Nils Sandsmark as Convener for WG 22 “Reference Data Validation
+
+      Team” for a further three-year term, with appreciation for his offer to serve in that
+
+      capacity.'
+    dates:
+    - start: '2015-10-15'
+      kind: effective
+- identifier: '913'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Reappointment of SC 4 Chair
+  dates:
+  - start: '2015-10-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Reappointment of SC 4 Chair
+    dates:
+    - start: '2015-10-15'
+      kind: effective
+  - type: nominates
+    message: 'SC 4 nominates Howard Mason for an additional two year term (January 2016-
+
+      December 2017) as the Chair of ISO/TC 184 / SC 4 and instructs the Secretary to
+
+      forward his nomination to ISO/TC 184 within 30 days.'
+    dates:
+    - start: '2015-10-15'
+      kind: effective
+- identifier: '914'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Extension of Standard Development Track for ISO 10303-57 from 36 months to 48
+  dates:
+  - start: '2015-10-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: 'Extension of Standard Development Track for ISO 10303-57 from 36 months to 48
+
+
+      months'
+    dates:
+    - start: '2015-10-15'
+      kind: effective
+  - type: requests
+    message: 'SC 4 requests its Secretariat to change the development track of ISO 10303-57 from 36
+
+      months to 48 months.'
+    dates:
+    - start: '2015-10-15'
+      kind: effective
+- identifier: '915'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Extension of Standard Development Track for ISO 18828-2 to 36 Months
+  dates:
+  - start: '2015-10-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Extension of Standard Development Track for ISO 18828-2 to 36 Months
+    dates:
+    - start: '2015-10-15'
+      kind: effective
+  - type: requests
+    message: 'SC 4 requests its Secretariat to change the development track of ISO 18828-2 from 24
+
+      months to 36 months.'
+    dates:
+    - start: '2015-10-15'
+      kind: effective
+- identifier: '916'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Termination of SC 4 Liaison with ASAM
+  dates:
+  - start: '2015-10-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Termination of SC 4 Liaison with ASAM
+    dates:
+    - start: '2015-10-15'
+      kind: effective
+  - type: requests
+    message: 'SC 4 requests its Secretariat to terminate its liaisons with the Association for
+
+      Standardization of Automation and Measuring Systems (ASAM).'
+    dates:
+    - start: '2015-10-15'
+      kind: effective
+- identifier: '917'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Establish Duration of New Work Item Proposals
+  dates:
+  - start: '2015-10-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Establish Duration of New Work Item Proposals
+    dates:
+    - start: '2015-10-15'
+      kind: effective
+  - type: requests
+    message: 'SC 4 requests its Secretariat to apply the 2-month duration to the proposed NPs for
+
+       ISO 10303 AP239 ed 3 PLCS
+
+       ISO 18828-4  KPI in production planning processes
+
+       ISO 8000-115 Master data: Quality identifiers'
+    dates:
+    - start: '2015-10-15'
+      kind: effective
+- identifier: '918'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: WG 2 Parts Libraries activities
+  dates:
+  - start: '2015-10-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: WG 2 Parts Libraries activities
+    dates:
+    - start: '2015-10-15'
+      kind: effective
+  - type: requests
+    message: 'SC 4 requests its secretariat to ask its P- and O-Members to nominate subject matter
+
+      experts in the area of Part Libraries. The invitation should also be sent to ISO users of
+
+      the PLIB standards.'
+    dates:
+    - start: '2015-10-15'
+      kind: effective
+- identifier: '919'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Creation of a new Working Group on "Digital manufacturing”
+  dates:
+  - start: '2015-10-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Creation of a new Working Group on "Digital manufacturing”
+    dates:
+    - start: '2015-10-15'
+      kind: effective
+  - type: decides
+    message: 'SC 4 decides to establish Working Group 15 "Digital manufacturing". The goal of this
+
+      working group is to coordinate the SC 4 internal efforts in this area with other standards
+
+      organizations and to observe and interact with ongoing and upcoming developments.'
+    dates:
+    - start: '2015-10-15'
+      kind: effective
+- identifier: '920'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Joint Task Force to explore the establishment of a database for product prope...
+  dates:
+  - start: '2015-10-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: 'Joint Task Force to explore the establishment of a database for product properties and
+
+      classes'
+    dates:
+    - start: '2015-10-15'
+      kind: effective
+  - type: appoints
+    message: 'SC 4 appoints the following experts to assist in the work of the Joint Task Force:
+
+       Wolfgang Wilkes
+
+      ISO 13584 expert and user in other standards
+
+       Norman Swindells User of ISO 13584 in other standards
+
+       Nils Sandsmark
+
+      ISO 15926 expert and user in oil and gas facility
+
+      environments
+
+       Nigel Shaw
+
+      ISO 10303-239 and reference data expert and user
+
+       Nicolas Figay
+
+      ISO 10303-242 expert
+
+       Peter Benson
+
+      ISO 22745 expert and user
+
+       Nikolaus Ondracek ISO 13584 expert and user
+
+       David Leal
+
+      ISO 15926 and RDL expert
+
+       Paul van Exel
+
+      ISO 15926 expert'
+    dates:
+    - start: '2015-10-15'
+      kind: effective
+  - type: requests
+    message: 'SC 4 requests its PPC to arrange a coordination meeting for the nominees to ensure a
+
+      consistent representation from SC 4 in this task force.'
+    dates:
+    - start: '2015-10-15'
+      kind: effective
+- identifier: '921'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Create PWI for new Edition 3 of ISO 14306 JT
+  dates:
+  - start: '2015-10-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Create PWI for new Edition 3 of ISO 14306 JT
+    dates:
+    - start: '2015-10-15'
+      kind: effective
+  - type: notes
+    message: 'SC 4 notes the revised schedule for the delivery of a document for DIS ballot for edition
+
+
+      2 by the end of February 2016 and approves a PWI to create a new edition 3 of ISO
+
+      14306'
+    dates:
+    - start: '2015-10-15'
+      kind: effective
+  - type: investigates
+    message: 'SC 4 invites member bodies and other stakeholders such as the Global
+
+      Automotive Action Group to nominate experts to the project and to solicit requirements
+
+      to be addressed in the next edition by end March 2016.
+
+      ACKNOWLEDGEMENTS and APPRECIATIONS
+
+      ACCLAMATION'
+    dates:
+    - start: '2015-10-15'
+      kind: effective
+  - type: appreciation
+    message: 'SC 4 expresses its appreciation to our SC 4 Liaisons and those projects who presented
+
+      at the Liaison Plenary
+
+       Energistics – Jana Schey
+
+       IAIDQ Conference – Tim King
+
+       ECCMA – Peter Benson
+
+       JTC 1/SC 24 X3D  – Christophe Mouton
+
+       ISO 9001:2015  – Tor Arne Irgens
+
+       TC 184 update – Howard Mason
+
+      ACCLAMATION'
+    dates:
+    - start: '2015-10-15'
+      kind: effective
+  - type: appreciation
+    message: 'SC 4 expresses its appreciation to the following individuals and organizations for their
+
+      participation in the 70th ISO/TC 184/SC 4 Industry Day in Baltimore, Maryland, 2015-10-
+
+      21
+
+       David Odendahl, Boeing Airplane
+
+       Corey Dickman, Penn State & America Makes
+
+       Mikael Hedlind, Scania
+
+       Max Ungerer, ProSTEP
+
+       Andy Byrd, Okuma Dan Finke, Penn State
+
+       Larry Maggiano, Mitutoyo
+
+       Bengt Olsson, Sandvik
+
+       Tom Raun, Iscar Metals
+
+       Sid Venkatesh, Boeing Airplane
+
+      ACCLAMATION'
+    dates:
+    - start: '2015-10-15'
+      kind: effective
+  - type: appreciation
+    message: 'SC 4 expresses its appreciation to Peter Benson, and Vicky Kondravy for hosting the
+
+      70th ISO/TC 184/SC 4 Plenary in Baltimore, Maryland, 2015-10-18/23
+
+      Special acknowledgement is extended to the Pier 5 Hotel, Baltimore, Maryland and its
+
+      staff for their seamless and attentive support.'
+    dates:
+    - start: '2015-10-15'
+      kind: effective

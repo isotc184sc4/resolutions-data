@@ -1,0 +1,180 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
+metadata:
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Vico Equense, Italy, October 2010
+  dates:
+  - start: '2010-10-15'
+    kind: meeting
+  source: ISO/TC 184/SC 4 Secretariat
+  venue: Vico Equense, Italy
+resolutions:
+- identifier: '813'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Managing the ISO 29002 vocabulary as a database
+  dates:
+  - start: '2010-10-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Managing the ISO 29002 vocabulary as a database
+    dates:
+    - start: '2010-10-15'
+      kind: effective
+  - type: resolves
+    message: 'SC 4 resolves to manage the ISO 29002 vocabulary using the ISO Annex ST
+
+      procedures for the management of standards as databases, as customized in the SC
+
+      4 standing document “Procedure for the maintenance of ISO/TC 184/SC 4
+
+      vocabulary”'
+    dates:
+    - start: '2010-10-15'
+      kind: effective
+  - type: resolves
+    message: .
+    dates:
+    - start: '2010-10-15'
+      kind: effective
+  - type: requests
+    message: SC 4 requests the ISO 29002 project to nominate a member to the maintenance team
+    dates:
+    - start: '2010-10-15'
+      kind: effective
+  - type: resolves
+    message: .
+    dates:
+    - start: '2010-10-15'
+      kind: effective
+  - type: requests
+    message: 'SC 4 requests its Secretariat to invite P-members, Category A liaisons, internal
+
+      liaisons, and the WG 13 convener to nominate additional experts, as needed under
+
+      the agreed procedure'
+    dates:
+    - start: '2010-10-15'
+      kind: effective
+  - type: resolves
+    message: .
+    dates:
+    - start: '2010-10-15'
+      kind: effective
+  - type: requests
+    message: 'SC 4 requests its Secretariat to invite all P-members, Category A liaisons and internal
+
+      liaisons to appoint one member each to the validation team'
+    dates:
+    - start: '2010-10-15'
+      kind: effective
+  - type: resolves
+    message: .
+    dates:
+    - start: '2010-10-15'
+      kind: effective
+  - type: requests
+    message: 'SC 4 requests its Secretariat to establish a Configuration Management Repository for
+
+      the ISO 29002 vocabulary.'
+    dates:
+    - start: '2010-10-15'
+      kind: effective
+- identifier: '814'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Recycling of ISO 15926 Part 9 & 10
+  dates:
+  - start: '2010-10-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Recycling of ISO 15926 Part 9 & 10
+    dates:
+    - start: '2010-10-15'
+      kind: effective
+  - type: requests
+    message: 'SC 4 requests its Secretariat to request ISO CS to return 15926 Part 9 & 10 to Stage
+
+      10.99.'
+    dates:
+    - start: '2010-10-15'
+      kind: effective
+- identifier: '815'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: ACKNOWLEDGEMENTS and APPRECIATIONS
+  dates:
+  - start: '2010-10-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: 'ACKNOWLEDGEMENTS and APPRECIATIONS
+
+      ACCLAMATION
+
+      We offer thanks to those external projects who presented their material at the Open
+
+      Technical Forum.
+
+      •
+
+      “Analysing the Supply Chain Using the Semantic Web” by David Leal
+
+      •
+
+      “LCIA PLCS Translator Pilot” by Dr Timothy M. King
+
+
+      •
+
+      “Enabling the Usage of Standards Within the Supply Chain” by Xenia Fiorentini
+
+      ACCLAMATION
+
+      Appreciation to our SC 4 Liaisons and those projects who presented at the Liaison
+
+      Plenary
+
+      “Liaison issues” by Howard Mason
+
+      “Necessity of Open Standards” by Prof Alfred Katzenbach
+
+      “ISO/PAS 16739/IFC” by Thomas Liebich
+
+      “CEN ORCHID WS” by Paul van Exel
+
+      “Dutch Ship Building Project - Integral Cooperation” by Leo van Ruijven
+
+      “TC 29/WG 34 - Implementation of a Tool Library Services” by Bengt Olsson
+
+      “ISO TC 184/SC 5/WG 10” by Jean Brange
+
+      We appreciate your representation to and for ISO TC 184/SC 4.
+
+      ACCLAMATION'
+    dates:
+    - start: '2010-10-15'
+      kind: effective
+  - type: appreciation
+    message: 'SC 4 expresses its appreciation to the Implementation Forum organizers, Paul van
+
+      Exel and Anna Moreno, for their efforts in organizing the excellent event, speakers
+
+      and venue.
+
+      ACCLAMATION'
+    dates:
+    - start: '2010-10-15'
+      kind: effective
+  - type: appreciation
+    message: 'SC 4 expresses its appreciation to Anna Moreno, her family, and her team for their
+
+      hosting and support of the 60th ISO TC 184/SC 4 Plenary meetings at the Oriente
+
+      Hotel in Vico Equense, Italy. We especially commend them for an excellent venue,
+
+      outstanding hospitality, and valuable service to the SC 4 community.  A special
+
+      acknowledgement is extended to Celestina Coccia, Giangiacomo Ponzo, and Alessio
+
+      Ubertini hosts for the week.'
+    dates:
+    - start: '2010-10-15'
+      kind: effective

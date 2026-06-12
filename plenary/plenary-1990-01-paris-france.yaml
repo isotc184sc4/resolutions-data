@@ -1,0 +1,461 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
+metadata:
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Paris, France, January 22, 1990 – February 1, 1990
+  dates:
+  - start: '1990-01-22'
+    end: '1990-02-01'
+    kind: meeting
+  source: ISO/TC 184/SC 4 Secretariat
+  venue: Paris, France
+resolutions:
+- identifier: '44'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: ISO/TC 184/SC 4 invites and solicits proposals from IEC organisations and oth...
+  dates:
+  - start: '1990-01-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: 'ISO/TC 184/SC 4 invites and solicits proposals from IEC organisations and others for
+
+      cooperative development and participative approval of the appropriate parts of STEP.
+
+      In particular, we invite the representatives of EIA, VHDL, IPC D350, and EDIF to take
+
+      part in this work through the exchange of reference models. This will follow the
+
+      example of inter-committee cooperation set by the ISO and the IEC in the MMS
+
+      project and companion standards.'
+    dates:
+    - start: '1990-01-15'
+      kind: effective
+- identifier: '45'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: recommends to the ISO/TC 184 chair that the title of the SC 4
+  dates:
+  - start: '1990-01-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: 'SC 4 respectfully recommends to the ISO/TC 184 chair that the title of the SC 4
+
+      Committee be changed to "Industrial Data and Global Manufacturing Programming
+
+      Languages."'
+    dates:
+    - start: '1990-01-15'
+      kind: effective
+- identifier: '46'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Following the assignment of the accepted new work item on a standard parts li...
+  dates:
+  - start: '1990-01-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: 'Following the assignment of the accepted new work item on a standard parts library,
+
+      ISO/TC 184/SC 4 establishes a new working group with the following title and task:
+
+      TITLE:
+
+      Standard for the Neutral Representation of Standard Parts
+
+      SCOPE:
+
+      The development of an international standard for the implementation of
+
+      standard parts which is independent of any computer-aided design
+
+      system. This should take into account the mapping of the external
+
+      standard representations into the internal representations of a CAD
+
+      system'
+    dates:
+    - start: '1990-01-15'
+      kind: effective
+  - type: resolves
+    message: .
+    dates:
+    - start: '1990-01-15'
+      kind: effective
+  - type: accepts
+    message: 'SC 4 accepts the offer of the member body of Germany, F.R. to undertake the
+
+      convenership of this working group.  Each "P" member of SC 4 is asked to nominate
+
+      one expert and one alternate for the Working Group. Names shall be forwarded to the'
+    dates:
+    - start: '1990-01-15'
+      kind: effective
+  - type: chairs
+    message: SC 4 chair by 1 April 1990.
+    dates:
+    - start: '1990-01-15'
+      kind: effective
+- identifier: '47'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: the formation of a new project within WG 1 to study the requirements and
+  dates:
+  - start: '1990-01-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: 'SC 4 affirms the formation of a new project within WG 1 to study the requirements and
+
+      structure of libraries within STEP. The title of the project will be "Library Structures."
+
+      Mr. P. Harrow (UK) and Mr. P. Dienst (FRG) are appointed as joint project leaders to
+
+      ensure coordination of the results between this project and the Standard Parts effort.'
+    dates:
+    - start: '1990-01-15'
+      kind: effective
+- identifier: '48'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: An advisory group called "Strategic Planning" is to be created to advise the ...
+  dates:
+  - start: '1990-01-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: 'An advisory group called "Strategic Planning" is to be created to advise the SC 4 chair
+
+      on matters concerning strategic planning and coordination of SC 4 activities'
+    dates:
+    - start: '1990-01-15'
+      kind: effective
+  - type: accepts
+    message: 'SC 4
+
+      accepts the offer of the member body of France to undertake the convenorship of this
+
+      advisory group.
+
+      Terms of reference for the Strategic Planning Advisory Group are:
+
+      a)
+
+      Recommending goals and objectives for future work.
+
+      b)
+
+      Coordinating activities across the different areas of scope of SC 4.
+
+      c)
+
+      Recommending the general methodologies required to undertake SC 4
+
+      work.
+
+      d)
+
+      Acting as a liaison with other relevant bodies.
+
+      Each "P" member of SC 4 is asked to nominate one expert and one alternate for the
+
+      Strategic Planning Advisory Group.  Names shall be forwarded to the SC 4 chair by 1
+
+      April 1990.'
+    dates:
+    - start: '1990-01-15'
+      kind: effective
+- identifier: '49'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: An SC 4 Project Management Advisory Group shall be established to provide pro...
+  dates:
+  - start: '1990-01-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: 'An SC 4 Project Management Advisory Group shall be established to provide project
+
+      management and technical strategy for product data work items.
+
+      Terms of reference of the Project Management Advisory Group are:
+
+      a)
+
+      Set functional goals for the Product Data Definition Working
+
+      Groups.
+
+      b)
+
+      Set project planning, work breakdown structure, and scheduling.
+
+      c)
+
+      Coordinate activities between Product Data Definition Working Groups.
+
+      d)
+
+      Set criteria for success.
+
+      e)
+
+      Evaluate quality.
+
+      Each "P" member of SC 4 is asked to nominate one expert and one alternate for the
+
+      Advisory Group. Names shall be forwarded to the SC 4 chair by 1 April 1990'
+    dates:
+    - start: '1990-01-15'
+      kind: effective
+  - type: resolves
+    message: ''
+    dates:
+    - start: '1990-01-15'
+      kind: effective
+  - type: resolves
+    message: 'The SC 4 Secretariat shall ask each "P" member body for their interest in the
+
+      convenorship.'
+    dates:
+    - start: '1990-01-15'
+      kind: effective
+- identifier: '50'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: produce a series of Technical Reports which document the present
+  dates:
+  - start: '1990-01-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: 'SC 4 resolves to produce a series of Technical Reports which document the present
+
+      state of STEP technology.  The contents of the report are subject to change. In
+
+      particular, this effort requires:
+
+      a)
+
+      Identification by WG 1 subgroups of all Parts which are technically stable.
+
+      b)
+
+      Editorial work on Parts to ensure conformance to ISO style
+
+      and incorporation of all ballot comments agreed to by Part
+
+      owners.
+
+      c)
+
+      Balloting by SC 4 to register each Part as a Committee Draft (CD).
+
+      d)
+
+      Balloting by SC 4 P-members on each CD.
+
+      e)'
+    dates:
+    - start: '1990-01-15'
+      kind: effective
+  - type: resolves
+    message: 'SC 4 decision upon review of ballot results to publish as a
+
+      Technical Report.'
+    dates:
+    - start: '1990-01-15'
+      kind: effective
+- identifier: '51'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: the creation of a small ad hoc working group of SC 4 to select topics
+  dates:
+  - start: '1990-01-15'
+    kind: decision
+  actions:
+  - type: recommends
+    message: 'SC 4 recommends the creation of a small ad hoc working group of SC 4 to select topics
+
+      on which to develop application protocols. These topics should be circulated to national
+
+      bodies for comment and prioritisation by 31 March 1990.'
+    dates:
+    - start: '1990-01-15'
+      kind: effective
+- identifier: '52'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: In response to the request from ISO/TC 184, and in order to comply with the new
+  dates:
+  - start: '1990-01-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: 'In response to the request from ISO/TC 184, and in order to comply with the new
+
+      ISO/IEC rules, SC 4 proposes to reorganise its work on STEP into the following
+
+      Working Groups:
+
+      Resource Models
+
+      (ex WG 1
+
+      SG1) Application Reference Models (ex WG 1 SG2)
+
+      Implementation Methods
+
+      (ex WG 1
+
+      SG3) Conformance & Testing
+
+      (ex WG 1 SG4)
+
+      Framework & Methodology
+
+      (ex WG 1 SG5/7)
+
+      Information Integration
+
+      (ex WG 1 SG6)
+
+      Under each Working Group, any required subdivision of the work shall be achieved
+
+      by the definition of specific projects, with project leaders appointed by SC 4.
+
+
+      Member bodies are requested to review and comment on the proposal to the
+
+      Secretariat by 31 March 1990 and provide proposals for the convenerships of the
+
+      WGs.
+
+      An ad hoc group of SC 4 shall meet at the next WG 1 meeting to resolve any
+
+      comments and prepare a formal proposal for balloting at the June meeting of SC 4.'
+    dates:
+    - start: '1990-01-15'
+      kind: effective
+- identifier: '53'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: In response to the changing of scope, SC 4 is ready to welcome new work items,
+  dates:
+  - start: '1990-01-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: 'In response to the changing of scope, SC 4 is ready to welcome new work items,
+
+      namely
+
+      a)
+
+      Industrial manufacturing management data
+
+      b)
+
+      Quality data
+
+      c)
+
+      Maintenance data
+
+      Members of SC 4 are solicited to send to the secretariat proposals for new work item
+
+      definitions.'
+    dates:
+    - start: '1990-01-15'
+      kind: effective
+- identifier: '54'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: 'The term "Application Profile" identified in SC 4 Resolution 34 (Tokyo #6) is...'
+  dates:
+  - start: '1990-01-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: 'The term "Application Profile" identified in SC 4 Resolution 34 (Tokyo #6) is to be
+
+      replaced by the term "Application Protocol."'
+    dates:
+    - start: '1990-01-15'
+      kind: effective
+- identifier: '55'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: the general strategy for breaking the DP 10303 (SC 4 N38) into a number
+  dates:
+  - start: '1990-01-15'
+    kind: decision
+  actions:
+  - type: adopts
+    message: 'SC 4 adopts the general strategy for breaking the DP 10303 (SC 4 N38) into a number
+
+      of smaller volumes, each to be processed separately through approval of a Committee
+
+      Draft and then to be balloted upon as a set of qualified and integrated documents
+
+      representing a Draft International Standard.'
+    dates:
+    - start: '1990-01-15'
+      kind: effective
+- identifier: '56'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: It is resolved that SC 4 shall create new versions of STEP where a version is...
+  dates:
+  - start: '1990-01-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: 'It is resolved that SC 4 shall create new versions of STEP where a version is defined
+
+      as a specific, dated collection of Committee Draft parts that are advanced
+
+      simultaneously to DIS.'
+    dates:
+    - start: '1990-01-15'
+      kind: effective
+- identifier: '57'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: The current ISO/STEP parts division and numbering scheme shall be considered
+  dates:
+  - start: '1990-01-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: 'The current ISO/STEP parts division and numbering scheme shall be considered
+
+      tentative until a final recommendation is received from WG 1.  For timely distribution
+
+      to SC 4, this document must be received by the SC 4 chair by 1 March 1990.'
+    dates:
+    - start: '1990-01-15'
+      kind: effective
+- identifier: '58'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: The development and integration of information models for draughting is a cri...
+  dates:
+  - start: '1990-01-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: 'The development and integration of information models for draughting is a critical
+
+      item in the STEP development schedule'
+    dates:
+    - start: '1990-01-15'
+      kind: effective
+  - type: encourages
+    message: 'SC 4 encourages member bodies to
+
+      consider increasing their participation in this work to match the stated needs of their
+
+      industries.'
+    dates:
+    - start: '1990-01-15'
+      kind: effective
+- identifier: '59'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: thank France for hosting the meeting of the committee this week
+  dates:
+  - start: '1990-01-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: SC 4 wishes to thank France for hosting the meeting of the committee this week.
+    dates:
+    - start: '1990-01-15'
+      kind: effective

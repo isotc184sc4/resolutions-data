@@ -1,0 +1,177 @@
+= ISO/TC 184/SC 4 Resolution data
+
+== Purpose
+
+According to ISO/CS, TC Resolutions are public information.
+
+ISO/TC 184/SC 4 aims to provide resolutions in an interoperable and machine
+accessible format.
+
+== Structure
+
+This repository currently contains these resolutions:
+
+`plenary/`:: Plenary meetings: 1st through 91st plenary meetings (1984--2026).
+
+Original documents are located in the `reference-docs/` folder.
+
+
+== Data model
+
+The resolution data in this repository follows the
+https://github.com/metanorma/edoxen[Edoxen format], which provides a structured
+way to model formal resolutions, including their metadata, actions,
+considerations, and approvals.
+
+Edoxen is built on top of the `lutaml-model` serialization framework and
+provides both Ruby libraries and command-line tools for working with resolution
+data.
+
+=== Data format
+
+Resolution data is entered into a YAML format that looks like this:
+
+[source,yaml]
+----
+# yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
+---
+metadata:
+  title: Resolutions of the 1st plenary meeting of ISO/TC 184/SC 4
+  dates:
+  - start: '1984-07-15'
+    kind: meeting
+  source: ISO/TC 184/SC 4 Secretariat
+  venue: Gaithersburg/Washington DC, USA
+resolutions:
+  - identifier: '1'
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    title: Need for a new standard for external representation of product model data
+    dates:
+      - start: '1984-07-15'
+        kind: decision
+    actions:
+      - type: recognizes
+        message: |
+          SC 4 recognizes the need for a new standard for the external
+          representation of product model data...
+        dates:
+          - start: '1984-07-15'
+            kind: effective
+----
+
+
+== Validation
+
+=== General
+
+All resolution data files are automatically validated using the
+https://github.com/metanorma/edoxen[Edoxen] library, which ensures compliance
+with the structured resolution format.
+
+=== Automatic validation
+
+The GitHub Actions workflow automatically validates all YAML files on every push
+and pull request using the `edoxen validate` command.
+
+=== Local validation
+
+To validate files locally, first install dependencies using Bundler:
+
+[source,sh]
+----
+$ bundle install
+----
+
+Then validate files using:
+
+[source,sh]
+----
+# Validate all resolution files
+$ bundle exec edoxen validate "plenary/*.yaml"
+
+# Validate specific files
+$ bundle exec edoxen validate plenary/plenary-1.yaml
+
+# Validate files using patterns
+$ bundle exec edoxen validate "*.yaml"
+----
+
+=== Normalization
+
+Edoxen also provides normalization functionality to ensure consistent formatting:
+
+[source,sh]
+----
+# Normalize files to a specific output directory
+$ bundle exec edoxen normalize "plenary/*.yaml" --output normalized/
+
+# Normalize files in place (overwrites original files)
+$ bundle exec edoxen normalize "plenary/*.yaml" --inplace
+----
+
+=== Schema reference
+
+All YAML files reference the Edoxen schema in their header:
+
+[source,yaml]
+----
+# yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
+----
+
+This enables IDE validation and autocompletion when editing resolution files.
+
+== Resolutions browser
+
+A web-based resolutions browser is available at
+https://isotc184sc4.github.io/resolutions-data/[isotc184sc4.github.io/resolutions-data].
+
+It provides full-text search (FlexSearch) and year-based filtering across all 1178
+resolutions, with detail views showing subject, considerations, actions, and approvals.
+
+The browser is a Vue 3 single-page application in `browser/` that builds from the YAML
+data in `plenary/`.
+
+=== Local development
+
+[source,sh]
+----
+cd browser
+npm install
+npm run dev
+----
+
+This generates the JSON data file and starts a Vite dev server with hot module
+replacement.
+
+=== Build for production
+
+[source,sh]
+----
+cd browser
+npm run build
+----
+
+Output goes to `browser/dist/`. The build also runs type checking via `vue-tsc`.
+
+=== Deployment
+
+GitHub Pages deploys automatically on push to `main` via the
+`.github/workflows/deploy-pages.yml` workflow, which validates YAML files, builds the
+SPA, and publishes the result.
+
+
+== Source
+
+The resolutions were extracted from the cumulative document:
+`reference-docs/N4118_Cumulative Resolutions 1st thru 91st plenary.pdf`.
+
+== Contributing
+
+When contributing resolution data:
+
+. Install dependencies: `bundle install`
+. Validate your changes: `bundle exec edoxen validate your-file.yaml`
+. Ensure files include the schema reference in the header
+. Submit a pull request
+
+The automated validation will run on your pull request to ensure data integrity.

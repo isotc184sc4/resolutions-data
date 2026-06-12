@@ -1,0 +1,343 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
+metadata:
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Sapporo, Japan, May 22, 2016 – May 27, 2016
+  dates:
+  - start: '2016-05-22'
+    end: '2016-05-27'
+    kind: meeting
+  source: ISO/TC 184/SC 4 Secretariat
+  venue: Sapporo, Japan
+resolutions:
+- identifier: '922'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Appointment of SC 4 Liaison to IEC SC 3D
+  dates:
+  - start: '2016-05-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Appointment of SC 4 Liaison to IEC SC 3D
+    dates:
+    - start: '2016-05-15'
+      kind: effective
+  - type: notes
+    message: 'SC 4 notes that IEC/TC 3 has terminated its liaison and appoints Hiroshi Murayama for
+
+      a three-year term as the SC 4 Liaison to IEC SC 3D, with appreciation for his offer to
+
+      serve in that capacity.'
+    dates:
+    - start: '2016-05-15'
+      kind: effective
+- identifier: '923'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Move ISO 8000-62 and ISO 8000-63 to Enlarged Timeframe
+  dates:
+  - start: '2016-05-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Move ISO 8000-62 and ISO 8000-63 to Enlarged Timeframe
+    dates:
+    - start: '2016-05-15'
+      kind: effective
+  - type: requests
+    message: 'SC 4 requests its Secretariat to apply the enlarged timeframe to the ISO 8000-62 and
+
+      ISO 8000-63 projects, with a DIS limit date of 2017-02-21.'
+    dates:
+    - start: '2016-05-15'
+      kind: effective
+- identifier: '924'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Create PWI for Modelling and Simulation information in a collaborative Systems
+  dates:
+  - start: '2016-05-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: 'Create PWI for Modelling and Simulation information in a collaborative Systems
+
+      Engineering Context (MoSSEC)'
+    dates:
+    - start: '2016-05-15'
+      kind: effective
+  - type: approves
+    message: 'SC 4 approves a PWI to create standards for modeling and simulation information in a
+
+      collaborative systems engineering context as defined in SC4 N3086 and invites member
+
+      bodies to nominate experts to the project.'
+    dates:
+    - start: '2016-05-15'
+      kind: effective
+- identifier: '925'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Create PWI for Manufacturing Change Management
+  dates:
+  - start: '2016-05-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Create PWI for Manufacturing Change Management
+    dates:
+    - start: '2016-05-15'
+      kind: effective
+  - type: approves
+    message: 'SC 4 approves a PWI to create a standard for manufacturing change management as
+
+      defined in SC4 N3087 and invites member bodies to nominate experts to the project'
+    dates:
+    - start: '2016-05-15'
+      kind: effective
+  - type: resolves
+    message: .
+    dates:
+    - start: '2016-05-15'
+      kind: effective
+  - type: requests
+    message: SC 4 requests its Secretariat to invite SC 5 to seek input from its P-members.
+    dates:
+    - start: '2016-05-15'
+      kind: effective
+- identifier: '926'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Establish Ballot Duration of the New Work Item Proposal for ISO 10303-238ed2
+  dates:
+  - start: '2016-05-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Establish Ballot Duration of the New Work Item Proposal for ISO 10303-238ed2
+    dates:
+    - start: '2016-05-15'
+      kind: effective
+  - type: requests
+    message: 'SC 4 requests its Secretariat to apply the 8 week ballot duration to the proposed NP for
+
+      ISO 10303-238ed2.'
+    dates:
+    - start: '2016-05-15'
+      kind: effective
+- identifier: '927'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Creation of Ad Hoc Group within SC 4 to support ISO/IEC DPPC TF
+  dates:
+  - start: '2016-05-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Creation of Ad Hoc Group within SC 4 to support ISO/IEC DPPC TF
+    dates:
+    - start: '2016-05-15'
+      kind: effective
+  - type: creates
+    message: 'SC 4 creates an Ad Hoc group to shadow and support the ISO/IEC DPPC Task Force
+
+      and appoints the following experts to the group:
+
+       Hiroshi Murayama, Leader and ISO 13584 and IEC 61360 expert
+
+       Wolfgang Wilkes , ISO 13584 expert and user in other standards
+
+       Norman Swindells, User of ISO 13584 in other standards
+
+       Nils Sandsmark, ISO 15926 expert and user in oil and gas facility environments
+
+       Nigel Shaw, ISO 10303-239 and reference data expert and user
+
+       Nicolas Figay, ISO 10303-242 expert
+
+       Peter Benson, ISO 22745 expert and user
+
+       Nikolaus Ondracek, ISO 13584 expert and user
+
+       David Leal, ISO 15926 and RDL expert
+
+       Paul van Exel, ISO 15926 expert
+
+       Hong Yan, ISO 13584-511 expert'
+    dates:
+    - start: '2016-05-15'
+      kind: effective
+  - type: requests
+    message: 'SC 4 requests its Secretariat to invite member bodies to nominate other experts to
+
+      participate in the group.'
+    dates:
+    - start: '2016-05-15'
+      kind: effective
+- identifier: '928'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Cooperation with the International Association of Oil and Gas Producers (IOGP)
+  dates:
+  - start: '2016-05-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Cooperation with the International Association of Oil and Gas Producers (IOGP)
+    dates:
+    - start: '2016-05-15'
+      kind: effective
+  - type: recognizes
+    message: 'SC 4 recognizes the request of the International Association of Oil and Gas Producers
+
+      (IOGP) to become a liaison and asks its secretariat to initiate a liaison to this
+
+      association as soon as possible'
+    dates:
+    - start: '2016-05-15'
+      kind: effective
+  - type: resolves
+    message: .
+    dates:
+    - start: '2016-05-15'
+      kind: effective
+  - type: nominates
+    message: 'SC 4 nominates Nils Sandsmark and Paul van Exel as the liaison officers from SC 4 to
+
+      the IOGP.'
+    dates:
+    - start: '2016-05-15'
+      kind: effective
+- identifier: '929'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Create a New Edition 4 of 10303-210
+  dates:
+  - start: '2016-05-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Create a New Edition 4 of 10303-210
+    dates:
+    - start: '2016-05-15'
+      kind: effective
+  - type: approves
+    message: 'SC 4 approves a NP to create a new edition 4 of 10303-210 with the same scope as
+
+      10303-210 edition 3 “Electronic assembly, interconnection, and packaging design”,
+
+      using the enlarged timescale, with Tom Thurman as the project leader.'
+    dates:
+    - start: '2016-05-15'
+      kind: effective
+- identifier: '930'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Retirement of Secretariat
+  dates:
+  - start: '2016-05-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: Retirement of Secretariat
+    dates:
+    - start: '2016-05-15'
+      kind: effective
+  - type: appreciation
+    message: 'SC 4 expresses its great appreciation to Ken Virgil for his excellent service and hard
+
+      work as Secretary to SC 4 since 2014 and wishes him the very best in his future
+
+      endeavours.
+
+      ACKNOWLEDGEMENTS and APPRECIATIONS
+
+      ACCLAMATION'
+    dates:
+    - start: '2016-05-15'
+      kind: effective
+  - type: appreciation
+    message: 'SC 4 expresses its appreciation to our SC 4 Liaisons and the presentations that were
+
+      provided:
+
+       BuildingSMART – Thomas Liebich
+
+       ISO/TC 59/SC 13 – Thomas Liebich
+
+       ISO/IEC JTC 1/SC 24 – Christophe Mouton
+
+
+      ACCLAMATION'
+    dates:
+    - start: '2016-05-15'
+      kind: effective
+  - type: appreciation
+    message: 'SC 4 expresses its appreciation to the following individuals and organizations for their
+
+      participation in the 71st ISO/TC 184/SC 4 Opening Technical Forum in Sapporo, Japan
+
+      2016-05-23
+
+       Martin Hardwick - Roadmap for deploying semantic GD&T in manufacturing
+
+       Hiroshi Murayama – IEC SC3D and the CDD
+
+       Jean Brange – Survey of STEP toolkits
+
+      ACCLAMATION'
+    dates:
+    - start: '2016-05-15'
+      kind: effective
+  - type: appreciation
+    message: 'SC 4 expresses its appreciation to the following individuals and organizations for their
+
+      participation in the 71st ISO/TC 184/SC 4 AP242 Tutorial in Sapporo, Japan 2016-05-24
+
+       Max Ungerer, ProSTEP AG
+
+       Nicolas Figay, Airbus Group
+
+       Jean Brange, Boost-Conseil
+
+       Kevin Le Tutour, Boost-Conseil
+
+      ACCLAMATION'
+    dates:
+    - start: '2016-05-15'
+      kind: effective
+  - type: appreciation
+    message: 'SC 4 expresses its appreciation to the following individuals and organizations for their
+
+      participation in the 71st ISO/TC 184/SC 4 Industry Day in Sapporo, Japan 2016-05-25
+
+       Steven Vettermann, ProSTEP iViP
+
+       Hideyuki Yoshimoto, JAMA
+
+       Sangjin Jeong, ETRI
+
+       Torbjörn Holm, Eurostep
+
+       Junichi Takeuchi, FASOTEC Co., Ltd.
+
+       Kevin Zhang, Shenzhen Pengrui Information Technology Co., Ltd.
+
+       Nicolas Figay, Airbus Group
+
+       Masahusa Matsui, Mitsubishi Aircraft Corporation
+
+       Atsuto Soma, JEITA
+
+
+       Larry Maggiano, Mitsutoyo America
+
+       Takamasa Tanaka, Digital Process Ltd.
+
+      ACCLAMATION'
+    dates:
+    - start: '2016-05-15'
+      kind: effective
+  - type: appreciation
+    message: 'SC 4 expresses its appreciation to Akihiko Ohtaka, Yoshihito Kikuchi, Hiroyuki Hiraoka,
+
+      and the Manufacturing Science and Technology Center for hosting the 71st ISO/TC
+
+      184/SC 4 Plenary in Sapporo, Japan 2016-05-22/27
+
+      Special acknowledgement is extended to the Hokkai-Gakuen University, the Sapporo
+
+      Park Hotel, and their staff for their seamless and attentive support.'
+    dates:
+    - start: '2016-05-15'
+      kind: effective
