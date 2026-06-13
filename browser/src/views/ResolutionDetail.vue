@@ -96,6 +96,35 @@
         </div>
       </section>
 
+      <!-- Prev / Next Navigation -->
+      <nav class="res-navigation animate-up" style="--nth: 8" aria-label="Resolution navigation">
+        <router-link 
+          v-if="prevResolution" 
+          :to="{ name: 'resolution-detail', params: { id: prevResolution.id } }"
+          class="res-nav-card res-nav-card--prev"
+        >
+          <span class="res-nav-label">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m15 18-6-6 6-6"/></svg>
+            Previous
+          </span>
+          <span class="res-nav-id">{{ prevResolution.id }}</span>
+        </router-link>
+        <div v-else class="res-nav-empty"></div>
+
+        <router-link 
+          v-if="nextResolution" 
+          :to="{ name: 'resolution-detail', params: { id: nextResolution.id } }"
+          class="res-nav-card res-nav-card--next"
+        >
+          <span class="res-nav-label">
+            Next
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg>
+          </span>
+          <span class="res-nav-id">{{ nextResolution.id }}</span>
+        </router-link>
+        <div v-else class="res-nav-empty"></div>
+      </nav>
+
     </div>
   </div>
   
@@ -124,22 +153,41 @@
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="empty-state__icon"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="8" x2="12" y2="12"></line><line x1="12" y1="16" x2="12.01" y2="16"></line></svg>
       <h3>Resolution not found</h3>
       <p>The resolution you requested could not be found or does not exist.</p>
-      <router-link :to="{ name: 'home' }" class="std-chip link-no-ul">View All Resolutions</router-link>
+      
+      <form @submit.prevent="submitSearch" class="not-found-search">
+        <input 
+          type="search" 
+          v-model="searchInput" 
+          placeholder="Search for resolutions..." 
+          class="not-found-input"
+        >
+        <button type="submit" class="not-found-submit">Search</button>
+      </form>
+      
+      <div class="not-found-actions">
+        <router-link :to="{ name: 'home' }" class="std-chip link-no-ul">Back to Home</router-link>
+      </div>
     </div>
   </div>
 </template>
 
 <script setup lang="ts">
-import { computed, onMounted } from 'vue'
-import { useRoute } from 'vue-router'
+import { ref, computed, onMounted } from 'vue'
+import { useRouter, useRoute } from 'vue-router'
 import { useResolutions } from '../composables/useResolutions'
+import { useMeetings } from '../composables/useMeetings'
 import { asciidocify } from '../utils/asciidoc'
 
+const router = useRouter()
 const route = useRoute()
 const { resolutions, isLoaded, loadData } = useResolutions()
+const { getMeetingResolutions, loadData: loadMeetingsData, isLoaded: isMeetingsLoaded } = useMeetings()
+
+const searchInput = ref('')
 
 onMounted(() => {
   loadData()
+  loadMeetingsData()
 })
 
 const resolution = computed(() => {
@@ -157,6 +205,29 @@ const resolution = computed(() => {
   }
   return null
 })
+
+const meetingResolutions = computed(() => {
+  if (!isMeetingsLoaded.value || !resolution.value || !resolution.value.source_file) return []
+  return getMeetingResolutions(resolution.value.source_file)
+})
+
+const prevResolution = computed(() => {
+  if (meetingResolutions.value.length === 0 || !resolution.value) return null
+  const idx = meetingResolutions.value.findIndex(r => r.id === resolution.value?.id)
+  return idx > 0 ? meetingResolutions.value[idx - 1] : null
+})
+
+const nextResolution = computed(() => {
+  if (meetingResolutions.value.length === 0 || !resolution.value) return null
+  const idx = meetingResolutions.value.findIndex(r => r.id === resolution.value?.id)
+  return idx !== -1 && idx < meetingResolutions.value.length - 1 ? meetingResolutions.value[idx + 1] : null
+})
+
+function submitSearch() {
+  if (searchInput.value) {
+    router.push({ name: 'home', query: { q: searchInput.value } })
+  }
+}
 
 function formatDate(dateStr: string) {
   if (!dateStr) return ''
@@ -391,6 +462,68 @@ function formatDate(dateStr: string) {
   gap: 0.5rem;
 }
 
+.res-navigation {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-top: 4rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--color-slate-200);
+}
+.dark .res-navigation { border-top-color: var(--color-slate-800); }
+
+.res-nav-card {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  background: var(--color-slate-50);
+  border: 1px solid var(--color-slate-100);
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+.dark .res-nav-card {
+  background: rgba(30, 41, 59, 0.5);
+  border-color: var(--color-slate-800);
+}
+.res-nav-card:hover {
+  background: white;
+  border-color: var(--color-blue-accent);
+  box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);
+  transform: translateY(-2px);
+}
+.dark .res-nav-card:hover {
+  background: var(--color-slate-900);
+  border-color: #66a3e0;
+}
+
+.res-nav-card--prev { text-align: left; }
+.res-nav-card--next { text-align: right; }
+
+.res-nav-empty { flex: 1; }
+
+.res-nav-label {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--color-slate-500);
+  margin-bottom: 0.25rem;
+}
+.res-nav-card--next .res-nav-label { justify-content: flex-end; }
+
+.res-nav-id {
+  font-weight: 600;
+  color: var(--color-slate-900);
+  font-size: 1.125rem;
+}
+.dark .res-nav-id { color: white; }
+.res-nav-card:hover .res-nav-id { color: var(--color-blue-accent); }
+.dark .res-nav-card:hover .res-nav-id { color: #66a3e0; }
+
 .res-loading {
   display: flex;
   flex-direction: column;
@@ -414,6 +547,8 @@ function formatDate(dateStr: string) {
   background: white;
   border-radius: 1rem;
   border: 1px dashed var(--color-slate-200);
+  max-width: 36rem;
+  width: 100%;
 }
 .dark .empty-state {
   background: var(--color-slate-900);
@@ -435,8 +570,50 @@ function formatDate(dateStr: string) {
 .dark .empty-state h3 { color: white; }
 .empty-state p {
   color: var(--color-slate-500);
-  margin-bottom: 1.5rem;
+  margin-bottom: 2rem;
 }
+
+.not-found-search {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 2rem;
+  width: 100%;
+}
+
+.not-found-input {
+  flex: 1;
+  padding: 0.75rem 1rem;
+  border-radius: 0.5rem;
+  border: 1px solid var(--color-slate-300);
+  background: white;
+  color: var(--color-slate-900);
+  font-size: 1rem;
+}
+.dark .not-found-input {
+  background: var(--color-slate-800);
+  border-color: var(--color-slate-700);
+  color: white;
+}
+
+.not-found-submit {
+  padding: 0.75rem 1.5rem;
+  border-radius: 0.5rem;
+  background: var(--color-blue-accent);
+  color: white;
+  font-weight: 600;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+.not-found-submit:hover {
+  background: #005090;
+}
+
+.not-found-actions {
+  display: flex;
+  justify-content: center;
+}
+
 .link-no-ul { text-decoration: none; display: inline-block; }
 
 /* Skeleton Loading */
