@@ -29,18 +29,18 @@
 
         <!-- Theme Toggle -->
         <button @click="toggleTheme" type="button" class="site-header__icon-btn" aria-label="Toggle dark mode">
-          <svg v-if="!isDark" style="width: 20px; height: 20px;" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <svg v-if="!isDark" class="header-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z" />
           </svg>
-          <svg v-else style="width: 20px; height: 20px;" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <svg v-else class="header-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z" />
           </svg>
         </button>
 
         <!-- Mobile Menu Toggle -->
         <button @click="isMobileMenuOpen = !isMobileMenuOpen" type="button" class="site-header__icon-btn site-header__icon-btn--mobile" aria-label="Menu">
-          <svg v-if="!isMobileMenuOpen" style="width: 20px; height: 20px;" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"/></svg>
-          <svg v-else style="width: 20px; height: 20px;" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/></svg>
+          <svg v-if="!isMobileMenuOpen" class="header-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"/></svg>
+          <svg v-else class="header-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/></svg>
         </button>
       </div>
     </div>
@@ -50,7 +50,7 @@
       <router-link :to="{ name: 'home' }" class="mobile-menu__link" @click="isMobileMenuOpen = false">Resolutions</router-link>
       <router-link :to="{ name: 'meetings' }" class="mobile-menu__link" @click="isMobileMenuOpen = false">Meetings</router-link>
       
-      <span class="mobile-menu__section-title" style="margin-top:1rem;">External Links</span>
+      <span class="mobile-menu__section-title">External Links</span>
       <a href="https://committee.iso.org/home/tc184sc4" target="_blank" rel="noopener noreferrer" class="mobile-menu__link">ISO Committee</a>
       <a href="https://www.linkedin.com/company/iso-tc-184-sc-4-standards-for-industrial-data/" target="_blank" rel="noopener noreferrer" class="mobile-menu__link">LinkedIn</a>
       <a href="https://github.com/ISO-TC184-SC4" target="_blank" rel="noopener noreferrer" class="mobile-menu__link">GitHub</a>
@@ -58,7 +58,11 @@
   </header>
 
   <main class="site-main">
-    <router-view />
+    <router-view v-slot="{ Component }">
+      <transition name="page" mode="out-in">
+        <component :is="Component" />
+      </transition>
+    </router-view>
   </main>
 
   <footer class="site-footer">

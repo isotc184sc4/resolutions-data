@@ -1,55 +1,72 @@
 <template>
   <div class="res-page">
-    <div v-if="!isLoaded" style="padding-top: 2.5rem; text-align: center;">
-      <div class="loading-pulse">
-        <div class="loading-pulse__line"></div>
-        <div class="loading-pulse__line" style="width: 16rem; height: 2rem;"></div>
+    <div v-if="!isLoaded" class="loading-container">
+      <div class="skeleton-header">
+        <div class="skeleton-link"></div>
+        <div class="skeleton-badges">
+          <div class="skeleton-badge"></div>
+          <div class="skeleton-badge w-24"></div>
+        </div>
+        <div class="skeleton-title-large"></div>
+        <div class="skeleton-subtitle"></div>
+      </div>
+      <div class="skeleton-grid mt-8">
+        <div v-for="n in 3" :key="n" class="skeleton-card">
+          <div class="skeleton-badge"></div>
+          <div class="skeleton-title"></div>
+          <div class="skeleton-text"></div>
+        </div>
       </div>
     </div>
-    <div v-else-if="!meeting" class="empty-state" style="margin-top: 2rem;">
+    <div v-else-if="!meeting" class="empty-state">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="empty-state__icon"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="8" x2="12" y2="12"></line><line x1="12" y1="16" x2="12.01" y2="16"></line></svg>
       <h3>Meeting not found</h3>
       <p>The meeting you are looking for does not exist.</p>
-      <router-link :to="{ name: 'meetings' }" class="std-chip" style="margin-top: 1rem; display: inline-block; text-decoration: none;">Back to Meetings</router-link>
+      <router-link :to="{ name: 'meetings' }" class="std-chip btn-mt link-no-ul">Back to Meetings</router-link>
     </div>
     <template v-else>
-      <header class="res-page__header" style="margin-top: 1rem;">
-        <router-link :to="{ name: 'meetings' }" class="back-link group" style="display: flex; align-items: center; gap: 0.5rem; font-size: 0.875rem; color: var(--color-slate-500); text-decoration: none; margin-bottom: 1.5rem; width: max-content;">
-          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="back-link__icon" style="transition: transform 0.2s;"><path d="m15 18-6-6 6-6"/></svg>
+      <header class="res-page__header header-mt animate-up" style="--nth: 1">
+        <router-link :to="{ name: 'meetings' }" class="back-link group">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="back-link__icon"><path d="m15 18-6-6 6-6"/></svg>
           Back to Meetings
         </router-link>
         
-        <div style="margin-bottom: 0.75rem; display: flex; flex-wrap: wrap; gap: 0.5rem;">
-          <span class="std-results__badge" style="background: var(--color-slate-100); color: var(--color-slate-700);">{{ meeting.year }}</span>
+        <div class="header-badges">
+          <span class="std-results__badge badge-year">{{ meeting.year }}</span>
           <span v-if="meeting.meeting_date" class="std-results__badge">{{ formatDate(meeting.meeting_date) }}</span>
         </div>
         
         <h1 class="meeting-detail__title">{{ meeting.venue || 'Virtual Meeting' }}</h1>
-        <p class="res-page__subtitle" style="max-width: 48rem;">{{ meeting.source_title }}</p>
+        <p class="res-page__subtitle subtitle-max-w">{{ meeting.source_title }}</p>
       </header>
 
-      <div class="std-filter__meta" style="border-bottom: 1px solid var(--color-slate-200); padding-bottom: 1rem; margin-bottom: 2rem;">
-        <h2 style="font-family: var(--font-serif); font-size: 1.25rem;">{{ meeting.resolution_count }} Resolutions</h2>
+      <div class="section-meta animate-up" style="--nth: 2">
+        <h2 class="section-meta-title">{{ meeting.resolution_count }} Resolutions</h2>
       </div>
 
       <div class="std-results">
         <router-link 
-          v-for="res in meetingResolutions" 
+          v-for="(res, index) in meetingResolutions" 
           :key="res.id" 
-          :to="`/resolution/${res.id}`"
-          class="std-results__card meeting-card"
+          :to="{ name: 'resolution-detail', params: { id: res.id } }"
+          class="std-results__card meeting-card animate-card"
+          :style="`--nth: ${index}`"
         >
           <div class="std-results__name">
-            <span v-if="res.is_acclamation" class="std-results__type" style="background:#6366f1;color:#fff;font-size:0.75rem;">Acclamation</span>
+            <span v-if="res.is_acclamation" class="std-results__type type-acclamation">Acclamation</span>
             <template v-else>
               <span>{{ res.id }}</span>
               <span class="std-results__type">Plenary</span>
             </template>
           </div>
           <div class="std-results__title meeting-card__title">{{ res.is_acclamation ? 'Acclamation' : (res.title || 'Resolution ' + res.id) }}</div>
-          <div v-if="res.snippet" class="std-results__snippet" style="font-size:0.875rem;color:var(--color-slate-500);margin-top:0.25rem;">{{ res.snippet }}</div>
+          <div v-if="res.snippet" class="std-results__snippet snippet-text">{{ res.snippet }}</div>
           
-          <div style="display:flex;gap:0.375rem;align-items:center;flex-wrap:wrap;margin-top:auto;padding-top:1rem;">
-            <span v-if="res.subject" class="std-results__badge truncate-text" style="max-width: 100%; background:var(--color-slate-100);color:var(--color-slate-700);">{{ res.subject }}</span>
+          <div class="card-footer">
+            <span v-if="res.subject" class="std-results__badge badge-subject truncate-text">{{ res.subject }}</span>
+            <div class="card-hover-arrow">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+            </div>
           </div>
         </router-link>
       </div>
@@ -91,17 +108,45 @@ function formatDate(dateStr: string) {
 </script>
 
 <style scoped>
+/* Animations */
+.animate-up {
+  opacity: 0;
+  transform: translateY(20px);
+  animation: fadeUp 0.6s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+  animation-delay: calc(var(--nth) * 0.1s);
+}
+
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-card {
+  opacity: 0;
+  transform: translateY(15px);
+  animation: fadeUp 0.5s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+  animation-delay: calc(var(--nth) * 0.05s);
+}
+
 .empty-state {
   text-align: center;
   padding: 4rem 1rem;
   background: white;
   border-radius: 1rem;
   border: 1px dashed var(--color-slate-200);
+  margin-top: 2rem;
 }
 .dark .empty-state {
   background: var(--color-slate-900);
   border-color: var(--color-slate-800);
 }
+.empty-state__icon {
+  width: 3rem;
+  height: 3rem;
+  margin: 0 auto 1rem;
+  color: var(--color-slate-300);
+}
+.dark .empty-state__icon { color: var(--color-slate-600); }
 .empty-state h3 {
   font-family: var(--font-serif);
   font-size: 1.25rem;
@@ -110,22 +155,115 @@ function formatDate(dateStr: string) {
 }
 .dark .empty-state h3 { color: white; }
 .empty-state p { color: var(--color-slate-500); }
+.btn-mt { margin-top: 1rem; }
+.link-no-ul { display: inline-block; text-decoration: none; }
+
+.header-mt { margin-top: 1rem; }
+
+.header-badges {
+  margin-bottom: 0.75rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.badge-year {
+  background: var(--color-slate-100);
+  color: var(--color-slate-700);
+}
+.dark .badge-year {
+  background: var(--color-slate-800);
+  color: var(--color-slate-300);
+}
+
+.subtitle-max-w { max-width: 48rem; }
+
+.section-meta {
+  border-bottom: 1px solid var(--color-slate-200);
+  padding-bottom: 1rem;
+  margin-bottom: 2rem;
+}
+.dark .section-meta {
+  border-bottom-color: var(--color-slate-800);
+}
+
+.section-meta-title {
+  font-family: var(--font-serif);
+  font-size: 1.25rem;
+  color: var(--color-slate-800);
+}
+.dark .section-meta-title { color: var(--color-slate-200); }
 
 .meeting-card {
-  transition: transform 0.2s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+  transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.3s cubic-bezier(0.16, 1, 0.3, 1), border-color 0.3s;
 }
 .meeting-card:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+  transform: translateY(-4px);
+  box-shadow: 0 12px 20px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1);
+  border-color: var(--color-blue-accent);
 }
 .dark .meeting-card:hover {
-  box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.4), 0 4px 6px -4px rgb(0 0 0 / 0.4);
+  box-shadow: 0 12px 20px -5px rgb(0 0 0 / 0.4), 0 8px 10px -6px rgb(0 0 0 / 0.4);
 }
 .meeting-card__title {
-  transition: color 0.2s;
+  transition: color 0.3s;
+  font-weight: 600;
+  font-size: 1rem !important;
+  color: var(--color-slate-900) !important;
+}
+.dark .meeting-card__title {
+  color: white !important;
 }
 .meeting-card:hover .meeting-card__title {
+  color: var(--color-blue-accent) !important;
+}
+
+.type-acclamation {
+  background: #6366f1 !important;
+  color: #fff !important;
+  font-size: 0.75rem !important;
+}
+
+.snippet-text {
+  font-size: 0.875rem;
+  color: var(--color-slate-500);
+  margin-top: 0.25rem;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.card-footer {
+  display: flex;
+  gap: 0.375rem;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-top: auto;
+  padding-top: 1rem;
+}
+
+.badge-subject {
+  max-width: 100%;
+  background: var(--color-slate-100);
+  color: var(--color-slate-700);
+}
+.dark .badge-subject {
+  background: var(--color-slate-800);
+  color: var(--color-slate-300);
+}
+
+.card-hover-arrow {
+  margin-left: auto;
   color: var(--color-blue-accent);
+  opacity: 0;
+  transform: translateX(-10px);
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.meeting-card:hover .card-hover-arrow {
+  opacity: 1;
+  transform: translateX(0);
 }
 
 .truncate-text {
@@ -149,32 +287,111 @@ function formatDate(dateStr: string) {
 }
 .dark .meeting-detail__title { color: white; }
 
+.back-link {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.875rem;
+  color: var(--color-slate-500);
+  text-decoration: none;
+  margin-bottom: 1.5rem;
+  width: max-content;
+  transition: color 0.2s;
+}
 .back-link:hover {
   color: var(--color-slate-900);
 }
 .dark .back-link:hover {
   color: white;
 }
+.back-link__icon {
+  transition: transform 0.2s;
+}
 .back-link:hover .back-link__icon {
   transform: translateX(-4px);
 }
 
-.loading-pulse {
+/* Skeleton Loading */
+.loading-container {
+  padding-top: 2.5rem;
+  width: 100%;
+}
+
+.skeleton-header {
   display: flex;
   flex-direction: column;
-  align-items: center;
   gap: 1rem;
-  animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
 }
-.loading-pulse__line {
+
+.skeleton-link {
+  width: 8rem;
   height: 1rem;
-  width: 6rem;
+}
+
+.skeleton-badges {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.skeleton-title-large {
+  width: 60%;
+  height: 3rem;
+  margin-top: 0.5rem;
+}
+
+.skeleton-subtitle {
+  width: 80%;
+  height: 1.5rem;
+}
+
+.skeleton-link, .skeleton-title-large, .skeleton-subtitle, .skeleton-badge, .skeleton-title, .skeleton-text {
   background-color: var(--color-slate-200);
   border-radius: 0.25rem;
+  animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
 }
-.dark .loading-pulse__line {
-  background-color: var(--color-slate-700);
+.dark .skeleton-link, .dark .skeleton-title-large, .dark .skeleton-subtitle, .dark .skeleton-badge, .dark .skeleton-title, .dark .skeleton-text {
+  background-color: var(--color-slate-800);
 }
+
+.skeleton-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 0.75rem;
+}
+.mt-8 { margin-top: 2rem; }
+
+.skeleton-card {
+  padding: 1rem;
+  background: white;
+  border-radius: 0.75rem;
+  border: 1px solid var(--color-slate-200);
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+.dark .skeleton-card {
+  background: rgb(15 23 42 / 0.4);
+  border-color: var(--color-slate-800);
+}
+
+.skeleton-badge {
+  height: 1rem;
+  width: 5rem;
+  border-radius: 9999px;
+}
+.w-24 { width: 6rem; }
+
+.skeleton-title {
+  height: 1.5rem;
+  width: 80%;
+}
+
+.skeleton-text {
+  height: 1rem;
+  width: 100%;
+  margin-top: auto;
+}
+
 @keyframes pulse {
   0%, 100% { opacity: 1; }
   50% { opacity: .5; }
