@@ -1,5 +1,5 @@
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Fukuoka, Japan, September 30, 2001 – October 5, 2001
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Fukuoka, Japan, September 30, 2001 -- October 5, 2001
   dates:
   - start: '2001-09-30'
     end: '2001-10-05'
@@ -233,11 +233,11 @@ resolutions:
 
       process, and to identify the changes required to the following documents:
 
-       Guidelines for the contents of Application Modules
+      • Guidelines for the contents of Application Modules
 
-       Application Module development points within AP development process
+      • Application Module development points within AP development process
 
-       Guidelines for the contents of APs that use Application Modules
+      • Guidelines for the contents of APs that use Application Modules
 
       The work should address issues related to configuration management and the context,
 
@@ -356,13 +356,13 @@ resolutions:
       kind: effective
 - identifier: '519'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: ISA SP95 – Enterprise Control Integration
+  title: ISA SP95 -- Enterprise Control Integration
   dates:
   - start: '2001-10-15'
     kind: decision
   actions:
   - type: resolves
-    message: ISA SP95 – Enterprise Control Integration
+    message: ISA SP95 -- Enterprise Control Integration
     dates:
     - start: '2001-10-15'
       kind: effective

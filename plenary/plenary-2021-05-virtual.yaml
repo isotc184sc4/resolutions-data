@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Virtual, May 10, 2021 – May 14, 2021
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Virtual, May 10, 2021 -- May 14, 2021
   dates:
   - start: '2021-05-10'
     end: '2021-05-14'
@@ -179,13 +179,13 @@ resolutions:
       kind: effective
 - identifier: '1066'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: 'Change to project duration of ISO 8000-110 edition 2 – Master data: Exchange of'
+  title: 'Change to project duration of ISO 8000-110 edition 2 -- Master data: Exchange of'
   dates:
   - start: '2021-05-15'
     kind: decision
   actions:
   - type: resolves
-    message: 'Change to project duration of ISO 8000-110 edition 2 – Master data: Exchange of
+    message: 'Change to project duration of ISO 8000-110 edition 2 -- Master data: Exchange of
 
       characteristic data: Syntax, semantic encoding, and conformance to data specification'
     dates:
@@ -248,15 +248,15 @@ resolutions:
 
       ISO/TC 184/SC 4:
 
-       Accepts the recommendations identified in the report,
+      * Accepts the recommendations identified in the report,
 
-       Thanks the Ad Hoc Group members for their work,
+      * Thanks the Ad Hoc Group members for their work,
 
-       Requests ISO/TC 184/SC 4 circulate AhG01/N34 “Core terminology for industrial
+      * Requests ISO/TC 184/SC 4 circulate AhG01/N34 “Core terminology for industrial
 
       data” in a CIB for an ISO Technical Report,
 
-       Launches an advisory group entitled “Core terminology for industrial data” to:
+      * Launches an advisory group entitled “Core terminology for industrial data” to:
 
       o Interpret/map the core terminology to the different Top Level Ontologies
 
@@ -276,9 +276,9 @@ resolutions:
 
       decision makers,
 
-       Nominates Nils Sandsmark as convener of the advisory group, and
+      * Nominates Nils Sandsmark as convener of the advisory group, and
 
-       Retains existing members and invites member bodies to nominate additional
+      * Retains existing members and invites member bodies to nominate additional
 
       experts to the advisory group.'
     dates:
@@ -380,9 +380,9 @@ resolutions:
 
       Leaders, and allocating the work to WG 12 with the following target dates:
 
-       DIS Submission: 2021-11-30
+      * DIS Submission: 2021-11-30
 
-       Publication: 2022-04-30'
+      * Publication: 2022-04-30'
     dates:
     - start: '2021-05-15'
       kind: effective
@@ -417,11 +417,11 @@ resolutions:
 
       210 ed4 noting the schedule for FDIS ballot as:
 
-       ISO 10303-242: 2021-07-16
+      * ISO 10303-242: 2021-07-16
 
-       ISO 10303-210: 2021-08-16
+      * ISO 10303-210: 2021-08-16
 
-       ISO 10303-238: 2021-08-16'
+      * ISO 10303-238: 2021-08-16'
     dates:
     - start: '2021-05-15'
       kind: effective
@@ -452,15 +452,15 @@ resolutions:
 
       terms of reference:
 
-       Define the opportunity space for UUID in context of SC 4 standards,
+      * Define the opportunity space for UUID in context of SC 4 standards,
 
-       Identify use cases for UUID in industrial data,
+      * Identify use cases for UUID in industrial data,
 
-       Provide recommendations to SC 4 on the scope and applicability of UUIDs to SC
+      * Provide recommendations to SC 4 on the scope and applicability of UUIDs to SC
 
       4 standards,
 
-       Provide a report to SC 4 upon completion'
+      * Provide a report to SC 4 upon completion'
     dates:
     - start: '2021-05-15'
       kind: effective
@@ -530,31 +530,31 @@ resolutions:
 
       documents.
 
-       Deprecate SC4 N2412 “Supplementary directives — Rules for the structure and
+      * Deprecate SC4 N2412 “Supplementary directives — Rules for the structure and
 
       drafting of SC 4 standards for industrial data”
 
-       Add SC 4 N3567 “SC 4 Supplementary directives — Rules for the structure and
+      * Add SC 4 N3567 “SC 4 Supplementary directives — Rules for the structure and
 
       drafting of SC 4 standards for industrial data”
 
-       Deprecate SC4 N3422 “STEP extended architecture high-level description”
+      * Deprecate SC4 N3422 “STEP extended architecture high-level description”
 
-       Add SC4 N3501 “STEP extended architecture high-level description”
+      * Add SC4 N3501 “STEP extended architecture high-level description”
 
-       Deprecate SC4 N3433 “STEP extended architecture high-level requirements”
+      * Deprecate SC4 N3433 “STEP extended architecture high-level requirements”
 
-       Add SC4 N3502 “STEP extended architecture high-level requirements”
+      * Add SC4 N3502 “STEP extended architecture high-level requirements”
 
-       Deprecate SC4 N3424 “STEP extended architecture detailed STEPlib
+      * Deprecate SC4 N3424 “STEP extended architecture detailed STEPlib
 
       specifications”
 
-       Add SC4 N3503 “STEP extended architecture detailed STEPlib specifications”
+      * Add SC4 N3503 “STEP extended architecture detailed STEPlib specifications”
 
-       Deprecate SC4 N3425 “STEP extended architecture publication design”
+      * Deprecate SC4 N3425 “STEP extended architecture publication design”
 
-       Add SC4 N3504 “STEP extended architecture publication design”
+      * Add SC4 N3504 “STEP extended architecture publication design”
 
       Note: The Handbook has not been updated to account for recent deviations to ISO
 
@@ -594,15 +594,15 @@ resolutions:
 
       standards in a database format and the final report delivered by WG 13, SC 4:
 
-       Thanks WG 13/23 and all participants that contributed to the innovation,
+      * Thanks WG 13/23 and all participants that contributed to the innovation,
 
-       Accepts the final report,
+      * Accepts the final report,
 
-       Endorses the recommendations noted to ISO/TMB,
+      * Endorses the recommendations noted to ISO/TMB,
 
-       Requests ISO/CS continue to support the existing process for ISO 8000-2, and
+      * Requests ISO/CS continue to support the existing process for ISO 8000-2, and
 
-       Concludes this Living Lab.'
+      * Concludes this Living Lab.'
     dates:
     - start: '2021-05-15'
       kind: effective
@@ -623,15 +623,15 @@ resolutions:
 
       Living Lab for ISO 15926-4 Uniform Resource Locators and the final report, SC 4:
 
-       Thanks WG 3 and all participants that contributed to the innovation,
+      * Thanks WG 3 and all participants that contributed to the innovation,
 
-       Accepts the final report,
+      * Accepts the final report,
 
-       Endorses the recommendations noted to ISO/TMB,
+      * Endorses the recommendations noted to ISO/TMB,
 
-       Requests ISO CS continue to support the existing process for ISO 15926-4, and
+      * Requests ISO CS continue to support the existing process for ISO 15926-4, and
 
-       Concludes this Living Lab.
+      * Concludes this Living Lab.
 
       ACCLAMATION'
     dates:
@@ -695,13 +695,13 @@ resolutions:
 
       Plenary.
 
-       ISO/TC 171/SC 2
+      * ISO/TC 171/SC 2
 
-       IEC/SC 3D
+      * IEC/SC 3D
 
-       ISO/IEC/JTC 1/SC 24 and Web 3D Consortium
+      * ISO/IEC/JTC 1/SC 24 and Web 3D Consortium
 
-       Khronos Group
+      * Khronos Group
 
       ACCLAMATION'
     dates:

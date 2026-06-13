@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Turin, Italy, February 26, 1993 – March 8, 1993
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Turin, Italy, February 26, 1993 -- March 8, 1993
   dates:
   - start: '1993-02-26'
     end: '1993-03-08'

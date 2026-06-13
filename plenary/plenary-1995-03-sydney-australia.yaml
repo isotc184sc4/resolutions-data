@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Sydney, Australia, March 19, 1995 – March 29, 1995
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Sydney, Australia, March 19, 1995 -- March 29, 1995
   dates:
   - start: '1995-03-19'
     end: '1995-03-29'

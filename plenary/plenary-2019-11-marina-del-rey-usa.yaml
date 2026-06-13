@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Marina del Rey, United States, November 3, 2019 – November 8, 2019
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Marina del Rey, United States, November 3, 2019 -- November 8, 2019
   dates:
   - start: '2019-11-03'
     end: '2019-11-08'
@@ -688,29 +688,29 @@ resolutions:
       provided:
 
 
-       ECCMA
+      * ECCMA
 
       Peter Eales
 
-       ECCMA
+      * ECCMA
 
       Peter Benson
 
-       ISO/IEC JTC 1/SC  24 & Web3D Christophe Mouton
+      * ISO/IEC JTC 1/SC  24 & Web3D Christophe Mouton
 
-       TC 37/SC 3
-
-      Written
-
-       TC 59/SC 13
+      * TC 37/SC 3
 
       Written
 
-       TC 172/SC 1
+      * TC 59/SC 13
 
       Written
 
-       TC 171/SC 2
+      * TC 172/SC 1
+
+      Written
+
+      * TC 171/SC 2
 
       Written
 
@@ -723,15 +723,15 @@ resolutions:
 
       participation in the Open Technical Forum:
 
-       SMRL Workshop Report Out: Kenny Swope
+      * SMRL Workshop Report Out: Kenny Swope
 
-       Modelling Language of the SC: Jean Brange’
+      * Modelling Language of the SC: Jean Brange’
 
-       Ad Hoc Group on Ontology: David Leal
+      * Ad Hoc Group on Ontology: David Leal
 
-       Common Ontology for Industrial Data Standards: Yves Keraron
+      * Common Ontology for Industrial Data Standards: Yves Keraron
 
-       UML for 15926: Paul van Exel
+      * UML for 15926: Paul van Exel
 
       ACCLAMATION'
     dates:
@@ -744,36 +744,36 @@ resolutions:
 
       Opening:
 
-       Kenneth Swope, The Boeing Company
+      * Kenneth Swope, The Boeing Company
 
       Sponsor:
 
-       Jack Harris, PDES, Inc.
+      * Jack Harris, PDES, Inc.
 
       Presenters:
 
-       Dr. Micheal Grieves, Florida Institute of Technology
+      * Dr. Micheal Grieves, Florida Institute of Technology
 
-       Dr. John Dong, The Boeing Company
+      * Dr. John Dong, The Boeing Company
 
-       Dr. Martin Hardwick, STEP Tools
+      * Dr. Martin Hardwick, STEP Tools
 
-       Marion Toussaint, NIST
+      * Marion Toussaint, NIST
 
       Panel Discussion:
 
-       Dr. Sangkeun Yoo, ETRI
+      * Dr. Sangkeun Yoo, ETRI
 
 
-       Paul Nelson, Northrop Grumman Corporation
+      * Paul Nelson, Northrop Grumman Corporation
 
-       Alan T. Johnston, MIMOSA
+      * Alan T. Johnston, MIMOSA
 
       Facilitators:
 
-       Melissa Harvey, The Boeing Company
+      * Melissa Harvey, The Boeing Company
 
-       Brandon Sapp, The Boeing Company
+      * Brandon Sapp, The Boeing Company
 
       ACCLAMATION'
     dates:

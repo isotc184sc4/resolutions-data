@@ -1,5 +1,5 @@
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Belfort, France, November 2, 2014 – November 7, 2014
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Belfort, France, November 2, 2014 -- November 7, 2014
   dates:
   - start: '2014-11-02'
     end: '2014-11-07'
@@ -86,17 +86,17 @@ resolutions:
   - type: requests
     message: 'SC 4 requests its Secretariat to apply the 2-month duration to NPs for:
 
-       18828-3 Information Flows within Production Systems Engineering;
+      * 18828-3 Information Flows within Production Systems Engineering;
 
-       15926-6e2 Scope and Representation for Additional Reference Data –
+      * 15926-6e2 Scope and Representation for Additional Reference Data –
 
       OWL Extension;
 
-       15926-10 Conformance Testing;
+      * 15926-10 Conformance Testing;
 
-       15926: Initial Reference Data for the Maritime Industry;
+      * 15926: Initial Reference Data for the Maritime Industry;
 
-       15926 Integrated Lifecycle Asset Planning.'
+      * 15926 Integrated Lifecycle Asset Planning.'
     dates:
     - start: '2014-11-15'
       kind: effective
@@ -341,7 +341,7 @@ resolutions:
     - start: '2014-11-15'
       kind: effective
   - type: appreciation
-    message: 'SC 4 expresses its appreciation to AFNOR – Association Française de Normalisation
+    message: 'SC 4 expresses its appreciation to AFNOR -- Association Française de Normalisation
 
       and the University De Technologie De Belfort-Montbeliard for their hosting and support
 

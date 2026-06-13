@@ -1,5 +1,5 @@
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Seoul, Korea, November 3, 2002 – November 8, 2002
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Seoul, Korea, November 3, 2002 -- November 8, 2002
   dates:
   - start: '2002-11-03'
     end: '2002-11-08'
@@ -259,7 +259,7 @@ resolutions:
 
       and the proposed project for development of “Mechanical systems and components for
 
-      general use – Reference dictionary for fasteners” as part 511 of ISO 13584. In
+      general use -- Reference dictionary for fasteners” as part 511 of ISO 13584. In
 
       particular, SC 4 recommends national member bodies to establish links with the
 
@@ -372,13 +372,13 @@ resolutions:
       kind: effective
 - identifier: '555'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: on ISO/IEC 62264 – AP
+  title: on ISO/IEC 62264 -- AP
   dates:
   - start: '2002-11-15'
     kind: decision
   actions:
   - type: resolves
-    message: SC 4 position on ISO/IEC 62264 – AP
+    message: SC 4 position on ISO/IEC 62264 -- AP
     dates:
     - start: '2002-11-15'
       kind: effective

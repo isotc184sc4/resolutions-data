@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Greenville, United States, October 21, 1994 – October 31, 1994
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Greenville, United States, October 21, 1994 -- October 31, 1994
   dates:
   - start: '1994-10-21'
     end: '1994-10-31'

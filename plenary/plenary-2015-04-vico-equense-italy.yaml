@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Vico Equense, Italy, April 19, 2015 – April 24, 2015
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Vico Equense, Italy, April 19, 2015 -- April 24, 2015
   dates:
   - start: '2015-04-19'
     end: '2015-04-24'
@@ -141,17 +141,17 @@ resolutions:
   - type: requests
     message: 'SC 4 requests its Secretariat to terminate its liaisons with the following organizations:
 
-       CEN/ISSS Workshop ELSSI-EMD
+      * CEN/ISSS Workshop ELSSI-EMD
 
-       United Nations Standard Products and Services Code (UNSPSC)
+      * United Nations Standard Products and Services Code (UNSPSC)
 
-       ISO PC 246 Anti-counterfeiting tools
+      * ISO PC 246 Anti-counterfeiting tools
 
-       ISO TC 8 - Ships and marine technology
+      * ISO TC 8 - Ships and marine technology
 
-       ISO TC 10/SC 8 - Construction documentation
+      * ISO TC 10/SC 8 - Construction documentation
 
-       ISO TC 60 – Gears'
+      * ISO TC 60 -- Gears'
     dates:
     - start: '2015-04-15'
       kind: effective
@@ -249,7 +249,7 @@ resolutions:
     - start: '2015-04-15'
       kind: effective
   - type: requests
-    message: 'SC 4 requests its Secretariat to launch the DIS ballot for ISO 18828-2 – “Reference
+    message: 'SC 4 requests its Secretariat to launch the DIS ballot for ISO 18828-2 -- “Reference
 
       process for seamless production planning - Standardized procedure for production
 
@@ -293,12 +293,12 @@ resolutions:
   - type: requests
     message: 'SC 4 requests its Secretariat to apply the 2-month duration to the proposed NPs for
 
-       Formal Semantic Models for the Configuration of Global Production Networks
+      * Formal Semantic Models for the Configuration of Global Production Networks
 
-      (SP-NET) – ISO 20534
+      (SP-NET) -- ISO 20534
 
 
-       Equivalence Validation'
+      * Equivalence Validation'
     dates:
     - start: '2015-04-15'
       kind: effective
@@ -369,20 +369,20 @@ resolutions:
 
       Plenary
 
-       TC 184 Liaison Report
+      * TC 184 Liaison Report
 
       Howard Mason
 
-       TC 184 Big Picture
+      * TC 184 Big Picture
 
       Christophe Mouton
 
-       MoU/MG
+      * MoU/MG
 
       Howard Mason
 
 
-       ISO/IEC JTC 1/WG 10 Working Group on IoT
+      * ISO/IEC JTC 1/WG 10 Working Group on IoT
 
       Soonhung Han
 

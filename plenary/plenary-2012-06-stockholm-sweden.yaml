@@ -1,5 +1,5 @@
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Stockholm, Sweden, June 10, 2012 – June 15, 2012
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Stockholm, Sweden, June 10, 2012 -- June 15, 2012
   dates:
   - start: '2012-06-10'
     end: '2012-06-15'
@@ -165,7 +165,7 @@ resolutions:
 
       Co-Deputy Leader: Dr. Anna Moreno, ENEA (Italy),
 
-      Co-Deputy Leader: Burton Gischner – General Dynamics Electric Boat (United
+      Co-Deputy Leader: Burton Gischner -- General Dynamics Electric Boat (United
 
       States)'
     dates:
@@ -237,13 +237,13 @@ resolutions:
       kind: effective
 - identifier: '838'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Result of ISO/DIS 14306 ballot – development of first edition
+  title: Result of ISO/DIS 14306 ballot -- development of first edition
   dates:
   - start: '2012-06-15'
     kind: decision
   actions:
   - type: resolves
-    message: Result of ISO/DIS 14306 ballot – development of first edition
+    message: Result of ISO/DIS 14306 ballot -- development of first edition
     dates:
     - start: '2012-06-15'
       kind: effective
@@ -277,13 +277,13 @@ resolutions:
       kind: effective
 - identifier: '839'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Result of ISO/DIS 14306 ballot – development of second edition
+  title: Result of ISO/DIS 14306 ballot -- development of second edition
   dates:
   - start: '2012-06-15'
     kind: decision
   actions:
   - type: resolves
-    message: Result of ISO/DIS 14306 ballot – development of second edition
+    message: Result of ISO/DIS 14306 ballot -- development of second edition
     dates:
     - start: '2012-06-15'
       kind: effective
@@ -308,19 +308,19 @@ resolutions:
 
       •
 
-      PLCS – Tor Arne Irgens
+      PLCS -- Tor Arne Irgens
 
       •
 
-      AP 242 Business Object Model – Max Ungerer
+      AP 242 Business Object Model -- Max Ungerer
 
       •
 
-      “Business Object Models for Industrial Data Standards” paper – Keith Hunten
+      “Business Object Models for Industrial Data Standards” paper -- Keith Hunten
 
       •
 
-      Business Objects Model & WEB Services IDEF0 – Jean Brange
+      Business Objects Model & WEB Services IDEF0 -- Jean Brange
 
       ACCLAMATION
 
@@ -330,7 +330,7 @@ resolutions:
 
       •
 
-      Liaison issues – Howard Mason
+      Liaison issues -- Howard Mason
 
       •
 
@@ -351,11 +351,11 @@ resolutions:
 
       USPI-NL - Maintenance Knowledge Management (MKM) project in
 
-      the Netherlands – Paul van Excel
+      the Netherlands -- Paul van Excel
 
       •
 
-      CFIHOS (Capital Facilities Information Hand Over Specification) – Paul van
+      CFIHOS (Capital Facilities Information Hand Over Specification) -- Paul van
 
       Exel We appreciate your representation to and for ISO TC 184/SC 4'
     dates:
@@ -371,61 +371,61 @@ resolutions:
 
       presenting on matters of interest to the SC 4 community.
 
-      
+      •
 
       Howard Mason, TC 184/SC 4
 
-      
+      •
 
       Per Forsgren, SIS
 
-      
+      •
 
       Mikael Hedlind, KTH
 
 
-      
+      •
 
       Dong Soo Ryu, KHNP
 
-      
+      •
 
       Bengt Olsson, Sandvik
 
-      
+      •
 
       Lothar Klein, LKSoft
 
-      
+      •
 
       Sven Hjelm, Scania
 
-      
+      •
 
       Lars Hanson, Scania
 
-      
+      •
 
       Mats Nilsson, FMV
 
-      
+      •
 
       Nils Sandsmark, DNV
 
-      
+      • 
 
 
-       Martin Hardwick, STEP Tools Inc.
+      * Martin Hardwick, STEP Tools Inc.
 
-      
+      •
 
       Sune Horkeby, Siemens
 
-      
+      •
 
       Paul van Exel,TC 184/SC 4
 
-      
+      •
 
       Hikmet Hussain, SIS
 

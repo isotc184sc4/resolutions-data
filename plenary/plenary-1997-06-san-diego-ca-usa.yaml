@@ -1,5 +1,5 @@
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, San Diego, United States, June 1, 1997 – June 11, 1997
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, San Diego, United States, June 1, 1997 -- June 11, 1997
   dates:
   - start: '1997-06-01'
     end: '1997-06-11'
@@ -199,19 +199,19 @@ resolutions:
 
       upon by both parties. That mode could include one or more of the following:
 
-       creating joint working group,
+      * creating joint working group,
 
-       establishing a memorandum of understanding,
+      * establishing a memorandum of understanding,
 
-       appointing people to actively liaise,
+      * appointing people to actively liaise,
 
-       exchanging information via E-mail,
+      * exchanging information via E-mail,
 
-       exchanging information by participating in the SC 4 Liaison Plenary,
+      * exchanging information by participating in the SC 4 Liaison Plenary,
 
-       exchanging documents,
+      * exchanging documents,
 
-       presenting topical or technical training sessions by either organization.
+      * presenting topical or technical training sessions by either organization.
 
       Establishing any liaisons must follow the ISO directives which distinguishes between
 
@@ -742,11 +742,11 @@ resolutions:
   - type: creates
     message: 'SC 4 creates an ad hoc group "Shared Enterprise Data" to:
 
-       Review the developments in other standards organisations related to data
+      * Review the developments in other standards organisations related to data
 
       modelling and standardisation of enterprise information
 
-       Establish an SC 4 position with respect to these activities that can be presented
+      * Establish an SC 4 position with respect to these activities that can be presented
 
       to other standards bodies and to the proposed coordinating group.
 

@@ -1,5 +1,5 @@
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Parksville, Canada, May 17, 2009 – May 22, 2009
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Parksville, Canada, May 17, 2009 -- May 22, 2009
   dates:
   - start: '2009-05-17'
     end: '2009-05-22'
@@ -458,21 +458,21 @@ resolutions:
 
       Outreach, which is now disbanded. The group has the following tasks:
 
-       Gather feed back from implementers
+      * Gather feed back from implementers
 
-       Gather success stories
+      * Gather success stories
 
-       Promote business benefits
+      * Promote business benefits
 
-       Promote awareness of capabilities
+      * Promote awareness of capabilities
 
-       Facilitate implementations
+      * Facilitate implementations
 
       o Test model/Testing procedure
 
-       Seek resources for sustainment
+      * Seek resources for sustainment
 
-       Provide education and outreach'
+      * Provide education and outreach'
     dates:
     - start: '2009-05-15'
       kind: effective
@@ -511,19 +511,19 @@ resolutions:
   - type: approves
     message: 'SC 4 approves a PWI on “Future SC 4 Architecture” to:
 
-       Explore the range of options for exploiting new technologies to support
+      * Explore the range of options for exploiting new technologies to support
 
       interoperability between SC4 standards, and the work of other
 
       committees, operating across a range of platforms
 
-       Recommend an overall architecture for future use by SC 4 standards
+      * Recommend an overall architecture for future use by SC 4 standards
 
-       Define migration paths for existing SC 4 capabilities
+      * Define migration paths for existing SC 4 capabilities
 
-       Identify specific licensing, commercial or other administrative barriers
+      * Identify specific licensing, commercial or other administrative barriers
 
-       Illustrate and validate any conclusions against a representative example'
+      * Illustrate and validate any conclusions against a representative example'
     dates:
     - start: '2009-05-15'
       kind: effective
@@ -571,30 +571,30 @@ resolutions:
 
       Plenary.
 
-       PDES, Inc – George Sebes
+      * PDES, Inc -- George Sebes
 
-       NATO AC/135 – Steve Arnett
+      * NATO AC/135 -- Steve Arnett
 
-       ISO/TC 154 – Ricardo Goncalves
+      * ISO/TC 154 -- Ricardo Goncalves
 
-       FSIG – Ricardo Goncalves
+      * FSIG -- Ricardo Goncalves
 
-       VAMAS – Anna Moreno
+      * VAMAS -- Anna Moreno
 
 
-       OASIS PLCS – Rob Bodington
+      * OASIS PLCS -- Rob Bodington
 
-       BuildingSMART – Thomas Liebich
+      * BuildingSMART -- Thomas Liebich
 
-       European project ORCHID WS – Paul van  Exel
+      * European project ORCHID WS -- Paul van  Exel
 
-       Work of the NAFEMS Simulation Data Management WG – Randy Cigel
+      * Work of the NAFEMS Simulation Data Management WG -- Randy Cigel
 
-       IEC liaisons – Hiroshi Murayama
+      * IEC liaisons -- Hiroshi Murayama
 
-       OMG – David Price
+      * OMG -- David Price
 
-       ECCMA – Peter Benson
+      * ECCMA -- Peter Benson
 
       We appreciate your representation to and for ISO TC 184/SC 4.
 
@@ -603,7 +603,7 @@ resolutions:
     - start: '2009-05-15'
       kind: effective
   - type: appreciation
-    message: 'SC 4 expresses its appreciation to ECCMA – Electronic Commerce Code
+    message: 'SC 4 expresses its appreciation to ECCMA -- Electronic Commerce Code
 
       Management Association for hosting and support of the 57th ISO TC 184/SC 4
 

@@ -1,5 +1,5 @@
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Stavanger, Norway, October 18, 2024 – October 25, 2024
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Stavanger, Norway, October 18, 2024 -- October 25, 2024
   dates:
   - start: '2024-10-18'
     end: '2024-10-25'
@@ -30,15 +30,15 @@ resolutions:
 
       ISO/NP 23726-2
 
-      Industrial automation systems and integration – Ontology based
+      Industrial automation systems and integration -- Ontology based
 
-      interoperability – Part 2: Vocabulary
+      interoperability -- Part 2: Vocabulary
 
       ☒
 
       ISO/NP 23726-100
 
-      Industrial automation systems and integration – Ontology based
+      Industrial automation systems and integration -- Ontology based
 
       interoperability - Part 100: Schedule data ontology
 
@@ -263,7 +263,7 @@ resolutions:
 
       allocates the work to WG 3 with the following terms of reference:
 
-       Update ISO/TS 15926-4 to ed.4 as presented to the Change Board during the 88th
+      * Update ISO/TS 15926-4 to ed.4 as presented to the Change Board during the 88th
 
       Plenary of SC4 on 22 Oct 2024 with the following schedule milestones:
 
@@ -287,15 +287,15 @@ resolutions:
 
       2026-05-07
 
-       Update the electronic inserts to ISO/TS 15926-4 ed.4 per SC4N2591, SC4N2984,
+      * Update the electronic inserts to ISO/TS 15926-4 ed.4 per SC4N2591, SC4N2984,
 
       and SC4N2986 standing documents,
 
-       Request national bodies to nominate their representatives and deputies to the
+      * Request national bodies to nominate their representatives and deputies to the
 
       Validation Team (VT) as noted in SC4N2541, and
 
-       To keep a register of the VT members for the practice of sending out notifications to
+      * To keep a register of the VT members for the practice of sending out notifications to
 
       vote and other administrative items.'
     dates:
@@ -337,25 +337,25 @@ resolutions:
 
       with nominations of the following experts to participate:
 
-       AFNOR: Frédéric Darré, Véronique Dubillot, Pierre Duchier, Jacques Heinisch,
+      * AFNOR: Frédéric Darré, Véronique Dubillot, Pierre Duchier, Jacques Heinisch,
 
-       ANSI: Rosemary Astheimer, Allison Barnard Feeney, Keith Hunten, Ben Urick,
+      * ANSI: Rosemary Astheimer, Allison Barnard Feeney, Keith Hunten, Ben Urick,
 
       Stuart Galt, Melissa Harvey, Michelle Drummond, Brian Bentrim, Benjamin
 
       Standfield, John Van Horn, Pat Walsh, Tom Thurman,
 
-       BSI: Robert Swindells,
+      * BSI: Robert Swindells,
 
-       DIN: Bernd Feldvoss, Guillaume Hirel, Lothar Klein, Max Ungerer,
+      * DIN: Bernd Feldvoss, Guillaume Hirel, Lothar Klein, Max Ungerer,
 
-       JISC: Hiroyuki Hiraoka, Fumiki Tanaka, Atsuto Soma,
+      * JISC: Hiroyuki Hiraoka, Fumiki Tanaka, Atsuto Soma,
 
-       SAC: Hyman Duan,
+      * SAC: Hyman Duan,
 
-       SIS: Mikael Hedlind, Bengt Olsson, Magnus Lundgren, Torbjörn Holm,
+      * SIS: Mikael Hedlind, Bengt Olsson, Magnus Lundgren, Torbjörn Holm,
 
-       SN: Nils Sandsmark,
+      * SN: Nils Sandsmark,
 
       Further, due to the special nature of ISO 10303–242 SC 4 requests ISO to grant a
 
@@ -394,15 +394,15 @@ resolutions:
 
       of reference:
 
-       Register a Preliminary Work Item ISO/PWI 23726-1 Overview and fundamental
+      * Register a Preliminary Work Item ISO/PWI 23726-1 Overview and fundamental
 
       principles,
 
-       Allocate the work to ISO/TC 184/SC 4/WG 26,
+      * Allocate the work to ISO/TC 184/SC 4/WG 26,
 
-       Nominate Melinda Hodkiewicz as the project leader, and
+      * Nominate Melinda Hodkiewicz as the project leader, and
 
-       Invites member bodies to nominate additional experts to the project.'
+      * Invites member bodies to nominate additional experts to the project.'
     dates:
     - start: '2024-10-15'
       kind: effective
@@ -427,11 +427,11 @@ resolutions:
 
       project from SDT 18 to SDT 36 with the following target dates for each stage:
 
-       Committee Draft: 2025-03-31
+      * Committee Draft: 2025-03-31
 
-       Draft Technical Report: 2025-08-31
+      * Draft Technical Report: 2025-08-31
 
-       Publication date: 2025-12-31'
+      * Publication date: 2025-12-31'
     dates:
     - start: '2024-10-15'
       kind: effective
@@ -468,11 +468,11 @@ resolutions:
   - type: resolves
     message: 'SC 4 resolves to modify the target dates for the project as follows:
 
-      
+      •
 
       Enquiry stage (DIS): 2025-12-30,
 
-      
+      •
 
       Publication stage: 2026-12-30.'
     dates:
@@ -520,13 +520,13 @@ resolutions:
 
       Wednesday.
 
-       Equinor
+      * Equinor
 
-       Aker BP
+      * Aker BP
 
-       DNV
+      * DNV
 
-       Standards Norway'
+      * Standards Norway'
     dates:
     - start: '2024-10-15'
       kind: decision
@@ -543,13 +543,13 @@ resolutions:
 
       2024-10-25.
 
-       Inghild Kaarstad, Standards Norway
+      * Inghild Kaarstad, Standards Norway
 
-       Knut Aune, Standards Norway
+      * Knut Aune, Standards Norway
 
-       Nils Sandsmark, Standards Norway
+      * Nils Sandsmark, Standards Norway
 
-       Heljar Ballo, Equinor'
+      * Heljar Ballo, Equinor'
     dates:
     - start: '2024-10-15'
       kind: decision

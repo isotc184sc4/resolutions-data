@@ -180,18 +180,18 @@ resolutions:
   - type: adopts
     message: 'SC 4 adopts the following policy with regard to format and layout of SC 4 standards:
 
-       Parts delivered to ISO in HTML shall follow the format and layout as given in
+      * Parts delivered to ISO in HTML shall follow the format and layout as given in
 
 
       the HTML Guidelines.
 
-       Parts delivered to ISO in PDF shall follow the appropriate format and layout
+      * Parts delivered to ISO in PDF shall follow the appropriate format and layout
 
       as given in the current clause 5, Format and layout of SC 4 standards, of the
 
       Supplementary Directives.
 
-       Parts delivered to ISO in Microsoft® Word shall be prepared with one of the
+      * Parts delivered to ISO in Microsoft® Word shall be prepared with one of the
 
       ISO templates for drafting standards.
 
@@ -273,11 +273,11 @@ resolutions:
 
       where the following criteria are satisfied:
 
-       it has been agreed that the standard, or the object defined within the
+      * it has been agreed that the standard, or the object defined within the
 
       standard, shall be freely available on the Web;
 
-       the Technical Committee provides the document that has the URL or
+      * the Technical Committee provides the document that has the URL or
 
       contains the URL as an object within it.'
     dates:

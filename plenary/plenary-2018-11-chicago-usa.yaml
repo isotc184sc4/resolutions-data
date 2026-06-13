@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Chicago, United States, November 4, 2018 – November 9, 2018
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Chicago, United States, November 4, 2018 -- November 9, 2018
   dates:
   - start: '2018-11-04'
     end: '2018-11-09'
@@ -181,7 +181,7 @@ resolutions:
     - start: '2018-11-15'
       kind: effective
   - type: approves
-    message: 'SC 4 approves change of the title “Data quality – Part 116: Application of ISO 8000-115
+    message: 'SC 4 approves change of the title “Data quality -- Part 116: Application of ISO 8000-115
 
       to the formatting of Authoritative Legal Entity Identifiers (ALEI) for individuals and
 

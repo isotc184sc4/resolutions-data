@@ -1,5 +1,5 @@
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Busan, Korea, October 27, 2008 – November 7, 2008
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Busan, Korea, October 27, 2008 -- November 7, 2008
   dates:
   - start: '2008-10-27'
     end: '2008-11-07'
@@ -155,7 +155,7 @@ resolutions:
   - type: requests
     message: 'SC 4 requests its Secretariat to:
 
-       Forward to ISO for publication an initial version of ISO/TS 10303-1000
+      * Forward to ISO for publication an initial version of ISO/TS 10303-1000
 
       consisting of all ISO 10303 application modules that have already been
 
@@ -163,19 +163,19 @@ resolutions:
 
       AICs.
 
-       Invite ISO to withdraw ISO 10303 parts 401 to 4xx and 1001 through
+      * Invite ISO to withdraw ISO 10303 parts 401 to 4xx and 1001 through
 
       1xxx, marking each as having been replaced by part 1000, once Part
 
       1000 is published.
 
-       Propose that ISO modify its catalogue search function so that a search for any
+      * Propose that ISO modify its catalogue search function so that a search for any
 
       ISO 10303 part in the range 401 to 499 or 1001 to 1999 will return a message
 
       referring the user to part 1000.
 
-       Propose to ISO that the publication strategy for ISO 10303 should offer a
+      * Propose to ISO that the publication strategy for ISO 10303 should offer a
 
       range of products, including:
 
@@ -280,7 +280,7 @@ resolutions:
 
       22274, ”Systems to Manage Terminology, Knowledge and Content –
 
-      Internationalization and Concepts – Related Aspects of Classification Systems” SC
+      Internationalization and Concepts -- Related Aspects of Classification Systems” SC
 
       4 appoints the following experts as delegates to the ISO 22274 project: Gerry
 
@@ -528,7 +528,7 @@ resolutions:
     - start: '2008-11-15'
       kind: effective
   - type: appreciation
-    message: 'SC 4 expresses its appreciation to KATS – Korean Agency for Technology and
+    message: 'SC 4 expresses its appreciation to KATS -- Korean Agency for Technology and
 
       Standards, Korea STEP Center, ECIF, Korea Database Promotion Center, PartDB,
 
@@ -536,11 +536,11 @@ resolutions:
 
       their hosting and support of the 56th ISO TC 184/SC 4 Plenary meetings at the
 
-      Paradise Hotel, Busan, Korea. We especially commend Prof. Inhan Kim – Kyung
+      Paradise Hotel, Busan, Korea. We especially commend Prof. Inhan Kim -- Kyung
 
       Hee University
 
-      and Mr. Kyungik An – Korea STEP Center for an excellent venue and outstanding
+      and Mr. Kyungik An -- Korea STEP Center for an excellent venue and outstanding
 
       service to the SC 4 community.  A special acknowledgement is extended to Mr. Sejin
 

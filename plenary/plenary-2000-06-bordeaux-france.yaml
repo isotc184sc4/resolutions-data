@@ -1,5 +1,5 @@
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Bordeaux, France, June 23, 2000 – June 30, 2000
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Bordeaux, France, June 23, 2000 -- June 30, 2000
   dates:
   - start: '2000-06-23'
     end: '2000-06-30'
@@ -72,11 +72,11 @@ resolutions:
   - type: resolves
     message: 'SC 4 resolves that all SC 4-related documents, standards, and announcements shall
 
-      conform to ISO 8601 (Data elements and interchange formats – Information
+      conform to ISO 8601 (Data elements and interchange formats -- Information
 
       interchange
 
-      – Representation of dates and times). In particular, all calendar dates shall be in the
+      -- Representation of dates and times). In particular, all calendar dates shall be in the
 
       form yyyy-mm-dd, utilizing the four-digit date, as prescribed in clause 5.2.1.1 of ISO
 
@@ -389,7 +389,7 @@ resolutions:
 
       appoints Mr. Ricardo Gonçalves (UNINOVA-Portugal) and Mr. Miguel Borras (AIDIMA
 
-      – Spain) as the liaison officers, and requests the SC 4 secretary to confirm this liaison
+      -- Spain) as the liaison officers, and requests the SC 4 secretary to confirm this liaison
 
       with the ISO Central Secretariat.'
     dates:

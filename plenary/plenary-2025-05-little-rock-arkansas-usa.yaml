@@ -1,5 +1,5 @@
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Little Rock, United States, May 18, 2025 – May 23, 2025
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Little Rock, United States, May 18, 2025 -- May 23, 2025
   dates:
   - start: '2025-05-18'
     end: '2025-05-23'
@@ -202,7 +202,7 @@ resolutions:
       kind: effective
   considerations:
   - type: noting
-    message: 'Noting the final report of AhG 3 – UUID management for industrial data and the
+    message: 'Noting the final report of AhG 3 -- UUID management for industrial data and the
 
       recommendation to follow current experiments through to their conclusion'
     dates:
@@ -221,7 +221,7 @@ resolutions:
     - start: '2025-05-15'
       kind: effective
   - type: establishes
-    message: 'SC 4 establishes Study Group 1 – Industrial
+    message: 'SC 4 establishes Study Group 1 -- Industrial
 
       data and digital twin with the following terms of reference:
 
@@ -328,7 +328,7 @@ resolutions:
 
       industrial data, and the existing activities of ISO/TC 184/AG 2 and IEC/ISO JTC 1/SC
 
-      41 – Internet of Things and Digital Twin'
+      41 -- Internet of Things and Digital Twin'
     dates:
     - start: '2025-05-15'
       kind: effective
@@ -623,11 +623,11 @@ resolutions:
   - type: resolves
     message: 'SC4 on 20 May 2025 with the following schedule milestones:
 
-       DIS submission:
+      * DIS submission:
 
       2025-08-22
 
-       Publication:
+      * Publication:
 
       2026-05-22
 
@@ -684,7 +684,7 @@ resolutions:
 
       -
 
-      Requests its Committee Manager to launch ISO/PAS 17999 – Automation
+      Requests its Committee Manager to launch ISO/PAS 17999 -- Automation
 
       systems and integration — Reference model for industrial data standards with
 

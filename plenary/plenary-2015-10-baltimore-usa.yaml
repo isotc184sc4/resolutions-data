@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Baltimore, United States, October 18, 2015 – October 23, 2015
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Baltimore, United States, October 18, 2015 -- October 23, 2015
   dates:
   - start: '2015-10-18'
     end: '2015-10-23'
@@ -231,11 +231,11 @@ resolutions:
   - type: requests
     message: 'SC 4 requests its Secretariat to apply the 2-month duration to the proposed NPs for
 
-       ISO 10303 AP239 ed 3 PLCS
+      * ISO 10303 AP239 ed 3 PLCS
 
-       ISO 18828-4  KPI in production planning processes
+      * ISO 18828-4  KPI in production planning processes
 
-       ISO 8000-115 Master data: Quality identifiers'
+      * ISO 8000-115 Master data: Quality identifiers'
     dates:
     - start: '2015-10-15'
       kind: effective
@@ -298,37 +298,37 @@ resolutions:
   - type: appoints
     message: 'SC 4 appoints the following experts to assist in the work of the Joint Task Force:
 
-       Wolfgang Wilkes
+      * Wolfgang Wilkes
 
       ISO 13584 expert and user in other standards
 
-       Norman Swindells User of ISO 13584 in other standards
+      * Norman Swindells User of ISO 13584 in other standards
 
-       Nils Sandsmark
+      * Nils Sandsmark
 
       ISO 15926 expert and user in oil and gas facility
 
       environments
 
-       Nigel Shaw
+      * Nigel Shaw
 
       ISO 10303-239 and reference data expert and user
 
-       Nicolas Figay
+      * Nicolas Figay
 
       ISO 10303-242 expert
 
-       Peter Benson
+      * Peter Benson
 
       ISO 22745 expert and user
 
-       Nikolaus Ondracek ISO 13584 expert and user
+      * Nikolaus Ondracek ISO 13584 expert and user
 
-       David Leal
+      * David Leal
 
       ISO 15926 and RDL expert
 
-       Paul van Exel
+      * Paul van Exel
 
       ISO 15926 expert'
     dates:
@@ -381,17 +381,17 @@ resolutions:
 
       at the Liaison Plenary
 
-       Energistics – Jana Schey
+      * Energistics -- Jana Schey
 
-       IAIDQ Conference – Tim King
+      * IAIDQ Conference -- Tim King
 
-       ECCMA – Peter Benson
+      * ECCMA -- Peter Benson
 
-       JTC 1/SC 24 X3D  – Christophe Mouton
+      * JTC 1/SC 24 X3D  -- Christophe Mouton
 
-       ISO 9001:2015  – Tor Arne Irgens
+      * ISO 9001:2015  -- Tor Arne Irgens
 
-       TC 184 update – Howard Mason
+      * TC 184 update -- Howard Mason
 
       ACCLAMATION'
     dates:
@@ -404,23 +404,23 @@ resolutions:
 
       21
 
-       David Odendahl, Boeing Airplane
+      * David Odendahl, Boeing Airplane
 
-       Corey Dickman, Penn State & America Makes
+      * Corey Dickman, Penn State & America Makes
 
-       Mikael Hedlind, Scania
+      * Mikael Hedlind, Scania
 
-       Max Ungerer, ProSTEP
+      * Max Ungerer, ProSTEP
 
-       Andy Byrd, Okuma Dan Finke, Penn State
+      * Andy Byrd, Okuma Dan Finke, Penn State
 
-       Larry Maggiano, Mitutoyo
+      * Larry Maggiano, Mitutoyo
 
-       Bengt Olsson, Sandvik
+      * Bengt Olsson, Sandvik
 
-       Tom Raun, Iscar Metals
+      * Tom Raun, Iscar Metals
 
-       Sid Venkatesh, Boeing Airplane
+      * Sid Venkatesh, Boeing Airplane
 
       ACCLAMATION'
     dates:

@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Washington, D.C., United States, July 11, 1984 – July 21, 1984
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Washington, D.C., United States, July 11, 1984 -- July 21, 1984
   dates:
   - start: '1984-07-11'
     end: '1984-07-21'
@@ -17,11 +17,8 @@ resolutions:
   actions:
   - type: recognizes
     message: 'SC 4 recognizes the need for a new standard for the external representation of
-
       product model data. This standard will be based upon existing data exchange
-
       initiatives including the US IGES and PDDI, the French SET, the German
-
       VDA/BDMA-FS, and the UK NEDO.'
     dates:
     - start: '1984-07-15'
@@ -170,7 +167,6 @@ resolutions:
   actions:
   - type: agrees
     message: 'SC 4 agrees to establish Working Group 1, Technical Coordination and Support, with
-
       the following terms of reference:
 
       - To provide technical support and recommendations for SC 4
@@ -194,7 +190,6 @@ resolutions:
       kind: effective
   - type: recognizes
     message: 'SC 4 recognizes a possible need to establish other working groups in the future to
-
       cover:
 
       - Guidelines for implementation

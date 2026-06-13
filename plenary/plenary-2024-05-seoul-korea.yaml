@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Seoul, Korea, May 12, 2024 – May 17, 2024
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Seoul, Korea, May 12, 2024 -- May 17, 2024
   dates:
   - start: '2024-05-12'
     end: '2024-05-17'
@@ -70,7 +70,7 @@ resolutions:
 
       Approval
 
-      ISO/NP 15926-100 Automation systems and integration – Integration of
+      ISO/NP 15926-100 Automation systems and integration -- Integration of
 
       life-cycle data for process plants including oil and gas production facilities –
 
@@ -78,7 +78,7 @@ resolutions:
 
       ☒
 
-      ISO/NP 8000-230 Data quality – Part 230: Sensor Data: Guidelines for
+      ISO/NP 8000-230 Data quality -- Part 230: Sensor Data: Guidelines for
 
       ☒
 
@@ -91,7 +91,7 @@ resolutions:
 
       ☒
 
-      ISO/NP Automation systems and integration – Industrial digital twin
+      ISO/NP Automation systems and integration -- Industrial digital twin
 
       interface architecture
 
@@ -381,17 +381,17 @@ resolutions:
 
       87th ISO/TC 184/SC 4 Plenary in Seoul, Korea from 2024-05-12 to 2024-05-17.
 
-       Soonhung Han
+      * Soonhung Han
 
-       Chiho Noh
+      * Chiho Noh
 
-       Seongjae Kim
+      * Seongjae Kim
 
-       Myeongjun Kim
+      * Myeongjun Kim
 
-       Jaein Lee
+      * Jaein Lee
 
-       Jungbin Im
+      * Jungbin Im
 
       Special acknowledgement is extended to all the staff at the K-Hotel for their seamless
 
@@ -406,15 +406,15 @@ resolutions:
 
       presenting at the Open Technical Forum discussion on Monday evening.
 
-       Soonhung Han, Kevin Zhang, Christophe Mouton, Atsuto Soma, Hiroshi
+      * Soonhung Han, Kevin Zhang, Christophe Mouton, Atsuto Soma, Hiroshi
 
       Murayama
 
-       Stuart Galt, Allison Barnard Feeney. Pal Rylandsholm, Max Ungerer
+      * Stuart Galt, Allison Barnard Feeney. Pal Rylandsholm, Max Ungerer
 
-       Jean Brange, Martin Hardwick, Keith Hunten
+      * Jean Brange, Martin Hardwick, Keith Hunten
 
-       Paul van Exel, Nils Sandsmark, David Loffredo
+      * Paul van Exel, Nils Sandsmark, David Loffredo
 
       Acclimation'
     dates:
@@ -510,17 +510,17 @@ resolutions:
 
       Plenary.
 
-       ISO/IEC JTC 1/SC 24 Liaison Mr. Christophe Mouton (F2F)
+      * ISO/IEC JTC 1/SC 24 Liaison Mr. Christophe Mouton (F2F)
 
-       ISO/TC 85 Liaison Mr. Christophe Mouton (F2F)
+      * ISO/TC 85 Liaison Mr. Christophe Mouton (F2F)
 
-       ISO/TC 171/SC 2 Liaison Stuart Galt (F2F)
+      * ISO/TC 171/SC 2 Liaison Stuart Galt (F2F)
 
-       PDES A-Liaison Mr. Patrick Walsh (Written)
+      * PDES A-Liaison Mr. Patrick Walsh (Written)
 
-       Web 3D Consortium A-Liaison Mr. Vincent Marchetti (V)
+      * Web 3D Consortium A-Liaison Mr. Vincent Marchetti (V)
 
-       The Khronos Group Liaison Hwanyong Lee (F2F)
+      * The Khronos Group Liaison Hwanyong Lee (F2F)
 
       Acclimation'
     dates:

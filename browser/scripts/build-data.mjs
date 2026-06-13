@@ -47,7 +47,17 @@ function main() {
       // Find the first action message for the snippet
       let snippet = '';
       if (res.actions && res.actions.length > 0 && res.actions[0].message) {
-        snippet = res.actions[0].message;
+        snippet = res.actions[0].message
+          // Replace PUA bullet chars (from PDF extraction) with standard bullets
+          .replace(/\uf0b7/g, '•')
+          .replace(/\uf0be/g, '‣')
+          .replace(/\uf0d8/g, '▸')
+          .replace(/\uf020/g, ' ')
+          // Collapse newlines into spaces for snippet display
+          .replace(/\n+/g, ' ')
+          // Collapse multiple spaces
+          .replace(/  +/g, ' ')
+          .trim();
         if (snippet.length > 200) {
           snippet = snippet.substring(0, 197) + '...';
         }

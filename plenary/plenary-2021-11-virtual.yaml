@@ -1,5 +1,5 @@
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Virtual, November 8, 2021 – November 12, 2021
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Virtual, November 8, 2021 -- November 12, 2021
   dates:
   - start: '2021-11-08'
     end: '2021-11-12'
@@ -303,13 +303,13 @@ resolutions:
       kind: effective
 - identifier: '1083'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Change to project duration of ISO 10303-2 – STEP Vocabulary
+  title: Change to project duration of ISO 10303-2 -- STEP Vocabulary
   dates:
   - start: '2021-11-15'
     kind: decision
   actions:
   - type: resolves
-    message: Change to project duration of ISO 10303-2 – STEP Vocabulary
+    message: Change to project duration of ISO 10303-2 -- STEP Vocabulary
     dates:
     - start: '2021-11-15'
       kind: effective
@@ -318,11 +318,11 @@ resolutions:
 
       id = 81196) from SDT 24 to SDT 36 with the following dates:
 
-      Stage 30 – Committee Draft Registered: 2021-12-01 (Original Target 2021-06-14)
+      Stage 30 -- Committee Draft Registered: 2021-12-01 (Original Target 2021-06-14)
 
-      Stage 40 – DIS Registered: 2022-05-01 (Original Target 2021-10-11)
+      Stage 40 -- DIS Registered: 2022-05-01 (Original Target 2021-10-11)
 
-      Stage 60 – IS Published: 2022-10-01 (Original Target 2022-05-15)'
+      Stage 60 -- IS Published: 2022-10-01 (Original Target 2022-05-15)'
     dates:
     - start: '2021-11-15'
       kind: effective
@@ -869,17 +869,17 @@ resolutions:
 
       Plenary.
 
-       ISO/TC 171/SC 2 through written report
+      * ISO/TC 171/SC 2 through written report
 
-       ISO/TC 307 through Patrick Curry
+      * ISO/TC 307 through Patrick Curry
 
-       IEC/SC 3D through Gernot Rossi
+      * IEC/SC 3D through Gernot Rossi
 
-       ISO/IEC/JTC 1/SC 24 and Web 3D Consortium through Christophe Mouton
+      * ISO/IEC/JTC 1/SC 24 and Web 3D Consortium through Christophe Mouton
 
-       ASM International through Afina Lupulescu
+      * ASM International through Afina Lupulescu
 
-       ECCMA through Peter Benson'
+      * ECCMA through Peter Benson'
     dates:
     - start: '2021-11-15'
       kind: decision

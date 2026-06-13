@@ -1,5 +1,5 @@
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Jeju, Korea, November 5, 2017 – November 10, 2017
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Jeju, Korea, November 5, 2017 -- November 10, 2017
   dates:
   - start: '2017-11-05'
     end: '2017-11-10'
@@ -244,21 +244,21 @@ resolutions:
       Scope:
 
 
-       Develop and maintain format and interface standards for 3D visualization of
+      * Develop and maintain format and interface standards for 3D visualization of
 
       product models, including visualization of different classes of derived information
 
       such as geometry, product structure and others.
 
-       Develop and maintain standards for consumption of data derived from and
+      * Develop and maintain standards for consumption of data derived from and
 
       associated with product models.
 
-       Develop and maintain standards for interfaces from SC 4 product definition
+      * Develop and maintain standards for interfaces from SC 4 product definition
 
       standards.
 
-       Establish liaison with other standards activities working on information models for
+      * Establish liaison with other standards activities working on information models for
 
       3D visualization'
     dates:
@@ -292,9 +292,9 @@ resolutions:
 
       provided:
 
-       ISO/IEC JTC1/SC 24 – Christophe Mouton
+      * ISO/IEC JTC1/SC 24 -- Christophe Mouton
 
-       ISO/TC 171/SC 2 – Kenny Swope
+      * ISO/TC 171/SC 2 -- Kenny Swope
 
       ACCLAMATION'
     dates:
@@ -305,7 +305,7 @@ resolutions:
 
       participation in the 74th ISO/TC 184/SC 4 Industry Day in Jeju, Korea 2017-11-08:
 
-       Smart Manufacturing Track
+      * Smart Manufacturing Track
 
       o Kenneth Swope (The Boeing Company, USA)
 
@@ -321,7 +321,7 @@ resolutions:
 
       o Yongwoon Kim (ETRI, Korea)
 
-       Nuclear Industry Track
+      * Nuclear Industry Track
 
 
       o Hiroshi Seki (Hitachi, Japan)
@@ -334,7 +334,7 @@ resolutions:
 
       o Jinsang Hwang (PartDB, Korea)
 
-       Data Quality
+      * Data Quality
 
       o Howard Mason (BAE Systems, UK)
 

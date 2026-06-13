@@ -1,5 +1,5 @@
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Saratoga Springs, United States, October 22, 2023 – October 27, 2023
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Saratoga Springs, United States, October 22, 2023 -- October 27, 2023
   dates:
   - start: '2023-10-22'
     end: '2023-10-27'
@@ -246,19 +246,19 @@ resolutions:
 
       and the consensus of the PPC ISO/TC 184/SC 4, SC 4:
 
-       Requests its Committee Manager to coordinate with ISO/CS to proceed with
+      * Requests its Committee Manager to coordinate with ISO/CS to proceed with
 
       balloting ISO/CD TR 23164 ed1 (project id. 87378),
 
-       Requests its Committee Manager to launch ISO/NP 23164 – Automation
+      * Requests its Committee Manager to launch ISO/NP 23164 -- Automation
 
-      systems and integration – Core terminology for industrial data as a TS with an
+      systems and integration -- Core terminology for industrial data as a TS with an
 
       eight-week ballot duration at stage 40.00,
 
-       Nominates David Leal as project leader, and
+      * Nominates David Leal as project leader, and
 
-       Invites member bodies to nominate additional experts to this project.'
+      * Invites member bodies to nominate additional experts to this project.'
     dates:
     - start: '2023-10-15'
       kind: effective
@@ -287,11 +287,11 @@ resolutions:
 
       track with SDT 18 at stage 10.99 with the following target dates:
 
-      Stage 30 – CD registered: 2023-12-15
+      Stage 30 -- CD registered: 2023-12-15
 
-      Stage 50 – Final text received: 2024-3-15
+      Stage 50 -- Final text received: 2024-3-15
 
-      Stage 60 – IS published: 2024-6-15
+      Stage 60 -- IS published: 2024-6-15
 
       And nominates Hiroyuki Hiraoka as project leader for -1848, -1849, -1850, and -1851,
 
@@ -359,27 +359,27 @@ resolutions:
   - type: requests
     message: 'SC 4 requests its Committee Manager to coordinate with ISO/CS to initiate the
 
-      development of ISO/TR 8000-320 with the title “Data quality – Part 320: AI training data
+      development of ISO/TR 8000-320 with the title “Data quality -- Part 320: AI training data
 
       quality for smart manufacturing” with Giljo Kim (KOR) as project leader and the target
 
       dates:
 
-       circulation of draft technical report by 2023-12-31,
+      * circulation of draft technical report by 2023-12-31,
 
-       publication of the technical report on 2024-06-30.'
+      * publication of the technical report on 2024-06-30.'
     dates:
     - start: '2023-10-15'
       kind: effective
 - identifier: '1135'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Launch ISO 8000-115 – Minor revision
+  title: Launch ISO 8000-115 -- Minor revision
   dates:
   - start: '2023-10-15'
     kind: decision
   actions:
   - type: resolves
-    message: Launch ISO 8000-115 – Minor revision
+    message: Launch ISO 8000-115 -- Minor revision
     dates:
     - start: '2023-10-15'
       kind: effective
@@ -390,9 +390,9 @@ resolutions:
 
       with Hayley Thompson (USA) as project leader and the target dates:
 
-       submission of revised document by 2023-12-31,
+      * submission of revised document by 2023-12-31,
 
-       publication of the minor revision by 2024-06-30'
+      * publication of the minor revision by 2024-06-30'
     dates:
     - start: '2023-10-15'
       kind: effective
@@ -423,11 +423,11 @@ resolutions:
 
       to 2023-10-27.
 
-       Lesli Garnett
+      * Lesli Garnett
 
-       Martin Hardwick
+      * Martin Hardwick
 
-       Joe Fritz
+      * Joe Fritz
 
       Special acknowledgement is extended to all the staff at the Gideon Putnam Hotel, and
 
@@ -439,11 +439,11 @@ resolutions:
 
       including:
 
-       Josh Fleming
+      * Josh Fleming
 
-       Renee Lienau
+      * Renee Lienau
 
-       Jeffrey Kurto'
+      * Jeffrey Kurto'
     dates:
     - start: '2023-10-15'
       kind: decision
@@ -458,11 +458,11 @@ resolutions:
 
       presenting at the Open Technical Forum discussion on Monday evening.
 
-       Hiroshi Murayama
+      * Hiroshi Murayama
 
-       Paul van Exel
+      * Paul van Exel
 
-       Stuart Galt'
+      * Stuart Galt'
     dates:
     - start: '2023-10-15'
       kind: decision
@@ -492,11 +492,11 @@ resolutions:
 
       presenting at the Implementation Forum on Tuesday evening,
 
-       Martin Hardwick
+      * Martin Hardwick
 
-       David Loffredo
+      * David Loffredo
 
-       Soonhung Han'
+      * Soonhung Han'
     dates:
     - start: '2023-10-15'
       kind: decision
@@ -511,13 +511,13 @@ resolutions:
 
       presenting at Industry Day on Wednesday morning.
 
-       Sangkeun Yoo
+      * Sangkeun Yoo
 
-       Sung Hei Kim
+      * Sung Hei Kim
 
-       Chi Ho Noh
+      * Chi Ho Noh
 
-       Brad S. Carlberg'
+      * Brad S. Carlberg'
     dates:
     - start: '2023-10-15'
       kind: decision
@@ -545,21 +545,21 @@ resolutions:
 
       amazing tour.
 
-       James Cawley
+      * James Cawley
 
-       Patrick Cawley
+      * Patrick Cawley
 
-       Anthony Willet
+      * Anthony Willet
 
-       Myleigh Willet
+      * Myleigh Willet
 
-       Ashley Brand
+      * Ashley Brand
 
-       Sue Cross
+      * Sue Cross
 
-       Marybeth Ritkouski
+      * Marybeth Ritkouski
 
-       Dave Loffredo'
+      * Dave Loffredo'
     dates:
     - start: '2023-10-15'
       kind: decision
@@ -574,11 +574,11 @@ resolutions:
 
       dining experience.
 
-       Debbie, Don, and Mark Barber
+      * Debbie, Don, and Mark Barber
 
-       Dylan Menke
+      * Dylan Menke
 
-       Matthew Michalak'
+      * Matthew Michalak'
     dates:
     - start: '2023-10-15'
       kind: decision
@@ -593,34 +593,34 @@ resolutions:
 
       Plenary.
 
-       ISO/IEC JTC1/SC 32 - Liaison Mr. Sungjoon Lim (F2F)
+      * ISO/IEC JTC1/SC 32 - Liaison Mr. Sungjoon Lim (F2F)
 
 
-       ISO/IEC JTC 1/SC 24 Liaison Mr. Christophe Mouton (V)
+      * ISO/IEC JTC 1/SC 24 Liaison Mr. Christophe Mouton (V)
 
-       ISO/IEC JTC 1/SC 7 Liaison Dr. Timothy King (V)
+      * ISO/IEC JTC 1/SC 7 Liaison Dr. Timothy King (V)
 
-       ISO/TC 37/SC 3 Liaison Mrs. Sabine Mahr (V)
+      * ISO/TC 37/SC 3 Liaison Mrs. Sabine Mahr (V)
 
-       ISO/TC 85 Liaison Mr. Christophe Mouton (V)
+      * ISO/TC 85 Liaison Mr. Christophe Mouton (V)
 
-       ISO/TC 171/SC 2 Liaison Mr. Stuart Galt (F2F)
+      * ISO/TC 171/SC 2 Liaison Mr. Stuart Galt (F2F)
 
-       DMSC A-Liaison Ms. Jennifer Herron and Ms. Rosemary Astheimer (F2F)
+      * DMSC A-Liaison Ms. Jennifer Herron and Ms. Rosemary Astheimer (F2F)
 
-       ECCMA A-Liaison Mr. Peter Benson (F2F)
+      * ECCMA A-Liaison Mr. Peter Benson (F2F)
 
-       IACS A-Liaison Mr. He Ci (V)
+      * IACS A-Liaison Mr. He Ci (V)
 
-       NAFEMS A-Liaison Mr. David Leal (F2F)
+      * NAFEMS A-Liaison Mr. David Leal (F2F)
 
-       OMG A-Liaison Ms. Allison Barnard Feeney (F2F)
+      * OMG A-Liaison Ms. Allison Barnard Feeney (F2F)
 
-       PDES A-Liaison Mr. Patrick Walsh (F2F)
+      * PDES A-Liaison Mr. Patrick Walsh (F2F)
 
-       SBS A-Liaison Mr. Jochen Haenisch (V)
+      * SBS A-Liaison Mr. Jochen Haenisch (V)
 
-       Web 3D Consortium A-Liaison Mr. Vincent Marchetti (V)'
+      * Web 3D Consortium A-Liaison Mr. Vincent Marchetti (V)'
     dates:
     - start: '2023-10-15'
       kind: decision

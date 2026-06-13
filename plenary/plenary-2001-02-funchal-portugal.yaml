@@ -1,5 +1,5 @@
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Funchal, Portugal, February 19, 2001 – February 23, 2001
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Funchal, Portugal, February 19, 2001 -- February 23, 2001
   dates:
   - start: '2001-02-19'
     end: '2001-02-23'
@@ -382,26 +382,26 @@ resolutions:
 
       of HTML has many advantages, include the following:
 
-       Ease of navigation for the end user using a hyperlinked document (or set
+      * Ease of navigation for the end user using a hyperlinked document (or set
 
       of documents).
 
-       Ease of preparation of documents, using automated tools to generate drafts as
+      * Ease of preparation of documents, using automated tools to generate drafts as
 
       at present.
 
-       Simpler review of drafts in HTML format, leading to a better quality
+      * Simpler review of drafts in HTML format, leading to a better quality
 
       product, which would not need to be converted into a different form for
 
       publication.
 
-       Improved cross-references between documents, giving shorter documents
+      * Improved cross-references between documents, giving shorter documents
 
 
       and avoiding transcription errors from replicating the same material.
 
-       Improved support for modules'
+      * Improved support for modules'
     dates:
     - start: '2001-02-15'
       kind: effective
@@ -437,15 +437,15 @@ resolutions:
 
       should at least address the following topics:
 
-       version(s) of HTML to be used;
+      * version(s) of HTML to be used;
 
-       HTML tags to be used for the different elements of SC 4 standards;
+      * HTML tags to be used for the different elements of SC 4 standards;
 
-       validation of HTML documents;
+      * validation of HTML documents;
 
-       naming conventions for files and directories;
+      * naming conventions for files and directories;
 
-       hyperlinks within documents and between documents'
+      * hyperlinks within documents and between documents'
     dates:
     - start: '2001-02-15'
       kind: effective
@@ -680,15 +680,15 @@ resolutions:
 
       Specification:
 
-       - the late binding and both early bindings will be kept in this version of the
+      * - the late binding and both early bindings will be kept in this version of the
 
       Tech. Spec.
 
-       - provision for bi-directional inter-operability between the early bindings
+      * - provision for bi-directional inter-operability between the early bindings
 
       using XSLT will be added
 
-       - objective is to revise the document for publication by June meeting
+      * - objective is to revise the document for publication by June meeting
 
       Following publication of the initial Part 28, work on an XML Schema binding will begin
 

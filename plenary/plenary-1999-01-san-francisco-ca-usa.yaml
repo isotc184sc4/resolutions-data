@@ -1,5 +1,5 @@
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, San Francisco, United States, January 18, 1999 – January 28, 1999
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, San Francisco, United States, January 18, 1999 -- January 28, 1999
   dates:
   - start: '1999-01-18'
     end: '1999-01-28'
@@ -42,16 +42,16 @@ resolutions:
 
       members and A-liaisons in electronic format as follows:
 
-       SC 4 ballot documents will be made available on SOLIS in their original format,
+      * SC 4 ballot documents will be made available on SOLIS in their original format,
 
 
       PDF and ASCII text.
 
-       SC 4 ballots will be posted to SOLIS, and announced via the SC 4 and P-
+      * SC 4 ballots will be posted to SOLIS, and announced via the SC 4 and P-
 
       Member exploder two weeks prior to the official start date of the ballot.
 
-       Paper copies of SC 4 ballot documents will be provided to P-members on a
+      * Paper copies of SC 4 ballot documents will be provided to P-members on a
 
       per- request basis only'
     dates:
@@ -211,7 +211,7 @@ resolutions:
 
       and position papers for discussion.
 
-       Resolution papers shall contain background information stating the reasons for
+      * Resolution papers shall contain background information stating the reasons for
 
       the resolution, the aims envisaged and the text of the resolution. Resolutions
 
@@ -219,7 +219,7 @@ resolutions:
 
       the format of a resolution paper.
 
-       Position papers shall contain background information for a particular issue, to
+      * Position papers shall contain background information for a particular issue, to
 
       permit an informed discussion at an SC 4 meeting and to allow the creation of a
 
@@ -554,7 +554,7 @@ resolutions:
 
       10303-222 - Application Protocol: Exchange of product data for
 
-      composites 10303-322 – Abstract Test Suite: Exchange of product data
+      composites 10303-322 -- Abstract Test Suite: Exchange of product data
 
       for composites'
     dates:

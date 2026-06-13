@@ -1,5 +1,5 @@
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, New Orleans, United States, November 8, 1999 – November 18, 1999
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, New Orleans, United States, November 8, 1999 -- November 18, 1999
   dates:
   - start: '1999-11-08'
     end: '1999-11-18'
@@ -42,13 +42,13 @@ resolutions:
       Andries van Renssen.'
 - identifier: '423'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Retention of Dual Editions of ISO 10303-41, -42, -43, and – 44
+  title: Retention of Dual Editions of ISO 10303-41, -42, -43, and -- 44
   dates:
   - start: '1999-11-15'
     kind: decision
   actions:
   - type: resolves
-    message: Retention of Dual Editions of ISO 10303-41, -42, -43, and – 44
+    message: Retention of Dual Editions of ISO 10303-41, -42, -43, and -- 44
     dates:
     - start: '1999-11-15'
       kind: effective
@@ -621,15 +621,15 @@ resolutions:
   - type: resolves
     message: 'SC 4 wishes to express their appreciation:
 
-       To the US for hosting the New Orleans SC 4 meeting.  A special thanks goes
+      * To the US for hosting the New Orleans SC 4 meeting.  A special thanks goes
 
       to US PRO, Chuck Stark, and his staff for their assistance and support
 
-       To the Central Secretariat for providing support in the person of Ms
+      * To the Central Secretariat for providing support in the person of Ms
 
       Sophie Clivio, and
 
-       To ISO/TC 184 Secretariat, Ms. Christine Hermetet-Filez, for participating in the SC 4 meeting.'
+      * To ISO/TC 184 Secretariat, Ms. Christine Hermetet-Filez, for participating in the SC 4 meeting.'
     dates:
     - start: '1999-11-15'
       kind: effective

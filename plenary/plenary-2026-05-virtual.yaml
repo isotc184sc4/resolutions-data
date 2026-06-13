@@ -1,5 +1,5 @@
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Virtual, May 4, 2026 – May 15, 2026
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Virtual, May 4, 2026 -- May 15, 2026
   dates:
   - start: '2026-05-04'
     end: '2026-05-15'
@@ -55,7 +55,7 @@ resolutions:
 
       involvement of SC4 in developing standards for industrial data with recognition that
 
-      ISO/TC 12 – Quantities and units has expertise in this domain'
+      ISO/TC 12 -- Quantities and units has expertise in this domain'
     dates:
     - start: '2026-05-15'
       kind: effective
@@ -81,7 +81,7 @@ resolutions:
   - type: noting
     message: 'Noting the increasing involvement of SC4 in vocabularies including ISO 15926–100,
 
-      ISO 23726–2, and ISO/NP 18136–2 with recognition that ISO/TC 37 – Language and
+      ISO 23726–2, and ISO/NP 18136–2 with recognition that ISO/TC 37 -- Language and
 
       terminology has expertise in this domain'
     dates:
@@ -111,7 +111,7 @@ resolutions:
       kind: effective
   considerations:
   - type: noting
-    message: 'Noting the formation of ISO/IEC JTC 5 – Digital product passport and the relevance of
+    message: 'Noting the formation of ISO/IEC JTC 5 -- Digital product passport and the relevance of
 
       the topic to standards developed in SC4'
     dates:
@@ -127,7 +127,7 @@ resolutions:
   - type: resolves
     message: 'Recognizing:
 
-       that ISO/TC 154 is developing ISO/NP 26087 Processes and data in carbon
+      * that ISO/TC 154 is developing ISO/NP 26087 Processes and data in carbon
 
       market monitoring reporting verification (MRV) — Data quality assessment,
 
@@ -137,11 +137,11 @@ resolutions:
 
       154 N 1641 and N 1642;
 
-       that these concepts align closely with the data quality principles, vocabularies,
+      * that these concepts align closely with the data quality principles, vocabularies,
 
       and industrial data frameworks maintained by ISO/TC 184/SC 4;
 
-       that WG 13 has expressed strong interest in contributing expertise to ensure
+      * that WG 13 has expressed strong interest in contributing expertise to ensure
 
       consistency and interoperability between SC 4 data quality standards and the
 
@@ -271,11 +271,11 @@ resolutions:
 
       SC4;
 
-       recognizes that the mandatory requirement of five expert nominations has not
+      * recognizes that the mandatory requirement of five expert nominations has not
 
       been satisfied; and
 
-       notes the reconsideration by DIN to nominate an expert and confirm the inclusion
+      * notes the reconsideration by DIN to nominate an expert and confirm the inclusion
 
       of the NP into their work program.
 
@@ -283,9 +283,9 @@ resolutions:
 
       following terms of reference:
 
-       Prof. Soonhung Han as Project Leader; and
+      * Prof. Soonhung Han as Project Leader; and
 
-       Mr. Tarique Hasan Khan as Project Editor,
+      * Mr. Tarique Hasan Khan as Project Editor,
 
       with appreciation for their willingness to serve in these capacities'
     dates:
@@ -359,13 +359,13 @@ resolutions:
 
       the following terms of reference:
 
-       Project Leader: Yoshiaki Sonoda
+      * Project Leader: Yoshiaki Sonoda
 
-       Project Editor: Hiroshi Seki
+      * Project Editor: Hiroshi Seki
 
-       Quality Committee Representative: Hiroshi Murayama as QC role
+      * Quality Committee Representative: Hiroshi Murayama as QC role
 
-       Nominated experts
+      * Nominated experts
 
       o JP, Mr. Yoshiaki Sonoda,
 
@@ -419,11 +419,11 @@ resolutions:
 
       terms of reference:
 
-       Project Leader: Mr. Youngsoo Jung
+      * Project Leader: Mr. Youngsoo Jung
 
-       Project Editor: Mr. Yunsub Lee
+      * Project Editor: Mr. Yunsub Lee
 
-       Nominated experts
+      * Nominated experts
 
       o TC 85: (Mr. Jim Herrold)
 
@@ -576,11 +576,11 @@ resolutions:
 
       Identifies SDG Goal 9 with the following rationale:
 
-       The ISO 10303 standard in total is identified against Goal 9 and this part in included
+      * The ISO 10303 standard in total is identified against Goal 9 and this part in included
 
       in that series, and
 
-       To enable the interoperability between industry and IT architectures in industrial
+      * To enable the interoperability between industry and IT architectures in industrial
 
       data applications'
     dates:
@@ -598,18 +598,18 @@ resolutions:
 
       to participate in the project:
 
-       AFNOR: Mr. Frédéric Darré, Mr. Pierre Duchier, Mr. Erwan Livolant, Mr. Kevin Le
+      * AFNOR: Mr. Frédéric Darré, Mr. Pierre Duchier, Mr. Erwan Livolant, Mr. Kevin Le
 
       Tutour
 
-       DIN: Mr. Guillaume Hirel, Mr. Max Ungerer
+      * DIN: Mr. Guillaume Hirel, Mr. Max Ungerer
 
-       BSI: Mr. Phil Spiby, Mr. Robert Swindells
+      * BSI: Mr. Phil Spiby, Mr. Robert Swindells
 
-       ANSI: Mr. Patrick Walsh, Mr. Stuart Galt, Mr. Tom Thurman
+      * ANSI: Mr. Patrick Walsh, Mr. Stuart Galt, Mr. Tom Thurman
 
 
-       SIS: Mr. Mikael Hedlind
+      * SIS: Mr. Mikael Hedlind
 
       Utilize the ISO OSD with a document provided by WG 11 that will replace the edition
 
@@ -641,11 +641,11 @@ resolutions:
 
       terms of reference:
 
-       Incorporate the new scope to include parts 65 and 66 from the ISO 8000 series,
+      * Incorporate the new scope to include parts 65 and 66 from the ISO 8000 series,
 
-       Development stage 20 with a standard development track (SDT) of 36 months,
+      * Development stage 20 with a standard development track (SDT) of 36 months,
 
-       Target dates:
+      * Target dates:
 
       o Circulation of 1st Working Draft: 2026-12-14
 
@@ -655,17 +655,17 @@ resolutions:
 
       o Publication: 2029-05-31
 
-       Allocates the work to WG 13 with Christophe Mouton as Project Leader, Prof.
+      * Allocates the work to WG 13 with Christophe Mouton as Project Leader, Prof.
 
       Changsoo Lee as Project Co-Leader, and Ms Hayley Thompson as Project Editor
 
-       ISO/TS 8000-60 supports the UN Sustainable Development Goal 9 (Industry,
+      * ISO/TS 8000-60 supports the UN Sustainable Development Goal 9 (Industry,
 
       Innovation and Infrastructure) by providing concepts for implementing, assessing
 
       and improving data quality management in various industrial sectors.
 
-       Register the following list of NSBs with their nominated representatives as active
+      * Register the following list of NSBs with their nominated representatives as active
 
       participants in the revision:
 
@@ -677,7 +677,7 @@ resolutions:
 
       o South Africa: Dr. Salomon De Jager
 
-       Provide OSD access to enable WG 13 to prepare the Working Draft using the
+      * Provide OSD access to enable WG 13 to prepare the Working Draft using the
 
       previous edition as a basis.'
     dates:
@@ -703,11 +703,11 @@ resolutions:
 
       terms of reference:
 
-       Development Stage 20 (NP) with a standard development track (SDT) of 24
+      * Development Stage 20 (NP) with a standard development track (SDT) of 24
 
       months,
 
-       Target dates:
+      * Target dates:
 
       o Circulation of 1st Working Draft: 2026-10-09
 
@@ -717,21 +717,21 @@ resolutions:
 
       o Publication: 2027-12-11
 
-       ISO 13584–26 supports the UN Sustainable Development Goal 9 (Industry,
+      * ISO 13584–26 supports the UN Sustainable Development Goal 9 (Industry,
 
       Innovation and Infrastructure) by ensuring efficient use of data in industrial settings
 
       in concert with the larger part of the ISO 13584 series.
 
-       ISO 13584–26 supports the UN Sustainable Development Goal 12 (Responsible
+      * ISO 13584–26 supports the UN Sustainable Development Goal 12 (Responsible
 
       Consumption and Production) by properly identifying data, its meaning and
 
       ensuring the responsible use of that data in industrial settings.
 
-       Allocates the work to JWG 24 with Mr. Hiroshi Murayama as Project Leader,
+      * Allocates the work to JWG 24 with Mr. Hiroshi Murayama as Project Leader,
 
-       Nominate the following experts:
+      * Nominate the following experts:
 
       o AFNOR: Mr. Christophe Mouton, Mr. Yves Keraron,
 
@@ -745,11 +745,11 @@ resolutions:
 
       o SABS: Dr. Salomon De Jager
 
-       Provide OSD access using the existing document to enable JWG 24 to prepare
+      * Provide OSD access using the existing document to enable JWG 24 to prepare
 
       the Working Draft, and
 
-       Requests member bodies nominate experts to the project’s work.'
+      * Requests member bodies nominate experts to the project’s work.'
     dates:
     - start: '2026-05-15'
       kind: effective
@@ -768,9 +768,10 @@ resolutions:
     kind: decision
   actions:
   - type: thanks
-    message: 'years and for the significant contribution to the management of the Committee and
-
-      wishes her the best in her next endeavours.'
+    message: |
+      SC4 recognizes Dana Tripp for her role as Committee Manager for the past
+      several years and for the significant contribution to the management of
+      the Committee and wishes her the best in her next endeavours.
     dates:
     - start: '2026-05-15'
       kind: decision
@@ -781,11 +782,10 @@ resolutions:
     kind: decision
   actions:
   - type: thanks
-    message: 'SC4 welcomes Leslie Garnett and Step Tools, Inc. to the anticipated role of Committee
-
-      Manager and for the enthusiastic engagement in the Committee’s work while the
-
-      approval process concludes with ANSI.'
+    message: |
+      SC4 welcomes Leslie Garnett and Step Tools, Inc. to the anticipated role
+      of Committee Manager and for the enthusiastic engagement in the
+      Committee’s work while the approval process concludes with ANSI.
     dates:
     - start: '2026-05-15'
       kind: decision
@@ -796,21 +796,20 @@ resolutions:
     kind: decision
   actions:
   - type: thanks
-    message: 'P Member and Liaison reports are an important part of progressing the standardization
+    message: |
+      P Member and Liaison reports are an important part of progressing the
+      standardization of industrial data. SC4 recognizes and appreciates the
+      contributions of the following:
 
-      of industrial data. SC4 recognizes and appreciates the contributions of the following:
+      * Mr. Yiqung Yang, China
 
-       Mr. Yiqung Yang, China
+      * Mr. Christoph Mouton, France, Web3D, ISO/JTC 1/SC 24, ISO/TC 10, IEC/TC 3, ISO/TC 85
 
-       Mr. Christoph Mouton, France, Web3D, ISO/JTC 1/SC 24, ISO/TC 10, IEC/TC 3,
+      * Ms. Hayley Thompson, ECCMA
 
-      ISO/TC 85
+      * Mr. Paul van Exel, USPI
 
-       Ms. Hayley Thompson, ECCMA
-
-       Mr. Paul van Exel, USPI
-
-       Mr. Stuart Galt, ISO/TC 171/SC 2'
+      * Mr. Stuart Galt, ISO/TC 171/SC 2
     dates:
     - start: '2026-05-15'
       kind: decision
@@ -821,13 +820,24 @@ resolutions:
     kind: decision
   actions:
   - type: thanks
-    message: 'SC4 recognizes the members of the Committee for their flexibility and patience in the
+    message: |
+      SC4 recognizes the members of the Committee for their flexibility and patience in the
+      move from a hybrid in-person meeting to fully virtual.
+    dates:
+    - start: '2026-05-15'
+      kind: decision
 
-      move from a hybrid in-person meeting to fully virtual.  SC4 recognizes the Convenors,
-
-      Project Leaders, and experts for adapting to the new format and timeline with meetings
-
-      held ahead of the Plenary to support the Plenary’s goals.'
+- identifier: 202605-acclaim-04
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  dates:
+  - start: '2026-05-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC4 recognizes the Convenors, Project Leaders, and experts for adapting to
+      the new format and timeline with meetings held ahead of the Plenary to
+      support the Plenary’s goals.
     dates:
     - start: '2026-05-15'
       kind: decision

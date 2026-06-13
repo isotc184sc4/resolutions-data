@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Bethlehem, United States, June 6, 2010 – June 11, 2010
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Bethlehem, United States, June 6, 2010 -- June 11, 2010
   dates:
   - start: '2010-06-06'
     end: '2010-06-11'
@@ -224,7 +224,7 @@ resolutions:
 
       correspond to the scope of SC 4 and resolves that this taxonomy forms the contents
 
-      of ISO 8000-3, with the title "Data quality – Taxonomy of industrial data" and to
+      of ISO 8000-3, with the title "Data quality -- Taxonomy of industrial data" and to
 
 
       include a reference to the new Part 3 in the published TS for Part 1'
@@ -276,7 +276,7 @@ resolutions:
     - start: '2010-06-15'
       kind: effective
   - type: requests
-    message: 'SC 4 requests the ISO 8000-2 “Data quality – Vocabulary” project to nominate a
+    message: 'SC 4 requests the ISO 8000-2 “Data quality -- Vocabulary” project to nominate a
 
       member to the maintenance team'
     dates:
@@ -435,11 +435,11 @@ resolutions:
 
       “NWI for PDQ-S extension and quality guarantee process by the use of PDQ-S”
 
-      – Akihiko Ohtaka
+      -- Akihiko Ohtaka
 
       •
 
-      “A Validation Technology for 3D CAD Data” – Atsuto Soma
+      “A Validation Technology for 3D CAD Data” -- Atsuto Soma
 
       •
 
@@ -447,7 +447,7 @@ resolutions:
 
       •
 
-      “Data quality in UK Defence” – Tim King
+      “Data quality in UK Defence” -- Tim King
 
       ACCLAMATION
 
@@ -457,16 +457,16 @@ resolutions:
 
       •
 
-      “Liaison Issues” – Howard Mason
+      “Liaison Issues” -- Howard Mason
 
       •
 
-      “ECCMA Update” – Peter Benson
+      “ECCMA Update” -- Peter Benson
 
 
       •
 
-      “CEN ELSSI-EMD” Workshop – David Leal
+      “CEN ELSSI-EMD” Workshop -- David Leal
 
       •
 

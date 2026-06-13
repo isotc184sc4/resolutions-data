@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Toulouse, France, May 12, 2019 – May 17, 2019
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Toulouse, France, May 12, 2019 -- May 17, 2019
   dates:
   - start: '2019-05-12'
     end: '2019-05-17'
@@ -517,17 +517,17 @@ resolutions:
 
       provided:
 
-       JTC 1/SC 24 and Web3D Consortium, Christophe Mouton
+      * JTC 1/SC 24 and Web3D Consortium, Christophe Mouton
 
-       TC 37/SC 3, Written Report
+      * TC 37/SC 3, Written Report
 
-       TC 59/SC 13, Written Report
+      * TC 59/SC 13, Written Report
 
-       TC 59/SC 13/JWG 12, Written Report
+      * TC 59/SC 13/JWG 12, Written Report
 
-       TC 171/SC 2, Written Report
+      * TC 171/SC 2, Written Report
 
-       TC 172/SC 1, Written Report
+      * TC 172/SC 1, Written Report
 
 
       ACCLAMATION'
@@ -539,27 +539,27 @@ resolutions:
 
       participation in the Open Technical Forum:
 
-      
+       
 
-       Brief of JETI (JTC 1 Emerging Technology and Innovation) TTR (technology
+      * Brief of JETI (JTC 1 Emerging Technology and Innovation) TTR (technology
 
       trend report) on Digital Twin - Sangkeun YOO (KATS/ETRI)
 
-       Towards Construction of Innovative Digital Validation Environment - Masatomo
+      * Towards Construction of Innovative Digital Validation Environment - Masatomo
 
       INUI, Prof. Ibaraki Univ
 
-       Digital Twin for Smart Facility: Variables for Integrated Asset Management -
+      * Digital Twin for Smart Facility: Variables for Integrated Asset Management -
 
       Youngsoo Jung
 
-       Digital Thread / Digital Twin concepts in France - Jean Brange
+      * Digital Thread / Digital Twin concepts in France - Jean Brange
 
-       Digital Twin for Manufacturing framework - Martin Hardwick
+      * Digital Twin for Manufacturing framework - Martin Hardwick
 
-       Visualization elements of digital twins – Soonhung Han
+      * Visualization elements of digital twins -- Soonhung Han
 
-       Digital Transformation at AIA – Howard Mason
+      * Digital Transformation at AIA -- Howard Mason
 
       ACCLAMATION'
     dates:
@@ -572,70 +572,70 @@ resolutions:
 
       Opening:
 
-       Thierry COTELLE, Région Occitanie / Pyrénées-Méditerranée
+      * Thierry COTELLE, Région Occitanie / Pyrénées-Méditerranée
 
-       Bertrand SERP, Toulouse Métropole
+      * Bertrand SERP, Toulouse Métropole
 
-       Patrick LAMBOLEY, ISO/TC 184, Schneider Electric
+      * Patrick LAMBOLEY, ISO/TC 184, Schneider Electric
 
-       Kenneth SWOPE, ISO/TC 184/SC 4, Boeing
+      * Kenneth SWOPE, ISO/TC 184/SC 4, Boeing
 
       Session 1:
 
-       Karl DEVILLIERES, Airbus
+      * Karl DEVILLIERES, Airbus
 
-       Philippe BOERI, AFIS, Naval Group
+      * Philippe BOERI, AFIS, Naval Group
 
-       Yves BAUDIER, AFNET
+      * Yves BAUDIER, AFNET
 
       Session 2:
 
-       Kenneth SWOPE, Boeing
+      * Kenneth SWOPE, Boeing
 
-       Jean-Pierre SOUZY, Airbus
+      * Jean-Pierre SOUZY, Airbus
 
 
-       Jean-Yves DELAUNAY, Airbus
+      * Jean-Yves DELAUNAY, Airbus
 
       Session 3:
 
-       Convenor : Yves KERARON, ISADEUS
+      * Convenor : Yves KERARON, ISADEUS
 
-       Jean-François HAMELIN, EDF
+      * Jean-François HAMELIN, EDF
 
-       Jean-Charles LECLERC, TOTAL
+      * Jean-Charles LECLERC, TOTAL
 
-       Alain BAUDRY, EGIS
+      * Alain BAUDRY, EGIS
 
       Round table 1:
 
-       Chair: Timothy KING, Babcock International
+      * Chair: Timothy KING, Babcock International
 
-       Rebecca TOTH TOBLER, EDF
+      * Rebecca TOTH TOBLER, EDF
 
-       Christophe BROSSE, Airbus
+      * Christophe BROSSE, Airbus
 
-       Christophe CASTAING, EGIS
+      * Christophe CASTAING, EGIS
 
       Round table 2:
 
-       Chair: Kenneth SWOPE, Boeing
+      * Chair: Kenneth SWOPE, Boeing
 
-       Olivier MARCHAND, ISO/TC 85, EDF
+      * Olivier MARCHAND, ISO/TC 85, EDF
 
-       Laurent GUISE, IEC, Schneider Electric
+      * Laurent GUISE, IEC, Schneider Electric
 
-       Jean-Yves DELAUNAY, Airbus
+      * Jean-Yves DELAUNAY, Airbus
 
-       Etienne CAILLEAU, AFNOR
+      * Etienne CAILLEAU, AFNOR
 
-       Christophe CASTAING, EGIS
+      * Christophe CASTAING, EGIS
 
-      
+       
 
       Concluding remarks:
 
-       Alban SCHMUTZ, OVH
+      * Alban SCHMUTZ, OVH
 
       ACCLAMATION'
     dates:
@@ -646,11 +646,11 @@ resolutions:
 
       ISO/TC 184/SC 4 Plenary in Toulouse, France during 2010-05-13/17:
 
-       Alain Costes, Isabelle Rimbert, Stéphane Moulière, Caroline de Condé, Martine
+      * Alain Costes, Isabelle Rimbert, Stéphane Moulière, Caroline de Condé, Martine
 
-      Degardin, Melissa Jean, and Roxana Turcanu – AFNOR Normalisation
+      Degardin, Melissa Jean, and Roxana Turcanu -- AFNOR Normalisation
 
-       Christophe Mouton – Chair of French Mirror Committee to ISO/TC 184, SC 4 and
+      * Christophe Mouton -- Chair of French Mirror Committee to ISO/TC 184, SC 4 and
 
       SC 5
 
@@ -668,11 +668,11 @@ resolutions:
 
       sponsorship of the meeting and weekly events:
 
-       EDF
+      * EDF
 
-       Dassault Systèmes
+      * Dassault Systèmes
 
-       Région Occitanie / Pyrénées-Méditerranée
+      * Région Occitanie / Pyrénées-Méditerranée
 
       ACCLAMATION'
     dates:

@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Grenoble, France, October 27, 1995 – November 6, 1995
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Grenoble, France, October 27, 1995 -- November 6, 1995
   dates:
   - start: '1995-10-27'
     end: '1995-11-06'

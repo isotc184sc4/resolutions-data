@@ -1,5 +1,5 @@
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Gyeongju, Korea, November 3, 2013 – November 8, 2013
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Gyeongju, Korea, November 3, 2013 -- November 8, 2013
   dates:
   - start: '2013-11-03'
     end: '2013-11-08'
@@ -58,13 +58,13 @@ resolutions:
       kind: effective
 - identifier: '861'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: ISO/TC 184/SC 4 – ISO/TC 59/SC 13 JWG 12
+  title: ISO/TC 184/SC 4 -- ISO/TC 59/SC 13 JWG 12
   dates:
   - start: '2013-11-15'
     kind: decision
   actions:
   - type: resolves
-    message: 'ISO/TC 184/SC 4 – ISO/TC 59/SC 13 JWG 12
+    message: 'ISO/TC 184/SC 4 -- ISO/TC 59/SC 13 JWG 12
 
       Resolution:
 
@@ -234,17 +234,17 @@ resolutions:
 
       Appreciation to those who presented at the Open Technical Forum:
 
-      Jean Brange, BOOST - “BoostAeroSpace – Competitiveness and Innovation for the
+      Jean Brange, BOOST - “BoostAeroSpace -- Competitiveness and Innovation for the
 
       European Aerospace & Defence Industry”
 
-      Jochen Haenisch, JOTNE – “CLOUDFLOW: Computational Cloud Services And
+      Jochen Haenisch, JOTNE -- “CLOUDFLOW: Computational Cloud Services And
 
       Workflows For Agile Engineering”
 
       David Leal- “Industrial Data on the Web - Dereferencing”
 
-      Howard Mason, AIA – “Industrial Data in the Cloud: A US Aerospace and Defense
+      Howard Mason, AIA -- “Industrial Data in the Cloud: A US Aerospace and Defense
 
       Perspective”
 
@@ -293,35 +293,35 @@ resolutions:
 
       Resolution: SC 4 appoints Sheron Koshy as Project Editor for Projects below:
 
-      
+      •
 
       ISO 8000-10
 
-      
+      •
 
       ISO 8000- 20
 
-      
+      •
 
       ISO 8000- 30
 
-      
+      •
 
       ISO 8000- 40
 
-      
+      •
 
       ISO 8000- 100
 
-      
+      •
 
       ISO 8000- 120
 
-      
+      •
 
       ISO 8000- 130
 
-      
+      •
 
       ISO 8000- 140'
     dates:

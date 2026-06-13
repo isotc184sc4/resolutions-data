@@ -1,5 +1,5 @@
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Hamamatsu, Japan, October 31, 2022 – November 4, 2022
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Hamamatsu, Japan, October 31, 2022 -- November 4, 2022
   dates:
   - start: '2022-10-31'
     end: '2022-11-04'
@@ -327,26 +327,26 @@ resolutions:
 
       10303 modules to SDT 36:
 
-       ISO/AWI TS 10303-1848 (ed.1- id.81490), “Annotated 3d model data quality
+      * ISO/AWI TS 10303-1848 (ed.1- id.81490), “Annotated 3d model data quality
 
       criteria”
 
-       ISO/AWI TS 10303-1849 (ed.1- id.81491), “Annotated 3d model data quality
+      * ISO/AWI TS 10303-1849 (ed.1- id.81491), “Annotated 3d model data quality
 
       inspection result”
 
-       ISO/AWI TS 10303-1850 (ed.1- id.81492), “Triangulated shape data quality”
+      * ISO/AWI TS 10303-1850 (ed.1- id.81492), “Triangulated shape data quality”
 
-       ISO/AWI TS 10303-1851 (ed.1- id.81493), “PMI data quality”
+      * ISO/AWI TS 10303-1851 (ed.1- id.81493), “PMI data quality”
 
-       ISO/AWI TS 10303-1852 (ed.1- id.82033), “Retention period”
+      * ISO/AWI TS 10303-1852 (ed.1- id.82033), “Retention period”
 
 
-       ISO/AWI TS 10303-1853 (ed.1- id.82522), “Datum and datum systems”
+      * ISO/AWI TS 10303-1853 (ed.1- id.82522), “Datum and datum systems”
 
       The modules will be published according to the following schedules:
 
-       ISO 10303-1852 in SMRL v10, publication on 2023-05-31;
+      * ISO 10303-1852 in SMRL v10, publication on 2023-05-31;
 
       ISO 10303-1848, 1849, 1850, 1851 and 1853 in SMRL v11 publication on 2023-10-15.'
     dates:
@@ -613,29 +613,29 @@ resolutions:
 
       (JNC)
 
-       Akihiko Ohtaka
+      * Akihiko Ohtaka
 
-       Atsuto Soma
+      * Atsuto Soma
 
       (MSTC)
 
-       Satoshi Abe
+      * Satoshi Abe
 
-       Kenji Kitayama
+      * Kenji Kitayama
 
-       Toshiyuki Shirabe
+      * Toshiyuki Shirabe
 
-       Yasunari Fujinuki
+      * Yasunari Fujinuki
 
       (Elysium)
 
-       Mayumi Harakawa
+      * Mayumi Harakawa
 
-       Kotoe Onoda
+      * Kotoe Onoda
 
-       Mark Melendy
+      * Mark Melendy
 
-       Yushi Shiozaki
+      * Yushi Shiozaki
 
       Special acknowledgement is extended to the staff at Act City Hamamatsu Congress
 
@@ -656,12 +656,12 @@ resolutions:
 
       participation in the SC 4 Open Technical Forum
 
-       Paul van Exel, Convenor, WG 3
+      * Paul van Exel, Convenor, WG 3
 
 
-       Patrick Walsh, Project Co-leader, AP 239
+      * Patrick Walsh, Project Co-leader, AP 239
 
-       Stuart Galt, Convenor, TF 1'
+      * Stuart Galt, Convenor, TF 1'
     dates:
     - start: '2022-11-15'
       kind: decision
@@ -725,24 +725,24 @@ resolutions:
 
       84th Plenary.
 
-       ISO/IEC Joint Task Force on Risk
+      * ISO/IEC Joint Task Force on Risk
 
-       ISO/IEC JTC 1/SC 7
+      * ISO/IEC JTC 1/SC 7
 
-       ISO/TC 171/SC 2 written report
+      * ISO/TC 171/SC 2 written report
 
-       PDES Inc.
+      * PDES Inc.
 
 
-       NAFEMS
+      * NAFEMS
 
-       Small Business Standards
+      * Small Business Standards
 
-       Khronos
+      * Khronos
 
-       Web3D Consortium
+      * Web3D Consortium
 
-       ISO/IEC JTC 1/SC 24'
+      * ISO/IEC JTC 1/SC 24'
     dates:
     - start: '2022-11-15'
       kind: decision

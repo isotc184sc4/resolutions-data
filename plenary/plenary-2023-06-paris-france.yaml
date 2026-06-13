@@ -1,5 +1,5 @@
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Saint-Denis, France, June 11, 2023 – June 17, 2023
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Saint-Denis, France, June 11, 2023 -- June 17, 2023
   dates:
   - start: '2023-06-11'
     end: '2023-06-17'
@@ -109,13 +109,13 @@ resolutions:
 
       with the following terms of reference:
 
-       Create a Committee Specific Procedure for WG 21, WG 22, WG 23, and JWG 24
+      * Create a Committee Specific Procedure for WG 21, WG 22, WG 23, and JWG 24
 
       that harmonizes the process for maintaining standards as a database and propose
 
       the procedure to SC 4 for consideration as a standing document,
 
-       Revise the existing procedures for WG 21 (SC4N2617, SC4N2591), WG 22
+      * Revise the existing procedures for WG 21 (SC4N2617, SC4N2591), WG 22
 
       (SC4N2984), WG 23 (SC4N2612), and JWG 24 (SC4N3708) to incorporate the
 
@@ -123,11 +123,11 @@ resolutions:
 
       standing document,
 
-       Draft/revise user level documents for implementing the Common Change Process
+      * Draft/revise user level documents for implementing the Common Change Process
 
       at the technology application level for each WG, and
 
-       Update SC4 at each meeting on progress until expected completion in Fall 2024'
+      * Update SC4 at each meeting on progress until expected completion in Fall 2024'
     dates:
     - start: '2023-06-15'
       kind: effective
@@ -141,15 +141,15 @@ resolutions:
 
       this important task:
 
-       Nils Sandsmark
+      * Nils Sandsmark
 
-       Jochen Haenisch
+      * Jochen Haenisch
 
-       Paul van Exel
+      * Paul van Exel
 
-       Dr. Tim King (Convenor)
+      * Dr. Tim King (Convenor)
 
-       Hiroshi Murayama
+      * Hiroshi Murayama
 
       And invite National Bodies to nominate members to the task force.'
     dates:
@@ -172,19 +172,19 @@ resolutions:
 
       the mandate of TF 2 and add to its terms of reference the following:
 
-       Build upon the ISO/TR 17999 SC 4 Reference Architecture;
+      * Build upon the ISO/TR 17999 SC 4 Reference Architecture;
 
-       Share with other committees, subcommittees and industrial standardisation
+      * Share with other committees, subcommittees and industrial standardisation
 
       groups the opportunity proposed in ISO/TR 17999 to their standards;
 
-       Develop a guide (technical report) on how ISO/TR 17999 could assist the
+      * Develop a guide (technical report) on how ISO/TR 17999 could assist the
 
       implementation of computer processable ontologies, terminologies, and the
 
       activities necessary to manage them;
 
-       And invite National Bodies to nominate members.'
+      * And invite National Bodies to nominate members.'
     dates:
     - start: '2023-06-15'
       kind: effective
@@ -258,13 +258,13 @@ resolutions:
       kind: effective
 - identifier: '1120'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Launch ISO/NP Automation systems and integration – Ontology-based interoperab...
+  title: Launch ISO/NP Automation systems and integration -- Ontology-based interoperab...
   dates:
   - start: '2023-06-15'
     kind: decision
   actions:
   - type: resolves
-    message: Launch ISO/NP Automation systems and integration – Ontology-based interoperability
+    message: Launch ISO/NP Automation systems and integration -- Ontology-based interoperability
     dates:
     - start: '2023-06-15'
       kind: effective
@@ -274,11 +274,11 @@ resolutions:
 
       184/SC 4:
 
-       Requests its Committee Manager launch ISO/NP Automation systems and
+      * Requests its Committee Manager launch ISO/NP Automation systems and
 
-      integration – Ontology-based interoperability with an eight-week ballot duration;
+      integration -- Ontology-based interoperability with an eight-week ballot duration;
 
-       Create a Work Group entitled WG 26 “Ontology-based interoperability” to:
+      * Create a Work Group entitled WG 26 “Ontology-based interoperability” to:
 
       o Develop and maintain ISO xxxxx: “Automation systems and integration -
 
@@ -292,7 +292,7 @@ resolutions:
 
       existing reference data libraries and ontologies using the standard series,
 
-       Requests WG 26 to work in close cooperation with WG 3, WG 12, WG 15, WG
+      * Requests WG 26 to work in close cooperation with WG 3, WG 12, WG 15, WG
 
       21, and WG 22 to align with, reuse and complement their existing standards, and
 
@@ -303,21 +303,21 @@ resolutions:
   - type: resolves
     message: 'SC 4 standards,
 
-       Nominates Pål Rylandsholm as convener of the work group, and
+      * Nominates Pål Rylandsholm as convener of the work group, and
 
-       Invites member bodies to nominate additional members to the work group.'
+      * Invites member bodies to nominate additional members to the work group.'
     dates:
     - start: '2023-06-15'
       kind: effective
 - identifier: '1121'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Launch ISO/TR – Automation systems and integration - Core terminology for ind...
+  title: Launch ISO/TR -- Automation systems and integration - Core terminology for ind...
   dates:
   - start: '2023-06-15'
     kind: decision
   actions:
   - type: resolves
-    message: 'Launch ISO/TR – Automation systems and integration - Core terminology for industrial
+    message: 'Launch ISO/TR -- Automation systems and integration - Core terminology for industrial
 
       data'
     dates:
@@ -489,15 +489,15 @@ resolutions:
       AFNOR
 
 
-       Franck LEBEUGLE,
+      * Franck LEBEUGLE,
 
-       Stéphane MOULIERE
+      * Stéphane MOULIERE
 
-       Mélissa DE MEDEIROS
+      * Mélissa DE MEDEIROS
 
-       Nathalie DA SILVA
+      * Nathalie DA SILVA
 
-       Arthur RIBEMONT
+      * Arthur RIBEMONT
 
       Special acknowledgement is extended to all the staff at AFNOR for their seamless and
 
@@ -531,7 +531,7 @@ resolutions:
   - type: thanks
     message: 'The Digital transformation ISO/TC 184 symposium host at EDF Lab in Saclay:
 
-       Pascal TERRIEN, EDF'
+      * Pascal TERRIEN, EDF'
     dates:
     - start: '2023-06-15'
       kind: decision
@@ -546,11 +546,11 @@ resolutions:
 
       three informative workshops for this super-meeting;
 
-       Martin Hardwick - Industrial Implementation Forum
+      * Martin Hardwick - Industrial Implementation Forum
 
-       Véronique Dubillot - Quality and Standards Development
+      * Véronique Dubillot - Quality and Standards Development
 
-       Kenny Swope - Digital Twin Roadmap'
+      * Kenny Swope - Digital Twin Roadmap'
     dates:
     - start: '2023-06-15'
       kind: decision

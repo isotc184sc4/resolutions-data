@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Sapporo, Japan, May 22, 2016 – May 27, 2016
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Sapporo, Japan, May 22, 2016 -- May 27, 2016
   dates:
   - start: '2016-05-22'
     end: '2016-05-27'
@@ -136,27 +136,27 @@ resolutions:
 
       and appoints the following experts to the group:
 
-       Hiroshi Murayama, Leader and ISO 13584 and IEC 61360 expert
+      * Hiroshi Murayama, Leader and ISO 13584 and IEC 61360 expert
 
-       Wolfgang Wilkes , ISO 13584 expert and user in other standards
+      * Wolfgang Wilkes , ISO 13584 expert and user in other standards
 
-       Norman Swindells, User of ISO 13584 in other standards
+      * Norman Swindells, User of ISO 13584 in other standards
 
-       Nils Sandsmark, ISO 15926 expert and user in oil and gas facility environments
+      * Nils Sandsmark, ISO 15926 expert and user in oil and gas facility environments
 
-       Nigel Shaw, ISO 10303-239 and reference data expert and user
+      * Nigel Shaw, ISO 10303-239 and reference data expert and user
 
-       Nicolas Figay, ISO 10303-242 expert
+      * Nicolas Figay, ISO 10303-242 expert
 
-       Peter Benson, ISO 22745 expert and user
+      * Peter Benson, ISO 22745 expert and user
 
-       Nikolaus Ondracek, ISO 13584 expert and user
+      * Nikolaus Ondracek, ISO 13584 expert and user
 
-       David Leal, ISO 15926 and RDL expert
+      * David Leal, ISO 15926 and RDL expert
 
-       Paul van Exel, ISO 15926 expert
+      * Paul van Exel, ISO 15926 expert
 
-       Hong Yan, ISO 13584-511 expert'
+      * Hong Yan, ISO 13584-511 expert'
     dates:
     - start: '2016-05-15'
       kind: effective
@@ -251,11 +251,11 @@ resolutions:
 
       provided:
 
-       BuildingSMART – Thomas Liebich
+      * BuildingSMART -- Thomas Liebich
 
-       ISO/TC 59/SC 13 – Thomas Liebich
+      * ISO/TC 59/SC 13 -- Thomas Liebich
 
-       ISO/IEC JTC 1/SC 24 – Christophe Mouton
+      * ISO/IEC JTC 1/SC 24 -- Christophe Mouton
 
 
       ACCLAMATION'
@@ -269,11 +269,11 @@ resolutions:
 
       2016-05-23
 
-       Martin Hardwick - Roadmap for deploying semantic GD&T in manufacturing
+      * Martin Hardwick - Roadmap for deploying semantic GD&T in manufacturing
 
-       Hiroshi Murayama – IEC SC3D and the CDD
+      * Hiroshi Murayama -- IEC SC3D and the CDD
 
-       Jean Brange – Survey of STEP toolkits
+      * Jean Brange -- Survey of STEP toolkits
 
       ACCLAMATION'
     dates:
@@ -284,13 +284,13 @@ resolutions:
 
       participation in the 71st ISO/TC 184/SC 4 AP242 Tutorial in Sapporo, Japan 2016-05-24
 
-       Max Ungerer, ProSTEP AG
+      * Max Ungerer, ProSTEP AG
 
-       Nicolas Figay, Airbus Group
+      * Nicolas Figay, Airbus Group
 
-       Jean Brange, Boost-Conseil
+      * Jean Brange, Boost-Conseil
 
-       Kevin Le Tutour, Boost-Conseil
+      * Kevin Le Tutour, Boost-Conseil
 
       ACCLAMATION'
     dates:
@@ -301,28 +301,28 @@ resolutions:
 
       participation in the 71st ISO/TC 184/SC 4 Industry Day in Sapporo, Japan 2016-05-25
 
-       Steven Vettermann, ProSTEP iViP
+      * Steven Vettermann, ProSTEP iViP
 
-       Hideyuki Yoshimoto, JAMA
+      * Hideyuki Yoshimoto, JAMA
 
-       Sangjin Jeong, ETRI
+      * Sangjin Jeong, ETRI
 
-       Torbjörn Holm, Eurostep
+      * Torbjörn Holm, Eurostep
 
-       Junichi Takeuchi, FASOTEC Co., Ltd.
+      * Junichi Takeuchi, FASOTEC Co., Ltd.
 
-       Kevin Zhang, Shenzhen Pengrui Information Technology Co., Ltd.
+      * Kevin Zhang, Shenzhen Pengrui Information Technology Co., Ltd.
 
-       Nicolas Figay, Airbus Group
+      * Nicolas Figay, Airbus Group
 
-       Masahusa Matsui, Mitsubishi Aircraft Corporation
+      * Masahusa Matsui, Mitsubishi Aircraft Corporation
 
-       Atsuto Soma, JEITA
+      * Atsuto Soma, JEITA
 
 
-       Larry Maggiano, Mitsutoyo America
+      * Larry Maggiano, Mitsutoyo America
 
-       Takamasa Tanaka, Digital Process Ltd.
+      * Takamasa Tanaka, Digital Process Ltd.
 
       ACCLAMATION'
     dates:

@@ -1,5 +1,5 @@
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Stockholm, Sweden, June 9, 2002 – June 15, 2002
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Stockholm, Sweden, June 9, 2002 -- June 15, 2002
   dates:
   - start: '2002-06-09'
     end: '2002-06-15'
@@ -32,7 +32,7 @@ resolutions:
 
       Norman Swindells
 
-      ISO 10303 – PDM Modules
+      ISO 10303 -- PDM Modules
 
       Pascal Huau'
 - identifier: '531'
@@ -335,7 +335,7 @@ resolutions:
     - start: '2002-06-15'
       kind: effective
   - type: requests
-    message: 'SC 4 requests WG 3 to submit a NWI proposal on AP219 – Inspection planning, no
+    message: 'SC 4 requests WG 3 to submit a NWI proposal on AP219 -- Inspection planning, no
 
       later than March 2003'
     dates:
@@ -483,13 +483,13 @@ resolutions:
       kind: effective
 - identifier: '540'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Abstracts for ISO/TC 184 – Specification
+  title: Abstracts for ISO/TC 184 -- Specification
   dates:
   - start: '2002-06-15'
     kind: decision
   actions:
   - type: resolves
-    message: Abstracts for ISO/TC 184 – Specification
+    message: Abstracts for ISO/TC 184 -- Specification
     dates:
     - start: '2002-06-15'
       kind: effective

@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Rotterdam, Netherlands, January 25, 1988 – February 4, 1988
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Rotterdam, Netherlands, January 25, 1988 -- February 4, 1988
   dates:
   - start: '1988-01-25'
     end: '1988-02-04'

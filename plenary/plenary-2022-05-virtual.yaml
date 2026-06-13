@@ -1,5 +1,5 @@
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Virtual, May 16, 2022 – May 20, 2022
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Virtual, May 16, 2022 -- May 20, 2022
   dates:
   - start: '2022-05-16'
     end: '2022-05-20'
@@ -80,11 +80,11 @@ resolutions:
 
       ☒
 
-      ISO 8000-1 ed3, Data quality – Part 1: Overview
+      ISO 8000-1 ed3, Data quality -- Part 1: Overview
 
       ☒
 
-      ISO 8000-200, Data quality – Part 200: Transaction data: Quality of
+      ISO 8000-200, Data quality -- Part 200: Transaction data: Quality of
 
       transaction data
 
@@ -311,21 +311,21 @@ resolutions:
   - type: resolves
     message: 'Noting that
 
-       ISO 10303 SMRL is a body of work collectively managed as a set of Technical
+      * ISO 10303 SMRL is a body of work collectively managed as a set of Technical
 
       Specification and subject to the procedures noted in SC4N2591 for managing
 
       standards in database format,
 
-       ISO 10303-1819 is managed in SC 4 as a required element of the SMRL and has
+      * ISO 10303-1819 is managed in SC 4 as a required element of the SMRL and has
 
       been since its inception,
 
-       ISO/CS has found that ISO 10303-1819 is currently listed as an IS in the
+      * ISO/CS has found that ISO 10303-1819 is currently listed as an IS in the
 
       publication process for SMRL V9, and
 
-       having found no root cause for the discrepancy,'
+      * having found no root cause for the discrepancy,'
     dates:
     - start: '2022-05-15'
       kind: effective
@@ -356,11 +356,11 @@ resolutions:
       (project id = 78832) from SDT 24 to SDT 36 with the following target dates:
 
 
-      Stage 40 – DIS Registered: 2022-10-15 (Original Target: 2022-04-14)
+      Stage 40 -- DIS Registered: 2022-10-15 (Original Target: 2022-04-14)
 
-      Stage 50 – FDIS Registered: 2023-06-15 (Original Target: not set)
+      Stage 50 -- FDIS Registered: 2023-06-15 (Original Target: not set)
 
-      Stage 60 – IS Published: 2023-11-28 (Original Target: 2023-04-14)'
+      Stage 60 -- IS Published: 2023-11-28 (Original Target: 2023-04-14)'
     dates:
     - start: '2022-05-15'
       kind: effective
@@ -457,7 +457,7 @@ resolutions:
 
       incorporate digital twin with a mandate to serve as the focus and proponent for JTC 1’s
 
-      standardization programme and the creation of ISO/IEC JTC 1/SC 41/WG 6 – Digital
+      standardization programme and the creation of ISO/IEC JTC 1/SC 41/WG 6 -- Digital
 
       Twin, and noting that ISO/TC 184/SC 4 possesses numerous requirements in the space
 
@@ -467,14 +467,14 @@ resolutions:
 
       appreciation to serve in that capacity:
 
-       Soonhung Han
+      * Soonhung Han
 
 
-       Martin Hardwick
+      * Martin Hardwick
 
-       Sangkeun Yoo
+      * Sangkeun Yoo
 
-       Duan Haibo
+      * Duan Haibo
 
       Acclamations and Acknowledgements'
     dates:

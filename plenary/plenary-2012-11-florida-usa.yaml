@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Miami, United States, November 11, 2012 – November 16, 2012
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Miami, United States, November 11, 2012 -- November 16, 2012
   dates:
   - start: '2012-11-11'
     end: '2012-11-16'
@@ -66,19 +66,19 @@ resolutions:
 
       Scope:
 
-       Develop and maintain ISO 10303 (STEP) application protocols (APs)
+      * Develop and maintain ISO 10303 (STEP) application protocols (APs)
 
-       Develop and maintain the information models in the STEP Module and
+      * Develop and maintain the information models in the STEP Module and
 
       Resource Library (SMRL) to support the APs, together with other common
 
       resources for SC 4
 
-       Develop and maintain guidance for the use of STEP APs
+      * Develop and maintain guidance for the use of STEP APs
 
-       Develop and maintain standards for 3D visualization of product models
+      * Develop and maintain standards for 3D visualization of product models
 
-       Establish liaison with other standards activities working on information
+      * Establish liaison with other standards activities working on information
 
       models useful as common resources for SC 4'
     dates:
@@ -87,19 +87,19 @@ resolutions:
   - type: resolves
     message: 'SC 4 transfers the following teams and their work from WG 3 to WG 12:
 
-       T1 Shape RepresentationT4 Materials
+      * T1 Shape RepresentationT4 Materials
 
-       T8 Product Life Cycle
+      * T8 Product Life Cycle
 
-       T9 Engineering Analysis
+      * T9 Engineering Analysis
 
-       T10 Electrical/Electronics
+      * T10 Electrical/Electronics
 
-       T19 Mechanical Products
+      * T19 Mechanical Products
 
-       T22 Building and Construction
+      * T22 Building and Construction
 
-       T24 Manufacturing
+      * T24 Manufacturing
 
       Existing WG 12 teams such as Parametrics remain unchanged'
     dates:
@@ -160,11 +160,11 @@ resolutions:
 
       Scope:
 
-       Develop and maintain ISO 15926
+      * Develop and maintain ISO 15926
 
-       Develop and maintain guidance for the implementation and use of ISO 15926
+      * Develop and maintain guidance for the implementation and use of ISO 15926
 
-       Establish liaison with other standards activities working on relevant
+      * Establish liaison with other standards activities working on relevant
 
       information models and reference data'
     dates:
@@ -222,18 +222,18 @@ resolutions:
 
       Scope:
 
-       Develop and maintain International Standards for defining and
+      * Develop and maintain International Standards for defining and
 
       exchanging product characteristics, based on open dictionaries
 
-       Develop and maintain International Standards for defining and
+      * Develop and maintain International Standards for defining and
 
       exchanging product libraries based on product characteristics
 
-       Develop guidance for the implementation and use of the standards
+      * Develop guidance for the implementation and use of the standards
 
 
-       Establish liaisons with other standards groups that require services for
+      * Establish liaisons with other standards groups that require services for
 
       the representation of product libraries and characteristics
 
@@ -281,23 +281,23 @@ resolutions:
 
       Scope:
 
-       Develop and maintain International Standards describing EXPRESS and
+      * Develop and maintain International Standards describing EXPRESS and
 
       its extensions.
 
-       Develop and maintain International Standards for conveying
+      * Develop and maintain International Standards for conveying
 
       information described by EXPRESS schemas and methodologies for
 
       determining conformance to these standards
 
-       Develop and maintain International Standards and guidance for conveying
+      * Develop and maintain International Standards and guidance for conveying
 
       information defined in EXPRESS schemas using other representation
 
       forms
 
-       Develop and maintain International Standards for the implementation of other'
+      * Develop and maintain International Standards for the implementation of other'
     dates:
     - start: '2012-11-15'
       kind: effective
@@ -666,7 +666,7 @@ resolutions:
 
       •
 
-      MOU/MG Report – Howard Mason
+      MOU/MG Report -- Howard Mason
 
       •
 
@@ -678,7 +678,7 @@ resolutions:
 
       •
 
-      Liaison Issues – Howard Mason
+      Liaison Issues -- Howard Mason
 
       We appreciate your representation to and for ISO/TC 184/SC 4.
 

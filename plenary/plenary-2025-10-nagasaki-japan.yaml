@@ -1,5 +1,5 @@
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Nagasaki, Japan, October 25, 2025 – October 31, 2025
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Nagasaki, Japan, October 25, 2025 -- October 31, 2025
   dates:
   - start: '2025-10-25'
     end: '2025-10-31'
@@ -25,13 +25,13 @@ resolutions:
 
       ISO/PWI 23726–1 Industrial automation systems and integration –
 
-      Ontology based interoperability – Part 1: Overview and fundamental
+      Ontology based interoperability -- Part 1: Overview and fundamental
 
       principles
 
       ☒
 
-      ISO/NP 8000–260: Data quality – Part 260: Sensor data life cycle
+      ISO/NP 8000–260: Data quality -- Part 260: Sensor data life cycle
 
       management: Concept and framework
 
@@ -44,7 +44,7 @@ resolutions:
 
       ☒
 
-      ISO/NP XXXX: Industrial automation systems and integration – 3D
+      ISO/NP XXXX: Industrial automation systems and integration -- 3D
 
       shape descriptors for fidelity metrics of digital twin shapes
 
@@ -166,30 +166,30 @@ resolutions:
 
       of SC4 on 28 Oct 2025 with the following schedule milestones:
 
-       CD consultation:
+      * CD consultation:
 
       2026-03-31
 
-       DIS submission:
+      * DIS submission:
 
       2026-07-31
 
-       Publication:
+      * Publication:
 
       27-01-31
 
 
       Nominate the following experts to participate in the project
 
-       Fumiki Tanaka (JISC)
+      * Fumiki Tanaka (JISC)
 
-       Akihiko Ohtaka (JISC)
+      * Akihiko Ohtaka (JISC)
 
-       Hiroyuki Hiraoka (JISC)
+      * Hiroyuki Hiraoka (JISC)
 
-       Yoshihito Kikuchi (JISC),
+      * Yoshihito Kikuchi (JISC),
 
-       Kazuya Kobayashi (JISC).
+      * Kazuya Kobayashi (JISC).
 
       Further, the SC 4 Committee Manager is requested to launch a call for experts from
 
@@ -229,29 +229,29 @@ resolutions:
 
       of SC4 on 28 Oct 2025 with the following schedule milestones:
 
-       CD consultation:
+      * CD consultation:
 
       2026-03-31
 
-       DIS submission:
+      * DIS submission:
 
       2026-07-31
 
-       Publication:
+      * Publication:
 
       2027-01-31
 
       Nominate the following experts to participate in the project
 
-       Fumiki Tanaka (JISC)
+      * Fumiki Tanaka (JISC)
 
-       Akihiko Ohtaka (JISC)
+      * Akihiko Ohtaka (JISC)
 
-       Hiroyuki Hiraoka(JISC)
+      * Hiroyuki Hiraoka(JISC)
 
-       Yoshihito Kikuchi (JISC),
+      * Yoshihito Kikuchi (JISC),
 
-       Kazuya Kobayashi(JISC).
+      * Kazuya Kobayashi(JISC).
 
       Further, the SC 4 Committee Manager is requested to launch a call for experts from
 
@@ -294,19 +294,19 @@ resolutions:
 
       Dates for key milestones:
 
-       Circulation of 1st Working Draft (if any) to experts:
+      * Circulation of 1st Working Draft (if any) to experts:
 
       2025-11-15
 
-       Committee Draft Consultation (if any):
+      * Committee Draft Consultation (if any):
 
       2025-12-15
 
-       DIS submission:
+      * DIS submission:
 
       2026-12-15
 
-       Publication:
+      * Publication:
 
       2027-09-15'
     dates:
@@ -317,27 +317,27 @@ resolutions:
 
       nominates the following experts to participate in the project
 
-       AFNOR: Frédéric Darré, Véronique Dubillot, Pierre Duchier, Jacques Heinisch,
+      * AFNOR: Frédéric Darré, Véronique Dubillot, Pierre Duchier, Jacques Heinisch,
 
       Erwan Livolant
 
-       ANSI: Brian Bentrim, Allison Barnard, Michelle Drummond, Stuart Galt, Melissa
+      * ANSI: Brian Bentrim, Allison Barnard, Michelle Drummond, Stuart Galt, Melissa
 
       Harvey, John Van Horn,Benjamin Standfield, Tom Thurman, Asa Trainer, Ben
 
       Urick, Pat Walsh
 
-       BSI: Robert Swindells,
+      * BSI: Robert Swindells,
 
-       DIN: Bernd Feldvoss, Guillaume Hirel, Lothar Klein, Max Ungerer,
+      * DIN: Bernd Feldvoss, Guillaume Hirel, Lothar Klein, Max Ungerer,
 
-       JISC: Hiroyuki Hiraoka, Fumiki Tanaka, Atsuto Soma,
+      * JISC: Hiroyuki Hiraoka, Fumiki Tanaka, Atsuto Soma,
 
-       SAC: Hyman Duan,
+      * SAC: Hyman Duan,
 
-       SIS: Mikael Hedlind,  Magnus Lundgren, Torbjörn Holm
+      * SIS: Mikael Hedlind,  Magnus Lundgren, Torbjörn Holm
 
-       SN: Nils Sandsmark, Pal Rylandsholm
+      * SN: Nils Sandsmark, Pal Rylandsholm
 
       Further, the SC 4 Committee Manager is requested to launch a call for experts from
 
@@ -373,7 +373,7 @@ resolutions:
 
       coordinate with ISO/CS to ballot a Technical Report with the title “Automation Systems
 
-      and Integration – Industrial Data – Digital Twin framework for manufacturing: – Part 101:
+      and Integration -- Industrial Data -- Digital Twin framework for manufacturing: -- Part 101:
 
       Use case on management of robotic multilayer and multipass gas-shielded metal arc
 
@@ -412,11 +412,11 @@ resolutions:
 
       reference:
 
-       Update ISO 15926-2 to ed.2 as presented to the Change Board during the 90th
+      * Update ISO 15926-2 to ed.2 as presented to the Change Board during the 90th
 
       Plenary of SC4 on 28 Oct 2025
 
-       Implement the target schedule as shown:
+      * Implement the target schedule as shown:
 
       o Circulation of 1st Working Draft to experts: 2026-05-01
 
@@ -426,7 +426,7 @@ resolutions:
 
       o Publication*: 2028-11-01
 
-       Nominates the following experts to the project
+      * Nominates the following experts to the project
 
       o Leo van Ruijven, NL
 

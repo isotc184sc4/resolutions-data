@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Virtual, November 2, 2020 – November 6, 2020
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Virtual, November 2, 2020 -- November 6, 2020
   dates:
   - start: '2020-11-02'
     end: '2020-11-06'
@@ -345,11 +345,11 @@ resolutions:
 
       Plenary
 
-       ISO/TC 171/SC 2 (Written)
+      * ISO/TC 171/SC 2 (Written)
 
-       IEC/SC 3D
+      * IEC/SC 3D
 
-       ISO/IEC/JTC 1/SC 24 and Web 3D Consortium
+      * ISO/IEC/JTC 1/SC 24 and Web 3D Consortium
 
       ACCLAMATION'
     dates:

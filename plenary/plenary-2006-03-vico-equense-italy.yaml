@@ -1,5 +1,5 @@
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Vico Equense, Italy, March 5, 2006 – March 10, 2006
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Vico Equense, Italy, March 5, 2006 -- March 10, 2006
   dates:
   - start: '2006-03-05'
     end: '2006-03-10'
@@ -168,7 +168,7 @@ resolutions:
 
       register the necessary New Work Item with ISO.
 
-      Referenced documents: See WG 2N1591 – issues log for AP203 and WG 12N3277
+      Referenced documents: See WG 2N1591 -- issues log for AP203 and WG 12N3277
 
       issues log for GD&T modules for additional information.
 
@@ -214,7 +214,7 @@ resolutions:
     - start: '2006-03-15'
       kind: effective
   - type: assigns
-    message: 'SC 4 assigns the current project ISO 8000 – (Catalogue Management Systems -
+    message: 'SC 4 assigns the current project ISO 8000 -- (Catalogue Management Systems -
 
       Requirements) to its Working Group 12 on a temporary basis until the establishment
 
@@ -228,13 +228,13 @@ resolutions:
       kind: effective
 - identifier: '672'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Extension of New Work Item Ballot for AP241 – AEC Facilities
+  title: Extension of New Work Item Ballot for AP241 -- AEC Facilities
   dates:
   - start: '2006-03-15'
     kind: decision
   actions:
   - type: resolves
-    message: 'Extension of New Work Item Ballot for AP241 – AEC Facilities
+    message: 'Extension of New Work Item Ballot for AP241 -- AEC Facilities
 
       Based on the comments from IAI and SC 4 members, SC 4, as an exception, extends
 
@@ -377,13 +377,13 @@ resolutions:
 
       The task of this working group will be to:
 
-       Establish a coherent definition of the structure of Quality Standards to be
+      * Establish a coherent definition of the structure of Quality Standards to be
 
       produced by SC 4, based on the results of the Product Data Quality
 
       Strategy meeting held on 2006-03-07 (SC 4 N2078)
 
-       Identify NWI and develop the necessary standards for accreditation of
+      * Identify NWI and develop the necessary standards for accreditation of
 
       organizations and processes, and the quality criteria for information complying
 
@@ -391,7 +391,7 @@ resolutions:
 
       series.
 
-       The current ISO 8000 work item will become part of the ISO 8000 series'
+      * The current ISO 8000 work item will become part of the ISO 8000 series'
     dates:
     - start: '2006-03-15'
       kind: effective
@@ -430,9 +430,9 @@ resolutions:
   - type: nominates
     message: 'SC 4 nominates as participants:
 
-       Max Ungerer,
+      * Max Ungerer,
 
-       Paul van Exel'
+      * Paul van Exel'
     dates:
     - start: '2006-03-15'
       kind: effective

@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Seattle, United States, October 2, 2016 – October 7, 2016
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Seattle, United States, October 2, 2016 -- October 7, 2016
   dates:
   - start: '2016-10-02'
     end: '2016-10-07'
@@ -226,9 +226,9 @@ resolutions:
 
       provided:
 
-       ISO/IEC JTC1/SC31 – Dan Kimball
+      * ISO/IEC JTC1/SC31 -- Dan Kimball
 
-       ISO/IEC JTC 1/SC 24 – Christophe Mouton
+      * ISO/IEC JTC 1/SC 24 -- Christophe Mouton
 
       ACCLAMATION'
     dates:
@@ -241,11 +241,11 @@ resolutions:
 
       2016-10-03:
 
-       Norman Swindells - Consolidation of property data for the life cycle of a
+      * Norman Swindells - Consolidation of property data for the life cycle of a
 
       composite product
 
-       Sune Horkeby - Product Behaviour; Standards as a Framework for Life Cycle
+      * Sune Horkeby - Product Behaviour; Standards as a Framework for Life Cycle
 
       Management
 
@@ -258,15 +258,15 @@ resolutions:
 
       participation in the 72nd ISO/TC 184/SC 4 Industry Day in Seattle, WA, 2016-10-05:
 
-       Dan Carnahan, CT 184 Consulting
+      * Dan Carnahan, CT 184 Consulting
 
-       Alan Johnston, MIMOSA
+      * Alan Johnston, MIMOSA
 
-       Ray Topping, Fiatech
+      * Ray Topping, Fiatech
 
-       Martin Hardwick, STEP Tools
+      * Martin Hardwick, STEP Tools
 
-       Cliff Whitehead, ODVA/Rockwell Automation
+      * Cliff Whitehead, ODVA/Rockwell Automation
 
 
       ACCLAMATION'
