@@ -2,16 +2,16 @@
   <div v-if="resolution" class="std-page res-detail-page">
 
     <!-- Back link -->
-    <button @click="$router.back()" class="std-page__back back-link">
+    <button @click="$router.back()" class="std-page__back back-link animate-up" style="--nth: 1">
       <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="back-link__icon"><path d="m15 18-6-6 6-6"/></svg>
       Go Back
     </button>
 
     <!-- Header -->
-    <header class="std-page__header res-detail-header">
+    <header class="std-page__header res-detail-header animate-up" style="--nth: 2">
       <div class="std-page__meta res-detail-meta">
         <span v-if="resolution.is_acclamation" class="std-page__badge res-detail-badge--acclamation">Acclamation</span>
-        <span v-else-if="resolution.id" class="std-page__badge font-mono" style="font-weight:600">{{ resolution.id }}</span>
+        <span v-else-if="resolution.id" class="std-page__badge font-mono badge-id">{{ resolution.id }}</span>
         
         <router-link 
           v-if="resolution.source_file" 
@@ -22,14 +22,14 @@
           <template v-else-if="resolution.source_title">{{ resolution.source_title }}</template>
         </router-link>
         
-        <span v-if="resolution.meeting_date" class="std-page__badge" style="color:var(--color-slate-600);">{{ formatDate(resolution.meeting_date) }}</span>
+        <span v-if="resolution.meeting_date" class="std-page__badge badge-date">{{ formatDate(resolution.meeting_date) }}</span>
         <span v-if="!resolution.is_acclamation" class="std-page__badge">
           <template v-if="resolution.source_type === 'plenary'">Plenary resolution</template>
           <template v-else-if="resolution.source_type === 'ballot'">Ballot resolution</template>
           <template v-else-if="resolution.source_type === '7372ma'">7372 MA resolution</template>
           <template v-else>Resolution</template>
         </span>
-        <a v-if="resolution.group_id" :href="`/groups/${resolution.group_id}/`" class="std-page__badge std-page__badge--link" style="color:var(--color-blue-accent); border-color:var(--color-blue-accent);">{{ resolution.group_id.toUpperCase() }}</a>
+        <a v-if="resolution.group_id" :href="`/groups/${resolution.group_id}/`" class="std-page__badge std-page__badge--link badge-group">{{ resolution.group_id.toUpperCase() }}</a>
       </div>
 
       <h1 v-if="resolution.title" class="std-page__title res-detail-title">{{ resolution.title }}</h1>
@@ -42,14 +42,14 @@
     <!-- Content -->
     <div class="std-page__content res-detail-content">
 
-      <section v-if="resolution.subject" class="std-page__section">
+      <section v-if="resolution.subject" class="std-page__section animate-up" style="--nth: 3">
         <h2 class="std-page__section-heading res-detail-section-title">Subject</h2>
         <div class="std-page__body res-detail-body">
           <p>{{ resolution.subject }}</p>
         </div>
       </section>
 
-      <section v-if="resolution.considerations && resolution.considerations.length > 0" class="std-page__section">
+      <section v-if="resolution.considerations && resolution.considerations.length > 0" class="std-page__section animate-up" style="--nth: 4">
         <h2 class="std-page__section-heading res-detail-section-title">Considerations</h2>
         <div class="std-page__body res-detail-list">
           <div v-for="(cons, idx) in resolution.considerations" :key="idx" class="consideration-item res-detail-card">
@@ -59,7 +59,7 @@
         </div>
       </section>
 
-      <section v-if="resolution.actions && resolution.actions.length > 0" class="std-page__section">
+      <section v-if="resolution.actions && resolution.actions.length > 0" class="std-page__section animate-up" style="--nth: 5">
         <h2 class="std-page__section-heading res-detail-section-title">Actions</h2>
         <div class="std-page__body res-detail-list">
           <div v-for="(act, idx) in resolution.actions" :key="idx" class="action-item res-detail-card res-detail-card--action">
@@ -77,40 +77,54 @@
         </div>
       </section>
 
-      <section v-if="resolution.approvals && resolution.approvals.length > 0" class="std-page__section">
+      <section v-if="resolution.approvals && resolution.approvals.length > 0" class="std-page__section animate-up" style="--nth: 6">
         <h2 class="std-page__section-heading res-detail-section-title">Approval</h2>
         <div class="std-page__body">
-          <div v-for="(app, idx) in resolution.approvals" :key="idx" class="approval-panel" :style="idx > 0 ? 'margin-top:1rem' : ''">
-            <p style="color:var(--color-slate-700);">
-              <strong v-if="app.degree" style="text-transform: capitalize; color:var(--color-slate-900);">{{ app.degree }}</strong>
+          <div v-for="(app, idx) in resolution.approvals" :key="idx" class="approval-panel" :class="{ 'mt-4': idx > 0 }">
+            <p class="approval-text">
+              <strong v-if="app.degree" class="approval-degree">{{ app.degree }}</strong>
               <template v-if="app.message"> &mdash; {{ app.message }}</template>
             </p>
           </div>
         </div>
       </section>
 
-      <section v-if="resolution.categories && resolution.categories.length > 0" class="std-page__section">
+      <section v-if="resolution.categories && resolution.categories.length > 0" class="std-page__section animate-up" style="--nth: 7">
         <h2 class="std-page__section-heading res-detail-section-title">Categories</h2>
-        <div style="display:flex;flex-wrap:wrap;gap:0.5rem">
+        <div class="categories-list">
           <span v-for="(cat, idx) in resolution.categories" :key="idx" class="std-page__badge">{{ cat }}</span>
         </div>
       </section>
 
     </div>
   </div>
-  <div v-else-if="!isLoaded" class="res-loading">
-    <div class="loading-pulse">
-      <div class="loading-pulse__line" style="width: 75%; height: 2rem;"></div>
-      <div class="loading-pulse__line" style="width: 50%;"></div>
-      <div class="loading-pulse__line" style="width: 100%; height: 8rem; margin-top: 2rem;"></div>
+  
+  <div v-else-if="!isLoaded" class="res-loading std-page">
+    <div class="skeleton-header">
+      <div class="skeleton-link"></div>
+      <div class="skeleton-badges">
+        <div class="skeleton-badge"></div>
+        <div class="skeleton-badge w-24"></div>
+      </div>
+      <div class="skeleton-title-large"></div>
+      <div class="skeleton-title-large w-3-4"></div>
+    </div>
+    <div class="skeleton-content mt-8">
+      <div class="skeleton-title mt-4"></div>
+      <div class="skeleton-text"></div>
+      <div class="skeleton-text"></div>
+      <div class="skeleton-title mt-8"></div>
+      <div class="skeleton-card"></div>
+      <div class="skeleton-card"></div>
     </div>
   </div>
+  
   <div v-else class="res-not-found">
     <div class="empty-state">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="empty-state__icon"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="8" x2="12" y2="12"></line><line x1="12" y1="16" x2="12.01" y2="16"></line></svg>
       <h3>Resolution not found</h3>
       <p>The resolution you requested could not be found or does not exist.</p>
-      <router-link to="/" class="std-chip" style="text-decoration:none;">View All Resolutions</router-link>
+      <router-link :to="{ name: 'home' }" class="std-chip link-no-ul">View All Resolutions</router-link>
     </div>
   </div>
 </template>
@@ -156,6 +170,19 @@ function formatDate(dateStr: string) {
 </script>
 
 <style scoped>
+/* Animations */
+.animate-up {
+  opacity: 0;
+  transform: translateY(20px);
+  animation: fadeUp 0.6s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+  animation-delay: calc(var(--nth) * 0.1s);
+}
+
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
 .res-detail-page {
   max-width: 56rem;
   margin: 0 auto;
@@ -203,6 +230,18 @@ function formatDate(dateStr: string) {
   background: #6366f1;
   color: white;
   border-color: transparent;
+}
+
+.badge-id { font-weight: 600; }
+.badge-date { color: var(--color-slate-600); }
+.dark .badge-date { color: var(--color-slate-400); }
+.badge-group {
+  color: var(--color-blue-accent);
+  border-color: var(--color-blue-accent);
+}
+.dark .badge-group {
+  color: #66a3e0;
+  border-color: #66a3e0;
 }
 
 .res-detail-title {
@@ -337,12 +376,27 @@ function formatDate(dateStr: string) {
   color: var(--color-slate-300);
 }
 
+.approval-text { color: var(--color-slate-700); }
+.dark .approval-text { color: var(--color-slate-300); }
+.approval-degree {
+  text-transform: capitalize;
+  color: var(--color-slate-900);
+}
+.dark .approval-degree { color: white; }
+.mt-4 { margin-top: 1rem; }
+
+.categories-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
 .res-loading {
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
   padding: 6rem 1rem;
+  max-width: 56rem;
+  margin: 0 auto;
 }
 
 .res-not-found {
@@ -356,6 +410,14 @@ function formatDate(dateStr: string) {
 
 .empty-state {
   display: inline-block;
+  padding: 4rem;
+  background: white;
+  border-radius: 1rem;
+  border: 1px dashed var(--color-slate-200);
+}
+.dark .empty-state {
+  background: var(--color-slate-900);
+  border-color: var(--color-slate-800);
 }
 .empty-state__icon {
   width: 3rem;
@@ -375,27 +437,41 @@ function formatDate(dateStr: string) {
   color: var(--color-slate-500);
   margin-bottom: 1.5rem;
 }
+.link-no-ul { text-decoration: none; display: inline-block; }
 
-.loading-pulse {
+/* Skeleton Loading */
+.skeleton-header {
   display: flex;
   flex-direction: column;
-  align-items: center;
-  width: 100%;
-  max-width: 42rem;
   gap: 1rem;
-  animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
 }
-.loading-pulse__line {
-  height: 1rem;
+
+.skeleton-link { width: 6rem; height: 1rem; }
+.skeleton-badges { display: flex; gap: 0.5rem; }
+.skeleton-title-large { width: 100%; height: 3rem; margin-top: 0.5rem; }
+
+.skeleton-content { display: flex; flex-direction: column; gap: 1rem; }
+.mt-8 { margin-top: 2rem; }
+
+.skeleton-link, .skeleton-title-large, .skeleton-badge, .skeleton-title, .skeleton-text, .skeleton-card {
   background-color: var(--color-slate-200);
   border-radius: 0.25rem;
+  animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
 }
-.dark .loading-pulse__line {
+.dark .skeleton-link, .dark .skeleton-title-large, .dark .skeleton-badge, .dark .skeleton-title, .dark .skeleton-text, .dark .skeleton-card {
   background-color: var(--color-slate-800);
 }
+
+.skeleton-badge { height: 1rem; width: 5rem; border-radius: 9999px; }
+.w-24 { width: 6rem; }
+.w-3-4 { width: 75%; }
+
+.skeleton-title { height: 1.5rem; width: 60%; }
+.skeleton-text { height: 1rem; width: 100%; }
+.skeleton-card { height: 8rem; width: 100%; border-radius: 0.75rem; }
+
 @keyframes pulse {
   0%, 100% { opacity: 1; }
   50% { opacity: .5; }
 }
 </style>
-
