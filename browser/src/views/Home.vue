@@ -12,24 +12,33 @@
         </h1>
         
         <p class="hero-subtitle animate-up" style="--nth: 2">
-          1,456 plenary resolutions from 86 meetings, spanning 1984 to 2026. Standards developed for the people who need them.
+          <template v-if="!isLoaded">Loading data...</template>
+          <template v-else>
+            {{ formatNumber(totalResolutions) }} plenary resolutions from {{ formatNumber(totalMeetings) }} meetings, spanning {{ yearRange.earliest }} to {{ yearRange.latest }}. {{ committee.tagline }}.
+          </template>
         </p>
 
         <div class="hero-stats animate-up" style="--nth: 3">
           <div class="stat-item">
-            <span class="stat-value">1,456</span>
+            <span class="stat-value">
+              <template v-if="!isLoaded">—</template>
+              <template v-else>{{ formatNumber(totalResolutions) }}</template>
+            </span>
             <span class="stat-label">Resolutions</span>
           </div>
           <div class="stat-item">
-            <span class="stat-value">86</span>
+            <span class="stat-value">
+              <template v-if="!isLoaded">—</template>
+              <template v-else>{{ formatNumber(totalMeetings) }}</template>
+            </span>
             <span class="stat-label">Meetings</span>
           </div>
           <div class="stat-item">
-            <span class="stat-value">822</span>
+            <span class="stat-value">{{ committee.publishedStandards }}</span>
             <span class="stat-label">Published Standards</span>
           </div>
           <div class="stat-item">
-            <span class="stat-value">1984</span>
+            <span class="stat-value">{{ committee.established }}</span>
             <span class="stat-label">Established</span>
           </div>
         </div>
@@ -159,18 +168,47 @@
 
 <script setup lang="ts">
 import { ref, computed, onMounted, onUnmounted, watch } from 'vue'
+import { useRouter, useRoute } from 'vue-router'
 import { useResolutions } from '../composables/useResolutions'
+import { useMeetings } from '../composables/useMeetings'
+import { committee } from '../data/committee'
+
+const router = useRouter()
+const route = useRoute()
 
 const { resolutions, isLoaded, loadData, search } = useResolutions()
+const { meetings, loadData: loadMeetingsData } = useMeetings()
 
-const searchQuery = ref('')
-const selectedYear = ref('')
+const searchQuery = ref((route.query.q as string) || '')
+const selectedYear = ref((route.query.year as string) || '')
 const limit = ref(50)
 const searchInputRef = ref<HTMLInputElement | null>(null)
 
+const totalResolutions = computed(() => resolutions.value.length)
+const totalMeetings = computed(() => meetings.value.length)
+const yearRange = computed(() => {
+  if (!resolutions.value.length) return { earliest: '', latest: '' }
+  const years = resolutions.value.map(r => parseInt(r.year)).filter(y => !isNaN(y))
+  if (!years.length) return { earliest: '', latest: '' }
+  return { earliest: String(Math.min(...years)), latest: String(Math.max(...years)) }
+})
+
+function formatNumber(n: number): string {
+  return n.toLocaleString('en-US')
+}
+
 onMounted(() => {
   loadData()
+  loadMeetingsData()
   window.addEventListener('keydown', handleGlobalKeydown)
+  
+  // If URL has search params, scroll down automatically once loaded
+  if (searchQuery.value || selectedYear.value) {
+    // we use a small timeout to let the dom render
+    setTimeout(() => {
+      scrollToResults()
+    }, 100)
+  }
 })
 
 onUnmounted(() => {
@@ -245,6 +283,13 @@ function loadMore() {
 
 watch([searchQuery, selectedYear], () => {
   limit.value = 50
+  
+  // Sync state to URL
+  const query: Record<string, string> = {}
+  if (searchQuery.value) query.q = searchQuery.value
+  if (selectedYear.value) query.year = selectedYear.value
+  router.replace({ query })
+  
   if (searchQuery.value || selectedYear.value) {
     scrollToResults()
   }
@@ -277,12 +322,14 @@ function formatDate(dateStr: string) {
   justify-content: center;
   padding: 4rem 2rem;
   overflow: hidden;
-  background-color: #020617;
-  color: #fff;
-  border-bottom: 1px solid #1e293b;
+  background-color: #f8fafc;
+  color: #0f172a;
+  border-bottom: 1px solid #e2e8f0;
 }
 .dark .hero-section {
   background-color: #020617;
+  color: #fff;
+  border-bottom: 1px solid #1e293b;
 }
 
 .hero-bg {
@@ -295,31 +342,30 @@ function formatDate(dateStr: string) {
   position: absolute;
   inset: 0;
   background: 
+    radial-gradient(circle at 15% 50%, rgba(0, 97, 173, 0.08), transparent 25%),
+    radial-gradient(circle at 85% 30%, rgba(227, 0, 15, 0.06), transparent 25%);
+  opacity: 0.8;
+}
+.dark .hero-bg__mesh {
+  background: 
     radial-gradient(circle at 15% 50%, rgba(0, 97, 173, 0.15), transparent 25%),
     radial-gradient(circle at 85% 30%, rgba(227, 0, 15, 0.12), transparent 25%);
-  opacity: 0.8;
 }
 
 .hero-bg__grid {
   position: absolute;
   inset: 0;
   background-image: 
-    linear-gradient(to right, rgba(255,255,255,0.03) 1px, transparent 1px),
-    linear-gradient(to bottom, rgba(255,255,255,0.03) 1px, transparent 1px);
+    linear-gradient(to right, rgba(0,0,0,0.03) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(0,0,0,0.03) 1px, transparent 1px);
   background-size: 40px 40px;
   mask-image: linear-gradient(to bottom, black 40%, transparent 100%);
   -webkit-mask-image: linear-gradient(to bottom, black 40%, transparent 100%);
 }
-
-.hero-content {
-  position: relative;
-  z-index: 10;
-  max-width: 64rem;
-  width: 100%;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  text-align: center;
+.dark .hero-bg__grid {
+  background-image: 
+    linear-gradient(to right, rgba(255,255,255,0.03) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(255,255,255,0.03) 1px, transparent 1px);
 }
 
 .hero-title {
@@ -329,20 +375,29 @@ function formatDate(dateStr: string) {
   line-height: 1.1;
   letter-spacing: -0.02em;
   margin-bottom: 1.5rem;
+  color: #0f172a;
+}
+.dark .hero-title {
   color: #f8fafc;
 }
 
 .text-blue-accent {
+  color: #0061ad;
+}
+.dark .text-blue-accent {
   color: #66a3e0;
 }
 
 .hero-subtitle {
   font-size: clamp(1.125rem, 2vw, 1.375rem);
-  color: #94a3b8;
+  color: #475569;
   max-width: 48rem;
   line-height: 1.6;
   margin-bottom: 3rem;
   font-weight: 400;
+}
+.dark .hero-subtitle {
+  color: #94a3b8;
 }
 
 .hero-stats {
@@ -371,8 +426,11 @@ function formatDate(dateStr: string) {
   font-family: var(--font-serif);
   font-size: 2.5rem;
   font-weight: 600;
-  color: #fff;
+  color: #0f172a;
   line-height: 1;
+}
+.dark .stat-value {
+  color: #fff;
 }
 
 .stat-label {
@@ -408,22 +466,35 @@ function formatDate(dateStr: string) {
   padding: 1.25rem 4rem 1.25rem 3.5rem;
   font-size: 1.125rem;
   border-radius: 9999px;
-  border: 1px solid rgba(255, 255, 255, 0.1);
-  background: rgba(15, 23, 42, 0.6);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  background: rgba(255, 255, 255, 0.9);
   backdrop-filter: blur(12px);
-  color: #fff;
-  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+  color: #0f172a;
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.05), 0 10px 10px -5px rgba(0, 0, 0, 0.02);
   transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
   -webkit-appearance: none;
 }
+.dark .hero-search-input {
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  background: rgba(15, 23, 42, 0.6);
+  color: #fff;
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+}
 
 .hero-search-input::placeholder {
+  color: #64748b;
+}
+.dark .hero-search-input::placeholder {
   color: #475569;
 }
 
 .hero-search-input:focus {
   outline: none;
   border-color: #0061ad;
+  background: #ffffff;
+  box-shadow: 0 0 0 4px rgba(0, 97, 173, 0.1), 0 20px 25px -5px rgba(0, 0, 0, 0.1);
+}
+.dark .hero-search-input:focus {
   background: rgba(15, 23, 42, 0.8);
   box-shadow: 0 0 0 4px rgba(0, 97, 173, 0.2), 0 20px 25px -5px rgba(0, 0, 0, 0.2);
 }
@@ -445,10 +516,15 @@ function formatDate(dateStr: string) {
   justify-content: center;
   padding: 0.125rem 0.375rem;
   border-radius: 0.25rem;
-  background: rgba(255, 255, 255, 0.1);
-  border: 1px solid rgba(255, 255, 255, 0.1);
+  background: rgba(0, 0, 0, 0.05);
+  border: 1px solid rgba(0, 0, 0, 0.1);
   font-family: var(--font-sans);
   font-weight: 600;
+  color: #475569;
+}
+.dark .hero-search-hint kbd {
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.1);
   color: #94a3b8;
 }
 
@@ -487,11 +563,20 @@ function formatDate(dateStr: string) {
 
 .hero-btn--secondary {
   background-color: transparent;
+  color: #475569;
+  border: 1px solid rgba(0, 0, 0, 0.15);
+}
+.dark .hero-btn--secondary {
   color: #cbd5e1;
   border: 1px solid rgba(255, 255, 255, 0.2);
 }
 
 .hero-btn--secondary:hover {
+  background-color: rgba(0, 0, 0, 0.05);
+  color: #0f172a;
+  border-color: rgba(0, 0, 0, 0.25);
+}
+.dark .hero-btn--secondary:hover {
   background-color: rgba(255, 255, 255, 0.05);
   color: #fff;
   border-color: rgba(255, 255, 255, 0.3);

@@ -100,12 +100,16 @@
 
 <script setup lang="ts">
 import { ref, computed, onMounted, watch } from 'vue'
+import { useRouter, useRoute } from 'vue-router'
 import { useMeetings } from '../composables/useMeetings'
+
+const router = useRouter()
+const route = useRoute()
 
 const { meetings, isLoaded, loadData } = useMeetings()
 
-const searchQuery = ref('')
-const selectedYear = ref('')
+const searchQuery = ref((route.query.q as string) || '')
+const selectedYear = ref((route.query.year as string) || '')
 const limit = ref(50)
 
 onMounted(() => {
@@ -153,6 +157,12 @@ function loadMore() {
 
 watch([searchQuery, selectedYear], () => {
   limit.value = 50
+  
+  // Sync state to URL
+  const query: Record<string, string> = {}
+  if (searchQuery.value) query.q = searchQuery.value
+  if (selectedYear.value) query.year = selectedYear.value
+  router.replace({ query })
 })
 
 function formatDate(dateStr: string) {
