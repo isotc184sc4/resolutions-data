@@ -220,3 +220,15 @@
     background: rgb(255 255 255 / 0.06);
   }
 }
+
+@layer components {
+  .site-header__external-links {
+    display: none;
+    align-items: center;
+    gap: 0.5rem;
+    margin-right: 0.5rem;
+  }
+  @media (min-width: 768px) {
+    .site-header__external-links { display: flex; }
+  }
+}

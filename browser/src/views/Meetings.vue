@@ -1,8 +1,8 @@
 <template>
   <div class="res-page">
     <header class="res-page__header">
-      <h1>Resolutions</h1>
-      <p class="res-page__subtitle">All plenary resolutions of ISO/TC 184/SC 4 "Industrial data", searchable by identifier, title, or keyword.</p>
+      <h1>Meetings</h1>
+      <p class="res-page__subtitle">Browse resolutions by plenary meeting.</p>
     </header>
 
     <div class="std-filter" id="std-filter">
@@ -15,10 +15,10 @@
           type="search" 
           v-model="searchQuery" 
           class="std-filter__search" 
-          placeholder="Search resolutions…" 
+          placeholder="Search meetings by venue or year…" 
           autocomplete="off" 
           spellcheck="false" 
-          aria-label="Search resolutions" 
+          aria-label="Search meetings" 
         />
       </div>
       <div class="std-filter__controls">
@@ -41,37 +41,33 @@
         </div>
       </div>
       <div class="std-filter__meta">
-        <span>{{ filteredResolutions.length }} results</span>
+        <span>{{ filteredMeetings.length }} meetings</span>
       </div>
     </div>
 
     <div class="std-results" v-if="isLoaded">
       <router-link 
-        v-for="res in paginatedResolutions" 
-        :key="res.source_file + res.id" 
-        :to="`/resolution/${res.id}`"
+        v-for="meeting in paginatedMeetings" 
+        :key="meeting.source_file" 
+        :to="{ name: 'meeting-detail', params: { sourceFile: meeting.source_file } }"
         class="std-results__card meeting-card"
       >
         <div class="std-results__name">
-          <span v-if="res.is_acclamation" class="std-results__type" style="background:#6366f1;color:#fff;font-size:0.75rem;">Acclamation</span>
-          <template v-else>
-            <span>{{ res.id }}</span>
-            <span class="std-results__type">Plenary</span>
-          </template>
+          <span>{{ meeting.year }} Plenary</span>
+          <span class="std-results__type">{{ meeting.resolution_count }} Resolutions</span>
         </div>
-        <div class="std-results__title meeting-card__title">{{ res.is_acclamation ? 'Acclamation' : (res.title || 'Resolution ' + res.id) }}</div>
-        <div v-if="res.snippet" class="std-results__snippet" style="font-size:0.875rem;color:var(--color-slate-500);margin-top:0.25rem;">{{ res.snippet }}</div>
+        <div class="std-results__title meeting-card__title">{{ meeting.venue || 'Unknown Venue' }}</div>
+        
         <div style="display:flex;gap:0.375rem;align-items:center;flex-wrap:wrap;margin-top:auto;padding-top:1rem;">
-          <span v-if="res.meeting_date" class="std-results__badge">{{ formatDate(res.meeting_date) }}</span>
-          <span v-if="res.venue" class="std-results__badge truncate-text" style="max-width: 150px">{{ res.venue }}</span>
+          <span v-if="meeting.meeting_date" class="std-results__badge">{{ formatDate(meeting.meeting_date) }}</span>
+          <span v-if="meeting.acclamation_count > 0" class="std-results__badge" style="background:var(--color-slate-100);color:var(--color-slate-700);">{{ meeting.acclamation_count }} Acclamations</span>
         </div>
       </router-link>
-      
-      <div v-if="filteredResolutions.length === 0" class="empty-state">
+      <div v-if="filteredMeetings.length === 0" class="empty-state">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="empty-state__icon"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
-        <h3>No results found</h3>
+        <h3>No meetings found</h3>
         <p>Try adjusting your search or year filter.</p>
-        <button class="std-chip" style="margin-top:1rem;" @click="searchQuery=''; selectedYear=''">Clear filters</button>
+        <button class="std-chip" style="margin-top:1rem" @click="searchQuery=''; selectedYear=''">Clear filters</button>
       </div>
     </div>
     <div v-else style="padding-top: 2.5rem; padding-bottom: 2.5rem; text-align: center;">
@@ -91,9 +87,9 @@
 
 <script setup lang="ts">
 import { ref, computed, onMounted, watch } from 'vue'
-import { useResolutions } from '../composables/useResolutions'
+import { useMeetings } from '../composables/useMeetings'
 
-const { resolutions, isLoaded, loadData, search } = useResolutions()
+const { meetings, isLoaded, loadData } = useMeetings()
 
 const searchQuery = ref('')
 const selectedYear = ref('')
@@ -105,45 +101,37 @@ onMounted(() => {
 
 const availableYears = computed(() => {
   const years = new Set<string>()
-  resolutions.value.forEach(r => {
-    if (r.year) years.add(r.year)
+  meetings.value.forEach(m => {
+    if (m.year) years.add(m.year)
   })
   return Array.from(years).sort((a, b) => b.localeCompare(a))
 })
 
-const filteredResolutions = computed(() => {
-  let list = resolutions.value
+const filteredMeetings = computed(() => {
+  let list = meetings.value
   
   if (selectedYear.value) {
-    list = list.filter(r => r.year === selectedYear.value)
+    list = list.filter(m => m.year === selectedYear.value)
   }
   
   if (searchQuery.value) {
-    const q = searchQuery.value.trim()
-    const matchedIndices = search(q)
-    
-    if (matchedIndices && matchedIndices.size > 0) {
-      list = list.filter((_, i) => matchedIndices.has(i))
-    } else {
-      const qLower = q.toLowerCase()
-      list = list.filter(r => 
-        (r.title && r.title.toLowerCase().includes(qLower)) ||
-        (r.id && r.id.toLowerCase().includes(qLower)) ||
-        (r.subject && r.subject.toLowerCase().includes(qLower)) ||
-        (r.venue && r.venue.toLowerCase().includes(qLower))
-      )
-    }
+    const q = searchQuery.value.toLowerCase()
+    list = list.filter(m => 
+      (m.venue && m.venue.toLowerCase().includes(q)) ||
+      (m.year && m.year.toLowerCase().includes(q)) ||
+      (m.source_title && m.source_title.toLowerCase().includes(q))
+    )
   }
   
   return list
 })
 
-const paginatedResolutions = computed(() => {
-  return filteredResolutions.value.slice(0, limit.value)
+const paginatedMeetings = computed(() => {
+  return filteredMeetings.value.slice(0, limit.value)
 })
 
 const hasMore = computed(() => {
-  return limit.value < filteredResolutions.value.length
+  return limit.value < filteredMeetings.value.length
 })
 
 function loadMore() {
@@ -209,12 +197,6 @@ function formatDate(dateStr: string) {
 }
 .meeting-card:hover .meeting-card__title {
   color: var(--color-blue-accent);
-}
-
-.truncate-text {
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
 }
 
 .loading-pulse {
