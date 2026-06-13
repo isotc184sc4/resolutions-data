@@ -1,4 +1,3 @@
-# yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
 metadata:
   title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, San Diego, United States, June 1, 1997 – June 11, 1997
   dates:
@@ -273,12 +272,7 @@ resolutions:
 
       machining data exchange”, and requests the SC 4 Secretary confirm this liaison with
 
-      ISO Central Secretariat and request ISO/TC 29/WG 34 identify its liaison to SC 4'
-    dates:
-    - start: '1997-06-15'
-      kind: effective
-  - type: approves
-    message: 'SC
+      ISO Central Secretariat and request ISO/TC 29/WG 34 identify its liaison to SC 4 SC
 
       4 approves Guy Pierra and Saburo Tanatsugu as the persons who actively liaise with
 
@@ -705,15 +699,7 @@ resolutions:
   - type: approves
     message: 'SC 4 approves the changes to the Abstract Test Suite Guidelines, SC 4 N 536, and
 
-      requests the SC 4 Secretariat take appropriate action to publish and disseminate this'
-    dates:
-    - start: '1997-06-15'
-      kind: effective
-  - type: resolves
-    message: SC 4 Standing Document to the P-members.
-    dates:
-    - start: '1997-06-15'
-      kind: effective
+      requests the SC 4 Secretariat take appropriate action to publish and disseminate this SC 4 Standing Document to the P-members.'
 - identifier: '336'
   subject: ISO/TC 184/SC 4 "Industrial data"
   title: an ad-hoc Requirements Team to update the SC 4 documentation

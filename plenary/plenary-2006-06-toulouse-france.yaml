@@ -1,4 +1,3 @@
-# yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
 metadata:
   title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Toulouse, France, June 30, 2006
   dates:
@@ -21,12 +20,7 @@ resolutions:
     - start: '2006-06-15'
       kind: effective
   - type: approves
-    message: SC 4 approves the following new project leaders or project editors for the associated
-    dates:
-    - start: '2006-06-15'
-      kind: effective
-  - type: resolves
-    message: 'SC
+    message: 'SC 4 approves the following new project leaders or project editors for the associated SC
 
       4 projects:
 

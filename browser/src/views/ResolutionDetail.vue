@@ -110,13 +110,17 @@ onMounted(() => {
 
 const resolution = computed(() => {
   if (!isLoaded.value) return null
-  const param = route.params.id as string
-  const [source_file, id] = param.split('|')
-  
-  if (source_file && id) {
-    return resolutions.value.find(r => r.source_file === source_file && r.id === id)
+
+  const meetingId = route.params.meetingId as string
+  const resolutionId = route.params.resolutionId as string
+  if (meetingId && resolutionId) {
+    return resolutions.value.find(r => r.source_file === meetingId && r.id === resolutionId)
   }
-  // Fallback if URL doesn't have the source file
-  return resolutions.value.find(r => r.id === param)
+
+  const id = route.params.id as string
+  if (id) {
+    return resolutions.value.find(r => r.id === id)
+  }
+  return null
 })
 </script>

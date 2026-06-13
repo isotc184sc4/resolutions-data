@@ -20,12 +20,7 @@ resolutions:
     - start: '1999-11-15'
       kind: effective
   - type: approves
-    message: SC 4 approves the following new project leaders or project editors for the associated
-    dates:
-    - start: '1999-11-15'
-      kind: effective
-  - type: resolves
-    message: 'SC 4 projects:
+    message: 'SC 4 approves the following new project leaders or project editors for the associated SC 4 projects:
 
 
       ISO Project #
@@ -45,9 +40,6 @@ resolutions:
       10303-AP221
 
       Andries van Renssen.'
-    dates:
-    - start: '1999-11-15'
-      kind: effective
 - identifier: '423'
   subject: ISO/TC 184/SC 4 "Industrial data"
   title: Retention of Dual Editions of ISO 10303-41, -42, -43, and – 44
@@ -114,12 +106,7 @@ resolutions:
   - type: recognizes
     message: 'SC 4 recognizes and supports the continuation of the harmonization activity by the
 
-      OMG Manufacturing Domain Task Force and members of the SC 4 community'
-    dates:
-    - start: '1999-11-15'
-      kind: effective
-  - type: requests
-    message: 'SC
+      OMG Manufacturing Domain Task Force and members of the SC 4 community SC
 
       4 requests that members disseminate information about this white paper and the
 
@@ -642,12 +629,7 @@ resolutions:
 
       Sophie Clivio, and
 
-       To ISO/TC 184 Secretariat, Ms. Christine Hermetet-Filez, for participating in'
-    dates:
-    - start: '1999-11-15'
-      kind: effective
-  - type: resolves
-    message: the SC 4 meeting.
+       To ISO/TC 184 Secretariat, Ms. Christine Hermetet-Filez, for participating in the SC 4 meeting.'
     dates:
     - start: '1999-11-15'
       kind: effective

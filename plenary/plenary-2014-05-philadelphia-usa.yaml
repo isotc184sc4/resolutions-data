@@ -1,4 +1,3 @@
-# yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
 metadata:
   title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Philadelphia, United States, May 4, 2014 – May 9, 2014
   dates:
@@ -370,18 +369,10 @@ resolutions:
 
       ISO TC 184/SC 4 Plenary meetings at ACE Conference Center, Philadelphia, PA.
 
-      We especially commend them for an excellent venue and outstanding service to the'
-    dates:
-    - start: '2014-05-15'
-      kind: effective
-  - type: communicating
-    message: 'SC 4 community. A special acknowledgement is extended to Ms. Melissa Hildebrand
+      We especially commend them for an excellent venue and outstanding service to the SC 4 community. A special acknowledgement is extended to Ms. Melissa Hildebrand
 
       and Ms. Vicky Falcone for their outstanding support during the week.  Special
 
       acknowledgement is extended to the ACE Conference Center and its staff for their
 
       seamless and attentive support.'
-    dates:
-    - start: '2014-05-15'
-      kind: effective

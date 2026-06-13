@@ -178,12 +178,7 @@ resolutions:
 
       6.4.2 embership
 
-      The P-members, O-Members and A-liaisons of SC 4 nominate the members of'
-    dates:
-    - start: '2009-11-15'
-      kind: effective
-  - type: resolves
-    message: the SC 4 Implementation Forum advisory group
+      The P-members, O-Members and A-liaisons of SC 4 nominate the members of the SC 4 Implementation Forum advisory group'
     dates:
     - start: '2009-11-15'
       kind: effective

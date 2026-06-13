@@ -1,91 +1,55 @@
 import Asciidoctor from '@asciidoctor/core'
 const asciidoctor = Asciidoctor()
 
-/**
- * Convert PDF-extracted formatting to AsciiDoc syntax:
- * - Unicode bullets (\uf0b7 •) → AsciiDoc unordered list (*)
- * - "o" sub-bullets → AsciiDoc sub-list (**)
- * - Standalone "." lines (PDF artifacts) → stripped
- * - Sequences of short lines (flattened tables) → definition list
- */
+// PDF-extracted bullet characters: PUA range (U+E000–U+F8FF) + common Unicode bullets
+const BULLET_RE = /^[\ue000-\uf8ff•●▪▸▹‣⁃]\s*/
+const SUB_BULLET_RE = /^o\s+/
+
 function preprocess(text: string): string {
   if (!text) return ''
   
   const lines = text.split('\n')
   const result: string[] = []
-  
-  // First pass: identify runs of short lines (flattened table content)
-  // A "short line run" is 3+ consecutive short lines (< 60 chars)
-  // But lines that are continuations of bullet items (preceded by a bullet line) are excluded
-  const bulletLines = new Set<number>()
-  for (let i = 0; i < lines.length; i++) {
-    if (/^\uf0b7|^•/.test(lines[i])) {
-      bulletLines.add(i)
-      // Also mark the next line as a bullet continuation if it exists
-      if (i + 1 < lines.length && lines[i + 1].trim() !== '' && !/^\uf0b7|^•/.test(lines[i + 1])) {
-        bulletLines.add(i + 1)
-      }
-    }
-  }
+  let i = 0
 
-  const inShortRun = new Set<number>()
-  let runStart = -1
-  let runLen = 0
-  for (let i = 0; i < lines.length; i++) {
-    const trimmed = lines[i].trim()
-    const isShort = trimmed.length > 0 && trimmed.length < 60 && trimmed !== '.' && !bulletLines.has(i)
-    if (isShort) {
-      if (runStart < 0) runStart = i
-      runLen++
-    } else {
-      if (runLen >= 3) {
-        for (let j = runStart; j < runStart + runLen; j++) inShortRun.add(j)
-      }
-      runStart = -1
-      runLen = 0
-    }
-  }
-  if (runLen >= 3) {
-    for (let j = runStart; j < runStart + runLen; j++) inShortRun.add(j)
-  }
-
-  // Second pass: build output
-  let prevWasList = false
-  
-  for (let i = 0; i < lines.length; i++) {
-    let line = lines[i]
+  while (i < lines.length) {
+    const line = lines[i]
     const trimmed = line.trim()
-    const hasBullet = /^\uf0b7|^•/.test(line)
-    const hasSubBullet = /^o\s/.test(line) && !/^o\s*\n/.test(line)
-    
+
     if (trimmed === '.') {
+      i++
       continue
     }
-    
-    if (hasBullet) {
-      line = line.replace(/^[\uf0b7•]\s*/, '')
-      if (!prevWasList && result.length > 0 && result[result.length - 1].trim() !== '') {
-        result.push('')
+
+    if (BULLET_RE.test(trimmed)) {
+      const content = trimmed.replace(BULLET_RE, '')
+      if (result.length > 0 && result[result.length - 1].trim() !== '') result.push('')
+      result.push('* ' + content)
+      i++
+      while (i < lines.length && lines[i].trim() !== '' && lines[i].trim() !== '.'
+             && !BULLET_RE.test(lines[i].trim()) && !SUB_BULLET_RE.test(lines[i].trim())) {
+        if (SUB_BULLET_RE.test(lines[i].trim())) break
+        if (i + 1 < lines.length && BULLET_RE.test(lines[i + 1].trim())) {
+          result.push(lines[i])
+          i++
+          continue
+        }
+        break
       }
-      result.push('* ' + line)
-      prevWasList = true
-    } else if (hasSubBullet && result.length > 0) {
-      line = line.replace(/^o\s+/, '')
-      result.push('** ' + line)
-      prevWasList = true
-    } else if (inShortRun.has(i)) {
-      // Part of a flattened table — render each line as a list item
-      if (!prevWasList && result.length > 0 && result[result.length - 1].trim() !== '') {
-        result.push('')
-      }
-      result.push('* ' + trimmed)
-      prevWasList = true
-    } else {
-      result.push(line)
-      prevWasList = false
+      continue
     }
+
+    if (SUB_BULLET_RE.test(trimmed) && trimmed.length < 80) {
+      const content = trimmed.replace(SUB_BULLET_RE, '')
+      result.push('** ' + content)
+      i++
+      continue
+    }
+
+    result.push(line)
+    i++
   }
-  
+
   return result.join('\n')
 }
 

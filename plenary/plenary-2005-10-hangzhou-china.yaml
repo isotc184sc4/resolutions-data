@@ -20,12 +20,7 @@ resolutions:
     - start: '2005-10-15'
       kind: effective
   - type: approves
-    message: SC 4 approves the following new project leaders or project editors for the associated
-    dates:
-    - start: '2005-10-15'
-      kind: effective
-  - type: resolves
-    message: 'SC 4 projects:
+    message: 'SC 4 approves the following new project leaders or project editors for the associated SC 4 projects:
 
       Project
 
@@ -38,9 +33,6 @@ resolutions:
       Hiroyuki Hiraoka
 
       Akihiko Otaka'
-    dates:
-    - start: '2005-10-15'
-      kind: effective
 - identifier: '655'
   subject: ISO/TC 184/SC 4 "Industrial data"
   title: Termination of the Liaison between SC 4 and PLCS, Inc
@@ -346,12 +338,7 @@ resolutions:
 
       Zhiqiang Wang, CNIS system administrator, and Ms. Jianghua Liao and Ms.
 
-      Shanshan Sun for their excellent support with printing and copying requirements for'
-    dates:
-    - start: '2005-10-15'
-      kind: effective
-  - type: resolves
-    message: 'the SC 4 Delegation. Finally, SC 4 expresses its particular thanks to Mr. Ping Wang
+      Shanshan Sun for their excellent support with printing and copying requirements for the SC 4 Delegation. Finally, SC 4 expresses its particular thanks to Mr. Ping Wang
 
       for providing the overall excellent coordination for the entire SC 4 Meeting in
 

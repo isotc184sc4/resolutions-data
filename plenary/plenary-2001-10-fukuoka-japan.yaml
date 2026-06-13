@@ -20,12 +20,7 @@ resolutions:
     - start: '2001-10-15'
       kind: effective
   - type: approves
-    message: SC 4 approves the following new project leaders or project editors for the associated
-    dates:
-    - start: '2001-10-15'
-      kind: effective
-  - type: resolves
-    message: 'SC 4 projects:
+    message: 'SC 4 approves the following new project leaders or project editors for the associated SC 4 projects:
 
       Project
 
@@ -34,9 +29,6 @@ resolutions:
       Editor
 
       20542 Systems Engineering PAS Jim U''ren'
-    dates:
-    - start: '2001-10-15'
-      kind: effective
 - identifier: '510'
   subject: ISO/TC 184/SC 4 "Industrial data"
   title: Project Planning Requirements
@@ -56,12 +48,7 @@ resolutions:
 
       for an accompanying work plan as follows:
 
-      "The NWI shall contain a work plan identifying target dates for the following events,'
-    dates:
-    - start: '2001-10-15'
-      kind: effective
-  - type: resolves
-    message: 'noting the suggested elapsed times from NWI approval:
+      "The NWI shall contain a work plan identifying target dates for the following events, noting the suggested elapsed times from NWI approval:
 
       ISO Stage
 
@@ -443,12 +430,7 @@ resolutions:
     - start: '2001-10-15'
       kind: effective
   - type: requests
-    message: SC 4 requests its Secretariat to circulate WG 11N179 to P-members for information in
-    dates:
-    - start: '2001-10-15'
-      kind: effective
-  - type: resolves
-    message: considering their responses to the DIS ballot on ISO 10303-11 Edition 2
+    message: SC 4 requests its Secretariat to circulate WG 11N179 to P-members for information in considering their responses to the DIS ballot on ISO 10303-11 Edition 2
     dates:
     - start: '2001-10-15'
       kind: effective

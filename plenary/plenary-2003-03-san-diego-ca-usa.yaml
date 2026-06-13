@@ -20,12 +20,7 @@ resolutions:
     - start: '2003-03-15'
       kind: effective
   - type: approves
-    message: SC 4 approves the following new project leaders or project editors for the associated
-    dates:
-    - start: '2003-03-15'
-      kind: effective
-  - type: resolves
-    message: 'SC 4 projects:
+    message: 'SC 4 approves the following new project leaders or project editors for the associated SC 4 projects:
 
       Project
 
@@ -58,9 +53,6 @@ resolutions:
       ISO 10303 – 0210
 
       Darla Nettles'
-    dates:
-    - start: '2003-03-15'
-      kind: effective
 - identifier: '560'
   subject: ISO/TC 184/SC 4 "Industrial data"
   title: Review of Active Experts
@@ -76,15 +68,7 @@ resolutions:
   - type: requests
     message: 'SC 4 requests its secretary to request its national bodies to review their list of active
 
-      persons for SC 4 and send input for update of database to SC 4 secretary previous to'
-    dates:
-    - start: '2003-03-15'
-      kind: effective
-  - type: resolves
-    message: SC 4 meetings.
-    dates:
-    - start: '2003-03-15'
-      kind: effective
+      persons for SC 4 and send input for update of database to SC 4 secretary previous to SC 4 meetings.'
 - identifier: '561'
   subject: ISO/TC 184/SC 4 "Industrial data"
   title: Meetings Frequency

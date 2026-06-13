@@ -20,12 +20,7 @@ resolutions:
     - start: '2002-06-15'
       kind: effective
   - type: approves
-    message: SC 4 approves the following new project leaders or project editors for the associated
-    dates:
-    - start: '2002-06-15'
-      kind: effective
-  - type: resolves
-    message: 'SC 4 projects:
+    message: 'SC 4 approves the following new project leaders or project editors for the associated SC 4 projects:
 
       Project
 
@@ -40,9 +35,6 @@ resolutions:
       ISO 10303 – PDM Modules
 
       Pascal Huau'
-    dates:
-    - start: '2002-06-15'
-      kind: effective
 - identifier: '531'
   subject: ISO/TC 184/SC 4 "Industrial data"
   title: 'ISO/TC 184/SC 4 Resolution Paper for SC 4 Committee Meeting ISO/TC 184/SC 4: A-'
@@ -215,11 +207,6 @@ resolutions:
     message: 'SC 4 resolves to disband WG 10, immediately after publication of TS 18876-1 and
 
       TS 18876-2'
-    dates:
-    - start: '2002-06-15'
-      kind: effective
-  - type: resolves
-    message: ''
     dates:
     - start: '2002-06-15'
       kind: effective
@@ -415,15 +402,7 @@ resolutions:
   - type: investigates
     message: 'SC 4 invites the IAI to submit the IFC2x Platform Specification, along with the final
 
-      version of the explanatory report, to the Secretariat for letter ballot for publication as an'
-    dates:
-    - start: '2002-06-15'
-      kind: effective
-  - type: resolves
-    message: SC 4 PAS, under the SC 4 Harvesting procedure
-    dates:
-    - start: '2002-06-15'
-      kind: effective
+      version of the explanatory report, to the Secretariat for letter ballot for publication as an SC 4 PAS, under the SC 4 Harvesting procedure'
   - type: resolves
     message: .
     dates:

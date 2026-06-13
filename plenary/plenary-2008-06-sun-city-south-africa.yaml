@@ -116,17 +116,9 @@ resolutions:
     - start: '2008-06-15'
       kind: effective
   - type: requests
-    message: SC 4 requests the liaison officers to coordinate an
-    dates:
-    - start: '2008-06-15'
-      kind: effective
-  - type: resolves
-    message: 'SC 4 review of the NWI and prepare a set of ballot comments, noting the ballot
+    message: 'SC 4 requests the liaison officers to coordinate an SC 4 review of the NWI and prepare a set of ballot comments, noting the ballot
 
       closing date of 2008-07-31'
-    dates:
-    - start: '2008-06-15'
-      kind: effective
   - type: encourages
     message: 'SC 4 encourages its member countries to submit
 

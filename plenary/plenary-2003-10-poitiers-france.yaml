@@ -1,4 +1,3 @@
-# yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
 metadata:
   title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Poitiers, France, October 25, 2003 – October 31, 2003
   dates:
@@ -21,12 +20,7 @@ resolutions:
     - start: '2003-10-15'
       kind: effective
   - type: approves
-    message: SC 4 approves the following new project leaders or project editors for the associated
-    dates:
-    - start: '2003-10-15'
-      kind: effective
-  - type: resolves
-    message: 'SC 4 projects:
+    message: 'SC 4 approves the following new project leaders or project editors for the associated SC 4 projects:
 
       Project
 
@@ -51,9 +45,6 @@ resolutions:
       ISO 15531-0043
 
       Anne-Françoise Cutting-Decelle Jean-J. Michel'
-    dates:
-    - start: '2003-10-15'
-      kind: effective
 - identifier: '589'
   subject: ISO/TC 184/SC 4 "Industrial data"
   title: Cancellation of STEP Part 314
@@ -124,12 +115,7 @@ resolutions:
     - start: '2003-10-15'
       kind: effective
   - type: resolves
-    message: SC 4 also seeks confirmation that ISO/CS can achieve its timescales for processing,
-    dates:
-    - start: '2003-10-15'
-      kind: effective
-  - type: resolves
-    message: noting that there are examples of FDIS processing exceeding three months.
+    message: SC 4 also seeks confirmation that ISO/CS can achieve its timescales for processing, noting that there are examples of FDIS processing exceeding three months.
     dates:
     - start: '2003-10-15'
       kind: effective

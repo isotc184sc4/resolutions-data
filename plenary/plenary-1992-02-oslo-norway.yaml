@@ -1,4 +1,3 @@
-# yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
 metadata:
   title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Oslo, Norway, February 7, 1992 – February 17, 1992
   dates:
@@ -18,12 +17,7 @@ resolutions:
   - type: resolves
     message: '- SPAG Resolution S08
 
-      To fulfil objective # b6 of the SC 4 Strategic Policy and to embed consistency in the'
-    dates:
-    - start: '1992-02-15'
-      kind: effective
-  - type: resolves
-    message: 'SC 4 procedures proposed in SC 4 Resolution #84 as well as in the SC 4 policies, SC
+      To fulfil objective # b6 of the SC 4 Strategic Policy and to embed consistency in the SC 4 procedures proposed in SC 4 Resolution #84 as well as in the SC 4 policies, SC
 
       4 adopts SPAG N75 as the information model of the main entities used within SC 4
 
@@ -35,9 +29,6 @@ resolutions:
       Assure that SC 4 participants understand the
 
       basic information and methods concerning SC 4 work.'
-    dates:
-    - start: '1992-02-15'
-      kind: effective
 - identifier: '102'
   subject: ISO/TC 184/SC 4 "Industrial data"
   title: '- SPAG Resolution S09'
@@ -55,12 +46,7 @@ resolutions:
   - type: adopts
     message: 'SC 4 adopts the SPAG document N64 (version 1.6, as amended with respect to
 
-      confirmation of project leaders) as the policy to manage and approve the content of'
-    dates:
-    - start: '1992-02-15'
-      kind: effective
-  - type: resolves
-    message: 'the SC 4 programme of work.
+      confirmation of project leaders) as the policy to manage and approve the content of the SC 4 programme of work.
 
       Objective #c5 reads:
 

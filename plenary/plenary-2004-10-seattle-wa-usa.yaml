@@ -1,4 +1,3 @@
-# yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
 metadata:
   title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Seattle, United States, October 3, 2004 – October 8, 2004
   dates:
@@ -21,12 +20,7 @@ resolutions:
     - start: '2004-10-15'
       kind: effective
   - type: approves
-    message: SC 4 approves the following new project leaders or project editors for the associated
-    dates:
-    - start: '2004-10-15'
-      kind: effective
-  - type: resolves
-    message: 'SC 4 projects:
+    message: 'SC 4 approves the following new project leaders or project editors for the associated SC 4 projects:
 
       Project
 
@@ -37,9 +31,6 @@ resolutions:
       ISO 10303-0058
 
       Nils Sandsmark'
-    dates:
-    - start: '2004-10-15'
-      kind: effective
 - identifier: '622'
   subject: ISO/TC 184/SC 4 "Industrial data"
   title: Progress on Modular APs
@@ -64,11 +55,6 @@ resolutions:
       NWI), should also be considered as a change in the status for the overall AP
 
       document, and should therefore preclude its cancellation for lack of progress'
-    dates:
-    - start: '2004-10-15'
-      kind: effective
-  - type: resolves
-    message: ''
     dates:
     - start: '2004-10-15'
       kind: effective

@@ -1,4 +1,3 @@
-# yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
 metadata:
   title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Jeju, Korea, November 5, 2017 – November 10, 2017
   dates:
@@ -370,12 +369,7 @@ resolutions:
   - type: appreciation
     message: 'SC 4 expresses its appreciation to Korean Agency for Technology and Standards
 
-      (KATS) for hosting the 74th ISO/TC 184/SC 4 Plenary in Jeju, Korea 2017-11-05/10'
-    dates:
-    - start: '2017-11-15'
-      kind: effective
-  - type: resolves
-    message: 'SC
+      (KATS) for hosting the 74th ISO/TC 184/SC 4 Plenary in Jeju, Korea 2017-11-05/10 SC
 
       4 also expresses thanks to the Korea STEP Center (KSTEP), KAIST, NIA and all other
 

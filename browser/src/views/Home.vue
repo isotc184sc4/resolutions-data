@@ -49,7 +49,7 @@
       <router-link 
         v-for="res in paginatedResolutions" 
         :key="res.source_file + res.id" 
-        :to="`/resolution/${encodeURIComponent(res.source_file + '|' + res.id)}`"
+        :to="`/resolution/${res.id}`"
         class="std-results__card"
       >
         <div class="std-results__name">

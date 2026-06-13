@@ -1,4 +1,3 @@
-# yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
 metadata:
   title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Gothenburg, Sweden, June 25, 1990 – July 5, 1990
   dates:
@@ -296,15 +295,7 @@ resolutions:
 
       included if its inclusion will result in a schedule slippage.
 
-      Moreover, if there is slippage in the adopted schedule of any part in the above list, then'
-    dates:
-    - start: '1990-06-15'
-      kind: effective
-  - type: resolves
-    message: SC 4 may vote to defer that part to a future version of STEP
-    dates:
-    - start: '1990-06-15'
-      kind: effective
+      Moreover, if there is slippage in the adopted schedule of any part in the above list, then SC 4 may vote to defer that part to a future version of STEP'
   - type: resolves
     message: .
     dates:

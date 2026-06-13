@@ -20,12 +20,7 @@ resolutions:
     - start: '2002-11-15'
       kind: effective
   - type: approves
-    message: SC 4 approves the following new project leaders or project editors for the associated
-    dates:
-    - start: '2002-11-15'
-      kind: effective
-  - type: resolves
-    message: 'SC 4 projects:
+    message: 'SC 4 approves the following new project leaders or project editors for the associated SC 4 projects:
 
       Project
 
@@ -36,9 +31,6 @@ resolutions:
       ISO 10303 – 28ed2
 
       Heidi Preston'
-    dates:
-    - start: '2002-11-15'
-      kind: effective
 - identifier: '545'
   subject: ISO/TC 184/SC 4 "Industrial data"
   title: Cancellation of ISO 10303-29

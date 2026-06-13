@@ -411,12 +411,7 @@ resolutions:
     kind: decision
   actions:
   - type: resolves
-    message: Launch ISO 23301 ed2 by resolution
-    dates:
-    - start: '2021-11-15'
-      kind: effective
-  - type: requests
-    message: 'SC
+    message: 'Launch ISO 23301 ed2 by resolution SC
 
       4 requests is Committee Manager coordinate with ISO CS and launch ISO 23301 ed2 at
 
@@ -776,12 +771,7 @@ resolutions:
     kind: decision
   actions:
   - type: resolves
-    message: Retirement of CVS and Cutover to Bitbucket GIT
-    dates:
-    - start: '2021-11-15'
-      kind: effective
-  - type: approves
-    message: 'SC
+    message: 'Retirement of CVS and Cutover to Bitbucket GIT SC
 
       4 approves the retirement of CVS and migrate content to ISO Bitbucket per the
 

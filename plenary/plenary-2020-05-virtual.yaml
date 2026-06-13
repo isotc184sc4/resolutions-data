@@ -1,4 +1,3 @@
-# yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
 metadata:
   title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Virtual, May 3, 2020 – May 8, 2020
   dates:
@@ -157,11 +156,6 @@ resolutions:
   actions:
   - type: resolves
     message: To extend the term of AHG 1
-    dates:
-    - start: '2020-05-15'
-      kind: effective
-  - type: resolves
-    message: ''
     dates:
     - start: '2020-05-15'
       kind: effective

@@ -20,12 +20,7 @@ resolutions:
     - start: '2007-07-15'
       kind: effective
   - type: approves
-    message: SC 4 approves the following new project leaders or project editors for the associated
-    dates:
-    - start: '2007-07-15'
-      kind: effective
-  - type: resolves
-    message: 'SC 4 projects:
+    message: 'SC 4 approves the following new project leaders or project editors for the associated SC 4 projects:
 
       Project
 
@@ -38,9 +33,6 @@ resolutions:
       Inhan Kim
 
       Tatsuo Terai'
-    dates:
-    - start: '2007-07-15'
-      kind: effective
 - identifier: '718'
   subject: ISO/TC 184/SC 4 "Industrial data"
   title: Appointment of WG 2 Convener

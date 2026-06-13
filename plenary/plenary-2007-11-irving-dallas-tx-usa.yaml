@@ -298,12 +298,7 @@ resolutions:
 
       Resolution: SC 4 resolves to change the title of the ISO work item 42919 from
 
-      Catalogue management systems – Requirements to Data quality – Master data'
-    dates:
-    - start: '2007-11-15'
-      kind: effective
-  - type: resolves
-    message: 'SC
+      Catalogue management systems – Requirements to Data quality – Master data SC
 
       4 clarifies that the scope of the work item is master data, notes the revised scope of
 

@@ -1,4 +1,3 @@
-# yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
 metadata:
   title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Sapporo, Japan, July 1991
   dates:
@@ -138,12 +137,7 @@ resolutions:
     kind: decision
   actions:
   - type: approves
-    message: SC 4 approves the principle of setting up formal procedures within its organisation
-    dates:
-    - start: '1991-07-15'
-      kind: effective
-  - type: welcomes
-    message: 'SC
+    message: 'SC 4 approves the principle of setting up formal procedures within its organisation SC
 
       4 welcomes its Chairman''s proposals for the following procedures:
 
@@ -173,11 +167,6 @@ resolutions:
     message: 'SC 4 directs SPAG to review these proposed documents and to analyse their
 
       consistency with respect to the SC 4 methodology before SC 4 approves them'
-    dates:
-    - start: '1991-07-15'
-      kind: effective
-  - type: resolves
-    message: ''
     dates:
     - start: '1991-07-15'
       kind: effective
@@ -397,19 +386,11 @@ resolutions:
   - type: asks
     message: 'SC 4 asks that the SPAG review existing materials with the intent to select or create
 
-      an enterprise taxonomy. The deliverable from this task would provide an approach for'
-    dates:
-    - start: '1991-07-15'
-      kind: effective
-  - type: resolves
-    message: 'SC 4 to use, as a tool, to account for and to manage the development of standards
+      an enterprise taxonomy. The deliverable from this task would provide an approach for SC 4 to use, as a tool, to account for and to manage the development of standards
 
       within the enterprise-data domain so that overlaps and gaps in SC 4 standard
 
       coverage are identified.'
-    dates:
-    - start: '1991-07-15'
-      kind: effective
 - identifier: '92'
   subject: ISO/TC 184/SC 4 "Industrial data"
   title: out for mail ballot the proposed strategic policy statement developed by

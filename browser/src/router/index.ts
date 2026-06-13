@@ -11,6 +11,11 @@ const router = createRouter({
       component: Home
     },
     {
+      path: '/meetings/:meetingId/resolution/:resolutionId',
+      name: 'resolution-by-meeting',
+      component: ResolutionDetail
+    },
+    {
       path: '/resolution/:id',
       name: 'resolution-detail',
       component: ResolutionDetail

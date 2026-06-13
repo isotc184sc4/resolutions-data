@@ -50,15 +50,7 @@ resolutions:
   - type: resolves
     message: 'Cancellation of ISO 8000-050
 
-      Resolution: SC 4 approves removal of ISO-8000-050 from the list of standards in the'
-    dates:
-    - start: '2013-06-15'
-      kind: effective
-  - type: resolves
-    message: SC 4 work programme
-    dates:
-    - start: '2013-06-15'
-      kind: effective
+      Resolution: SC 4 approves removal of ISO-8000-050 from the list of standards in the SC 4 work programme'
   - type: resolves
     message: .
     dates:

@@ -20,12 +20,7 @@ resolutions:
     - start: '2000-02-15'
       kind: effective
   - type: approves
-    message: SC 4 approves the following new project leaders or project editors for the associated
-    dates:
-    - start: '2000-02-15'
-      kind: effective
-  - type: resolves
-    message: 'SC 4 projects:
+    message: 'SC 4 approves the following new project leaders or project editors for the associated SC 4 projects:
 
       ISO Project
 
@@ -149,9 +144,6 @@ resolutions:
       David
 
       Leal'
-    dates:
-    - start: '2000-02-15'
-      kind: effective
 - identifier: '441'
   subject: ISO/TC 184/SC 4 "Industrial data"
   title: Cancellation of AP230 and ATS 330
@@ -279,12 +271,7 @@ resolutions:
 
       responsible for the following tasks.
 
-      Receiving and logging requests for creation or revision of documents that comprise'
-    dates:
-    - start: '2000-02-15'
-      kind: effective
-  - type: resolves
-    message: 'the SC 4 Quality System.
+      Receiving and logging requests for creation or revision of documents that comprise the SC 4 Quality System.
 
       Requesting resources to work on QC tasks from SC 4 projects and P-members; the
 

@@ -112,15 +112,7 @@ resolutions:
 
       - Develop summary functional requirements for Version 2 of STEP
 
-      - Develop a work program and time schedule at its Paris meeting which will
-
-      aim at
-
-      the completion of the technical specification of STEP Version 1.0 by the end
-
-      of
-
-      1986.'
+      - Develop a work program and time schedule at its Paris meeting which will aim at the completion of the technical specification of STEP Version 1.0 by the end of 1986.'
     dates:
     - start: '1985-03-15'
       kind: effective

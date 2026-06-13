@@ -16,44 +16,49 @@ resolutions:
     kind: decision
   actions:
   - type: approves
-    message: SC 4 approves the following new project leaders or project editors for the associated
-    dates:
-    - start: '1998-06-15'
-      kind: effective
-  - type: resolves
-    message: 'SC 4 projects:
+    message: 'SC 4 approves the following new project leaders or project editors for
+      the associated SC 4 projects:
 
-      ISO Project #
+      |===
 
-      Editor
+      | ISO Project # | Project Lead | Document Editor
 
-      Project Lead
 
-      Document
+      | 10303-221
 
-      10303-221
+      | David Leal (primary) + Hans Teijgeler.(alt.)
 
-      David Leal (primary)
+      |
 
-      Hans Teijgeler.(alt.)
 
-      10303-501, -502, -503, -510, -515
+      | 10303-501, -502, -503, -510, -515
 
-      Len Slovensky
+      | Len Slovensky
 
-      10303-232
+      |
 
-      Greg Paul
 
-      10303-314
+      | 10303-232
 
-      Manfred Fischer
+      | Greg Paul
 
-      TR: “Parametric representation and
+      |
 
-      Exchange”
 
-      Richard Wittenoom'
+      | 10303-314
+
+      | Manfred Fischer
+
+      |
+
+
+      | TR: "Parametric representation and Exchange"
+
+      | Richard Wittenoom
+
+      |
+
+      |==='
     dates:
     - start: '1998-06-15'
       kind: effective

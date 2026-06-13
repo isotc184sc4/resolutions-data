@@ -20,12 +20,7 @@ resolutions:
     - start: '2011-05-15'
       kind: effective
   - type: approves
-    message: SC 4 approves the following new project leaders or project editors for the associated
-    dates:
-    - start: '2011-05-15'
-      kind: effective
-  - type: resolves
-    message: 'SC 4 projects:
+    message: 'SC 4 approves the following new project leaders or project editors for the associated SC 4 projects:
 
       Project
 
@@ -45,9 +40,6 @@ resolutions:
       10303-242
 
       Darla Nettles'
-    dates:
-    - start: '2011-05-15'
-      kind: effective
 - identifier: '817'
   subject: ISO/TC 184/SC 4 "Industrial data"
   title: Reappointment of WG 11 Conveners

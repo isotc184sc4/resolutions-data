@@ -20,15 +20,7 @@ resolutions:
     - start: '2012-06-15'
       kind: effective
   - type: approves
-    message: SC 4 approves the following new project leaders or project editors for the associated
-    dates:
-    - start: '2012-06-15'
-      kind: effective
-  - type: resolves
-    message: 'SC 4 projects:'
-    dates:
-    - start: '2012-06-15'
-      kind: effective
+    message: 'SC 4 approves the following new project leaders or project editors for the associated SC 4 projects:'
 - identifier: '831'
   subject: ISO/TC 184/SC 4 "Industrial data"
   title: Appointment of Deputy Convener for SC 4/WG 2

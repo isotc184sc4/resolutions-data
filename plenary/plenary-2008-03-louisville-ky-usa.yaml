@@ -83,11 +83,6 @@ resolutions:
     dates:
     - start: '2008-03-15'
       kind: effective
-  - type: resolves
-    message: ''
-    dates:
-    - start: '2008-03-15'
-      kind: effective
   - type: requests
     message: 'SC 4 requests that technical comments on the AP 203 modules should be submitted
 
