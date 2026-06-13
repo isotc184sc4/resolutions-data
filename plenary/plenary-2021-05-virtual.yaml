@@ -1,6 +1,7 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Virtual, May 10, 2021 -- May 14, 2021
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Virtual, May 10,
+    2021 -- May 14, 2021
   dates:
   - start: '2021-05-10'
     end: '2021-05-14'
@@ -10,745 +11,486 @@ metadata:
 resolutions:
 - identifier: '1063'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: To establish a reduced ballot period for New Work Item Proposals.
+  title: Apply 8-week ballot duration to NP ballots
   dates:
   - start: '2021-05-15'
     kind: decision
   actions:
-  - type: resolves
-    message: To establish a reduced ballot period for New Work Item Proposals
-    dates:
-    - start: '2021-05-15'
-      kind: effective
-  - type: resolves
-    message: .
-    dates:
-    - start: '2021-05-15'
-      kind: effective
   - type: requests
-    message: 'SC 4 requests its Committee Manager to apply the 8 week ballot duration to the
+    message: |
+      SC 4 requests its Committee Manager to apply the 8 week ballot duration to
+      the following NP ballots:
 
-      following NP ballots.
+      |===
+      |Project |Approval
 
-      Project
-
-      Approval
-
-      ISO NP 8000-114
-
-      ☒
-
-
-      ISO NP eXtended Master Connection File
-
-      ☒
-
-      ISO NP/CD 10303-1 ed 3
-
-      ☒'
+      |ISO NP 8000-114 |☒
+      |ISO NP eXtended Master Connection File |☒
+      |ISO NP/CD 10303-1 ed 3 |☒
+      |===
     dates:
     - start: '2021-05-15'
       kind: effective
 - identifier: '1064'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Appointment of Convenors and Deputy Convenors
+  title: Appoint Convenors and Deputy Convenors for SC 4 Working Groups
   dates:
   - start: '2021-05-15'
     kind: decision
   actions:
-  - type: resolves
-    message: Appointment of Convenors and Deputy Convenors
-    dates:
-    - start: '2021-05-15'
-      kind: effective
   - type: appoints
-    message: 'SC 4 appoints the
+    message: |
+      SC 4 appoints the following Convenors and Deputy Convenors for a three-year
+      term, with appreciation to serve in this capacity:
 
-      following Convenors and Deputy Convenors for a three-year term, with appreciation to
+      |===
+      |WG |Role |Appointment
 
-      serve in this capacity.
-
-      WG
-
-      Role
-
-      Appointment
-
-      AG 2
-
-      Convenor
-
-      Martin Hardwick
-
-      AG 2
-
-      Deputy Convenor
-
-      Paul van Exel
-
-      AG 2
-
-      Deputy Convenor
-
-      Cheong-Hyuk Yoon
-
-      AG 2
-
-      Deputy Convenor
-
-      Changsoo Lee
-
-      QC
-
-      Deputy Convenor
-
-      Changsoo Lee
-
-      WG 12
-
-      Convenor
-
-      Keith Hunten
-
-      WG 13
-
-      Convenor
-
-      Tim King
-
-      WG 13
-
-      Deputy Convenor
-
-      Anne-Marie Mougeolle
-
-      JWG 16
-
-      Convenor
-
-      Christophe Mouton
-
-      JWG 16
-
-      Deputy Convenor
-
-      Soonhung Han
-
-      JWG 24
-
-      Convenor
-
-      Hiroshi Murayama'
+      |AG 2 |Convenor |Martin Hardwick
+      |AG 2 |Deputy Convenor |Paul van Exel
+      |AG 2 |Deputy Convenor |Cheong-Hyuk Yoon
+      |AG 2 |Deputy Convenor |Changsoo Lee
+      |QC |Deputy Convenor |Changsoo Lee
+      |WG 12 |Convenor |Keith Hunten
+      |WG 13 |Convenor |Tim King
+      |WG 13 |Deputy Convenor |Anne-Marie Mougeolle
+      |JWG 16 |Convenor |Christophe Mouton
+      |JWG 16 |Deputy Convenor |Soonhung Han
+      |JWG 24 |Convenor |Hiroshi Murayama
+      |===
     dates:
     - start: '2021-05-15'
       kind: effective
   considerations:
   - type: noting
-    message: 'Noting that continuity of operations and management of work is an important
-
-      consideration to the successful operation of advisory groups'
+    message: |
+      Noting that continuity of operations and management of work is an important
+      consideration to the successful operation of advisory groups
     dates:
     - start: '2021-05-15'
       kind: effective
 - identifier: '1065'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Place ISO 10303-209 ed3 on hold
+  title: Request ISO TMB place ISO 10303-209 ed3 on hold for six months
   dates:
   - start: '2021-05-15'
     kind: decision
   actions:
-  - type: resolves
-    message: Place ISO 10303-209 ed3 on hold
-    dates:
-    - start: '2021-05-15'
-      kind: effective
   - type: requests
-    message: 'SC 4 requests the TMB to place the project on hold for six months in
-
-      order that the project team can address challenges with the project staffing.'
+    message: |
+      SC 4 requests the TMB to place the project on hold for six months in order
+      that the project team can address challenges with the project staffing.
     dates:
     - start: '2021-05-15'
       kind: effective
   considerations:
   - type: noting
-    message: 'Noting the progress to date of ISO 10303-209 ed3 (project 75060) and the challenges
-
-      due to COVID-19'
+    message: |
+      Noting the progress to date of ISO 10303-209 ed3 (project 75060) and the
+      challenges due to COVID-19
     dates:
     - start: '2021-05-15'
       kind: effective
 - identifier: '1066'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: 'Change to project duration of ISO 8000-110 edition 2 -- Master data: Exchange of'
+  title: 'Change ISO 8000-110 ed2 to SDT 36 development track'
   dates:
   - start: '2021-05-15'
     kind: decision
   actions:
   - type: resolves
-    message: 'Change to project duration of ISO 8000-110 edition 2 -- Master data: Exchange of
-
-      characteristic data: Syntax, semantic encoding, and conformance to data specification'
+    message: |
+      Change to project duration of ISO 8000-110 edition 2 -- Master data:
+      Exchange of characteristic data: Syntax, semantic encoding, and conformance
+      to data specification
     dates:
     - start: '2021-05-15'
       kind: effective
   - type: resolves
-    message: 'SC 4 resolves to adjust the standards development track of ISO 8000-110 edition 2
-
-      (project id = 78501) to SDT 36.'
+    message: |
+      SC 4 resolves to adjust the standards development track of ISO 8000-110
+      edition 2 (project id = 78501) to SDT 36.
     dates:
     - start: '2021-05-15'
       kind: effective
 - identifier: '1067'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Schedule Change for ISO/TS 23301
+  title: Request 9-month schedule extension for ISO/TS 23301 from ISO TMB
   dates:
   - start: '2021-05-15'
     kind: decision
   actions:
-  - type: resolves
-    message: Schedule Change for ISO/TS 23301
-    dates:
-    - start: '2021-05-15'
-      kind: effective
   - type: requests
-    message: 'SC4 requests the ISO TMB grant a nine-month extension to the schedule of ISO/AWI TS
-
-      23301 (project 75189) allowing the project team additional time to complete CD/TS by
-
-      2021-12-09 through necessary coordination using virtual working arrangements dictated
-
-      by restrictions in meeting due to COVID-19.  The project team has completed the
-
-      necessary documents and plans to release a CD/TS ballot on 2021-05-25 with a
-
-      publication targeted for October 2021.'
+    message: |
+      SC 4 requests the ISO TMB grant a nine-month extension to the schedule of
+      ISO/AWI TS 23301 (project 75189) allowing the project team additional time
+      to complete CD/TS by 2021-12-09 through necessary coordination using virtual
+      working arrangements dictated by restrictions in meeting due to COVID-19.
+      The project team has completed the necessary documents and plans to release
+      a CD/TS ballot on 2021-05-25 with a publication targeted for October 2021.
     dates:
     - start: '2021-05-15'
       kind: effective
   considerations:
   - type: noting
-    message: Noting the progress on ISO/AWI TS 23301 and the proximity to limit dates
-    dates:
-    - start: '2021-05-15'
-      kind: effective
-- identifier: '1068'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Create an Advisory Group on Core Terminology for industrial data
-  dates:
-  - start: '2021-05-15'
-    kind: decision
-  actions:
-  - type: resolves
-    message: Create an Advisory Group on Core Terminology for industrial data
-    dates:
-    - start: '2021-05-15'
-      kind: effective
-  - type: resolves
-    message: 'Noting the report from Ad Hoc Group 1 “Core industrial data set of terms” (AhG01/N34),
-
-      ISO/TC 184/SC 4:
-
-      * Accepts the recommendations identified in the report,
-
-      * Thanks the Ad Hoc Group members for their work,
-
-      * Requests ISO/TC 184/SC 4 circulate AhG01/N34 “Core terminology for industrial
-
-      data” in a CIB for an ISO Technical Report,
-
-      * Launches an advisory group entitled “Core terminology for industrial data” to:
-
-      o Interpret/map the core terminology to the different Top Level Ontologies
-
-      (TLOs),
-
-      o Align with relevant activities outside ISO/TC 184/SC 4,
-
-      o Extend the content of the “Core terminology for industrial data” to a higher
-
-      degree of specialization,
-
-      o Recommend interfaces to ontologies and reference data,
-
-      o Develop examples to be used for pilots with the different TLOs,
-
-      o Complete the presentation intended for domain engineers and business
-
-      decision makers,
-
-      * Nominates Nils Sandsmark as convener of the advisory group, and
-
-      * Retains existing members and invites member bodies to nominate additional
-
-      experts to the advisory group.'
+    message: |
+      Noting the progress on ISO/AWI TS 23301 and the proximity to limit dates
     dates:
     - start: '2021-05-15'
       kind: effective
 - identifier: '1069'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Extend term of the Ad Hoc Group 2 on Nuclear Digital Ecosystem Specification
+  title: Extend term of Ad Hoc Group 2 on Nuclear Digital Ecosystem
+    Specification
   dates:
   - start: '2021-05-15'
     kind: decision
   actions:
-  - type: resolves
-    message: Extend term of the Ad Hoc Group 2 on Nuclear Digital Ecosystem Specification
-    dates:
-    - start: '2021-05-15'
-      kind: effective
-  - type: resolves
-    message: 'SC 4 extends the term for AHG 2 to the 82nd plenary where
-
-      a final report will be provided'
-    dates:
-    - start: '2021-05-15'
-      kind: effective
-  - type: resolves
-    message: .
+  - type: decides
+    message: |
+      SC 4 extends the term for AHG 2 to the 82nd plenary where a final report
+      will be provided.
     dates:
     - start: '2021-05-15'
       kind: effective
   - type: encourages
-    message: 'SC 4 encourages its members to join Ad Hoc Group 2 and take part to the continuous
-
-      effort to collect needs and interoperability requirements in terms of specifications for a
-
-      digital ecosystem for the nuclear industry.'
+    message: |
+      SC 4 encourages its members to join Ad Hoc Group 2 and take part to the
+      continuous effort to collect needs and interoperability requirements in
+      terms of specifications for a digital ecosystem for the nuclear industry.
     dates:
     - start: '2021-05-15'
       kind: effective
   considerations:
   - type: noting
-    message: 'Noting the progress made by AHG 2 “Nuclear Digital Ecosystem Specification”, the
-
-      ongoing additional work needed to develop their final report to plan a meeting with
-
-      ISO/TC 85 representatives'
-    dates:
-    - start: '2021-05-15'
-      kind: effective
-- identifier: '1070'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Conduct a review of ISO/TC 184/SC 4 N1167 “SC4 Industrial Data Framework”
-  dates:
-  - start: '2021-05-15'
-    kind: decision
-  actions:
-  - type: resolves
-    message: Conduct a review of ISO/TC 184/SC 4 N1167 “SC4 Industrial Data Framework”
-    dates:
-    - start: '2021-05-15'
-      kind: effective
-  - type: resolves
-    message: 'Noting that SC4N1167 “Industrial Data Framework” is out of date, but contains
-
-      fundamental principles of the approach to standardizing industrial data, ISO/TC 184/SC
-
-      4 requests its CM to initiate a Committee Internal Ballot (CIB) similar to an ISO/SR
-
-      inviting member bodies to note their support for the document continuing as a standing
-
-      document and comment on the document’s contents.'
+    message: |
+      Noting the progress made by AHG 2 "Nuclear Digital Ecosystem Specification",
+      the ongoing additional work needed to develop their final report to plan a
+      meeting with ISO/TC 85 representatives
     dates:
     - start: '2021-05-15'
       kind: effective
 - identifier: '1071'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Launch combined NP/CD for ISO 10303-239 ed3
+  title: Launch combined NP/CD ballot for ISO 10303-239 ed3
   dates:
   - start: '2021-05-15'
     kind: decision
   actions:
-  - type: resolves
-    message: Launch combined NP/CD for ISO 10303-239 ed3
-    dates:
-    - start: '2021-05-15'
-      kind: effective
-  - type: resolves
-    message: 'Recalling Resolution 1004 and 1005 that launched edition 3 of ISO 10303-239 as a PWI
-
-      and the development work of the project team to draft a CD ready revision to part 239'
-    dates:
-    - start: '2021-05-15'
-      kind: effective
   - type: requests
-    message: 'SC 4 requests its Committee
-
-      Manager to launch edition 3 using the SDT 24 track, naming Yves Baudier
-
-      (yves.baudier@afnet.fr) and Patrick Walsh (patrick.l.walsh@boeing.com) as Project
-
-      Leaders, and allocating the work to WG 12 with the following target dates:
+    message: |
+      SC 4 requests its Committee Manager to launch edition 3 using the SDT 24
+      track, naming Yves Baudier (yves.baudier@afnet.fr) and Patrick Walsh
+      (patrick.l.walsh@boeing.com) as Project Leaders, and allocating the work to
+      WG 12 with the following target dates:
 
       * DIS Submission: 2021-11-30
-
-      * Publication: 2022-04-30'
+      * Publication: 2022-04-30
     dates:
     - start: '2021-05-15'
       kind: effective
   considerations:
   - type: noting
-    message: noting that there is no change in the scope from edition 2
+    message: |
+      Noting that there is no change in the scope from edition 2
+    dates:
+    - start: '2021-05-15'
+      kind: effective
+  - type: recalling
+    message: |
+      Recalling Resolution 1004 and 1005 that launched edition 3 of ISO 10303-239
+      as a PWI and the development work of the project team to draft a CD ready
+      revision to part 239
     dates:
     - start: '2021-05-15'
       kind: effective
 - identifier: '1072'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Launch minor revisions to ISO 10303-210 ed 4, ISO 10303-238 ed 2, and ISO 103...
+  title: Launch minor revisions to ISO 10303-210, 10303-238, and 10303-242
   dates:
   - start: '2021-05-15'
     kind: decision
   actions:
   - type: resolves
-    message: 'Launch minor revisions to ISO 10303-210 ed 4, ISO 10303-238 ed 2, and ISO 10303-
-
-      242 ed 2'
+    message: |
+      Launch minor revisions to ISO 10303-210 ed 4, ISO 10303-238 ed 2, and
+      ISO 10303-242 ed 2
     dates:
     - start: '2021-05-15'
       kind: effective
   - type: requests
-    message: 'SC4 requests its Committee
-
-      Manager to notify ISO/CS via completion of Form 8B for ISO 10303-210 ed4, ISO
-
-      10303-238 ed2, and ISO 10303-242 ed2 of the decision to create a minor revision and
-
-      submit  FDIS documents for ISO 10303-238 ed2, ISO 10303-242 ed2 and ISO 10303-
-
-      210 ed4 noting the schedule for FDIS ballot as:
+    message: |
+      SC 4 requests its Committee Manager to notify ISO/CS via completion of Form
+      8B for ISO 10303-210 ed4, ISO 10303-238 ed2, and ISO 10303-242 ed2 of the
+      decision to create a minor revision and submit FDIS documents for
+      ISO 10303-238 ed2, ISO 10303-242 ed2 and ISO 10303-210 ed4 noting the
+      schedule for FDIS ballot as:
 
       * ISO 10303-242: 2021-07-16
-
       * ISO 10303-210: 2021-08-16
-
-      * ISO 10303-238: 2021-08-16'
+      * ISO 10303-238: 2021-08-16
     dates:
     - start: '2021-05-15'
       kind: effective
   considerations:
   - type: recalling
-    message: 'Recalling resolution 1050 from the May 2020 Plenary meeting on the AP 242 EWIS,
-
-      geometry and topology open points from 2020, and noting two WG21 Change Requests
-
-      CR_Part42 and CR_PMI_4 published as SMRL v9'
+    message: |
+      Recalling resolution 1050 from the May 2020 Plenary meeting on the AP 242
+      EWIS, geometry and topology open points from 2020, and noting two WG21
+      Change Requests CR_Part42 and CR_PMI_4 published as SMRL v9
     dates:
     - start: '2021-05-15'
       kind: effective
 - identifier: '1073'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Establish an Ad Hoc Group on UUID management for industrial data
+  title: Establish Ad Hoc Group on UUID management for industrial data
   dates:
   - start: '2021-05-15'
     kind: decision
   actions:
-  - type: resolves
-    message: Establish an Ad Hoc Group on UUID management for industrial data
-    dates:
-    - start: '2021-05-15'
-      kind: effective
   - type: establishes
-    message: 'SC 4 establishes an Ad Hoc Group “UUID management for industrial data” with the following
+    message: |
+      SC 4 establishes an Ad Hoc Group "UUID management for industrial data" with
+      the following terms of reference:
 
-      terms of reference:
-
-      * Define the opportunity space for UUID in context of SC 4 standards,
-
-      * Identify use cases for UUID in industrial data,
-
-      * Provide recommendations to SC 4 on the scope and applicability of UUIDs to SC
-
-      4 standards,
-
-      * Provide a report to SC 4 upon completion'
-    dates:
-    - start: '2021-05-15'
-      kind: effective
-  - type: resolves
-    message: .
+      * Define the opportunity space for UUID in context of SC 4 standards
+      * Identify use cases for UUID in industrial data
+      * Provide recommendations to SC 4 on the scope and applicability of UUIDs to
+        SC 4 standards
+      * Provide a report to SC 4 upon completion
     dates:
     - start: '2021-05-15'
       kind: effective
   - type: nominates
-    message: 'SC 4 nominates Martin Hardwick as Convenor with appreciation to serve in that
+    message: |
+      SC 4 nominates Martin Hardwick as Convenor with appreciation to serve in
+      that capacity, appoints the following experts to the group:
 
-      capacity, appoints Allison Barnard Feeney
+      * Allison Barnard Feeney
+      * Peter Benson
+      * Keith Hunten
+      * Alan Johnston
+      * David Odendahl
+      * Thomas Thurman
+      * Jean Brange
+      * Mikael Hedlind
+      * Bengt Olsson
+      * Max Ungerer
+      * Hiroshi Murayama
+      * Hyunjeong Lee
+      * Nils Sandsmark
 
-      Peter Benson
-
-      Keith Hunten
-
-      Alan Johnston
-
-      David Odendahl
-
-      Thomas Thurman
-
-      Jean Brange
-
-      Mikael Hedlind
-
-      Bengt Olsson
-
-      Max Ungerer
-
-
-      Hiroshi Murayama
-
-      Hyunjeong Lee
-
-      Nils Sandsmark
-
-      to the group and invites National Bodies and Liaisons to nominate experts.'
+      and invites National Bodies and Liaisons to nominate experts.
     dates:
     - start: '2021-05-15'
       kind: effective
   considerations:
   - type: noting
-    message: 'Noting the technical discussions among experts from WG 3, WG 12, WG 15 and others
-
-      on the opportunity to align concepts on the use of UUID in industrial data'
+    message: |
+      Noting the technical discussions among experts from WG 3, WG 12, WG 15 and
+      others on the opportunity to align concepts on the use of UUID in industrial
+      data
     dates:
     - start: '2021-05-15'
       kind: effective
 - identifier: '1074'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Update the SC 4 Handbook to incorporate standing documents
+  title: Update SC 4 Handbook standing documents via CIB
   dates:
   - start: '2021-05-15'
     kind: decision
   actions:
-  - type: resolves
-    message: Update the SC 4 Handbook to incorporate standing documents
-    dates:
-    - start: '2021-05-15'
-      kind: effective
   - type: requests
-    message: 'SC4 requests the Committee Manager launch an eight week CIB
+    message: |
+      SC 4 requests the Committee Manager launch an eight week CIB to modify the
+      SC 4 Handbook to account for the following changes in approved standing
+      documents:
 
-      to modify the SC4 Handbook to account for the following changes in approved standing
+      * Deprecate SC4 N2412 "Supplementary directives -- Rules for the structure
+        and drafting of SC 4 standards for industrial data"
+      * Add SC 4 N3567 "SC 4 Supplementary directives -- Rules for the structure
+        and drafting of SC 4 standards for industrial data"
+      * Deprecate SC4 N3422 "STEP extended architecture high-level description"
+      * Add SC4 N3501 "STEP extended architecture high-level description"
+      * Deprecate SC4 N3433 "STEP extended architecture high-level requirements"
+      * Add SC4 N3502 "STEP extended architecture high-level requirements"
+      * Deprecate SC4 N3424 "STEP extended architecture detailed STEPlib
+        specifications"
+      * Add SC4 N3503 "STEP extended architecture detailed STEPlib specifications"
+      * Deprecate SC4 N3425 "STEP extended architecture publication design"
+      * Add SC4 N3504 "STEP extended architecture publication design"
 
-      documents.
-
-      * Deprecate SC4 N2412 “Supplementary directives — Rules for the structure and
-
-      drafting of SC 4 standards for industrial data”
-
-      * Add SC 4 N3567 “SC 4 Supplementary directives — Rules for the structure and
-
-      drafting of SC 4 standards for industrial data”
-
-      * Deprecate SC4 N3422 “STEP extended architecture high-level description”
-
-      * Add SC4 N3501 “STEP extended architecture high-level description”
-
-      * Deprecate SC4 N3433 “STEP extended architecture high-level requirements”
-
-      * Add SC4 N3502 “STEP extended architecture high-level requirements”
-
-      * Deprecate SC4 N3424 “STEP extended architecture detailed STEPlib
-
-      specifications”
-
-      * Add SC4 N3503 “STEP extended architecture detailed STEPlib specifications”
-
-      * Deprecate SC4 N3425 “STEP extended architecture publication design”
-
-      * Add SC4 N3504 “STEP extended architecture publication design”
-
-      Note: The Handbook has not been updated to account for recent deviations to ISO
-
-      Operations as a result of COVID-19. Subsequent to TMB and ISO guidance,
-
-      procedures for managing ISO TCs and SCs are covered by continuing resolutions from
-
-      the TMB and supersede guidance provided by this Handbook on specific points
-
-      covered.'
+      Note: The Handbook has not been updated to account for recent deviations to
+      ISO Operations as a result of COVID-19. Subsequent to TMB and ISO guidance,
+      procedures for managing ISO TCs and SCs are covered by continuing
+      resolutions from the TMB and supersede guidance provided by this Handbook
+      on specific points covered.
     dates:
     - start: '2021-05-15'
       kind: effective
   considerations:
   - type: noting
-    message: 'Noting the procedures for ISO/TC 184/SC 4 and recent approvals of SC4 relative to
-
-      standing documents'
+    message: |
+      Noting the procedures for ISO/TC 184/SC 4 and recent approvals of SC 4
+      relative to standing documents
     dates:
     - start: '2021-05-15'
       kind: effective
-- identifier: '1075'
+- identifier: 202105-acclaim-01
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: ISO 8000-2 Vocabulary for the ISO 8000 series Living Lab
+  title: Thank Anne-Françoise Cutting-Decelle for JWG 8 Convenor service
   dates:
   - start: '2021-05-15'
     kind: decision
   actions:
-  - type: resolves
-    message: ISO 8000-2 Vocabulary for the ISO 8000 series Living Lab
+  - type: thanks
+    message: |
+      SC 4 expresses its appreciation to Anne-Françoise Cutting-Decelle for her
+      role as Convenor of JWG 8 and extends best wishes in her next assignment
+      supporting the development of international standards.
     dates:
     - start: '2021-05-15'
       kind: effective
-  - type: resolves
-    message: 'Recalling the original proposal for a Living Lab on managing vocabulary using
-
-
-      standards in a database format and the final report delivered by WG 13, SC 4:
-
-      * Thanks WG 13/23 and all participants that contributed to the innovation,
-
-      * Accepts the final report,
-
-      * Endorses the recommendations noted to ISO/TMB,
-
-      * Requests ISO/CS continue to support the existing process for ISO 8000-2, and
-
-      * Concludes this Living Lab.'
-    dates:
-    - start: '2021-05-15'
-      kind: effective
-- identifier: '1076'
+- identifier: 202105-acclaim-02
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: ISO 15926-4 Uniform Resource Identifiers Living Lab
+  title: Thank Anne Dourgnon for WG 13 Deputy Convenor service
   dates:
   - start: '2021-05-15'
     kind: decision
   actions:
-  - type: resolves
-    message: ISO 15926-4 Uniform Resource Identifiers Living Lab
+  - type: thanks
+    message: |
+      SC 4 expresses its appreciation to Anne Dourgnon for her role as Deputy
+      Convenor of WG 13 and extends best wishes in her next assignment supporting
+      the development of international standards.
     dates:
     - start: '2021-05-15'
       kind: effective
-  - type: resolves
-    message: 'Recalling Resolution 979 taken during the May 2018 Plenary in Beijing, the work on the
-
-      Living Lab for ISO 15926-4 Uniform Resource Locators and the final report, SC 4:
-
-      * Thanks WG 3 and all participants that contributed to the innovation,
-
-      * Accepts the final report,
-
-      * Endorses the recommendations noted to ISO/TMB,
-
-      * Requests ISO CS continue to support the existing process for ISO 15926-4, and
-
-      * Concludes this Living Lab.
-
-      ACCLAMATION'
+- identifier: 202105-acclaim-03
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank ISO CS and Documents team for eCommittees transition
+  dates:
+  - start: '2021-05-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 expresses its appreciation to ISO CS and the ISO Documents project team
+      for a trouble free transition from eCommittees to ISO Documents and for all
+      of the technical support provided to SC 4 during the transition.
     dates:
     - start: '2021-05-15'
       kind: effective
-  - type: appreciation
-    message: 'SC 4 expresses its appreciation to Anne-Françoise Cutting-Decelle for her role as
-
-      Convenor of JWG 8 and extends best wishes in her next assignment supporting the
-
-      development of international standards.
-
-      ACCLAMATION'
+- identifier: 202105-acclaim-04
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank ISO IT for supporting Committee Innovations with Living Labs
+  dates:
+  - start: '2021-05-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 expresses its appreciation to ISO IT for supporting multiple Committee
+      Innovations with Living Lab projects and for their responsiveness to
+      requests from SC 4 to modify and provide support to multiple activities.
     dates:
     - start: '2021-05-15'
       kind: effective
-  - type: appreciation
-    message: 'SC 4 expresses its appreciation to Anne Dourgnon for her role as Deputy Convenor of
-
-      WG 13 and extends best wishes in her next assignment supporting the development of
-
-      international standards.
-
-      ACCLAMATION'
+- identifier: 202105-acclaim-05
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank ISO staff for supporting innovation
+  dates:
+  - start: '2021-05-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 sincerely appreciates the sponsorship and enthusiasm of ISO staff to
+      experiment with new methods and ways of working in promotion of quality
+      standards.
     dates:
     - start: '2021-05-15'
       kind: effective
-  - type: appreciation
-    message: 'SC 4 expresses its appreciation to ISO CS and the ISO Documents project team for a
-
-      trouble free transition from eCommittees to ISO Documents and for all of the technical
-
-      support provided to SC 4 during the transition.
-
-      ACCLAMATION'
-    dates:
-    - start: '2021-05-15'
-      kind: effective
-  - type: appreciation
-    message: 'SC 4 expresses its appreciation to ISO IT for supporting multiple Committee Innovations
-
-      with Living Lab projects and for their responsiveness to requests from SC 4 to modify
-
-      and provide support to multiple activities'
-    dates:
-    - start: '2021-05-15'
-      kind: effective
-  - type: resolves
-    message: 'SC 4 sincerely appreciates the sponsorship
-
-      and enthusiasm of ISO staff to experiment with new methods and ways of working in
-
-      promotion of quality standards.
-
-      ACCLAMATION'
-    dates:
-    - start: '2021-05-15'
-      kind: effective
-  - type: appreciation
-    message: 'SC 4 expresses its appreciation to our SC 4 Liaisons and reports provided to the 81st
-
-      Plenary.
+- identifier: 202105-acclaim-06
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank SC 4 Liaisons for reports to 81st Plenary
+  dates:
+  - start: '2021-05-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 expresses its appreciation to our SC 4 Liaisons and reports provided
+      to the 81st Plenary:
 
       * ISO/TC 171/SC 2
-
       * IEC/SC 3D
-
-      * ISO/IEC/JTC 1/SC 24 and Web 3D Consortium
-
+      * ISO/IEC JTC 1/SC 24 and Web 3D Consortium
       * Khronos Group
-
-      ACCLAMATION'
     dates:
     - start: '2021-05-15'
       kind: effective
-  - type: appreciation
-    message: 'SC 4 expresses its appreciation to Nils Sandsmark for organizing and facilitating the
-
-      multi-group coordination meeting held on 2021-05-04 and to the participants who
-
-      provided technical content to the betterment of SC 4 level harmonization.
-
-      ACCLAMATION'
+- identifier: 202105-acclaim-07
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank Nils Sandsmark for organizing multi-group coordination meeting
+  dates:
+  - start: '2021-05-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 expresses its appreciation to Nils Sandsmark for organizing and
+      facilitating the multi-group coordination meeting held on 2021-05-04 and
+      to the participants who provided technical content to the betterment of
+      SC 4 level harmonization.
     dates:
     - start: '2021-05-15'
       kind: effective
-  - type: appreciation
-    message: 'SC 4 expresses its appreciation to Soonhung Han and Christophe Mouton for proposing
-
-      to exchange places as Convenor and Deputy Convenor of JWG 16, thus maturing the
-
-      concept of the Deputy position in SC 4 and promoting new ways of working together on
-
-      international standards.
-
-      ACCLAMATION'
+- identifier: 202105-acclaim-08
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank Soonhung Han and Christophe Mouton for JWG 16 leadership exchange
+  dates:
+  - start: '2021-05-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 expresses its appreciation to Soonhung Han and Christophe Mouton for
+      proposing to exchange places as Convenor and Deputy Convenor of JWG 16,
+      thus maturing the concept of the Deputy position in SC 4 and promoting new
+      ways of working together on international standards.
     dates:
     - start: '2021-05-15'
       kind: effective
-  - type: appreciation
-    message: 'SC 4 expresses its appreciation to Allison Barnard Feeney and Melissa Harvey for their
-
-      work on SC 4’s submission to ISO CS for consideration in the competition for the LD
-
-      Eicher award.
-
-      ACCLAMATION'
+- identifier: 202105-acclaim-09
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank Allison Barnard Feeney and Melissa Harvey for LD Eicher award
+    submission
+  dates:
+  - start: '2021-05-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 expresses its appreciation to Allison Barnard Feeney and Melissa Harvey
+      for their work on SC 4's submission to ISO CS for consideration in the
+      competition for the LD Eicher award.
     dates:
     - start: '2021-05-15'
       kind: effective
-  - type: appreciation
-    message: 'SC 4 expresses its sincere appreciation to all the experts, delegates, and leaders for
-
-      executing a completely virtual plenary meeting successfully while undergoing numerous
-
-
-      challenges during this extraordinary time for stakeholders worldwide.'
+- identifier: 202105-acclaim-10
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank experts and leaders for virtual plenary success
+  dates:
+  - start: '2021-05-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 expresses its sincere appreciation to all the experts, delegates, and
+      leaders for executing a completely virtual plenary meeting successfully while
+      undergoing numerous challenges during this extraordinary time for
+      stakeholders worldwide.
     dates:
     - start: '2021-05-15'
       kind: effective

@@ -9,305 +9,184 @@ metadata:
 resolutions:
 - identifier: '1126'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Approval of Project Leaders and Project Editors for SC 4 Projects
+  title: Approve Project Leaders and Project Editors for SC 4 Projects
   dates:
   - start: '2023-10-15'
     kind: decision
   actions:
-  - type: resolves
-    message: Approval of Project Leaders and Project Editors for SC 4 Projects
-    dates:
-    - start: '2023-10-15'
-      kind: effective
   - type: approves
-    message: 'SC 4 Approves the following Project Leaders and Project Editors for the listed Projects
+    message: |
+      SC 4 Approves the following Project Leaders and Project Editors for the listed Projects:
 
-      noted:
+      |===
+      |Project |Working Group |Project Leader/Editor
 
-      Project
-
-      Working Group
-
-      Project Leader/Editor
-
-      ISO 23247-5
-
-      WG 15
-
-      Robert Rencher (Co-leader)
-
-      ISO 23247-6
-
-      WG 15
-
-      Guodong (Gordon) Shao (Co-leader)
-
-      ISO/PWI 14306-3
-
-      JWG 16
-
-      Trevor Leeson'
+      |ISO 23247-5 |WG 15 |Robert Rencher (Co-leader)
+      |ISO 23247-6 |WG 15 |Guodong (Gordon) Shao (Co-leader)
+      |ISO/PWI 14306-3 |JWG 16 |Trevor Leeson
+      |===
     dates:
     - start: '2023-10-15'
       kind: effective
 - identifier: '1127'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Establish ballot duration of new work item proposals.
+  title: Set 8-week ballot duration for new work item proposals
   dates:
   - start: '2023-10-15'
     kind: decision
   actions:
-  - type: resolves
-    message: Establish ballot duration of new work item proposals
-    dates:
-    - start: '2023-10-15'
-      kind: effective
-  - type: resolves
-    message: .
-    dates:
-    - start: '2023-10-15'
-      kind: effective
   - type: requests
-    message: 'SC 4 requests its Committee Manager to apply the 8-week ballot duration to the
-
+    message: |
+      SC 4 requests its Committee Manager to apply the 8-week ballot duration to the
       following NP ballots and coordinate with the appropriate committees in joint work:
 
-      Project
+      |===
+      |Project |Approval
 
-      Approval
+      |ISO/NP 8000-119 Data quality -- Part 119: Application of ISO 8000-115 to transport unit identifiers
+      |☒
 
-      ISO/NP 8000-119 Data quality — Part 119: Application of ISO
-
-      8000-115 to transport unit identifiers
-
-      ☒
-
-      ISO/NP 14306-4 Industrial automation systems and integration
-
-      — JT file format specification for 3D visualization — Part 4:
-
-      Version 3
-
-      (In coordination with ISO/TC 171/SC 2 and ISO/IEC JTC 1/SC 24)
-
-      ☒'
+      |ISO/NP 14306-4 Industrial automation systems and integration -- JT file format specification for 3D visualization -- Part 4: Version 3 (In coordination with ISO/TC 171/SC 2 and ISO/IEC JTC 1/SC 24)
+      |☒
+      |===
     dates:
     - start: '2023-10-15'
       kind: effective
 - identifier: '1128'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Appointment of Convenors and Deputy Convenors
+  title: Appoint Convenors and Deputy Convenors for SC 4
   dates:
   - start: '2023-10-15'
     kind: decision
   actions:
-  - type: resolves
-    message: Appointment of Convenors and Deputy Convenors
-    dates:
-    - start: '2023-10-15'
-      kind: effective
   - type: appoints
-    message: 'SC 4 appoints the
+    message: |
+      SC 4 appoints the following Convenors and Deputy Convenors for a three-year term, with appreciation to serve in this capacity:
 
-      following Convenors and Deputy Convenors for a three-year term, with appreciation to
+      |===
+      |WG |Role |Appointment
 
-      serve in this capacity.
-
-      WG
-
-      Role
-
-      Appointment
-
-      AG 0
-
-      Convenor
-
-      Kenny Swope
-
-      TF 2
-
-      Convenor
-
-      Jean Brange
-
-      PPC
-
-      Convenor
-
-      Kenny Swope
-
-      WG 23
-
-      Deputy Convenor
-
-      Hayley Thompson
-
-      WG 26
-
-      Deputy Convenor
-
-      Maja Miličić Brandt'
+      |AG 0 |Convenor |Kenny Swope
+      |TF 2 |Convenor |Jean Brange
+      |PPC |Convenor |Kenny Swope
+      |WG 23 |Deputy Convenor |Hayley Thompson
+      |WG 26 |Deputy Convenor |Maja Miličić Brandt
+      |===
     dates:
     - start: '2023-10-15'
       kind: effective
   considerations:
   - type: noting
-    message: 'Noting that continuity of operations and management of work is an important
-
-      consideration to the successful operation of advisory groups'
+    message: |
+      Noting that continuity of operations and management of work is an important consideration to the successful operation of advisory groups
     dates:
     - start: '2023-10-15'
       kind: effective
 - identifier: '1129'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Launch DTR ballot of ISO TR 24464 ed2
+  title: Launch DTR ballot for ISO/TR 24464 ed2
   dates:
   - start: '2023-10-15'
     kind: decision
   actions:
-  - type: resolves
-    message: Launch DTR ballot of ISO TR 24464 ed2
-    dates:
-    - start: '2023-10-15'
-      kind: effective
-  - type: resolves
-    message: 'Noting that
-
-      • A revision to ISO/TR 24464 ed1 started in 2021-11 and was reviewed at the change
-
-      management meeting,
-
-      • A working group consultation was held in 2021-11, and
-
-      • A CIB was launched in 2022-10,'
-    dates:
-    - start: '2023-10-15'
-      kind: effective
-  - type: appreciates
-    message: 'SC 4 appreciates the recommendation of ISO/TC 184/AG 0 and requests its Committee
-
-      Manager coordinate with ISO/CS and launch a DTR ballot of Visualization elements of
-
-      digital twin - Visualization fidelity as edition 2.'
-    dates:
-    - start: '2023-10-15'
-      kind: effective
-- identifier: '1130'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Revise the title of ISO/DIS 3151-2
-  dates:
-  - start: '2023-10-15'
-    kind: decision
-  actions:
-  - type: resolves
-    message: Revise the title of ISO/DIS 3151-2
-    dates:
-    - start: '2023-10-15'
-      kind: effective
   - type: requests
-    message: 'SC4 requests its
-
-      Committee Manager coordinate with ISO/CS to change the title of project 84702 to be
-
-      Visualization elements of PLM-MES interface - 3D error feedback in heavy industry and
-
-
-      proceed with the DIS ballot.'
+    message: |
+      SC 4 appreciates the recommendation of ISO/TC 184/AG 0 and requests its Committee
+      Manager coordinate with ISO/CS and launch a DTR ballot of Visualization elements of
+      digital twin - Visualization fidelity as edition 2.
     dates:
     - start: '2023-10-15'
       kind: effective
   considerations:
   - type: noting
-    message: 'Noting that resolution of comments for ISO/CD 3151-2 has revised the title to be:
-
+    message: |
+      Noting that:
+      * A revision to ISO/TR 24464 ed1 started in 2021-11 and was reviewed at the change management meeting,
+      * A working group consultation was held in 2021-11, and
+      * A CIB was launched in 2022-10,
+    dates:
+    - start: '2023-10-15'
+      kind: effective
+- identifier: '1130'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Revise the title of ISO/DIS 3151-2 and proceed with ballot
+  dates:
+  - start: '2023-10-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      SC4 requests its Committee Manager coordinate with ISO/CS to change the title of project 84702 to be
+      Visualization elements of PLM-MES interface - 3D error feedback in heavy industry and
+      proceed with the DIS ballot.
+    dates:
+    - start: '2023-10-15'
+      kind: effective
+  considerations:
+  - type: noting
+    message: |
+      Noting that resolution of comments for ISO/CD 3151-2 has revised the title to be:
       Visualization elements of PLM-MES interface - 3D error feedback in heavy industry, and
-
-      the project id (84702), project portal states the title as: Visualization elements of PLM-
-
-      MES interface — Part 2: 3D error feedback in the plant industry'
+      the project id (84702), project portal states the title as: Visualization elements of PLM-MES interface -- Part 2: 3D error feedback in the plant industry
     dates:
     - start: '2023-10-15'
       kind: effective
 - identifier: '1131'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Restart ISO/DTR 23164 as ISO/DTS 23164
+  title: Restart ISO/DTR 23164 as Technical Specification ISO/DTS 23164
   dates:
   - start: '2023-10-15'
     kind: decision
   actions:
-  - type: resolves
-    message: Restart ISO/DTR 23164 as ISO/DTS 23164
+  - type: requests
+    message: |
+      SC 4 requests its Committee Manager to coordinate with ISO/CS to proceed with
+      balloting ISO/CD TR 23164 ed1 (project id. 87378),
+
+      * Requests its Committee Manager to launch ISO/NP 23164 -- Automation systems and integration -- Core terminology for industrial data as a TS with an eight-week ballot duration at stage 40.00,
+      * Nominates David Leal as project leader, and
+      * Invites member bodies to nominate additional experts to this project.
     dates:
     - start: '2023-10-15'
       kind: effective
-  - type: resolves
-    message: 'Noting the report from ISO/TC 184/SC 4/AG 3, the recommendation of the ISO Editor
-
-      and the consensus of the PPC ISO/TC 184/SC 4, SC 4:
-
-      * Requests its Committee Manager to coordinate with ISO/CS to proceed with
-
-      balloting ISO/CD TR 23164 ed1 (project id. 87378),
-
-      * Requests its Committee Manager to launch ISO/NP 23164 -- Automation
-
-      systems and integration -- Core terminology for industrial data as a TS with an
-
-      eight-week ballot duration at stage 40.00,
-
-      * Nominates David Leal as project leader, and
-
-      * Invites member bodies to nominate additional experts to this project.'
+  considerations:
+  - type: noting
+    message: |
+      Noting the report from ISO/TC 184/SC 4/AG 3, the recommendation of the ISO Editor and the consensus of the PPC ISO/TC 184/SC 4
     dates:
     - start: '2023-10-15'
       kind: effective
 - identifier: '1132'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Restart SMRL modules in support of SMRL V11
+  title: Restart SMRL modules ISO/TS 1848, 1849, 1850, 1851, and 1853
   dates:
   - start: '2023-10-15'
     kind: decision
   actions:
-  - type: resolves
-    message: Restart SMRL modules in support of SMRL V11
-    dates:
-    - start: '2023-10-15'
-      kind: effective
-  - type: notes
-    message: 'SC 4 notes the
-
-      pending limit date for this set of projects and appreciates the actions taken to address
-
+  - type: requests
+    message: |
+      SC 4 notes the pending limit date for this set of projects and appreciates the actions taken to address
       the integration issues. Further, SC 4 requests its Committee Manager coordinate with
-
       ISO/CS to restart ISO/AWI TS 1848 (project id = 81490), 1849 (project id = 81491),
-
-      1850 (project id = 81492), 1851(project id = 81493) and 1853 (project id = 82522) on
-
+      1850 (project id = 81492), 1851 (project id = 81493) and 1853 (project id = 82522) on
       track with SDT 18 at stage 10.99 with the following target dates:
 
-      Stage 30 -- CD registered: 2023-12-15
-
-      Stage 50 -- Final text received: 2024-3-15
-
-      Stage 60 -- IS published: 2024-6-15
+      * Stage 30 -- CD registered: 2023-12-15
+      * Stage 50 -- Final text received: 2024-3-15
+      * Stage 60 -- IS published: 2024-6-15
 
       And nominates Hiroyuki Hiraoka as project leader for -1848, -1849, -1850, and -1851,
-
-      and nominates Tom Thurman as project leader for -1853.'
+      and nominates Tom Thurman as project leader for -1853.
     dates:
     - start: '2023-10-15'
       kind: effective
   considerations:
   - type: recalling
-    message: 'Recalling the creation of ISO/AWI TS 10303-1848, -1849, -1850, -1851, and -1853 as
-
+    message: |
+      Recalling the creation of ISO/AWI TS 10303-1848, -1849, -1850, -1851, and -1853 as
       required modules of the ISO 10303 SMRL subject to the special procedures for
-
       managing standards in a database format, and noting the progress of the project team
-
-      to complete a CD quality ISO TS 1848, 1849, 1850, 1851, and 1853'
+      to complete a CD quality ISO TS 1848, 1849, 1850, 1851, and 1853
     dates:
     - start: '2023-10-15'
       kind: effective
@@ -318,324 +197,264 @@ resolutions:
   - start: '2023-10-15'
     kind: decision
   actions:
-  - type: resolves
-    message: Launch an Amendment to ISO 17506 ed2
-    dates:
-    - start: '2023-10-15'
-      kind: effective
   - type: requests
-    message: 'SC4 requests its Committee
+    message: |
+      SC4 requests its Committee Manager to coordinate with ISO/CS to amend ISO 17506:2022 with the following schedule:
 
-      Manager to coordinate with ISO/CS to amend ISO 17506:2022 with the following
+      * DIS (40.00): 2024-02-28
+      * Publication (60.00): 2024-04-30
 
-      schedule:
-
-      • DIS (40.00): 2024-02-28
-
-      • Publication (60.00): 2024-04-30,
-
-      And nominates Hwanyong Lee, hwan@ajou.ac.kr as project leader.'
+      And nominates Hwanyong Lee, hwan@ajou.ac.kr as project leader.
     dates:
     - start: '2023-10-15'
       kind: effective
   considerations:
   - type: noting
-    message: Noting the recommendation of ISO/TC 184/SC 4/AG 0
+    message: |
+      Noting the recommendation of ISO/TC 184/SC 4/AG 0
     dates:
     - start: '2023-10-15'
       kind: effective
 - identifier: '1134'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Launch ISO/DTR 8000-320
+  title: Launch ISO/DTR 8000-320 on AI training data quality
   dates:
   - start: '2023-10-15'
     kind: decision
   actions:
-  - type: resolves
-    message: Launch ISO/DTR 8000-320
-    dates:
-    - start: '2023-10-15'
-      kind: effective
   - type: requests
-    message: 'SC 4 requests its Committee Manager to coordinate with ISO/CS to initiate the
-
-      development of ISO/TR 8000-320 with the title “Data quality -- Part 320: AI training data
-
-      quality for smart manufacturing” with Giljo Kim (KOR) as project leader and the target
-
+    message: |
+      SC 4 requests its Committee Manager to coordinate with ISO/CS to initiate the
+      development of ISO/TR 8000-320 with the title "Data quality -- Part 320: AI training data
+      quality for smart manufacturing" with Giljo Kim (KOR) as project leader and the target
       dates:
 
       * circulation of draft technical report by 2023-12-31,
-
-      * publication of the technical report on 2024-06-30.'
+      * publication of the technical report on 2024-06-30.
     dates:
     - start: '2023-10-15'
       kind: effective
 - identifier: '1135'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Launch ISO 8000-115 -- Minor revision
+  title: Launch minor revision of ISO 8000-115
   dates:
   - start: '2023-10-15'
     kind: decision
   actions:
   - type: resolves
-    message: Launch ISO 8000-115 -- Minor revision
-    dates:
-    - start: '2023-10-15'
-      kind: effective
-  - type: resolves
-    message: 'SC 4 resolves to initiate the development of a minor revision of ISO 8000-115 (Master
-
+    message: |
+      SC 4 resolves to initiate the development of a minor revision of ISO 8000-115 (Master
       data: Exchange of quality identifiers: Syntactic, semantic and resolution requirements)
-
       with Hayley Thompson (USA) as project leader and the target dates:
 
       * submission of revised document by 2023-12-31,
-
-      * publication of the minor revision by 2024-06-30'
-    dates:
-    - start: '2023-10-15'
-      kind: effective
-  - type: resolves
-    message: .
+      * publication of the minor revision by 2024-06-30
     dates:
     - start: '2023-10-15'
       kind: effective
   - type: requests
-    message: 'SC 4 requests its Committee Manager to prepare and submit to ISO/CS the necessary
-
+    message: |
+      SC 4 requests its Committee Manager to prepare and submit to ISO/CS the necessary
       ISO Form 8B for this minor revision.
-
-      Acclamations and Acknowledgements'
     dates:
     - start: '2023-10-15'
       kind: effective
 - identifier: 202310-acclaim-01
   subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank STEP Tools, Inc. and local staff for organizing the 86th Plenary
   dates:
   - start: '2023-10-15'
     kind: decision
   actions:
   - type: thanks
-    message: 'SC 4 expresses its appreciation to the following individuals at STEP Tools, Inc. for
-
+    message: |
+      SC 4 expresses its appreciation to the following individuals at STEP Tools, Inc. for
       organizing the 86th ISO/TC 184/SC 4 Plenary in Saratoga Springs, NY from 2023-10-22
-
-      to 2023-10-27.
+      to 2023-10-27:
 
       * Lesli Garnett
-
       * Martin Hardwick
-
       * Joe Fritz
 
       Special acknowledgement is extended to all the staff at the Gideon Putnam Hotel, and
-
       the Holiday Inn in Saratoga Springs for their seamless and attentive support throughout
-
       the week.
 
       Special acknowledgement is extended to all the staff of SUNY Empire State University,
-
       including:
 
       * Josh Fleming
-
       * Renee Lienau
-
-      * Jeffrey Kurto'
+      * Jeffrey Kurto
     dates:
     - start: '2023-10-15'
       kind: decision
 - identifier: 202310-acclaim-02
   subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank contributors and presenters at the Open Technical Forum
   dates:
   - start: '2023-10-15'
     kind: decision
   actions:
   - type: thanks
-    message: 'SC 4 expresses its appreciation to the following individuals for contributing and
-
-      presenting at the Open Technical Forum discussion on Monday evening.
+    message: |
+      SC 4 expresses its appreciation to the following individuals for contributing and
+      presenting at the Open Technical Forum discussion on Monday evening:
 
       * Hiroshi Murayama
-
       * Paul van Exel
-
-      * Stuart Galt'
+      * Stuart Galt
     dates:
     - start: '2023-10-15'
       kind: decision
 - identifier: 202310-acclaim-03
   subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank Nils Sandsmark for organizing the cross-coordination meeting
   dates:
   - start: '2023-10-15'
     kind: decision
   actions:
   - type: thanks
-    message: 'SC 4 expresses its appreciation to Nils Sandsmark for organizing and facilitating the
-
+    message: |
+      SC 4 expresses its appreciation to Nils Sandsmark for organizing and facilitating the
       multi-group cross-coordination meeting held on 2023-06-24 and to the participants who
-
-      provided technical content to the betterment of SC 4 level harmonization.'
+      provided technical content to the betterment of SC 4 level harmonization.
     dates:
     - start: '2023-10-15'
       kind: decision
 - identifier: 202310-acclaim-04
   subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank contributors and presenters at the Implementation Forum
   dates:
   - start: '2023-10-15'
     kind: decision
   actions:
   - type: thanks
-    message: 'SC 4 expresses its appreciation to the following individuals for contributing and
-
-      presenting at the Implementation Forum on Tuesday evening,
+    message: |
+      SC 4 expresses its appreciation to the following individuals for contributing and
+      presenting at the Implementation Forum on Tuesday evening:
 
       * Martin Hardwick
-
       * David Loffredo
-
-      * Soonhung Han'
+      * Soonhung Han
     dates:
     - start: '2023-10-15'
       kind: decision
 - identifier: 202310-acclaim-05
   subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank contributors and presenters at Industry Day
   dates:
   - start: '2023-10-15'
     kind: decision
   actions:
   - type: thanks
-    message: 'SC 4 expresses its appreciation to the following individuals for contributing and
-
-      presenting at Industry Day on Wednesday morning.
+    message: |
+      SC 4 expresses its appreciation to the following individuals for contributing and
+      presenting at Industry Day on Wednesday morning:
 
       * Sangkeun Yoo
-
       * Sung Hei Kim
-
       * Chi Ho Noh
-
-      * Brad S. Carlberg'
+      * Brad S. Carlberg
     dates:
     - start: '2023-10-15'
       kind: decision
 - identifier: 202310-acclaim-06
   subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank the staff of the Lake George Steamboat Company
   dates:
   - start: '2023-10-15'
     kind: decision
   actions:
   - type: thanks
-    message: 'SC 4 expresses its appreciation all the staff of the Lake George Steamboat Company
-
-      for a fantastic cruise of Lake George on the Mohican.'
+    message: |
+      SC 4 expresses its appreciation all the staff of the Lake George Steamboat Company
+      for a fantastic cruise of Lake George on the Mohican.
     dates:
     - start: '2023-10-15'
       kind: decision
 - identifier: 202310-acclaim-07
   subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank the staff at Star Trek Original Series Set Tour
   dates:
   - start: '2023-10-15'
     kind: decision
   actions:
   - type: thanks
-    message: 'SC 4 expresses its appreciation to the staff at Star Trek Original Series Set Tour for an
-
-      amazing tour.
+    message: |
+      SC 4 expresses its appreciation to the staff at Star Trek Original Series Set Tour for an
+      amazing tour:
 
       * James Cawley
-
       * Patrick Cawley
-
       * Anthony Willet
-
       * Myleigh Willet
-
       * Ashley Brand
-
       * Sue Cross
-
       * Marybeth Ritkouski
-
-      * Dave Loffredo'
+      * Dave Loffredo
     dates:
     - start: '2023-10-15'
       kind: decision
 - identifier: 202310-acclaim-08
   subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank the staff at Burleigh’s Luncheonette
   dates:
   - start: '2023-10-15'
     kind: decision
   actions:
   - type: thanks
-    message: 'SC 4 expresses its appreciation to the staff at Burleigh’s Luncheonette for a great
-
-      dining experience.
+    message: |
+      SC 4 expresses its appreciation to the staff at Burleigh’s Luncheonette for a great
+      dining experience:
 
       * Debbie, Don, and Mark Barber
-
       * Dylan Menke
-
-      * Matthew Michalak'
+      * Matthew Michalak
     dates:
     - start: '2023-10-15'
       kind: decision
 - identifier: 202310-acclaim-09
   subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank SC 4 Liaisons for their reports at the 86th Plenary
   dates:
   - start: '2023-10-15'
     kind: decision
   actions:
   - type: thanks
-    message: 'SC 4 expresses its appreciation to all our SC 4 Liaisons who provided reports at the 86th
-
-      Plenary.
+    message: |
+      SC 4 expresses its appreciation to all our SC 4 Liaisons who provided reports at the 86th
+      Plenary:
 
       * ISO/IEC JTC1/SC 32 - Liaison Mr. Sungjoon Lim (F2F)
-
-
       * ISO/IEC JTC 1/SC 24 Liaison Mr. Christophe Mouton (V)
-
       * ISO/IEC JTC 1/SC 7 Liaison Dr. Timothy King (V)
-
       * ISO/TC 37/SC 3 Liaison Mrs. Sabine Mahr (V)
-
       * ISO/TC 85 Liaison Mr. Christophe Mouton (V)
-
       * ISO/TC 171/SC 2 Liaison Mr. Stuart Galt (F2F)
-
       * DMSC A-Liaison Ms. Jennifer Herron and Ms. Rosemary Astheimer (F2F)
-
       * ECCMA A-Liaison Mr. Peter Benson (F2F)
-
       * IACS A-Liaison Mr. He Ci (V)
-
       * NAFEMS A-Liaison Mr. David Leal (F2F)
-
       * OMG A-Liaison Ms. Allison Barnard Feeney (F2F)
-
       * PDES A-Liaison Mr. Patrick Walsh (F2F)
-
       * SBS A-Liaison Mr. Jochen Haenisch (V)
-
-      * Web 3D Consortium A-Liaison Mr. Vincent Marchetti (V)'
+      * Web 3D Consortium A-Liaison Mr. Vincent Marchetti (V)
     dates:
     - start: '2023-10-15'
       kind: decision
 - identifier: 202310-acclaim-10
   subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank all experts, delegates, and leaders for a successful hybrid plenary
   dates:
   - start: '2023-10-15'
     kind: decision
   actions:
   - type: thanks
-    message: 'SC 4 expresses its sincere appreciation to all the experts, delegates, and leaders for
-
+    message: |
+      SC 4 expresses its sincere appreciation to all the experts, delegates, and leaders for
       executing our hybrid plenary meeting successfully while undergoing numerous
-
-      challenges.'
+      challenges.
     dates:
     - start: '2023-10-15'
       kind: decision

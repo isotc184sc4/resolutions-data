@@ -23,8 +23,8 @@ resolutions:
       |===
       |Project |Approval
 
-      |ISO/NP 18136-2: Automation systems and integration — Nuclear
-      digital ecosystem — Part 2: Vocabulary
+      |ISO/NP 18136-2: Automation systems and integration -- Nuclear
+      digital ecosystem -- Part 2: Vocabulary
       |☒
 
       |===
@@ -129,12 +129,12 @@ resolutions:
     - start: '2026-05-15'
       kind: effective
   considerations:
-    - type: recognizes
+    - type: recognizing
       message: |
         Recognizing:
 
         * that ISO/TC 154 is developing ISO/NP 26087 Processes and data in
-        carbon market monitoring reporting verification (MRV) — Data quality
+        carbon market monitoring reporting verification (MRV) -- Data quality
         assessment, which introduces structured methods for evaluating
         completeness, timeliness, traceability, accuracy, and comparability of
         MRV data, as described in ISO/TC 154 N 1641 and N 1642;
@@ -289,7 +289,7 @@ resolutions:
     dates:
     - start: '2026-05-15'
       kind: effective
-  - type: invites
+  - type: asks
     message: SC4 invites additional member bodies to nominate experts to participate in the projects.
     dates:
     - start: '2026-05-15'

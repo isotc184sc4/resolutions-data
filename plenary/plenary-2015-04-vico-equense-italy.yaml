@@ -10,394 +10,303 @@ metadata:
 resolutions:
 - identifier: '892'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Reappointment of JWG 8 Convener
+  title: Reappoint Anne-Françoise Cutting-Decelle as JWG 8 Convener
   dates:
   - start: '2015-04-15'
     kind: decision
   actions:
-  - type: resolves
-    message: Reappointment of JWG 8 Convener
-    dates:
-    - start: '2015-04-15'
-      kind: effective
   - type: appoints
-    message: 'SC 4 appoints Anne-Françoise Cutting-Decelle as Convener for JWG 8 “Manufacturing
-
-      process and management information” for a further three-year term, with appreciation
-
-      for her offer to serve in that capacity.'
+    message: |
+      SC4 appoints Anne-Françoise Cutting-Decelle as Convener for JWG 8 "Manufacturing
+      process and management information" for a further three-year term, with appreciation
+      for her offer to serve in that capacity.
     dates:
     - start: '2015-04-15'
       kind: effective
 - identifier: '893'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Reappointment of WG 12 Convener
+  title: Reappoint Keith Hunten as WG 12 Convener
   dates:
   - start: '2015-04-15'
     kind: decision
   actions:
-  - type: resolves
-    message: Reappointment of WG 12 Convener
-    dates:
-    - start: '2015-04-15'
-      kind: effective
   - type: appoints
-    message: 'SC 4 appoints Keith Hunten as Convener for WG 12 “STEP product modelling and
-
-      resources” for a further three-year term, with appreciation for his offer to serve in that
-
-      capacity.'
+    message: |
+      SC4 appoints Keith Hunten as Convener for WG 12 "STEP product modelling and
+      resources" for a further three-year term, with appreciation for his offer to serve in that
+      capacity.
     dates:
     - start: '2015-04-15'
       kind: effective
 - identifier: '894'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Reappointment of WG 13 Convener
+  title: Reappoint Timothy King as WG 13 Convener
   dates:
   - start: '2015-04-15'
     kind: decision
   actions:
-  - type: resolves
-    message: Reappointment of WG 13 Convener
-    dates:
-    - start: '2015-04-15'
-      kind: effective
   - type: appoints
-    message: 'SC 4 appoints Timothy King as Convener for WG 13 “Industrial data quality” for a
-
-      further three-year term, with appreciation for his offer to serve in that capacity.'
+    message: |
+      SC4 appoints Timothy King as Convener for WG 13 "Industrial data quality" for a
+      further three-year term, with appreciation for his offer to serve in that capacity.
     dates:
     - start: '2015-04-15'
       kind: effective
 - identifier: '895'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Reappointment of Leader SC 4 Implementation Forum
+  title: Reappoint Paul van Exel as SC 4 Implementation Forum Leader
   dates:
   - start: '2015-04-15'
     kind: decision
   actions:
-  - type: resolves
-    message: Reappointment of Leader SC 4 Implementation Forum
-    dates:
-    - start: '2015-04-15'
-      kind: effective
   - type: appoints
-    message: 'SC 4 appoints Paul van Exel as Leader for the SC 4 Implementation Forum for a further
-
-      three-year term, with appreciation for his offer to serve in that capacity.'
+    message: |
+      SC4 appoints Paul van Exel as Leader for the SC 4 Implementation Forum for a further
+      three-year term, with appreciation for his offer to serve in that capacity.
     dates:
     - start: '2015-04-15'
       kind: effective
 - identifier: '896'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Reappointment of Co-Deputy SC 4 Implementation Forum
+  title: Reappoint Anna Moreno as SC 4 Implementation Forum Co-Deputy
   dates:
   - start: '2015-04-15'
     kind: decision
   actions:
-  - type: resolves
-    message: Reappointment of Co-Deputy SC 4 Implementation Forum
-    dates:
-    - start: '2015-04-15'
-      kind: effective
   - type: appoints
-    message: 'SC 4 appoints Anna Moreno as Co-Deputy for the SC 4 Implementation Forum for a
-
-      further three-year term, with appreciation for her offer to serve in that capacity.'
+    message: |
+      SC4 appoints Anna Moreno as Co-Deputy for the SC 4 Implementation Forum for a
+      further three-year term, with appreciation for her offer to serve in that capacity.
     dates:
     - start: '2015-04-15'
       kind: effective
 - identifier: '897'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Appointment of SC 4 Liaison to Energistics
+  title: Appoint Nils Sandsmark as SC 4 Liaison to Energistics
   dates:
   - start: '2015-04-15'
     kind: decision
   actions:
-  - type: resolves
-    message: Appointment of SC 4 Liaison to Energistics
-    dates:
-    - start: '2015-04-15'
-      kind: effective
   - type: appoints
-    message: 'SC 4 appoints Nils Sandsmark for a three-year term as the SC 4 Liaison to Energistics,
-
-      with appreciation for his offer to serve in that capacity.'
+    message: |
+      SC4 appoints Nils Sandsmark for a three-year term as the SC 4 Liaison to Energistics,
+      with appreciation for his offer to serve in that capacity.
     dates:
     - start: '2015-04-15'
       kind: effective
 - identifier: '898'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Rationalization of SC 4 Liaisons
+  title: Terminate SC 4 liaisons with multiple organizations
   dates:
   - start: '2015-04-15'
     kind: decision
   actions:
-  - type: resolves
-    message: Rationalization of SC 4 Liaisons
-    dates:
-    - start: '2015-04-15'
-      kind: effective
   - type: requests
-    message: 'SC 4 requests its Secretariat to terminate its liaisons with the following organizations:
+    message: |
+      SC4 requests its Secretariat to terminate its liaisons with the following organizations:
 
       * CEN/ISSS Workshop ELSSI-EMD
-
       * United Nations Standard Products and Services Code (UNSPSC)
-
-      * ISO PC 246 Anti-counterfeiting tools
-
-      * ISO TC 8 - Ships and marine technology
-
-      * ISO TC 10/SC 8 - Construction documentation
-
-      * ISO TC 60 -- Gears'
+      * ISO/PC 246 Anti-counterfeiting tools
+      * ISO/TC 8 -- Ships and marine technology
+      * ISO/TC 10/SC 8 -- Construction documentation
+      * ISO/TC 60 -- Gears
     dates:
     - start: '2015-04-15'
       kind: effective
 - identifier: '899'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Create new edition of 10303-235
+  title: Approve new work item to create ISO 10303-235 Edition 2
   dates:
   - start: '2015-04-15'
     kind: decision
   actions:
-  - type: resolves
-    message: Create new edition of 10303-235
-    dates:
-    - start: '2015-04-15'
-      kind: effective
   - type: approves
-    message: 'SC 4 approves a NP to create a new edition of 10303-235 with the same scope as
-
-      10303-235 ed1 “Engineering properties for product design and verification”, using the
-
-      accelerated timescale, with Norman Swindells as the project leader'
+    message: |
+      SC4 approves a NP to create a new edition of 10303-235 with the same scope as
+      10303-235 ed1 "Engineering properties for product design and verification", using the
+      accelerated timescale, with Norman Swindells as the project leader.
     dates:
     - start: '2015-04-15'
       kind: effective
-  - type: resolves
-    message: 'SC 4 resolves that
-
-      the project should proceed direct to DIS ballot.'
+  - type: decides
+    message: |
+      SC4 decides that the project should proceed direct to DIS ballot.
     dates:
     - start: '2015-04-15'
       kind: effective
 - identifier: '900'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Create new edition of 15531-44
+  title: Approve new work item to create ISO 15531-44 Edition 2
   dates:
   - start: '2015-04-15'
     kind: decision
   actions:
-  - type: resolves
-    message: Create new edition of 15531-44
-    dates:
-    - start: '2015-04-15'
-      kind: effective
   - type: approves
-    message: 'SC 4 approves a NP to create a new edition 2 of 15531-44 with the same scope as
-
-      15531-44 “Information modelling for shop floor data acquisition”, using the accelerated
-
-      timescale, with Anne-Francoise Cutting-Decelle as the project leader'
+    message: |
+      SC4 approves a NP to create a new edition 2 of 15531-44 with the same scope as
+      15531-44 "Information modelling for shop floor data acquisition", using the accelerated
+      timescale, with Anne-Francoise Cutting-Decelle as the project leader.
     dates:
     - start: '2015-04-15'
       kind: effective
   - type: decides
-    message: 'SC 4 decides that
-
-      the project should proceed direct to DIS ballot.'
+    message: |
+      SC4 decides that the project should proceed direct to DIS ballot.
     dates:
     - start: '2015-04-15'
       kind: effective
 - identifier: '901'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Allocation of the ISO 18828 Project to JWG 8
+  title: Assign ISO 18828 project to JWG 8
   dates:
   - start: '2015-04-15'
     kind: decision
-  actions:
-  - type: resolves
-    message: 'Allocation of the ISO 18828 Project to JWG 8
-
-      ISO/DPAS 18828 “Reference process for seamless production planning” has been
-
+  considerations:
+  - type: noting
+    message: |
+      Noting that ISO/DPAS 18828 "Reference process for seamless production planning" has been
       accepted for publication under the harvesting process, and it has been decided that
-
-      further parts are necessary'
+      further parts are necessary.
     dates:
     - start: '2015-04-15'
       kind: effective
+  actions:
   - type: assigns
-    message: 'SC 4 assigns the Reference process for seamless
-
-      production planning project ISO 18828 to JWG 8.'
+    message: |
+      SC4 assigns the Reference process for seamless production planning project ISO 18828 to JWG 8.
     dates:
     - start: '2015-04-15'
       kind: effective
 - identifier: '902'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Launch of DIS ballot for ISO 18828-2
+  title: Launch DIS ballot for ISO 18828-2
   dates:
   - start: '2015-04-15'
     kind: decision
   actions:
-  - type: resolves
-    message: Launch of DIS ballot for ISO 18828-2
-    dates:
-    - start: '2015-04-15'
-      kind: effective
   - type: requests
-    message: 'SC 4 requests its Secretariat to launch the DIS ballot for ISO 18828-2 -- “Reference
-
+    message: |
+      SC4 requests its Secretariat to launch the DIS ballot for ISO 18828-2 -- "Reference
       process for seamless production planning - Standardized procedure for production
-
-      systems engineering.”'
+      systems engineering."
     dates:
     - start: '2015-04-15'
       kind: effective
 - identifier: '903'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Create new PWI for new Edition 3 of 10303 AP239
+  title: Approve new PWI for Edition 3 of ISO 10303 AP239
   dates:
   - start: '2015-04-15'
     kind: decision
   actions:
-  - type: resolves
-    message: Create new PWI for new Edition 3 of 10303 AP239
+  - type: approves
+    message: |
+      SC4 approves a PWI to create a new edition 3 of 10303 AP239 "Product Life Cycle
+      Support" as defined in SC 4 N2997.
     dates:
     - start: '2015-04-15'
       kind: effective
-  - type: approves
-    message: 'SC 4 approves a PWI to create a new edition 3 of 10303 AP239 “Product Life Cycle
-
-      Support” as defined in SC 4 N2997 and invites member bodies to nominate experts to
-
-      the project.'
+  - type: asks
+    message: |
+      SC4 asks member bodies to nominate experts to the project.
     dates:
     - start: '2015-04-15'
       kind: effective
 - identifier: '904'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Establish duration of New Work Item Proposals
+  title: Apply 2-month ballot duration to specific NP proposals
   dates:
   - start: '2015-04-15'
     kind: decision
   actions:
-  - type: resolves
-    message: Establish duration of New Work Item Proposals
-    dates:
-    - start: '2015-04-15'
-      kind: effective
   - type: requests
-    message: 'SC 4 requests its Secretariat to apply the 2-month duration to the proposed NPs for
+    message: |
+      SC4 requests its Secretariat to apply the 2-month duration to the proposed NPs for:
 
       * Formal Semantic Models for the Configuration of Global Production Networks
-
       (SP-NET) -- ISO 20534
 
-
-      * Equivalence Validation'
+      * Equivalence Validation
     dates:
     - start: '2015-04-15'
       kind: effective
 - identifier: '905'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Proposed Integrated Model for Digital Manufacturing
+  title: Inform ISO CS about Integrated Model for Digital Manufacturing project
   dates:
   - start: '2015-04-15'
     kind: decision
-  actions:
-  - type: resolves
-    message: 'Proposed Integrated Model for Digital Manufacturing
-
-      A proposal is being developed for a new edition of AP238 which will include a series of
-
+  considerations:
+  - type: noting
+    message: |
+      Noting that a proposal is being developed for a new edition of AP238 which will include a series of
       bug fixes, incorporate new GD&T capabilities, improve integration with ISO 13399 for
-
       cutting tools, and ISO 14649 for NC machines, and support for additive manufacture.
-
       Other capabilities such as robotic machining may also need to be addressed. The
-
-      responsibility for these standards is currently spread across TC 29/TC 39/TC 261/TC
-
-      184   There is therefore an opportunity to address this project through the coordination
-
+      responsibility for these standards is currently spread across TC 29/TC 39/TC 261/TC 184.
+      There is therefore an opportunity to address this project through the coordination
       meeting proposed by ISO/TC 184 in its recent plenary meeting, as an example of the
-
-      necessity for coordination'
+      necessity for coordination.
     dates:
     - start: '2015-04-15'
       kind: effective
-  - type: resolves
-    message: .
-    dates:
-    - start: '2015-04-15'
-      kind: effective
+  actions:
   - type: requests
-    message: 'SC 4 requests its Secretariat to inform ISO CS about the proposed Integrated Model for
-
+    message: |
+      SC4 requests its Secretariat to inform ISO CS about the proposed Integrated Model for
       Digital Manufacturing project as an example of the work that should be addressed by
-
-      the meeting suggested by ISO/TC 184 in its resolution 573.'
+      the meeting suggested by ISO/TC 184 in its resolution 573.
     dates:
     - start: '2015-04-15'
       kind: effective
 - identifier: '906'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Appointment of WG 23 Convener
+  title: Appoint Aminata Mbengue as WG 23 Convener
   dates:
   - start: '2015-04-15'
     kind: decision
   actions:
-  - type: resolves
-    message: Appointment of WG 23 Convener
-    dates:
-    - start: '2015-04-15'
-      kind: effective
   - type: appoints
-    message: 'SC 4 appoints Aminata Mbengue as Convener for WG 23 "Vocabulary validation
-
+    message: |
+      SC4 appoints Aminata Mbengue as Convener for WG 23 "Vocabulary validation
       team" for a three-year term, with appreciation for her offer to serve in that capacity.
-
-      ACKNOWLEDGEMENTS and APPRECIATIONS
-
-      ACCLAMATION
-
-      Appreciation to our SC 4 Liaisons and those projects who presented at the Liaison
-
-      Plenary
-
-      * TC 184 Liaison Report
-
-      Howard Mason
-
-      * TC 184 Big Picture
-
-      Christophe Mouton
-
-      * MoU/MG
-
-      Howard Mason
-
-
-      * ISO/IEC JTC 1/WG 10 Working Group on IoT
-
-      Soonhung Han
-
-      ACCLAMATION'
     dates:
     - start: '2015-04-15'
       kind: effective
-  - type: appreciation
-    message: 'SC 4 expresses its appreciation to Anna Moreno and her team for hosting the 69th
+- identifier: 201504-acclaim-01
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank SC 4 Liaisons and presenters
+  dates:
+  - start: '2015-04-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC4 expresses its appreciation to our SC 4 Liaisons and those projects who presented at the Liaison
+      Plenary:
 
-      ISO/TC 184/SC 4 Plenary in Vico Equense, Italy, 2015-04-19/24
+      * TC 184 Liaison Report -- Howard Mason
+      * TC 184 Big Picture -- Christophe Mouton
+      * MoU/MG -- Howard Mason
+      * ISO/IEC JTC 1/WG 10 Working Group on IoT -- Soonhung Han
+    dates:
+    - start: '2015-04-15'
+      kind: effective
+- identifier: 201504-acclaim-02
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank hosts of the 69th SC 4 Plenary
+  dates:
+  - start: '2015-04-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC4 expresses its appreciation to Anna Moreno and her team for hosting the 69th
+      ISO/TC 184/SC 4 Plenary in Vico Equense, Italy, 2015-04-19/24.
 
       Special acknowledgement is extended to the Hotel Oriente, Vico Equense and its staff
-
-      for their seamless and attentive support.'
+      for their seamless and attentive support.
     dates:
     - start: '2015-04-15'
       kind: effective

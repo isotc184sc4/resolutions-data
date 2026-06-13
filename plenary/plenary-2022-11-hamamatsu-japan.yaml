@@ -9,770 +9,547 @@ metadata:
 resolutions:
 - identifier: '1101'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Approval of Project Leaders and Project Editors for SC 4 Projects
+  title: Approve Project Leaders and Project Editors for SC 4 Projects
   dates:
   - start: '2022-11-15'
     kind: decision
   actions:
-  - type: resolves
-    message: Approval of Project Leaders and Project Editors for SC 4 Projects
-    dates:
-    - start: '2022-11-15'
-      kind: effective
   - type: approves
-    message: 'SC 4 Approves the following Project Leaders and Project Editors for the listed Projects
-
+    message: |
+      SC 4 approves the following Project Leaders and Project Editors for the listed Projects
       noted:
 
-      Project
+      |===
+      |Project |Working Group |Project Leader/Editor
 
-      Working Group
-
-      Project Leader/Editor
-
-      ISO/DTR 3151-1
-
-      (ID: 84703)
-
-      JWG 16
-
-      Soonhung Han'
+      |ISO/DTR 3151-1 (ID: 84703) |JWG 16 |Soonhung Han
+      |===
     dates:
     - start: '2022-11-15'
       kind: effective
+
 - identifier: '1102'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Establish ballot duration of new work item proposals
+  title: Establish 8-week ballot duration for new work item proposals
   dates:
   - start: '2022-11-15'
     kind: decision
   actions:
-  - type: resolves
-    message: Establish ballot duration of new work item proposals
-    dates:
-    - start: '2022-11-15'
-      kind: effective
   - type: requests
-    message: 'SC 4 requests its Committee Manager to apply the 8-week ballot duration to the
-
+    message: |
+      SC 4 requests its Committee Manager to apply the 8-week ballot duration to the
       following NP ballots:
 
-      Project
+      |===
+      |Project |Approval
 
-      Approval
-
-      ISO/NP 10303-238 ed 4
-
-      ☒
-
-      ISO/NP 10303-62 ed2
-
-      ☒
-
-      ISO/NP 8000-220
-
-      ☒
-
-      ISO/NP 14306-1
-
-      ☐
-
-      ISO/NP 14306-4
-
-      ☐'
+      |ISO/NP 10303-238 ed 4 |☒
+      |ISO/NP 10303-62 ed2 |☒
+      |ISO/NP 8000-220 |☒
+      |ISO/NP 14306-1 |☐
+      |ISO/NP 14306-4 |☐
+      |===
     dates:
     - start: '2022-11-15'
       kind: effective
+
 - identifier: '1103'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Appointment of Convenors and Deputy Convenors
+  title: Appoint Convenors and Deputy Convenors for a three-year term
   dates:
   - start: '2022-11-15'
     kind: decision
-  actions:
-  - type: resolves
-    message: Appointment of Convenors and Deputy Convenors
-    dates:
-    - start: '2022-11-15'
-      kind: effective
-  - type: appoints
-    message: 'SC 4 appoints the
-
-      following Convenors and Deputy Convenors for a three-year term, with appreciation to
-
-      serve in this capacity.
-
-      WG
-
-      Role
-
-      Appointment
-
-      QC
-
-      Convenor
-
-      Véronique Dubillot
-
-      WG 11
-
-      Convenor
-
-      David Loffredo'
-    dates:
-    - start: '2022-11-15'
-      kind: effective
   considerations:
   - type: noting
-    message: 'Noting that continuity of operations and management of work is an important
-
-
-      consideration to the successful operation of advisory groups'
+    message: |
+      Noting that continuity of operations and management of work is an important
+      consideration to the successful operation of advisory groups
     dates:
     - start: '2022-11-15'
       kind: effective
+  actions:
+  - type: appoints
+    message: |
+      SC 4 appoints the following Convenors and Deputy Convenors for a three-year term,
+      with appreciation to serve in this capacity:
+
+      |===
+      |WG |Role |Appointment
+
+      |QC |Convenor |Véronique Dubillot
+      |WG 11 |Convenor |David Loffredo
+      |===
+    dates:
+    - start: '2022-11-15'
+      kind: effective
+
 - identifier: '1104'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Target Dates change to ISO/TS 23301 ed2
+  title: Modify target dates for ISO/TS 23301 ed2
   dates:
   - start: '2022-11-15'
     kind: decision
-  actions:
-  - type: resolves
-    message: Target Dates change to ISO/TS 23301 ed2
-    dates:
-    - start: '2022-11-15'
-      kind: effective
-  - type: requests
-    message: 'SC4 requests
-
-      its Committee Manager modify the target date for
-
-      Stage 20.20 (Working Draft study initiated) to 2022-11-05.
-
-      Stage 30.00 (Committee draft registered to 2023-03-05
-
-      Stage 60.60 (International Standard published) to 2023-09-01'
-    dates:
-    - start: '2022-11-15'
-      kind: effective
   considerations:
   - type: noting
-    message: 'Noting the progress of the project team that is developing ISO/TS 23301 edition 2 and
-
-      the balance to go in delivering the project as scheduled on 2022-12-01'
+    message: |
+      Noting the progress of the project team that is developing ISO/TS 23301 edition 2 and
+      the balance to go in delivering the project as scheduled on 2022-12-01
     dates:
     - start: '2022-11-15'
       kind: effective
+  actions:
+  - type: requests
+    message: |
+      SC 4 requests its Committee Manager modify the target date for:
+      * Stage 20.20 (Working Draft study initiated) to 2022-11-05
+      * Stage 30.00 (Committee draft registered) to 2023-03-05
+      * Stage 60.60 (International Standard published) to 2023-09-01
+    dates:
+    - start: '2022-11-15'
+      kind: effective
+
 - identifier: '1105'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Moving ISO 14306 to a multipart standard
+  title: Move ISO 14306 to a multipart standard
   dates:
   - start: '2022-11-15'
     kind: decision
-  actions:
-  - type: resolves
-    message: Moving ISO 14306 to a multipart standard
-    dates:
-    - start: '2022-11-15'
-      kind: effective
-  - type: accepts
-    message: 'SC 4 accepts the recommendation of JWG 16 and requests it’s
-
-      Committee Manager coordinate with ISO/CS and designate project id. 85802 as
-
-      ISO/PWI 14306-3 and recognize ISO 14306 as a multi-part standard.'
-    dates:
-    - start: '2022-11-15'
-      kind: effective
   considerations:
   - type: noting
-    message: 'Noting the work conducted by JWG 16 and the ISO/PWI 14306 (project id. 85802)
-
+    message: |
+      Noting the work conducted by JWG 16 and the ISO/PWI 14306 (project id. 85802)
       project team resolving industry requirements to address new capabilities in the ISO
-
-      14306 standard'
+      14306 standard
     dates:
     - start: '2022-11-15'
       kind: effective
+  actions:
+  - type: requests
+    message: |
+      SC 4 accepts the recommendation of JWG 16 and requests its Committee Manager
+      coordinate with ISO/CS and designate project id. 85802 as ISO/PWI 14306-3 and
+      recognize ISO 14306 as a multi-part standard.
+    dates:
+    - start: '2022-11-15'
+      kind: effective
+
 - identifier: '1106'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: AHG 2 Disbandment and NDES TR publication ballot launch
+  title: Disband AHG 2 and launch NDES TR publication ballot
   dates:
   - start: '2022-11-15'
     kind: decision
-  actions:
-  - type: resolves
-    message: AHG 2 Disbandment and NDES TR publication ballot launch
+  considerations:
+  - type: noting
+    message: |
+      Noting the progress made by AHG 2 "Nuclear Digital Ecosystem Specification" and the
+      draft technical report that has been delivered
     dates:
     - start: '2022-11-15'
       kind: effective
-  - type: accepts
-    message: 'SC 4 accepts the draft technical
-
-      report and requests it’s Committee manager to launch a DTR ballot and disbands AHG
-
-      2.'
+  actions:
+  - type: requests
+    message: |
+      SC 4 accepts the draft technical report and requests its Committee manager to launch
+      a DTR ballot.
+    dates:
+    - start: '2022-11-15'
+      kind: effective
+  - type: disbands
+    message: |
+      SC 4 disbands AHG 2.
     dates:
     - start: '2022-11-15'
       kind: effective
   - type: thanks
-    message: 'SC 4 thanks AHG 2 members for their
-
-      work and the fruitful collaboration with ISO/TC 85'
+    message: |
+      SC 4 thanks AHG 2 members for their work and the fruitful collaboration with ISO/TC 85.
     dates:
     - start: '2022-11-15'
       kind: effective
-  considerations:
-  - type: noting
-    message: 'Noting the progress made by AHG 2 “Nuclear Digital Ecosystem Specification” and the
 
-      draft technical report that has been delivered'
-    dates:
-    - start: '2022-11-15'
-      kind: effective
 - identifier: '1107'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Creation of WG 25 with the title “ISO CDD Validation Team”
+  title: Create WG 25 ISO CDD Validation Team
   dates:
   - start: '2022-11-15'
     kind: decision
   actions:
-  - type: resolves
-    message: Creation of WG 25 with the title “ISO CDD Validation Team”
-    dates:
-    - start: '2022-11-15'
-      kind: effective
   - type: approves
-    message: 'SC 4 approves the creation of the WG 25 with the title “ISO CDD Validation Team”
-
-      under the structure of ISO/TC 184/SC 4 and nominates Gernot ROSSI as convenor for
-
-      a 3-year term (until the end of 2025) and Hiroshi MURAYAMA as deputy convenor for a
-
-      3-year term (until the end of 2025). ISO/TC 184/SC 4 Committee Manager is asked to
-
-      take the necessary steps for the establishment of the WG 25 and requests national
-
-      bodies appoint the validation team members to WG 25 through the ISO global directory.'
+    message: |
+      SC 4 approves the creation of the WG 25 with the title "ISO CDD Validation Team"
+      under the structure of ISO/TC 184/SC 4.
     dates:
     - start: '2022-11-15'
       kind: effective
+  - type: nominates
+    message: |
+      SC 4 nominates Gernot ROSSI as convenor for a 3-year term (until the end of 2025)
+      and Hiroshi MURAYAMA as deputy convenor for a 3-year term (until the end of 2025).
+    dates:
+    - start: '2022-11-15'
+      kind: effective
+  - type: asks
+    message: |
+      ISO/TC 184/SC 4 Committee Manager is asked to take the necessary steps for the
+      establishment of the WG 25 and requests national bodies appoint the validation team
+      members to WG 25 through the ISO global directory.
+    dates:
+    - start: '2022-11-15'
+      kind: effective
+
 - identifier: '1108'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Cancellation of ISO 15926-14 DTR
+  title: Cancel the ISO 15926-14 DTR project
   dates:
   - start: '2022-11-15'
     kind: decision
+  considerations:
+  - type: noting
+    message: |
+      Noting the ISO 15926-14 DTR (project id. 75949) no longer is considered useful in the
+      light of the new developments on ISO 15926-14
+    dates:
+    - start: '2022-11-15'
+      kind: effective
+  - type: noting
+    message: |
+      Noting the desire to start a NP for an ISO 15926-14 (IS) and the current lack of full
+      consensus on the NP in WG3
+    dates:
+    - start: '2022-11-15'
+      kind: effective
   actions:
-  - type: resolves
-    message: Cancellation of ISO 15926-14 DTR
-    dates:
-    - start: '2022-11-15'
-      kind: effective
-  - type: resolves
-    message: 'SC 4 will request ISO CS to cancel the
-
-      ISO 15926-14 DTR project'
-    dates:
-    - start: '2022-11-15'
-      kind: effective
-  - type: resolves
-    message: .
+  - type: requests
+    message: |
+      SC 4 will request ISO CS to cancel the ISO 15926-14 DTR project.
     dates:
     - start: '2022-11-15'
       kind: effective
   - type: instructs
-    message: 'SC 4 instructs WG 3 to do a study with the top SC 4
-
-      experts on ISO 15926 and OWL and the project experts on the position of the proposed
-
-      part in ISO 15925 and to examine whether ISO 15926-12 could have been used for
-
-      reasoning on data sets with the same results. The study results should be reported in
-
-      the PPC meeting of Jan 2023.'
+    message: |
+      SC 4 instructs WG 3 to do a study with the top SC 4 experts on ISO 15926 and OWL and
+      the project experts on the position of the proposed part in ISO 15925 and to examine
+      whether ISO 15926-12 could have been used for reasoning on data sets with the same
+      results. The study results should be reported in the PPC meeting of Jan 2023.
     dates:
     - start: '2022-11-15'
       kind: effective
-  considerations:
-  - type: noting
-    message: 'Noting the ISO 15926-14 DTR (project id. 75949) no longer is considered useful in the
 
-      light of the new developments on ISO 15926-14'
-    dates:
-    - start: '2022-11-15'
-      kind: effective
-  - type: noting
-    message: 'Noting the desire to start a NP for an ISO 15926-14 (IS) and the current lack of full
-
-      consensus on the NP in WG3'
-    dates:
-    - start: '2022-11-15'
-      kind: effective
 - identifier: '1109'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Change to project duration of ISO/TS 10303-1848/1849/1850/1851/1852/1853
+  title: Adjust the standards development track of ISO 10303 modules
   dates:
   - start: '2022-11-15'
     kind: decision
-  actions:
-  - type: resolves
-    message: Change to project duration of ISO/TS 10303-1848/1849/1850/1851/1852/1853
-    dates:
-    - start: '2022-11-15'
-      kind: effective
-  - type: resolves
-    message: 'SC 4 resolves to adjust the standards development track of the following ISO
-
-      10303 modules to SDT 36:
-
-      * ISO/AWI TS 10303-1848 (ed.1- id.81490), “Annotated 3d model data quality
-
-      criteria”
-
-      * ISO/AWI TS 10303-1849 (ed.1- id.81491), “Annotated 3d model data quality
-
-      inspection result”
-
-      * ISO/AWI TS 10303-1850 (ed.1- id.81492), “Triangulated shape data quality”
-
-      * ISO/AWI TS 10303-1851 (ed.1- id.81493), “PMI data quality”
-
-      * ISO/AWI TS 10303-1852 (ed.1- id.82033), “Retention period”
-
-
-      * ISO/AWI TS 10303-1853 (ed.1- id.82522), “Datum and datum systems”
-
-      The modules will be published according to the following schedules:
-
-      * ISO 10303-1852 in SMRL v10, publication on 2023-05-31;
-
-      ISO 10303-1848, 1849, 1850, 1851 and 1853 in SMRL v11 publication on 2023-10-15.'
-    dates:
-    - start: '2022-11-15'
-      kind: effective
   considerations:
   - type: noting
-    message: 'Noting the development work of SMRL v9 and the forecast for SMRL v10 and SMRL
-
-      v11'
+    message: |
+      Noting the development work of SMRL v9 and the forecast for SMRL v10 and SMRL v11
     dates:
     - start: '2022-11-15'
       kind: effective
+  actions:
+  - type: resolves
+    message: |
+      SC 4 resolves to adjust the standards development track of the following ISO
+      10303 modules to SDT 36:
+      * ISO/AWI TS 10303-1848 (ed.1- id.81490), "Annotated 3d model data quality criteria"
+      * ISO/AWI TS 10303-1849 (ed.1- id.81491), "Annotated 3d model data quality inspection result"
+      * ISO/AWI TS 10303-1850 (ed.1- id.81492), "Triangulated shape data quality"
+      * ISO/AWI TS 10303-1851 (ed.1- id.81493), "PMI data quality"
+      * ISO/AWI TS 10303-1852 (ed.1- id.82033), "Retention period"
+      * ISO/AWI TS 10303-1853 (ed.1- id.82522), "Datum and datum systems"
+
+      The modules will be published according to the following schedules:
+      * ISO 10303-1852 in SMRL v10, publication on 2023-05-31
+      * ISO 10303-1848, 1849, 1850, 1851 and 1853 in SMRL v11 publication on 2023-10-15
+    dates:
+    - start: '2022-11-15'
+      kind: effective
+
 - identifier: '1110'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Conduct of a CIB for ISO 8000-3
+  title: Initiate a Committee Internal Ballot for ISO 8000-3
   dates:
   - start: '2022-11-15'
     kind: decision
   actions:
   - type: resolves
-    message: Conduct of a CIB for ISO 8000-3
-    dates:
-    - start: '2022-11-15'
-      kind: effective
-  - type: resolves
-    message: 'SC 4 resolves to initiate a CIB that asks the following questions to the members of SC
+    message: |
+      SC 4 resolves to initiate a CIB that asks the following questions to the members of SC 4:
 
-      4.
-
-      1) Do you approve adding a preliminary work item “ISO/PWI 8000-3, Data quality –
-
-      Part 3: Information and data management system: Requirements” with Peter Eales
-
-      as the project leader to the work programme of WG 13 as per the contents of
-
-      ISO/TC 184/SC 4/WG 13/N0982? (responses: yes | no | abstain + allow comments
-
-      via dialog box)
-
+      1) Do you approve adding a preliminary work item "ISO/PWI 8000-3, Data quality --
+         Part 3: Information and data management system: Requirements" with Peter Eales
+         as the project leader to the work programme of WG 13 as per the contents of
+         ISO/TC 184/SC 4/WG 13/N0982? (responses: yes | no | abstain + allow comments via dialog box)
       2) Please provide the name, affiliation and contact details of any of your experts who
-
-      wish to work on this project. (allow comments via dialog box)
-
+         wish to work on this project. (allow comments via dialog box)
       3) Please provide the name and type of any organizations that are based in your
-
-      country and have expressed an interest in the benefits of this proposed MSS. (allow
-
-      comments via dialog box)'
+         country and have expressed an interest in the benefits of this proposed MSS. (allow
+         comments via dialog box)
     dates:
     - start: '2022-11-15'
       kind: effective
   - type: instructs
-    message: 'SC 4 instructs WG 13 to present the proposal for review by the SC 4 Change
-
-      Management Advisory Group before the CIB is initiated by the SC 4 Committee
-
-      Manager.'
+    message: |
+      SC 4 instructs WG 13 to present the proposal for review by the SC 4 Change
+      Management Advisory Group before the CIB is initiated by the SC 4 Committee Manager.
     dates:
     - start: '2022-11-15'
       kind: effective
+
 - identifier: '1111'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: ISO 29002
+  title: Initiate project to develop ISO 29002
   dates:
   - start: '2022-11-15'
     kind: decision
   actions:
   - type: resolves
-    message: ISO 29002
-    dates:
-    - start: '2022-11-15'
-      kind: effective
-  - type: resolves
-    message: 'SC 4 resolves to initiate a project to develop ISO 29002 (Industrial automation systems
-
-      and integration — Exchange of characteristic data). This project has no change in
-
-      scope from the project 78517.
-
-      The project is to begin at Stage 40 and use the SDT18 development track, with the
-
-      target dates: circulation of the enquiry draft on 2023-04-30; publication of the
-
-      International Standard on 2024-04-30'
+    message: |
+      SC 4 resolves to initiate a project to develop ISO 29002 (Industrial automation systems
+      and integration -- Exchange of characteristic data). This project has no change in
+      scope from the project 78517. The project is to begin at Stage 40 and use the SDT18
+      development track, with the target dates: circulation of the enquiry draft on 2023-04-30;
+      publication of the International Standard on 2024-04-30.
     dates:
     - start: '2022-11-15'
       kind: effective
   - type: appoints
-    message: 'SC 4 appoints Peter Eales as project leader and
-
-      invites its P-members and A-liaisons to nominate experts to participate in the project.'
+    message: |
+      SC 4 appoints Peter Eales as project leader and invites its P-members and A-liaisons
+      to nominate experts to participate in the project.
     dates:
     - start: '2022-11-15'
       kind: effective
+
 - identifier: '1112'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Liaison Appointments
+  title: Appoint and recognize liaison representatives for 2022-2025
   dates:
   - start: '2022-11-15'
     kind: decision
-  actions:
-  - type: resolves
-    message: Liaison Appointments
-    dates:
-    - start: '2022-11-15'
-      kind: effective
-  - type: appoints
-    message: 'SC 4 appoints and recognizes the following individuals. The
-
-      appointments are for a three-year term [2022–2025]'
-    dates:
-    - start: '2022-11-15'
-      kind: effective
-  - type: appreciates
-    message: 'SC 4 appreciates the service of all the
-
-      identified individuals. Where indicated, SC 4 requests members to volunteer to fill vacancies.
-
-      Liaison Organization
-
-      Appointment
-
-      ISO/IEC JTC 1
-
-      Christophe Mouton
-
-      ISO/IEC JTC 1/SC 24
-
-      Soonhung Han
-
-      ISO/IEC JTC 1/SC 32
-
-      Sungjoon Lim
-
-      ISO/TC 29
-
-      Bengt Olsson
-
-      ISO/TC 59
-
-      Hiroshi Murayama
-
-      ISO/TC 67
-
-      Nils Sandsmark
-
-      ISO/TC 154
-
-      Hiroshi Murayama
-
-      ISO/TC 211
-
-      Yunsub Lee
-
-      ISO/TC 213
-
-      Atsuto Soma'
-    dates:
-    - start: '2022-11-15'
-      kind: effective
   considerations:
   - type: noting
-    message: 'Noting the importance of Liaison Representatives to effective collaboration with SC 4 in the
-
-      development of standards'
+    message: |
+      Noting the importance of Liaison Representatives to effective collaboration with SC 4 in the
+      development of standards
     dates:
     - start: '2022-11-15'
       kind: effective
+  actions:
+  - type: appoints
+    message: |
+      SC 4 appoints and recognizes the following individuals. The appointments are for a
+      three-year term [2022-2025]:
+
+      |===
+      |Liaison Organization |Appointment
+
+      |ISO/IEC JTC 1 |Christophe Mouton
+      |ISO/IEC JTC 1/SC 24 |Soonhung Han
+      |ISO/IEC JTC 1/SC 32 |Sungjoon Lim
+      |ISO/TC 29 |Bengt Olsson
+      |ISO/TC 59 |Hiroshi Murayama
+      |ISO/TC 67 |Nils Sandsmark
+      |ISO/TC 154 |Hiroshi Murayama
+      |ISO/TC 211 |Yunsub Lee
+      |ISO/TC 213 |Atsuto Soma
+      |===
+    dates:
+    - start: '2022-11-15'
+      kind: effective
+  - type: asks
+    message: |
+      Where indicated, SC 4 requests members to volunteer to fill vacancies.
+    dates:
+    - start: '2022-11-15'
+      kind: effective
+
 - identifier: '1113'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Termination of Liaisons
+  title: Terminate inactive liaison relationships
   dates:
   - start: '2022-11-15'
     kind: decision
-  actions:
-  - type: resolves
-    message: Termination of Liaisons
-    dates:
-    - start: '2022-11-15'
-      kind: effective
-  - type: requests
-    message: 'SC 4 requests its Committee Manager to coordinate with ISO/CS and
-
-      terminate the following liaison relationships.
-
-      REFERENCE
-
-      TITLE
-
-      ISO/IEC JTC 1/SC 31
-
-      Automatic identification and data capture
-
-      techniques
-
-      ISO/TC 10/SC 1
-
-      Basic conventions
-
-      ISO/TC 37
-
-      Language and terminology
-
-      ISO/TC 118
-
-      Compressors and pneumatic tools, machines and
-
-      equipment
-
-      ISO/TC 118/SC 1
-
-      Process compressors
-
-      ISO/TC 171
-
-      Document management applications
-
-      ISO/TC 172
-
-      Optics and photonics
-
-      ISO/TC 172/SC 1
-
-      Fundamental standards
-
-
-      ISO/TC 184/SC 5
-
-      Interoperability, integration, and architectures for
-
-      enterprise systems and automation applications
-
-      ISO/TC 207/SC 5
-
-      Life cycle assessment
-
-      ISO/TC 229
-
-      Nanotechnologies
-
-      Acclamations and Acknowledgements'
-    dates:
-    - start: '2022-11-15'
-      kind: effective
   considerations:
   - type: noting
-    message: 'Noting the analysis of liaisons, and the vacancies in nominated representatives from SC 4 to the
-
-      committees noted below'
+    message: |
+      Noting the analysis of liaisons, and the vacancies in nominated representatives from
+      SC 4 to the committees noted below
     dates:
     - start: '2022-11-15'
       kind: effective
-- identifier: 202211-acclaim-01
+  actions:
+  - type: requests
+    message: |
+      SC 4 requests its Committee Manager to coordinate with ISO/CS and terminate the
+      following liaison relationships:
+
+      |===
+      |REFERENCE |TITLE
+
+      |ISO/IEC JTC 1/SC 31 |Automatic identification and data capture techniques
+      |ISO/TC 10/SC 1 |Basic conventions
+      |ISO/TC 37 |Language and terminology
+      |ISO/TC 118 |Compressors and pneumatic tools, machines and equipment
+      |ISO/TC 118/SC 1 |Process compressors
+      |ISO/TC 171 |Document management applications
+      |ISO/TC 172 |Optics and photonics
+      |ISO/TC 172/SC 1 |Fundamental standards
+      |ISO/TC 184/SC 5 |Interoperability, integration, and architectures for enterprise systems and automation applications
+      |ISO/TC 207/SC 5 |Life cycle assessment
+      |ISO/TC 229 |Nanotechnologies
+      |===
+    dates:
+    - start: '2022-11-15'
+      kind: effective
+
+- identifier: '202211-acclaim-01'
   subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank organizers of the 84th Plenary in Hamamatsu
   dates:
   - start: '2022-11-15'
     kind: decision
   actions:
   - type: thanks
-    message: 'SC 4 expresses its appreciation to the following individuals for organizing the 84th
-
+    message: |
+      SC 4 expresses its appreciation to the following individuals for organizing the 84th
       ISO/TC 184/SC 4 Plenary in Hamamatsu, Japan from 2022-10-30 to 2022-11-04:
 
       (JNC)
-
       * Akihiko Ohtaka
-
       * Atsuto Soma
 
       (MSTC)
-
       * Satoshi Abe
-
       * Kenji Kitayama
-
       * Toshiyuki Shirabe
-
       * Yasunari Fujinuki
 
       (Elysium)
-
       * Mayumi Harakawa
-
       * Kotoe Onoda
-
       * Mark Melendy
-
       * Yushi Shiozaki
 
       Special acknowledgement is extended to the staff at Act City Hamamatsu Congress
-
       Center, the Crown Palais Hotel, and Okura Act City Hotel for their seamless and
-
-      attentive support throughout the week.'
+      attentive support throughout the week.
     dates:
     - start: '2022-11-15'
       kind: decision
-- identifier: 202211-acclaim-02
+
+- identifier: '202211-acclaim-02'
   subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank participants in the SC 4 Open Technical Forum
   dates:
   - start: '2022-11-15'
     kind: decision
   actions:
   - type: thanks
-    message: 'SC 4 expresses its appreciation to the following individuals and organizations for their
-
-      participation in the SC 4 Open Technical Forum
+    message: |
+      SC 4 expresses its appreciation to the following individuals and organizations for their
+      participation in the SC 4 Open Technical Forum:
 
       * Paul van Exel, Convenor, WG 3
-
-
       * Patrick Walsh, Project Co-leader, AP 239
-
-      * Stuart Galt, Convenor, TF 1'
+      * Stuart Galt, Convenor, TF 1
     dates:
     - start: '2022-11-15'
       kind: decision
-- identifier: 202211-acclaim-03
+
+- identifier: '202211-acclaim-03'
   subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank participants and presenters of the SC 4 Plenary Industry Day
   dates:
   - start: '2022-11-15'
     kind: decision
   actions:
   - type: thanks
-    message: 'SC 4 expresses its appreciation to the following individuals and organizations for their
-
+    message: |
+      SC 4 expresses its appreciation to the following individuals and organizations for their
       participation in the SC 4 Plenary Industry Day event:
 
       Akihiko Ohtako and Atsuto Soma, Moderators
 
       Session I:
-
       Presenters:
-
-      • Jean Brange, AFNet Services
-
-      • Takao Senko, Honda Motor Co., Ltd.
+      * Jean Brange, AFNet Services
+      * Takao Senko, Honda Motor Co., Ltd.
 
       Session II:
-
       Presenters:
-
-      • Atsuto Soma, JEITA 3D ISTEC (Elysium Co., Ltd.)
-
-      • Hiroyuki Hiraoka, Chuo University
-
-      • Mikitaka Hayashi, JGC Corporation, DAMA Japan
-
-      • Leo van Ruijven, Adesys
-
-      • Tim King, Babcock International
+      * Atsuto Soma, JEITA 3D ISTEC (Elysium Co., Ltd.)
+      * Hiroyuki Hiraoka, Chuo University
+      * Mikitaka Hayashi, JGC Corporation, DAMA Japan
+      * Leo van Ruijven, Adesys
+      * Tim King, Babcock International
 
       Session III:
-
       Presenters:
-
-      • Sun Lim, Korea Electronics Technology Institute
-
-      • Hiroshi Nishi, LIGHTz Inc.
-
-      • Max Ungerer, PROSTEP AG
-
-      • Kenny Swope, The Boeing Company'
+      * Sun Lim, Korea Electronics Technology Institute
+      * Hiroshi Nishi, LIGHTz Inc.
+      * Max Ungerer, PROSTEP AG
+      * Kenny Swope, The Boeing Company
     dates:
     - start: '2022-11-15'
       kind: decision
-- identifier: 202211-acclaim-04
+
+- identifier: '202211-acclaim-04'
   subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank SC 4 Liaisons for their reports to the 84th Plenary
   dates:
   - start: '2022-11-15'
     kind: decision
   actions:
   - type: thanks
-    message: 'SC 4 expresses its appreciation to our SC 4 Liaisons and their reports provided to the
-
-      84th Plenary.
+    message: |
+      SC 4 expresses its appreciation to our SC 4 Liaisons and their reports provided to the
+      84th Plenary:
 
       * ISO/IEC Joint Task Force on Risk
-
       * ISO/IEC JTC 1/SC 7
-
       * ISO/TC 171/SC 2 written report
-
       * PDES Inc.
-
-
       * NAFEMS
-
       * Small Business Standards
-
       * Khronos
-
       * Web3D Consortium
-
-      * ISO/IEC JTC 1/SC 24'
+      * ISO/IEC JTC 1/SC 24
     dates:
     - start: '2022-11-15'
       kind: decision
-- identifier: 202211-acclaim-05
+
+- identifier: '202211-acclaim-05'
   subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank Nils Sandsmark for organizing the multi-group coordination meeting
   dates:
   - start: '2022-11-15'
     kind: decision
   actions:
   - type: thanks
-    message: 'SC 4 expresses its appreciation to Nils Sandsmark for organizing and facilitating the
-
+    message: |
+      SC 4 expresses its appreciation to Nils Sandsmark for organizing and facilitating the
       multi-group coordination meeting held on 2022-11-01 and to the participants who
-
-      provided technical content to the betterment of SC 4 level harmonization.'
+      provided technical content to the betterment of SC 4 level harmonization.
     dates:
     - start: '2022-11-15'
       kind: decision
-- identifier: 202211-acclaim-06
+
+- identifier: '202211-acclaim-06'
   subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank experts and leaders for the successful hybrid plenary meeting
   dates:
   - start: '2022-11-15'
     kind: decision
   actions:
   - type: thanks
-    message: 'SC 4 expresses its sincere appreciation to all the experts, delegates, and leaders for
-
+    message: |
+      SC 4 expresses its sincere appreciation to all the experts, delegates, and leaders for
       executing our first hybrid plenary meeting successfully while undergoing numerous
-
-      challenges.'
+      challenges.
     dates:
     - start: '2022-11-15'
       kind: decision

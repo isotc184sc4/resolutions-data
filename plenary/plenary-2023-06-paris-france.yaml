@@ -9,592 +9,508 @@ metadata:
 resolutions:
 - identifier: '1114'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Establish ballot duration of new work item proposals.
+  title: Establish 8-week ballot duration for new work item proposals
   dates:
   - start: '2023-06-15'
     kind: decision
   actions:
-  - type: resolves
-    message: Establish ballot duration of new work item proposals
-    dates:
-    - start: '2023-06-15'
-      kind: effective
-  - type: resolves
-    message: .
-    dates:
-    - start: '2023-06-15'
-      kind: effective
   - type: requests
-    message: 'SC 4 requests its Committee Manager to apply the 8-week ballot duration to the
-
+    message: |
+      SC 4 requests its Committee Manager to apply the 8-week ballot duration to the
       following NP ballots:
 
-      Project
+      |===
+      |Project |Approval
 
-      Approval
-
-      ISO/NP 23247-5
-
-      ☒
-
-      ISO/NP 23247-6
-
-      ☒
-
-      ISO/PWI 14306-2
-
-      ☒'
+      |ISO/NP 23247-5 |☒
+      |ISO/NP 23247-6 |☒
+      |ISO/PWI 14306-2 |☒
+      |===
     dates:
     - start: '2023-06-15'
       kind: effective
+
 - identifier: '1115'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Appointment of Convenors and Deputy Convenors
+  title: Appoint Deputy Convenor for WG 3
   dates:
   - start: '2023-06-15'
     kind: decision
-  actions:
-  - type: resolves
-    message: Appointment of Convenors and Deputy Convenors
-    dates:
-    - start: '2023-06-15'
-      kind: effective
-  - type: appoints
-    message: 'SC 4 appoints the
-
-      following Convenors and Deputy Convenors for a three-year term, with appreciation to
-
-      serve in this capacity.
-
-
-      WG
-
-      Role
-
-      Appointment
-
-      WG 3
-
-      Deputy Convenor
-
-      Nils Sandsmark'
-    dates:
-    - start: '2023-06-15'
-      kind: effective
   considerations:
   - type: noting
-    message: 'Noting that continuity of operations and management of work is an important
-
-      consideration to the successful operation of advisory groups'
+    message: |
+      Noting that continuity of operations and management of work is an important
+      consideration to the successful operation of advisory groups
     dates:
     - start: '2023-06-15'
       kind: effective
+  actions:
+  - type: appoints
+    message: |
+      SC 4 appoints the following Deputy Convenor for a three-year term, with appreciation
+      to serve in this capacity:
+
+      |===
+      |WG |Role |Appointment
+
+      |WG 3 |Deputy Convenor |Nils Sandsmark
+      |===
+    dates:
+    - start: '2023-06-15'
+      kind: effective
+
 - identifier: '1116'
   subject: ISO/TC 184/SC 4 "Industrial data"
   title: Create a Task Force for the SC 4 Common Change Process
   dates:
   - start: '2023-06-15'
     kind: decision
-  actions:
-  - type: resolves
-    message: 'Create a Task Force for the SC 4 Common Change Process
-
-      No ting the workshop held on 19 April 2023 by members of the PPC and the
-
+  considerations:
+  - type: noting
+    message: |
+      Noting the workshop held on 19 April 2023 by members of the PPC and the
       recommendations developed as a result of reviewing the procedures for managing
-
-      standards in database format for WG 21, WG 22, WG 23, and JWG 24, SC 4 requests
-
-      its Committee Manager establish a Task Force on the SC 4 Common Change Process
-
-      with the following terms of reference:
-
-      * Create a Committee Specific Procedure for WG 21, WG 22, WG 23, and JWG 24
-
-      that harmonizes the process for maintaining standards as a database and propose
-
-      the procedure to SC 4 for consideration as a standing document,
-
-      * Revise the existing procedures for WG 21 (SC4N2617, SC4N2591), WG 22
-
-      (SC4N2984), WG 23 (SC4N2612), and JWG 24 (SC4N3708) to incorporate the
-
-      proposed Common Change Process and propose to SC 4 for consideration as a
-
-      standing document,
-
-      * Draft/revise user level documents for implementing the Common Change Process
-
-      at the technology application level for each WG, and
-
-      * Update SC4 at each meeting on progress until expected completion in Fall 2024'
+      standards in database format for WG 21, WG 22, WG 23, and JWG 24
     dates:
     - start: '2023-06-15'
       kind: effective
-  - type: resolves
-    message: .
+  actions:
+  - type: requests
+    message: |
+      SC 4 requests its Committee Manager establish a Task Force on the SC 4 Common Change
+      Process with the following terms of reference:
+      * Create a Committee Specific Procedure for WG 21, WG 22, WG 23, and JWG 24
+        that harmonizes the process for maintaining standards as a database and propose
+        the procedure to SC 4 for consideration as a standing document
+      * Revise the existing procedures for WG 21 (SC4N2617, SC4N2591), WG 22
+        (SC4N2984), WG 23 (SC4N2612), and JWG 24 (SC4N3708) to incorporate the
+        proposed Common Change Process and propose to SC 4 for consideration as a
+        standing document
+      * Draft/revise user level documents for implementing the Common Change Process
+        at the technology application level for each WG
+      * Update SC4 at each meeting on progress until expected completion in Fall 2024
     dates:
     - start: '2023-06-15'
       kind: effective
   - type: nominates
-    message: 'SC 4 nominates the following to the Task Force with appreciation for serving on
-
+    message: |
+      SC 4 nominates the following to the Task Force with appreciation for serving on
       this important task:
-
       * Nils Sandsmark
-
       * Jochen Haenisch
-
       * Paul van Exel
-
       * Dr. Tim King (Convenor)
-
       * Hiroshi Murayama
-
-      And invite National Bodies to nominate members to the task force.'
     dates:
     - start: '2023-06-15'
       kind: effective
+  - type: asks
+    message: |
+      SC 4 invites National Bodies to nominate members to the task force.
+    dates:
+    - start: '2023-06-15'
+      kind: effective
+
 - identifier: '1117'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Continuation of ISO/TC 184/SC 4/TF 2 following up on ISO/TR 17999
+  title: Extend the mandate of TF 2 on ISO/TR 17999
   dates:
   - start: '2023-06-15'
     kind: decision
-  actions:
-  - type: resolves
-    message: Continuation of ISO/TC 184/SC 4/TF 2 following up on ISO/TR 17999
-    dates:
-    - start: '2023-06-15'
-      kind: effective
-  - type: resolves
-    message: 'SC 4 concurs with the recommendation of ISO/TC 184/SC 4/TF 2 to extend
-
-      the mandate of TF 2 and add to its terms of reference the following:
-
-      * Build upon the ISO/TR 17999 SC 4 Reference Architecture;
-
-      * Share with other committees, subcommittees and industrial standardisation
-
-      groups the opportunity proposed in ISO/TR 17999 to their standards;
-
-      * Develop a guide (technical report) on how ISO/TR 17999 could assist the
-
-      implementation of computer processable ontologies, terminologies, and the
-
-      activities necessary to manage them;
-
-      * And invite National Bodies to nominate members.'
-    dates:
-    - start: '2023-06-15'
-      kind: effective
   considerations:
   - type: noting
-    message: 'Noting the progress made on ISO/TR 17999 - SC 4 Reference Model for Industrial
-
+    message: |
+      Noting the progress made on ISO/TR 17999 - SC 4 Reference Model for Industrial
       Data and the need to make available the acquired knowledge to the various potential
-
-      users of it'
+      users of it
     dates:
     - start: '2023-06-15'
       kind: effective
+  actions:
+  - type: agrees
+    message: |
+      SC 4 concurs with the recommendation of ISO/TC 184/SC 4/TF 2 to extend
+      the mandate of TF 2 and add to its terms of reference the following:
+      * Build upon the ISO/TR 17999 SC 4 Reference Architecture
+      * Share with other committees, subcommittees and industrial standardisation
+        groups the opportunity proposed in ISO/TR 17999 to their standards
+      * Develop a guide (technical report) on how ISO/TR 17999 could assist the
+        implementation of computer processable ontologies, terminologies, and the
+        activities necessary to manage them
+    dates:
+    - start: '2023-06-15'
+      kind: effective
+  - type: asks
+    message: |
+      SC 4 invites National Bodies to nominate members to TF 2.
+    dates:
+    - start: '2023-06-15'
+      kind: effective
+
 - identifier: '1118'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Create a liaison relationship from ISO/TC 184/SC 4 to ISO/TC 164/SC 1
+  title: Establish liaisons to ISO/TC 164/SC 1 and ISO/TC 213
   dates:
   - start: '2023-06-15'
     kind: decision
-  actions:
-  - type: resolves
-    message: Create a liaison relationship from ISO/TC 184/SC 4 to ISO/TC 164/SC 1
+  considerations:
+  - type: noting
+    message: |
+      Noting the need to collaborate with ISO/TC 164/SC 1
     dates:
     - start: '2023-06-15'
       kind: effective
+  actions:
   - type: requests
-    message: 'SC 4 requests its Committee
-
-      Manager establish a liaison to ISO/TC 164/SC 1 and appoints David Leal to serve as
-
-      liaison representative for a three-year term [2023–2026], with appreciation for his offer
-
-      to serve in that capacity.
+    message: |
+      SC 4 requests its Committee Manager establish a liaison to ISO/TC 164/SC 1.
+    dates:
+    - start: '2023-06-15'
+      kind: effective
+  - type: appoints
+    message: |
+      SC 4 appoints David Leal to serve as liaison representative for a three-year term
+      [2023-2026], with appreciation for his offer to serve in that capacity.
 
       In addition, SC 4 appoints Tom Thurman as a liaison representative from ISO/TC
-
-      184/SC 4 to ISO/TC 213 for a three-year term [2023–2026], with appreciation for his
-
-      offer to serve in that capacity.'
+      184/SC 4 to ISO/TC 213 for a three-year term [2023-2026], with appreciation for his
+      offer to serve in that capacity.
     dates:
     - start: '2023-06-15'
       kind: effective
-  considerations:
-  - type: noting
-    message: Noting the need to collaborate with ISO/TC 164/SC 1
-    dates:
-    - start: '2023-06-15'
-      kind: effective
+
 - identifier: '1119'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: ISO/DIS 29002 change to SDT 36 months
+  title: Change ISO/DIS 29002 target dates and assign to SDT 36
   dates:
   - start: '2023-06-15'
     kind: decision
   actions:
   - type: resolves
-    message: ISO/DIS 29002 change to SDT 36 months
-    dates:
-    - start: '2023-06-15'
-      kind: effective
-  - type: resolves
-    message: 'SC 4 resolves to assign ISO 29002 (Industrial automation systems and integration —
-
+    message: |
+      SC 4 resolves to assign ISO 29002 (Industrial automation systems and integration --
       Exchange of characteristic data) to the SDT 36 development track, with the target
-
       dates: circulation of the enquiry draft on 2023-07-31; publication of the International
-
-      Standard on 2024-07-31.'
+      Standard on 2024-07-31.
     dates:
     - start: '2023-06-15'
       kind: effective
+
 - identifier: '1120'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Launch ISO/NP Automation systems and integration -- Ontology-based interoperab...
+  title: Launch ISO/NP Ontology-based interoperability and create WG 26
   dates:
   - start: '2023-06-15'
     kind: decision
+  considerations:
+  - type: noting
+    message: |
+      Noting the proposal from Standard Norge (SN) for a new multi part standard
+    dates:
+    - start: '2023-06-15'
+      kind: effective
   actions:
-  - type: resolves
-    message: Launch ISO/NP Automation systems and integration -- Ontology-based interoperability
+  - type: requests
+    message: |
+      ISO/TC 184/SC 4 requests its Committee Manager launch ISO/NP Automation systems and
+      integration -- Ontology-based interoperability with an eight-week ballot duration.
     dates:
     - start: '2023-06-15'
       kind: effective
-  - type: resolves
-    message: 'Noting the proposal from Standard Norge (SN) for a new multi part standard, ISO/TC
-
-
-      184/SC 4:
-
-      * Requests its Committee Manager launch ISO/NP Automation systems and
-
-      integration -- Ontology-based interoperability with an eight-week ballot duration;
-
-      * Create a Work Group entitled WG 26 “Ontology-based interoperability” to:
-
-      o Develop and maintain ISO xxxxx: “Automation systems and integration -
-
-      Ontology-based interoperability,”
-
-      o Develop and maintain guidance for the implementation and use of the
-
-      standard series,
-
-      o Develop and maintain detailed specifications for integration and re-use of
-
-      existing reference data libraries and ontologies using the standard series,
-
-      * Requests WG 26 to work in close cooperation with WG 3, WG 12, WG 15, WG
-
+  - type: creates
+    message: |
+      ISO/TC 184/SC 4 creates a Work Group entitled WG 26 "Ontology-based interoperability" to:
+      * Develop and maintain ISO xxxxx: "Automation systems and integration -
+        Ontology-based interoperability"
+      * Develop and maintain guidance for the implementation and use of the standard series
+      * Develop and maintain detailed specifications for integration and re-use of
+        existing reference data libraries and ontologies using the standard series
+    dates:
+    - start: '2023-06-15'
+      kind: effective
+  - type: requests
+    message: |
+      ISO/TC 184/SC 4 requests WG 26 to work in close cooperation with WG 3, WG 12, WG 15, WG
       21, and WG 22 to align with, reuse and complement their existing standards, and
-
-      avoid overlaps and conflicts with ISO 10303, ISO 15926, and ISO 23247 and other'
+      avoid overlaps and conflicts with ISO 10303, ISO 15926, and ISO 23247 and other SC 4 standards.
     dates:
     - start: '2023-06-15'
       kind: effective
-  - type: resolves
-    message: 'SC 4 standards,
-
-      * Nominates Pål Rylandsholm as convener of the work group, and
-
-      * Invites member bodies to nominate additional members to the work group.'
+  - type: nominates
+    message: |
+      ISO/TC 184/SC 4 nominates Pål Rylandsholm as convener of the work group.
     dates:
     - start: '2023-06-15'
       kind: effective
+  - type: asks
+    message: |
+      ISO/TC 184/SC 4 invites member bodies to nominate additional members to the work group.
+    dates:
+    - start: '2023-06-15'
+      kind: effective
+
 - identifier: '1121'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Launch ISO/TR -- Automation systems and integration - Core terminology for ind...
+  title: Ballot ISO/TR on Core terminology for industrial data
   dates:
   - start: '2023-06-15'
     kind: decision
-  actions:
-  - type: resolves
-    message: 'Launch ISO/TR -- Automation systems and integration - Core terminology for industrial
-
-      data'
+  considerations:
+  - type: noting
+    message: |
+      Noting the report from ISO/TC 184/SC 4/AhG 1 - Core industrial data set of terms, and
+      the decision taken in Resolution 1068
     dates:
     - start: '2023-06-15'
       kind: effective
-  - type: resolves
-    message: 'Noting the report from ISO/TC 184/SC 4/AhG 1 - Core industrial data set of terms, and
-
-      the decision taken in Resolution 1068, ISO/TC 184/SC 4 requests its Committee
-
-      Manager to ballot AG 3/N2 “Automation systems and integration - Core terminology for
-
-      industrial data” as a DTR'
+  actions:
+  - type: requests
+    message: |
+      ISO/TC 184/SC 4 requests its Committee Manager to ballot AG 3/N2 "Automation systems
+      and integration - Core terminology for industrial data" as a DTR.
     dates:
     - start: '2023-06-15'
       kind: effective
   - type: nominates
-    message: SC 4 nominates David Leal as project leader.
+    message: |
+      SC 4 nominates David Leal as project leader.
     dates:
     - start: '2023-06-15'
       kind: effective
+
 - identifier: '1122'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Change ISO/TS 23301 ed2 to SDT 24
+  title: Change ISO/TS 23301 ed2 to SDT 24 and adjust target date
   dates:
   - start: '2023-06-15'
     kind: decision
-  actions:
-  - type: resolves
-    message: Change ISO/TS 23301 ed2 to SDT 24
-    dates:
-    - start: '2023-06-15'
-      kind: effective
-  - type: requests
-    message: 'SC4 requests its Committee Manager to set the SDT
-
-      at 24 and adjust the target date for Stage 60.60 (International Standard published) to
-
-      2024-03-01.'
-    dates:
-    - start: '2023-06-15'
-      kind: effective
   considerations:
   - type: noting
-    message: 'Noting the progress of the project team developing ISO/TS 23301 edition 2 and the
-
+    message: |
+      Noting the progress of the project team developing ISO/TS 23301 edition 2 and the
       submission of the document to ISO for FDIS ballot on 2023-06-12, and the concern that
-
-      a second FDIS may be required'
+      a second FDIS may be required
     dates:
     - start: '2023-06-15'
       kind: effective
+  actions:
+  - type: requests
+    message: |
+      SC 4 requests its Committee Manager to set the SDT at 24 and adjust the target date
+      for Stage 60.60 (International Standard published) to 2024-03-01.
+    dates:
+    - start: '2023-06-15'
+      kind: effective
+
 - identifier: '1123'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Start of a PWI for an amendment of ISO 13584-501
+  title: Start a PWI for an amendment of ISO 13584-501
   dates:
   - start: '2023-06-15'
     kind: decision
+  considerations:
+  - type: noting
+    message: |
+      Noting that:
+      * WG 25 embodies the ISO Validation Team for Change Requests that uses the CSP
+        that is already installed
+      * WG 25 already started processing of the first CR on ICS (International Classification
+        for Standards) submitted by Japan National Committee for ISO TC 184/SC 4, on June 13, 2023
+      * There is a strong request from ISO/CS to formally and substantial restore the lost
+        content of the ISO 13584-501 RA
+    dates:
+    - start: '2023-06-15'
+      kind: effective
   actions:
-  - type: resolves
-    message: Start of a PWI for an amendment of ISO 13584-501
-    dates:
-    - start: '2023-06-15'
-      kind: effective
-  - type: resolves
-    message: 'Noting that:
-
-      - WG 25 embodies the ISO Validation Team for Change Requests that uses the CSP
-
-      that is already installed, and;
-
-      - WG 25 already started processing of the first CR on ICS (International Classification
-
-      for Standards) submitted by Japan National Committee for ISO TC 184/SC 4, on June
-
-      13, 2023 and;
-
-      - There is a strong request from ISO/CS to formally and substantial restore the lost
-
-      content of the ISO 13584-501 RA; ISO TC 184/SC 4 supports the start of preliminary
-
-      work item for publishing an amendment on ISO 13584-501 with an aim to replace the
-
-      maintenance procedure described in the standard based on RA with the CSP for CDD'
-    dates:
-    - start: '2023-06-15'
-      kind: effective
-  - type: resolves
-    message: .
+  - type: supports
+    message: |
+      ISO/TC 184/SC 4 supports the start of preliminary work item for publishing an amendment
+      on ISO 13584-501 with an aim to replace the maintenance procedure described in the
+      standard based on RA with the CSP for CDD.
     dates:
     - start: '2023-06-15'
       kind: effective
   - type: nominates
-    message: SC 4 nominates Hiroshi Murayama as project leader.
+    message: |
+      SC 4 nominates Hiroshi Murayama as project leader.
     dates:
     - start: '2023-06-15'
       kind: effective
+
 - identifier: '1124'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Skip CD and proceed to DIS ballot for ISO 14306-1
+  title: Skip CD ballot and proceed to DIS ballot for ISO 14306-1
   dates:
   - start: '2023-06-15'
     kind: decision
-  actions:
-  - type: resolves
-    message: Skip CD and proceed to DIS ballot for ISO 14306-1
-    dates:
-    - start: '2023-06-15'
-      kind: effective
-  - type: resolves
-    message: 'SC4 resolves to skip the CD ballot
-
-      (stage 30.0) and move directly to a DIS ballot (Stage 40.0).'
-    dates:
-    - start: '2023-06-15'
-      kind: effective
   considerations:
   - type: recalling
-    message: 'Recalling Annex SS of the ISO/IEC Directives Part 1, and noting the consensus found in
-
+    message: |
+      Recalling Annex SS of the ISO/IEC Directives Part 1, and noting the consensus found in
       JWG 16 during the comments resolution process of ISO/WD 14306-1 and that the
-
-      resulting draft is estimated to have a DIS maturity'
+      resulting draft is estimated to have a DIS maturity
     dates:
     - start: '2023-06-15'
       kind: effective
+  actions:
+  - type: resolves
+    message: |
+      SC 4 resolves to skip the CD ballot (stage 30.0) and move directly to a DIS ballot
+      (Stage 40.0).
+    dates:
+    - start: '2023-06-15'
+      kind: effective
+
 - identifier: '1125'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Create a liaison relationship from ISO/TC 184/SC 4 to ISO/TC 268
+  title: Establish a liaison relationship to ISO/TC 268
   dates:
   - start: '2023-06-15'
     kind: decision
-  actions:
-  - type: resolves
-    message: Create a liaison relationship from ISO/TC 184/SC 4 to ISO/TC 268
-    dates:
-    - start: '2023-06-15'
-      kind: effective
-  - type: requests
-    message: 'SC 4 requests its Committee Manager
-
-      establish a liaison to ISO/TC 268 and appoints Yunsub Lee to serve as liaison
-
-      representative for a three-year term [2023–2026], with appreciation for his offer to
-
-      serve in that capacity.
-
-      Acclamations and Acknowledgements'
-    dates:
-    - start: '2023-06-15'
-      kind: effective
   considerations:
   - type: noting
-    message: Noting the need to collaborate with ISO/TC 268
+    message: |
+      Noting the need to collaborate with ISO/TC 268
     dates:
     - start: '2023-06-15'
       kind: effective
-- identifier: 202306-acclaim-01
+  actions:
+  - type: requests
+    message: |
+      SC 4 requests its Committee Manager establish a liaison to ISO/TC 268.
+    dates:
+    - start: '2023-06-15'
+      kind: effective
+  - type: appoints
+    message: |
+      SC 4 appoints Yunsub Lee to serve as liaison representative for a three-year term
+      [2023-2026], with appreciation for his offer to serve in that capacity.
+    dates:
+    - start: '2023-06-15'
+      kind: effective
+
+- identifier: '202306-acclaim-01'
   subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank organizers of the 85th Plenary in Paris
   dates:
   - start: '2023-06-15'
     kind: decision
   actions:
   - type: thanks
-    message: 'SC 4 expresses its appreciation to the following individuals for organizing the 85th
-
+    message: |
+      SC 4 expresses its appreciation to the following individuals for organizing the 85th
       ISO/TC 184/SC 4 Plenary in Paris, France from 2023-06-11 to 2023-06-17:
 
       AFNOR
-
-
-      * Franck LEBEUGLE,
-
+      * Franck LEBEUGLE
       * Stéphane MOULIERE
-
       * Mélissa DE MEDEIROS
-
       * Nathalie DA SILVA
-
       * Arthur RIBEMONT
 
       Special acknowledgement is extended to all the staff at AFNOR for their seamless and
-
-      attentive support throughout the week.'
+      attentive support throughout the week.
     dates:
     - start: '2023-06-15'
       kind: decision
-- identifier: 202306-acclaim-02
+
+- identifier: '202306-acclaim-02'
   subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank the French organization team AFNOR/CP IDMI
   dates:
   - start: '2023-06-15'
     kind: decision
   actions:
   - type: thanks
-    message: 'The French organization team representing the French ISO/TC 184/SC 4 mirror
+    message: |
+      SC 4 expresses its appreciation to the French organization team representing the French
+      ISO/TC 184/SC 4 mirror committee, AFNOR/CP IDMI:
 
-      committee, AFNOR/CP IDMI:
-
-      Patrick LAMBOLEY, Schneider Electric
-
-      Christophe MOUTON, EDF'
+      * Patrick LAMBOLEY, Schneider Electric
+      * Christophe MOUTON, EDF
     dates:
     - start: '2023-06-15'
       kind: decision
-- identifier: 202306-acclaim-03
+
+- identifier: '202306-acclaim-03'
   subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank EDF Lab for hosting the Digital transformation symposium
   dates:
   - start: '2023-06-15'
     kind: decision
   actions:
   - type: thanks
-    message: 'The Digital transformation ISO/TC 184 symposium host at EDF Lab in Saclay:
+    message: |
+      SC 4 expresses its appreciation to the Digital transformation ISO/TC 184 symposium
+      host at EDF Lab in Saclay:
 
-      * Pascal TERRIEN, EDF'
+      * Pascal TERRIEN, EDF
     dates:
     - start: '2023-06-15'
       kind: decision
-- identifier: 202306-acclaim-04
+
+- identifier: '202306-acclaim-04'
   subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank facilitators of the super-meeting workshops
   dates:
   - start: '2023-06-15'
     kind: decision
   actions:
   - type: thanks
-    message: 'SC 4 expresses its appreciation to the following individuals for organizing and facilitating
-
-      three informative workshops for this super-meeting;
+    message: |
+      SC 4 expresses its appreciation to the following individuals for organizing and facilitating
+      three informative workshops for this super-meeting:
 
       * Martin Hardwick - Industrial Implementation Forum
-
       * Véronique Dubillot - Quality and Standards Development
-
-      * Kenny Swope - Digital Twin Roadmap'
+      * Kenny Swope - Digital Twin Roadmap
     dates:
     - start: '2023-06-15'
       kind: decision
-- identifier: 202306-acclaim-05
+
+- identifier: '202306-acclaim-05'
   subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank SC 4 Liaisons for their reports to the 85th Plenary
   dates:
   - start: '2023-06-15'
     kind: decision
   actions:
   - type: thanks
-    message: 'SC 4 expresses its appreciation to our SC 4 Liaisons and their reports provided to the
-
-      85th Plenary.'
+    message: |
+      SC 4 expresses its appreciation to our SC 4 Liaisons and their reports provided to the
+      85th Plenary.
     dates:
     - start: '2023-06-15'
       kind: decision
-- identifier: 202306-acclaim-06
+
+- identifier: '202306-acclaim-06'
   subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank Nils Sandsmark for organizing the multi-group coordination meeting
   dates:
   - start: '2023-06-15'
     kind: decision
   actions:
   - type: thanks
-    message: 'SC 4 expresses its appreciation to Nils Sandsmark for organizing and facilitating the
-
-
+    message: |
+      SC 4 expresses its appreciation to Nils Sandsmark for organizing and facilitating the
       multi-group coordination meeting held on 2023-06-13 and to the participants who
-
-      provided technical content to the betterment of SC 4 level harmonization.'
+      provided technical content to the betterment of SC 4 level harmonization.
     dates:
     - start: '2023-06-15'
       kind: decision
-- identifier: 202306-acclaim-07
+
+- identifier: '202306-acclaim-07'
   subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank experts and leaders for the successful hybrid plenary meeting
   dates:
   - start: '2023-06-15'
     kind: decision
   actions:
   - type: thanks
-    message: 'SC 4 expresses its sincere appreciation to all the experts, delegates, and leaders for
-
+    message: |
+      SC 4 expresses its sincere appreciation to all the experts, delegates, and leaders for
       executing our hybrid plenary meeting successfully while undergoing numerous
-
-      challenges.'
+      challenges.
     dates:
     - start: '2023-06-15'
       kind: decision

@@ -9,280 +9,198 @@ metadata:
 resolutions:
 - identifier: '523'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Leadership and Editorship Approvals
+  title: Approve new project leaders and editors
   dates:
   - start: '2002-03-15'
     kind: decision
   actions:
-  - type: resolves
-    message: SC 4 Project Leadership and Editorship Approvals
+  - type: approves
+    message: |
+      SC 4 approves the following new project leaders or project editors for the associated SC 4 projects:
+
+      |===
+      |Project |Leader |Editor
+
+      |ISO 10303-28e2 |Joe Trausch |Thomas Liebich
+      |ISO 10303-51 |David Leal |
+      |ISO 10303-236 |Ms. Maria José Nuñez |
+      |ISO 13584-25 |(CO) Guy Pierra |
+      |20542 Systems Engineering PAS |Phil Spiby |
+      |===
     dates:
     - start: '2002-03-15'
       kind: effective
-  - type: approves
-    message: 'SC 4 approves the following new project leaders or project editors for the associated SC 4 projects:
-
-      Project
-
-      Leader
-
-      Editor
-
-      ISO 10303-28e2
-
-      Joe Trausch Thomas
-
-      Liebich ISO 10303-51
-
-      David Leal
-
-      ISO 10303-236
-
-      Ms. Maria José Nuñez
-
-      ISO 13584-25
-
-      (CO) Guy Pierra
-
-      20542 Systems Engineering PAS
-
-      Phil Spiby'
 - identifier: '524'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: CD Ballot Period for Second and Subsequent Editions
+  title: Permit three-month ballot cycle for CD and TS ballots
   dates:
   - start: '2002-03-15'
     kind: decision
   actions:
-  - type: resolves
-    message: CD Ballot Period for Second and Subsequent Editions
-    dates:
-    - start: '2002-03-15'
-      kind: effective
   - type: directs
-    message: 'SC 4 directs the PPC to modify the SC 4 Handbook and the appropriate guidelines to
-
-      permit a three-month ballot cycle for the CD and TS ballots of SC 4 standards.  A
-
+    message: |
+      SC 4 directs the PPC to modify the SC 4 Handbook and the appropriate guidelines to
+      permit a three-month ballot cycle for the CD and TS ballots of SC 4 standards. A
       longer ballot period may be requested by any P-member, the Convenor or the project
-
-      leader.'
+      leader.
     dates:
     - start: '2002-03-15'
       kind: effective
 - identifier: '525'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Appointment of David Loffredo as Convenor of WG 11
+  title: Appoint David Loffredo as WG 11 Convenor
   dates:
   - start: '2002-03-15'
     kind: decision
   actions:
-  - type: resolves
-    message: Appointment of David Loffredo as Convenor of WG 11
-    dates:
-    - start: '2002-03-15'
-      kind: effective
   - type: appoints
-    message: 'SC 4 appoints David Loffredo to serve as Convenor of its Working Group 11 for a
-
-      period of three years.'
+    message: |
+      SC 4 appoints David Loffredo to serve as Convenor of its Working Group 11 for a
+      period of three years.
     dates:
     - start: '2002-03-15'
       kind: effective
 - identifier: '526'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Ballot Comment Resolution for Technical Specifications
+  title: Establish comment resolution procedure for Technical Specifications
   dates:
   - start: '2002-03-15'
     kind: decision
   actions:
-  - type: resolves
-    message: Ballot Comment Resolution for Technical Specifications
-    dates:
-    - start: '2002-03-15'
-      kind: effective
   - type: agrees
-    message: 'SC 4 agrees that the following procedure shall be applied to the resolution of
-
+    message: |
+      SC 4 agrees that the following procedure shall be applied to the resolution of
       comments submitted against successful Technical Specification ballots.
 
       1) Resolution of comments shall be agreed with the originators, where possible.
 
       2) The revised document incorporating the agreed comment resolutions shall be
-
       circulated within the development team and to the commentors for internal review to
-
       ensure agreement before signoff by the Convenor.
 
       3) If the Convenor, in conjunction with the Project Leader, considers that the revised
-
       document contains significant change, other than corrections to the use of English,
-
       the document shall be passed to the Secretariat for a confirmatory four-week ballot.
 
       This procedure is effective immediately, and SC 4 requests the Change Management
-
       Committee to prepare an advance resolution for the June 2002 meeting to make the
-
-      necessary changes to the SC 4 Handbook.'
+      necessary changes to the SC 4 Handbook.
     dates:
     - start: '2002-03-15'
       kind: effective
 - identifier: '527'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Integrated Manufacturing Task Force
+  title: Accept IMTF report and disband task force
   dates:
   - start: '2002-03-15'
     kind: decision
   actions:
-  - type: resolves
-    message: Integrated Manufacturing Task Force
-    dates:
-    - start: '2002-03-15'
-      kind: effective
   - type: accepts
-    message: 'SC 4 accepts the Report of the Integrated Manufacturing Task Force (IMTF) including
-
+    message: |
+      SC 4 accepts the Report of the Integrated Manufacturing Task Force (IMTF) including
       all the correlating documents presented, and requests its Secretariat to circulate the
-
-      final results to P-members'
+      final results to P-members.
     dates:
     - start: '2002-03-15'
       kind: effective
-  - type: resolves
-    message: .
+  - type: asks
+    message: |
+      SC 4 invites the submission of appropriate PWI and NWI to address the requirements
+      identified in the report.
     dates:
     - start: '2002-03-15'
       kind: effective
-  - type: resolves
-    message: .
-    dates:
-    - start: '2002-03-15'
-      kind: effective
-  - type: investigates
-    message: 'SC 4 invites the submission of appropriate PWI and NWI to address the requirements
-
-      identified in the report.'
-    dates:
-    - start: '2002-03-15'
-      kind: effective
-  - type: thanks
-    message: 'SC 4 thanks the IMTF and its Chairman, Professor Takeshi Kishinami, for all their
-
+  - type: disbands
+    message: |
+      SC 4 thanks the IMTF and its Chairman, Professor Takeshi Kishinami, for all their
       efforts in presenting such a detailed overview, and disbands the Integrated
-
-      Manufacturing Task Force'
+      Manufacturing Task Force.
     dates:
     - start: '2002-03-15'
       kind: effective
 - identifier: '528'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: ISO/TC 10/SC 1 Request for Clarification in ISO 3098
+  title: Present ISO 3098 clarifications to ISO/TC 10/SC 1
   dates:
   - start: '2002-03-15'
     kind: decision
   actions:
-  - type: resolves
-    message: 'ISO/TC 10/SC 1 Request for Clarification in ISO 3098
-
-
+  - type: requests
+    message: |
       ISO/TC 184/SC 4 requests that the ISO/TC 10/SC 1 Liaison representative present
-
       the ISO 3098 clarifications identified in ISO/TC 184/SC 4/WG 12 N1016 for
-
-      consideration at the next ISO/TC 10/SC 1 meeting.'
-    dates:
-    - start: '2002-03-15'
-      kind: effective
-- identifier: '529'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Appreciations
-  dates:
-  - start: '2002-03-15'
-    kind: decision
-  actions:
-  - type: resolves
-    message: Appreciations
+      consideration at the next ISO/TC 10/SC 1 meeting.
     dates:
     - start: '2002-03-15'
       kind: effective
 - identifier: 200203-acclaim-01
   subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank US Pro and Wyndham Myrtle Beach Resort
   dates:
   - start: '2002-03-15'
     kind: decision
   actions:
   - type: thanks
-    message: 'SC 4 expresses its deep appreciation to US Pro and the staff of the Wyndham Myrtle
-
+    message: |
+      SC 4 expresses its deep appreciation to US Pro and the staff of the Wyndham Myrtle
       Beach Resort for their efforts in organizing this meeting, arranging the facilities,
-
-      excellent food, computer facilities and social events.  SC 4 also expresses its
-
+      excellent food, computer facilities and social events. SC 4 also expresses its
       appreciation for their hospitality and outstanding support before, during, and after the
-
       meeting.
 
       SC 4 addresses a special recognition to Chuck Stark, Sarah Hartline Martha Graham
-
       of NIST for their hospitality, outstanding support, and patience both before and during
-
-      the ISO/TC 184/SC 4 meeting.'
+      the ISO/TC 184/SC 4 meeting.
     dates:
     - start: '2001-10-15'
       kind: decision
 - identifier: 200203-acclaim-02
   subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank ISO/TC 184/SC 1 Chairman and Liaison Presenters
   dates:
   - start: '2002-03-15'
     kind: decision
   actions:
   - type: thanks
-    message: 'SC 4 expresses its deep appreciation to Mr. Peter Müller, Chairman ISO/TC 184/SC
-
+    message: |
+      SC 4 expresses its deep appreciation to Mr. Peter Müller, Chairman ISO/TC 184/SC
       1, for his participation.
 
-      Appreciation to our SC 4 Liaison Presenters
-
       SC 4 expresses a special thank you to our the SC 4 Liaison Plenary presenters Peter
-
       Müller, Francois Grobler, Norman Andersen, Phil Spiby, Bill Anderson, Matthew West,
-
-      and Jochen Hænisch for their insightful and comprehensive presentations.'
+      and Jochen Hænisch for their insightful and comprehensive presentations.
     dates:
     - start: '2001-10-15'
       kind: decision
 - identifier: 200203-acclaim-03
   subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank participants for their outstanding contributions
   dates:
   - start: '2002-03-15'
     kind: decision
   actions:
   - type: thanks
-    message: 'SC 4 expresses its appreciation to those who participated for their outstanding
-
-      contributions and professionalisms this week to the work of ISO/TC 184/SC 4.'
+    message: |
+      SC 4 expresses its appreciation to those who participated for their outstanding
+      contributions and professionalisms this week to the work of ISO/TC 184/SC 4.
     dates:
     - start: '2001-10-15'
       kind: decision
 - identifier: 200203-acclaim-04
   subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Congratulate Tim Turner and Christy Haas on their wedding
   dates:
   - start: '2002-03-15'
     kind: decision
   actions:
   - type: thanks
-    message: 'SC 4 wishes to congratulate Tim Turner (WG 3/T23 - Shipbuilding) and Christy Haas
-
-      on their wedding last November.  SC 4 is delighted to have provided the opportunity
-
+    message: |
+      SC 4 wishes to congratulate Tim Turner (WG 3/T23 - Shipbuilding) and Christy Haas
+      on their wedding last November. SC 4 is delighted to have provided the opportunity
       for the happy couple to meet and grow their love during the period that Christy was
-
-      working with US PRO and providing support to SC 4 and associated meetings.  SC 4
-
+      working with US PRO and providing support to SC 4 and associated meetings. SC 4
       wishes Tim and Christy a long and blossoming marriage as they make their home in
-
-      Charleston, SC. (picture in Annex A of Myrtle Beach SC 4 Minutes)'
+      Charleston, SC. (picture in Annex A of Myrtle Beach SC 4 Minutes)
     dates:
     - start: '2001-10-15'
       kind: decision

@@ -1,4 +1,3 @@
-# yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
 metadata:
   title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Greenville, United States, October 21, 1994 -- October 31, 1994
   dates:
@@ -10,438 +9,378 @@ metadata:
 resolutions:
 - identifier: '211'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: of a project shall become effective four months after date of action
+  title: Define effective date for project cancellation
   dates:
   - start: '1994-10-15'
     kind: decision
   actions:
   - type: resolves
-    message: 'SC 4 cancellation of a project shall become effective four months after date of action
-
+    message: |
+      SC 4 cancellation of a project shall become effective four months after date of action
       unless a project leader and resources are brought forth to the Secretariat in
-
-      conformance with ISO new work item procedures.'
+      conformance with ISO new work item procedures.
     dates:
     - start: '1994-10-15'
       kind: effective
 - identifier: '212'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: cancel project 16, Integrated Generic Resources on Form Features
+  title: Cancel project 16 due to lack of activity
   dates:
   - start: '1994-10-15'
     kind: decision
   actions:
-  - type: agrees
-    message: 'SC 4 agrees to cancel project 16, Integrated Generic Resources on Form Features
-
-      10303-48, due to lack of activity.'
+  - type: resolves
+    message: |
+      SC 4 agrees to cancel project 16, Integrated Generic Resources on Form Features
+      10303-48, due to lack of activity.
     dates:
     - start: '1994-10-15'
       kind: effective
 - identifier: '213'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: cancel project 60, Application Protocol on Dimensional Inspection
+  title: Cancel project 60 and corresponding ATS due to lack of activity
   dates:
   - start: '1994-10-15'
     kind: decision
   actions:
-  - type: agrees
-    message: 'SC 4 agrees to cancel project 60, Application Protocol on Dimensional Inspection
-
+  - type: resolves
+    message: |
+      SC 4 agrees to cancel project 60, Application Protocol on Dimensional Inspection
       Process Planning for Coordinate Measuring Machines 10303-219, and its
-
-      corresponding ATS, 10303-1219, due to lack of activity.'
+      corresponding ATS, 10303-1219, due to lack of activity.
     dates:
     - start: '1994-10-15'
       kind: effective
 - identifier: '214'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: cancel projects 41 and 73, Application Protocol on Mechanical Design
+  title: Cancel projects 41 and 73 due to lack of activity
   dates:
   - start: '1994-10-15'
     kind: decision
   actions:
-  - type: agrees
-    message: 'SC 4 agrees to cancel projects 41 and 73, Application Protocol on Mechanical Design
-
-      Using Wireframe Representation, 10303-206, and its corresponding ATS, 10303-
-
-      1206, due to lack of activity.'
+  - type: resolves
+    message: |
+      SC 4 agrees to cancel projects 41 and 73, Application Protocol on Mechanical Design
+      Using Wireframe Representation, 10303-206, and its corresponding ATS, 10303-1206,
+      due to lack of activity.
     dates:
     - start: '1994-10-15'
       kind: effective
 - identifier: '215'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: its Secretariat to add to its program of work a project titled "Revision to the
+  title: Add revision to EXPRESS Language Reference Manual to work program
   dates:
   - start: '1994-10-15'
     kind: decision
   actions:
   - type: directs
-    message: 'SC 4 directs its Secretariat to add to its program of work a project titled "Revision to the
-
+    message: |
+      SC 4 directs its Secretariat to add to its program of work a project titled "Revision to the
       EXPRESS Language Reference Manual ISO 10303-11". Further, SC 4 confirms Dr.
-
-      Phil Spiby as Project Leader.  PMAG notes that this project was approved by PMAG
-
+      Phil Spiby as Project Leader. PMAG notes that this project was approved by PMAG
       at the Atlanta meeting.
-
+      
       In order to gain broad awareness and participation in this project, SC 4 directs the
-
       Project Leader to prepare a formal scope statement for the project (similar to the one
-
       on the New Work Item form) and a full list of requirements for the revision, to be
-
       delivered to the Secretariat by January 1995 for circulation to all SC 4 Members and
-
-      organizations in liaison with SC 4.'
+      organizations in liaison with SC 4.
     dates:
     - start: '1994-10-15'
       kind: effective
 - identifier: '216'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: ISO/TC 184/SC 4 recognizes the need to promote the introduction of STEP into
+  title: Request investigation into organizational framework for STEP implementations
   dates:
   - start: '1994-10-15'
     kind: decision
   actions:
-  - type: resolves
-    message: 'ISO/TC 184/SC 4 recognizes the need to promote the introduction of STEP into
-
-      industry by providing an organizational framework that supports:
-
-      an information exchange platform for implementors of STEP regarding
-
-      clarification of questions arising during implementation
-
-      evaluation of proposed solutions to problems taking into account the STEP
-
-      standard user needs and implementation practicality
-
-      endorsement of a selected solution which is to be used in the implementation'
+  - type: requests
+    message: |
+      SC 4 requests all member bodies to investigate possible remedies to this need. The
+      workshop concept established in the OSI-MMS environment for this purpose shall be
+      taken into account. Member bodies are expected to provide a written position paper
+      to the SC 4 Chairman by February 15, 1995, and the collection of positions will be
+      distributed to SC 4 members by the Secretariat.
     dates:
     - start: '1994-10-15'
       kind: effective
-  - type: requests
-    message: 'SC 4 requests all member bodies to investigate possible remedies to this need. The
-
-      workshop concept established in the OSI-MMS environment for this purpose shall be
-
-      taken into account. Member bodies are expected to provide a written position paper
-
-      to the SC 4 Chairman by February 15, 1995, and the collection of positions will be
-
-      distributed to SC 4 members by the Secretariat.'
+  considerations:
+  - type: recognizing
+    message: |
+      ISO/TC 184/SC 4 recognizes the need to promote the introduction of STEP into
+      industry by providing an organizational framework that supports:
+      * an information exchange platform for implementors of STEP regarding
+        clarification of questions arising during implementation
+      * evaluation of proposed solutions to problems taking into account the STEP
+        standard user needs and implementation practicality
+      * endorsement of a selected solution which is to be used in the implementation
     dates:
     - start: '1994-10-15'
       kind: effective
 - identifier: '217'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: a new working group to resolve the technical direction and related
+  title: Establish working group to resolve technical direction
   dates:
   - start: '1994-10-15'
     kind: decision
   actions:
   - type: establishes
-    message: 'SC 4 establishes a new working group to resolve the technical direction and related
-
-
+    message: |
+      SC 4 establishes a new working group to resolve the technical direction and related
       technical issues of SC 4 so that the results are consistent with the SC 4 vision and
-
       acceptable to SC 4 as a whole.
-
+      
       The objective is to define and maintain a consistent set of architectures for the
-
       standards within SC 4.
-
+      
       The principal deliverable of the working group is a standard or set of standards that
-
       document the architectures and the corresponding framework for methods.
-
-      Membership in this working group shall be limited.  National bodies are asked to
-
+      
+      Membership in this working group shall be limited. National bodies are asked to
       nominate members to the WG based on the desire to limit membership, the ability to
-
       carry out these terms of reference, and the need to include representatives from all
-
-      areas of work within SC 4.  It is also considered important that the members of the
-
+      areas of work within SC 4. It is also considered important that the members of the
       WG shall also be members of other working groups.
-
+      
       The terms of reference for the group are to:
-
-      provide technical leadership across the standards under SC 4;
-
-      collect, evaluate and respond to issues raised against the architectures and the
-
-      corresponding methods;
-
-      review, at intervals not exceeding three years, the suitability of the architecture
-
-      against current progress and future requirements;
-
-      identify and implement necessary changes and enhancements to the
-
-      architectures.
-
+      * provide technical leadership across the standards under SC 4;
+      * collect, evaluate and respond to issues raised against the architectures and the
+        corresponding methods;
+      * review, at intervals not exceeding three years, the suitability of the architecture
+        against current progress and future requirements;
+      * identify and implement necessary changes and enhancements to the
+        architectures.
+      
       Consideration shall be given to:
-
-      other appropriate standards architecture;
-
-      existing work in the global research and development community;
-
-      prior work within SC 4;
-
-      requirements for input from all existing work groups'
-    dates:
-    - start: '1994-10-15'
-      kind: effective
-  - type: resolves
-    message: .
+      * other appropriate standards architecture;
+      * existing work in the global research and development community;
+      * prior work within SC 4;
+      * requirements for input from all existing work groups
     dates:
     - start: '1994-10-15'
       kind: effective
   - type: requests
-    message: 'SC 4 requests P Members to recommend experts and their candidate for Convener
-
-      of this new WG by 24 November.  In making their recommendations, P Members are
-
-
-      also encouraged to provide suggestions for membership from other nations.'
+    message: |
+      SC 4 requests P Members to recommend experts and their candidate for Convener
+      of this new WG by 24 November. In making their recommendations, P Members are
+      also encouraged to provide suggestions for membership from other nations.
     dates:
     - start: '1994-10-15'
       kind: effective
 - identifier: '218'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: SC 4 N230, Requirements for Future Capabilities of SC 4 Standards,
+  title: Approve Requirements for Future Capabilities of SC 4 Standards
   dates:
   - start: '1994-10-15'
     kind: decision
   actions:
   - type: approves
-    message: 'SC 4 approves SC 4 N230, Requirements for Future Capabilities of SC 4 Standards,
-
-      and requests that PMAG map it into an operational plan of operations.'
+    message: |
+      SC 4 approves SC 4 N230, Requirements for Future Capabilities of SC 4 Standards,
+      and requests that PMAG map it into an operational plan of operations.
     dates:
     - start: '1994-10-15'
       kind: effective
 - identifier: '219'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: its Secretariat to set up a quality assurance system within the SC 4
+  title: Set up a quality assurance system within the SC 4 organization
   dates:
   - start: '1994-10-15'
     kind: decision
   actions:
   - type: directs
-    message: 'SC 4 directs its Secretariat to set up a quality assurance system within the SC 4
-
+    message: |
+      SC 4 directs its Secretariat to set up a quality assurance system within the SC 4
       organization according to ISO/TC 184/SC 4 document N230, Requirements for Future
-
       Capabilities of SC 4 standards, objective C14: "Establish and implement a quality
-
-      system for SC 4 standards."'
+      system for SC 4 standards."
     dates:
     - start: '1994-10-15'
       kind: effective
 - identifier: '220'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: SC 4 N242, WG 2 Strategic Policy Statement
+  title: Approve WG 2 Strategic Policy Statement
   dates:
   - start: '1994-10-15'
     kind: decision
   actions:
   - type: approves
-    message: SC 4 approves SC 4 N242, WG 2 Strategic Policy Statement.
+    message: |
+      SC 4 approves SC 4 N242, WG 2 Strategic Policy Statement.
     dates:
     - start: '1994-10-15'
       kind: effective
 - identifier: '221'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: the requirement for an SC 4 strategic policy on Application Protocols
+  title: Approve requirement for an SC 4 strategic policy on APs
   dates:
   - start: '1994-10-15'
     kind: decision
   actions:
   - type: approves
-    message: 'SC 4 approves the requirement for an SC 4 strategic policy on Application Protocols
-
+    message: |
+      SC 4 approves the requirement for an SC 4 strategic policy on Application Protocols
       as set forth in the following SPAG document N124 "Requirements for a SC 4
-
-      Strategic Policy on ", Application Protocols" dated 10/20/94.'
+      Strategic Policy on Application Protocols" dated 10/20/94.
     dates:
     - start: '1994-10-15'
       kind: effective
 - identifier: '222'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: the Architecture WG to propose realistic strategic policy alternative
+  title: Direct Architecture WG to propose strategic policy alternative solutions
   dates:
   - start: '1994-10-15'
     kind: decision
   actions:
   - type: directs
-    message: 'SC 4 directs the Architecture WG to propose realistic strategic policy alternative
-
-      solutions to the requirements defined in SPAG document N124'
+    message: |
+      SC 4 directs the Architecture WG to propose realistic strategic policy alternative
+      solutions to the requirements defined in SPAG document N124.
     dates:
     - start: '1994-10-15'
       kind: effective
-  - type: resolves
-    message: .
-    dates:
-    - start: '1994-10-15'
-      kind: effective
-  - type: resolves
-    message: 'The SC 4 Secretariat shall distribute, at least six weeks prior to each SC 4 meeting, a
-
+- identifier: '223'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Distribute status report on SC 4 projects prior to each meeting
+  dates:
+  - start: '1994-10-15'
+    kind: decision
+  actions:
+  - type: directs
+    message: |
+      The SC 4 Secretariat shall distribute, at least six weeks prior to each SC 4 meeting, a
       report on the status of SC 4 projects. This report shall have the following attributes:
-
+      
       A summary sheet showing summary status of each project. This will include a short
-
       description; significant changes to a project; and, if a project is not progressing, an
-
       indication of the problems and/or barriers to progress.
-
+      
       Detailed project descriptions about the above problem projects. This will include
-
-      participants’ lists, and project status in ballot process.
-
+      participants' lists, and project status in ballot process.
+      
       The NIPDE Electronic Library project information on STEP parts and APs will be
-
       reviewed by P members to ascertain if its information content is proper to contain the
-
-
-      information needed.'
+      information needed.
     dates:
     - start: '1994-10-15'
       kind: effective
 - identifier: '224'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: its desire to establish a Category A liaison with the ProSTEP
+  title: Establish Category A liaison with the ProSTEP Association
   dates:
   - start: '1994-10-15'
     kind: decision
   actions:
   - type: resolves
-    message: 'SC 4 expresses its desire to establish a Category A liaison with the ProSTEP
-
-      Association.'
+    message: |
+      SC 4 expresses its desire to establish a Category A liaison with the ProSTEP
+      Association.
     dates:
     - start: '1994-10-15'
       kind: effective
 - identifier: '225'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: its Secretariat to amend its approval procedures for advancing an
+  title: Amend approval procedures for advancing an AP to CD stage
   dates:
   - start: '1994-10-15'
     kind: decision
   actions:
   - type: directs
-    message: 'SC 4 directs its Secretariat to amend its approval procedures for advancing an
-
+    message: |
+      SC 4 directs its Secretariat to amend its approval procedures for advancing an
       application protocol to CD stage to include providing evidence of substantive
-
       international review of the ARM and the Scope of the document. This evidence is in
-
-      addition to the present requirements of approval by Qualification and Integration.'
+      addition to the present requirements of approval by Qualification and Integration.
     dates:
     - start: '1994-10-15'
       kind: effective
 - identifier: '226'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: its Secretariat to amend its approval procedures for registering an
+  title: Amend approval procedures for registering an AP successfully passing CD
   dates:
   - start: '1994-10-15'
     kind: decision
   actions:
   - type: directs
-    message: 'SC 4 directs its Secretariat to amend its approval procedures for registering an
-
+    message: |
+      SC 4 directs its Secretariat to amend its approval procedures for registering an
       application protocol that has successfully passed the CD enquiry to include providing
-
       evidence of validation through some form of implementation of the application protocol
-
       as amended following ballot resolution. This evidence is in addition to the present
-
-      requirements of approval by Qualification, Integration and Editing'
+      requirements of approval by Qualification, Integration and Editing.
     dates:
     - start: '1994-10-15'
       kind: effective
-  - type: resolves
-    message: .
+- identifier: '227'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Direct WG 6 to complete Parts 33 and 34 and ATS projects
+  dates:
+  - start: '1994-10-15'
+    kind: decision
+  actions:
+  - type: directs
+    message: |
+      SC 4 directs WG 6 to complete Parts 33 and 34 and to submit them, before January
+      1995, for QIE approvals prior to CD ballot.
     dates:
     - start: '1994-10-15'
       kind: effective
   - type: directs
-    message: 'SC 4 directs WG 6 to complete Parts 33 and 34 and to submit them, before January
-
-      1995, for QIE approvals prior to CD ballot'
+    message: |
+      SC 4 directs the projects responsible for Abstract Test Suites ATS-1201, ATS-1203 and
+      ATS-1207, to complete their documents and to submit them, before February 1995, for
+      QIE approvals prior to CD ballot.
     dates:
     - start: '1994-10-15'
       kind: effective
   - type: directs
-    message: 'SC 4 directs the projects responsible for
-
-      Abstract Test Suites ATS- 1201, ATS-1203 and ATS-1207, to complete their
-
-      documents and to submit them, before February 1995, for QIE approvals prior to CD
-
-      ballot'
-    dates:
-    - start: '1994-10-15'
-      kind: effective
-  - type: resolves
-    message: .
-    dates:
-    - start: '1994-10-15'
-      kind: effective
-  - type: directs
-    message: 'SC 4 directs its Secretariat that Application Protocols submitted for DIS ballot prior to
-
+    message: |
+      SC 4 directs its Secretariat that Application Protocols submitted for DIS ballot prior to
       August 1995 shall submit the Abstract Test Suite for CD review no later than three
-
-      months after the start of the DIS ballot of the Application Protocol.'
+      months after the start of the DIS ballot of the Application Protocol.
     dates:
     - start: '1994-10-15'
       kind: effective
 - identifier: '228'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Neal Laurance as a physical liaison to ISO/TC 184/SC 5
+  title: Appoint Neal Laurance as a physical liaison to ISO/TC 184/SC 5
   dates:
   - start: '1994-10-15'
     kind: decision
   actions:
   - type: appoints
-    message: SC 4 appoints Neal Laurance as a physical liaison to ISO/TC 184/SC 5.
+    message: |
+      SC 4 appoints Neal Laurance as a physical liaison to ISO/TC 184/SC 5.
     dates:
     - start: '1994-10-15'
       kind: effective
 - identifier: '229'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: its desire to establish a liaison with ISO/IEC JTC 1/SC 21/WG
+  title: Establish a liaison with ISO/IEC JTC 1/SC 21/WG 3/CSMF
   dates:
   - start: '1994-10-15'
     kind: decision
   actions:
   - type: resolves
-    message: 'SC 4 expresses its desire to establish a liaison with ISO/IEC JTC 1/SC 21/WG
-
-      3/CSMF.'
+    message: |
+      SC 4 expresses its desire to establish a liaison with ISO/IEC JTC 1/SC 21/WG
+      3/CSMF.
     dates:
     - start: '1994-10-15'
       kind: effective
-- identifier: '230'
+- identifier: 199410-acclaim-01
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: its sincere thanks to its Chairman, Bradford Smith, to the team at NIST,
+  title: Thank Bradford Smith and NIST for Initial Release of STEP
   dates:
   - start: '1994-10-15'
     kind: decision
   actions:
-  - type: resolves
-    message: 'SC 4 expresses its sincere thanks to its Chairman, Bradford Smith, to the team at NIST,
-
+  - type: thanks
+    message: |
+      SC 4 expresses its sincere thanks to its Chairman, Bradford Smith, to the team at NIST,
       and to all those who contributed to the on-time delivery of the Initial Release of STEP to
-
-      Geneva for publication.'
+      Geneva for publication.
     dates:
     - start: '1994-10-15'
       kind: effective

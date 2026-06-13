@@ -9,401 +9,243 @@ metadata:
 resolutions:
 - identifier: '608'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Leadership and Editorship Approvals
+  title: Approve project leaders and editors for SC 4 projects
   dates:
   - start: '2004-07-15'
     kind: decision
   actions:
-  - type: resolves
-    message: SC 4 Project Leadership and Editorship Approvals
+  - type: approves
+    message: |
+      SC 4 approves the following new project leaders or project editors for the associated SC 4 projects:
+
+      |===
+      |Project |Leader |Editor
+
+      |ISO 10303-0239 |Nigel Shaw |
+      |===
     dates:
     - start: '2004-07-15'
       kind: effective
-  - type: approves
-    message: 'SC 4 approves the following new project leaders or project editors for the associated SC 4 projects:
-
-      Project
-
-      Leader
-
-      Editor
-
-      ISO 10303-0239
-
-      Nigel Shaw'
 - identifier: '609'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Reappointment of WG 12 Deputy Convener
+  title: Reappoint Jochen Haenisch as Deputy Convener of WG 12
   dates:
   - start: '2004-07-15'
     kind: decision
   actions:
-  - type: resolves
-    message: Reappointment of WG 12 Deputy Convener
-    dates:
-    - start: '2004-07-15'
-      kind: effective
   - type: appreciates
-    message: 'SC 4 appreciates and accepts the offer of Jochen Haenisch to serve as Deputy
-
-      Convener of WG 12'
+    message: |
+      SC 4 appreciates and accepts the offer of Jochen Haenisch to serve as Deputy Convener of WG 12.
     dates:
     - start: '2004-07-15'
       kind: effective
   - type: approves
-    message: 'SC 4 approves the nomination of Mr. Haenisch to serve for an
-
-      additional three year term.'
+    message: |
+      SC 4 approves the nomination of Mr. Haenisch to serve for an additional three year term.
     dates:
     - start: '2004-07-15'
       kind: effective
 - identifier: '610'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Appointment of SC 4 PPC Convenor
+  title: Appoint Torbjorn Holm as SC 4 PPC Convenor
   dates:
   - start: '2004-07-15'
     kind: decision
   actions:
-  - type: resolves
-    message: Appointment of SC 4 PPC Convenor
-    dates:
-    - start: '2004-07-15'
-      kind: effective
   - type: appoints
-    message: 'SC 4 appoints Mr. Torbjorn Holm as ISO/TC 184/SC 4 PPC Convenor, in succession to
-
-      Mr. Alain Bezos, with immediate effect.'
+    message: |
+      SC 4 appoints Mr. Torbjorn Holm as ISO/TC 184/SC 4 PPC Convenor, in succession to Mr. Alain Bezos, with immediate effect.
     dates:
     - start: '2004-07-15'
       kind: effective
 - identifier: '611'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Nomination of SC 4 delegates to ISO/IEC JWG 1
+  title: Nominate SC 4 delegates to ISO/IEC JWG 1
   dates:
   - start: '2004-07-15'
     kind: decision
   actions:
-  - type: resolves
-    message: Nomination of SC 4 delegates to ISO/IEC JWG 1
-    dates:
-    - start: '2004-07-15'
-      kind: effective
   - type: nominates
-    message: 'SC 4 nominates Hiroshi Murayama, Dr. Wolfgang Wilkes, Professor Guy Pierra, Dr
-
-      Gerry Radack, Dr Tim King, Dr Norman Swindells, Dr Nils Sandsmark and Mr. Ping
-
-      Wang as delegates to the first meeting of ISO/IEC JWG 1 on 8 September 2004 in
-
-      Berlin, and requests its Secretariat to notify DIN of the participation'
-    dates:
-    - start: '2004-07-15'
-      kind: effective
-  - type: resolves
-    message: .
+    message: |
+      SC 4 nominates Hiroshi Murayama, Dr. Wolfgang Wilkes, Professor Guy Pierra, Dr Gerry Radack, Dr Tim King, Dr Norman Swindells, Dr Nils Sandsmark and Mr. Ping Wang as delegates to the first meeting of ISO/IEC JWG 1 on 8 September 2004 in Berlin, and requests its Secretariat to notify DIN of the participation.
     dates:
     - start: '2004-07-15'
       kind: effective
   - type: requests
-    message: 'SC 4 requests its P-members to ensure that their delegations to the meeting are fully
-
-      briefed on the SC 4 priorities.'
+    message: |
+      SC 4 requests its P-members to ensure that their delegations to the meeting are fully briefed on the SC 4 priorities.
     dates:
     - start: '2004-07-15'
       kind: effective
 - identifier: '612'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Enhancement of Expertise for ISO/IEC JWG 1 work
+  title: Request ISO/TMB to co-locate JWG 1 meetings with SC 4/WG 2 and IEC SC 3 D
   dates:
   - start: '2004-07-15'
     kind: decision
   actions:
-  - type: resolves
-    message: 'Enhancement of Expertise for ISO/IEC JWG 1 work
+  - type: requests
+    message: |
+      ISO/TC 184/SC 4 respectfully request ISO/TMB to encourage the venue of future ISO/IEC JWG 1 (Product properties and families) meetings to be planned in conjunction with ISO/TC 184/SC 4/WG 2 and IEC SC 3 D meetings.
 
-      ISO/TC 184/SC 4 respectfully request ISO/TMB to encourage the venue of future
-
-      ISO/IEC JWG 1 (Product properties and families) meetings to be planned in
-
-      conjunction with ISO/TC 184/SC 4/WG 2 and IEC SC 3 D meetings.
-
-
-      The major expected benefit from such a request is to enhance technical participation
-
-      in ISO/IEC JWG 1 work.'
+      The major expected benefit from such a request is to enhance technical participation in ISO/IEC JWG 1 work.
     dates:
     - start: '2004-07-15'
       kind: effective
 - identifier: '613'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Reappointment of WG 2 Convener
+  title: Reappoint Wolfgang Wilkes as Convener of WG 2
   dates:
   - start: '2004-07-15'
     kind: decision
   actions:
-  - type: resolves
-    message: Reappointment of WG 2 Convener
-    dates:
-    - start: '2004-07-15'
-      kind: effective
   - type: appreciates
-    message: SC 4 appreciates and accepts the offer of Dr. Wilkes to serve as Convener of WG 2
-    dates:
-    - start: '2004-07-15'
-      kind: effective
-  - type: resolves
-    message: .
+    message: |
+      SC 4 appreciates and accepts the offer of Dr. Wilkes to serve as Convener of WG 2.
     dates:
     - start: '2004-07-15'
       kind: effective
   - type: approves
-    message: 'SC 4 approves the nomination of Dr. Wilkes to serve for an additional three year
-
-      term.'
+    message: |
+      SC 4 approves the nomination of Dr. Wilkes to serve for an additional three year term.
     dates:
     - start: '2004-07-15'
       kind: effective
 - identifier: '614'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Esta b lishm en t of Catego r y “A” L iaiso n with UNSP SC
+  title: Establish Category A liaison with UNSPSC and appoint John McInerney
   dates:
   - start: '2004-07-15'
     kind: decision
   actions:
-  - type: resolves
-    message: 'Esta b lishm en t of Catego r y “A” L iaiso n with UNSP SC
-
-      ISO/TC 184/SC 4 welcomes the approach from UNSPSC (United Nations Standard
-
-      Products and Services Codes), and agrees to establish a Category A liaison with
-
-      UNSPSC, and nominates John McInerney as liaison officer.  Further, SC 4 directs its
-
-      Secretary to confirm this liaison with the ISO CS.'
+  - type: agrees
+    message: |
+      ISO/TC 184/SC 4 welcomes the approach from UNSPSC (United Nations Standard Products and Services Codes), and agrees to establish a Category A liaison with UNSPSC, and nominates John McInerney as liaison officer. Further, SC 4 directs its Secretary to confirm this liaison with the ISO CS.
     dates:
     - start: '2004-07-15'
       kind: effective
 - identifier: '615'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Esta b lishm en t of Catego r y “A” L iaiso n with USP I -NL
+  title: Form Category A liaison with USPI-NL and appoint Paul van Exel
   dates:
   - start: '2004-07-15'
     kind: decision
   actions:
-  - type: resolves
-    message: Esta b lishm en t of Catego r y “A” L iaiso n with USP I -NL
-    dates:
-    - start: '2004-07-15'
-      kind: effective
   - type: accepts
-    message: 'SC 4 accepts the request from the Uitgebreid Samenwerkingsverband Proces
-
-      Industrie Nederland (USPI-NL) to form a two-way Category A liaison, requests the
-
-      Secretariat to confirm their eligibility with ISO CS, and appoints Paul van Exel as
-
-      liaison officer from SC 4 to USPI-NL.'
+    message: |
+      SC 4 accepts the request from the Uitgebreid Samenwerkingsverband Proces Industrie Nederland (USPI-NL) to form a two-way Category A liaison, requests the Secretariat to confirm their eligibility with ISO CS, and appoints Paul van Exel as liaison officer from SC 4 to USPI-NL.
     dates:
     - start: '2004-07-15'
       kind: effective
 - identifier: '616'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Esta b lishm en t of Catego r y “A” L iaiso n with POS C Cae sa r Asso ciat i...
+  title: Form Category A liaison with POSC Caesar Association and appoint Nils Sandsmark
   dates:
   - start: '2004-07-15'
     kind: decision
   actions:
-  - type: resolves
-    message: Esta b lishm en t of Catego r y “A” L iaiso n with POS C Cae sa r Asso ciat io n
-    dates:
-    - start: '2004-07-15'
-      kind: effective
   - type: accepts
-    message: 'SC 4 accepts the request from the POSC Caesar Association to form a two-way
-
-      Category A liaison, requests the Secretariat to confirm their eligibility with ISO CS,
-
-      and appoints Nils Sandsmark as liaison officer from SC 4 to POSC Caesar
-
-      Association.'
+    message: |
+      SC 4 accepts the request from the POSC Caesar Association to form a two-way Category A liaison, requests the Secretariat to confirm their eligibility with ISO CS, and appoints Nils Sandsmark as liaison officer from SC 4 to POSC Caesar Association.
     dates:
     - start: '2004-07-15'
       kind: effective
 - identifier: '617'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Meeting Fees
+  title: Require future SC 4 meeting hosts to provide budget plans
   dates:
   - start: '2004-07-15'
     kind: decision
   actions:
-  - type: resolves
-    message: 'Meeting Fees
-
-      As part of the ongoing programme of action to reduce meeting costs, all hosts of future'
-    dates:
-    - start: '2004-07-15'
-      kind: effective
-  - type: resolves
-    message: 'SC 4 meetings are required to provide a budget plan for the meeting to the secretariat
-
-
-      of SC 4 as part of their request for the approval of hosting the particular meeting. The
-
-      budget plan shall include estimates for meeting fees, local travel costs and hotel costs
-
-      in accordance with the SC 4 reporting form, so that the Secretariat and PPC can
-
-      ensure that the overall costs to delegates are reasonable and allowable under ISO
-
-      rules.'
+  - type: requests
+    message: |
+      As part of the ongoing programme of action to reduce meeting costs, all hosts of future SC 4 meetings are required to provide a budget plan for the meeting to the secretariat of SC 4 as part of their request for the approval of hosting the particular meeting. The budget plan shall include estimates for meeting fees, local travel costs and hotel costs in accordance with the SC 4 reporting form, so that the Secretariat and PPC can ensure that the overall costs to delegates are reasonable and allowable under ISO rules.
     dates:
     - start: '2004-07-15'
       kind: effective
 - identifier: '618'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Liaison to ISO/TC 37
+  title: Initiate liaison to ISO/TC 37
   dates:
   - start: '2004-07-15'
     kind: decision
   actions:
-  - type: resolves
-    message: Liaison to ISO/TC 37
-    dates:
-    - start: '2004-07-15'
-      kind: effective
-  - type: asks
-    message: 'SC 4 asks its secretariat to initiate a liaison to ISO/TC 37 with a statement describing
-
-      the ongoing work within SC 4/WG 2.'
+  - type: requests
+    message: |
+      SC 4 requests its secretariat to initiate a liaison to ISO/TC 37 with a statement describing the ongoing work within SC 4/WG 2.
     dates:
     - start: '2004-07-15'
       kind: effective
 - identifier: '619'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Requirements for Dictionaries on Measuring Instruments
+  title: Narrow scope of ISO 13584-501 and coordinate on industrial process control
   dates:
   - start: '2004-07-15'
     kind: decision
   actions:
-  - type: resolves
-    message: Requirements for Dictionaries on Measuring Instruments
+  - type: requests
+    message: |
+      SC 4 requests WG 2 to narrow the scope of ISO 13584-501 to deal only with environment measuring instruments and laboratory measuring instruments.
     dates:
     - start: '2004-07-15'
       kind: effective
   - type: requests
-    message: 'SC 4 requests WG 2 to narrow the scope of ISO 13584-501 to deal only with
-
-      environment measuring instruments and laboratory measuring instruments'
+    message: |
+      SC 4 kindly requests that its Chair and secretariat establish the appropriate contacts in order to create a joint activity to develop a consistent dictionary for industrial process control measuring instruments.
     dates:
     - start: '2004-07-15'
       kind: effective
-  - type: resolves
-    message: .
-    dates:
-    - start: '2004-07-15'
-      kind: effective
-  - type: resolves
-    message: 'SC 4 kindly requests that its Chair and secretariat establish the appropriate contacts
-
-      in order to create a joint activity to develop a consistent dictionary for industrial
-
-      process control measuring instruments'
-    dates:
-    - start: '2004-07-15'
-      kind: effective
-- identifier: '620'
+- identifier: '200407-acclaim-01'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Acknowledgements and Appreciations
+  title: Thank the host organizations and staff for the Bath meeting
   dates:
   - start: '2004-07-15'
     kind: decision
   actions:
-  - type: resolves
-    message: 'Acknowledgements and Appreciations
-
-      APPRECIATION:'
+  - type: thanks
+    message: |
+      SC 4 expresses its deep appreciation to EMSA, its Members and the support staff for their outstanding efforts in organizing this meeting, arranging the facilities, excellent food, and excellent social events. SC 4 also expresses its appreciation to the University of Bath for their hospitality and support during the SC 4 meetings.
     dates:
     - start: '2004-07-15'
       kind: effective
-  - type: appreciation
-    message: 'SC 4 expresses its deep appreciation to EMSA, its Members and the support staff for
+- identifier: '200407-acclaim-02'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank SC 4 liaisons and presenters
+  dates:
+  - start: '2004-07-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      Appreciation to our SC 4 Liaisons. We appreciate your representation to and for ISO/TC 184/SC 4. A special thank you to the SC 4 Liaison Plenary presenters for their insightful and comprehensive presentations:
 
-      their outstanding efforts in organizing this meeting, arranging the facilities, excellent
+      |===
+      |Organization |Presenter
 
-      food, and excellent social events'
+      |IAI |Jeffrey Wix
+      |ISO/TC 29/WG 34 |Jonas Nordstrom
+      |ASAM |Gerald Sammer
+      |ISO/TC 172/SC 1/WG 4 |Prudence Wormwell
+      |ISO/TC 211 |Jerry Smith
+      |FSIG |Ricardo Gonçalves
+      |VAMAS & ISO/TC 207 |Anna Moreno
+      |PDES, Inc |Bob Kiggans
+      |NATO AC/135/ECCMA |Steve Arnett & Peter Benson
+      |SASIG |Sven Hjelm
+      |===
     dates:
     - start: '2004-07-15'
       kind: effective
-  - type: resolves
-    message: 'SC 4 also expresses its appreciation to the
-
-      University of Bath for their hospitality and support during the SC 4 meetings.
-
-      APPRECIATION:
-
-      Appreciation to our SC 4 Liaisons. We appreciate your representation to and for
-
-      ISO/TC 184/SC 4.
-
-      A special thank you to the SC 4 Liaison Plenary presenters for their insightful and
-
-      comprehensive presentations:
-
-
-      IAI
-
-      Jeffrey Wix
-
-      ISO/TC 29/WG 34
-
-      Jonas Nordstrom
-
-      ASAM
-
-      Gerald Sammer
-
-      ISO/TC 172/SC 1/WG 4
-
-      Prudence
-
-      Wormwell ISO/TC 211
-
-      Jerry Smith
-
-      FSIG
-
-      Ricardo
-
-      Gonçalves VAMAS & ISO/TC 207
-
-      Anna Moreno
-
-      PDES, Inc
-
-      Bob Kiggans
-
-      NATO AC/135/ECCMA
-
-      Steve Arnett & Peter
-
-      Benson SASIG
-
-      Sven Hjelm
-
-      APPRECIATION:'
-    dates:
-    - start: '2004-07-15'
-      kind: effective
-  - type: resolves
-    message: 'SC 4 expresses its particular thanks to Mr. Tony Fry, Mr. John Kendall, Mrs. Louise
-
-      Fry, Ms Marie Nesbitt and Mr. Mike Barter for their superior administrative support,
-
-      outstanding hospitality, and patience both before and during the ISO/TC 184/SC 4
-
-      meeting. Additionally, we would like to thank Bernard Smalley and Collin Williams for
-
-      maintaining the computer systems for the conference'
+- identifier: '200407-acclaim-03'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank administrative staff and technical support
+  dates:
+  - start: '2004-07-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 expresses its particular thanks to Mr. Tony Fry, Mr. John Kendall, Mrs. Louise Fry, Ms Marie Nesbitt and Mr. Mike Barter for their superior administrative support, outstanding hospitality, and patience both before and during the ISO/TC 184/SC 4 meeting. Additionally, we would like to thank Bernard Smalley and Collin Williams for maintaining the computer systems for the conference.
     dates:
     - start: '2004-07-15'
       kind: effective

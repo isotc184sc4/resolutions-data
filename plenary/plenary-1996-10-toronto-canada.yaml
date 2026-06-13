@@ -9,442 +9,384 @@ metadata:
 resolutions:
 - identifier: '291'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: the Petrotechnical Open Software Corporation (POSC) as an A-liaison
+  title: Endorse Petrotechnical Open Software Corporation as an A-liaison
   dates:
   - start: '1996-10-15'
     kind: decision
   actions:
   - type: endorses
-    message: 'SC 4 endorses the Petrotechnical Open Software Corporation (POSC) as an A-liaison
-
-      to ISO/TC 184/SC 4.'
+    message: |
+      SC 4 endorses the Petrotechnical Open Software Corporation (POSC) as an A-liaison
+      to ISO/TC 184/SC 4.
     dates:
     - start: '1996-10-15'
       kind: effective
 - identifier: '292'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: a temporary action to allow operation of the Quality Committee as
+  title: Authorize temporary action for Quality Committee and amend Handbook
   dates:
   - start: '1996-10-15'
     kind: decision
   actions:
   - type: resolves
-    message: 'SC 4 authorises a temporary action to allow operation of the Quality Committee as
-
-      outlined in ISO/TC 184/ SC 4 N483 (Rev 1)  until the new pages are adopted by letter
-
-      ballot'
-    dates:
-    - start: '1996-10-15'
-      kind: effective
-  - type: resolves
-    message: .
+    message: |
+      SC 4 authorises a temporary action to allow operation of the Quality Committee as
+      outlined in ISO/TC 184/ SC 4 N483 (Rev 1) until the new pages are adopted by letter
+      ballot.
     dates:
     - start: '1996-10-15'
       kind: effective
   - type: approves
-    message: 'SC 4 approves replacing the following text in the SC 4 Organization Handbook,
-
+    message: |
+      SC 4 approves replacing the following text in the SC 4 Organization Handbook,
       Clause 5.7.3.2:
 
-
       "...Copies of Last-Day Resolution Papers must be handed to the meeting desk by
-
       15.00 in order to be available for pick-up by delegation leaders at 17.00 on the day
-
       preceding the start of the SC 4 meeting."
 
       with:
 
       "Copies of Last-Day Resolution Papers must be handed to the SC 4 Secretary or
-
       meeting desk by 10.30 in order to be available for pick-up by delegation leaders at
-
       15.30 on the day preceding the start of the SC 4 meeting. A camera-ready hard
-
       copy and digital ASCII file shall be provided by the originating national body or
-
-      convener."'
+      convener."
     dates:
     - start: '1996-10-15'
       kind: effective
 - identifier: '294'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: inserting the following into the SC 4 Organization Handbook for
+  title: Approve Handbook insertion and publish standing documents
   dates:
   - start: '1996-10-15'
     kind: decision
   actions:
   - type: approves
-    message: 'SC 4 approves inserting the following into the SC 4 Organization Handbook for
-
+    message: |
+      SC 4 approves inserting the following into the SC 4 Organization Handbook for
       Clause 5.9:
 
       5.9 Balloting Procedures
 
-      5.9.1 nternational Standards and Type II Technical Reports
+      5.9.1 International Standards and Type II Technical Reports
 
       Balloting procedures for developing ISO standards or Type II Technical Reports can
-
       be found in the ISO/IEC Directives Part 1, chapter 2. Information on how to acquire a
-
       copy of these procedures can be found in Appendix A.
 
-      5.9.2 Standing Documents'
+      5.9.2 Standing Documents
     dates:
     - start: '1996-10-15'
       kind: effective
   - type: resolves
-    message: 'SC 4 methods documents from SC 4 working groups and committees will be
-
+    message: |
+      SC 4 methods documents from SC 4 working groups and committees will be
       published as SC 4 standing documents which will provide methods and procedures
-
       for SC 4 to carry out its standards development more effectively within SC 4.
 
       Copies of the proposed Standing Document will be circulated for ballot to P-members
-
       for a three month ballot. Approval of the proposed document shall be based on the
-
       procedures for a Committee Draft Document.
 
       Any comments provided with a yes vote will be considered for making improvements to
-
       the document, but the vote will be considered as in favor of making the document
-
       operative as an SC 4 Standing Document.
 
       Any no vote must be accompanied by specific comments.
 
       Changes to standing documents will be recommended by the working group or
-
       committee responsible. Changes will be made by providing a new version of the page
-
-
       containing the changes to the SC 4 Secretary for approval at the next SC 4 meeting.
 
       Each Standing Document shall contain an annex Revision History Table indicating
-
       the Section or page change and the date accepted by SC 4 and a list of those SC
-
-      4 parts expressly exempt from the revision as approved. [SC 4 Resolution 271]'
+      4 parts expressly exempt from the revision as approved. [SC 4 Resolution 271]
     dates:
     - start: '1996-10-15'
       kind: effective
 - identifier: '295'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: work under the Parametrics project (allocated the ISO number
+  title: Merge Parametrics project activities into ISO 14959 under WG 12
   dates:
   - start: '1996-10-15'
     kind: decision
   actions:
   - type: notes
-    message: 'SC 4 notes that work under the Parametrics project (allocated the ISO number
-
+    message: |
+      SC 4 notes that work under the Parametrics project (allocated the ISO number
       14959) has identified areas which may require modifications to existing IRs, the
-
       preparation of a new IR or IRs, and the development of a document or documents
-
-      under ISO 14959 covering the emerging area of General Case Parametrics'
+      under ISO 14959 covering the emerging area of General Case Parametrics.
     dates:
     - start: '1996-10-15'
       kind: effective
   - type: resolves
-    message: .
-    dates:
-    - start: '1996-10-15'
-      kind: effective
-  - type: resolves
-    message: 'SC 4 resolves that these activities will for the present be combined within the project
-
+    message: |
+      SC 4 resolves that these activities will for the present be combined within the project
       14959 which will be allocated to WG 12 with Mike Pratt as project leader. These
-
       arrangements will be subject to ongoing review as the structure of project deliverables
-
-      is clarified'
+      is clarified.
     dates:
     - start: '1996-10-15'
       kind: effective
-  - type: resolves
-    message: .
-    dates:
-    - start: '1996-10-15'
-      kind: effective
+- identifier: 199610-acclaim-01
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank Roberto Greening for his work as leader of the Parametrics project
+  dates:
+  - start: '1996-10-15'
+    kind: decision
+  actions:
   - type: thanks
-    message: 'SC 4 thanks Roberto Greening for his work as leader of the Parametrics project
-
-      during the formative period.'
+    message: |
+      SC 4 thanks Roberto Greening for his work as leader of the Parametrics project
+      during the formative period.
     dates:
     - start: '1996-10-15'
       kind: effective
 - identifier: '296'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: 'cancel project # 50, 10303-211, "Application protocol: Electronics test'
+  title: Cancel projects 10303-211 and 10303-311 due to lack of activity
   dates:
   - start: '1996-10-15'
     kind: decision
   actions:
   - type: agrees
-    message: 'SC 4 agrees to cancel project # 50, 10303-211, "Application protocol: Electronics test
-
-      diagnostics and remanufacture” and project #78, 10303-311, “Abstract test suite:
-
-      Electronics test diagnostics and remanufacture” due to current lack of activity.'
+    message: |
+      SC 4 agrees to cancel project # 50, 10303-211, "Application protocol: Electronics test
+      diagnostics and remanufacture" and project #78, 10303-311, "Abstract test suite:
+      Electronics test diagnostics and remanufacture" due to current lack of activity.
     dates:
     - start: '1996-10-15'
       kind: effective
 - identifier: '297'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: preliminary (stage 0) work on Systems Engineering Data
+  title: Authorize preparatory work on Systems Engineering Data Representation
   dates:
   - start: '1996-10-15'
     kind: decision
   actions:
   - type: resolves
-    message: 'SC 4 authorizes preliminary (stage 0) work on Systems Engineering Data
-
-      Representation and appoints Sylvain BARBEAU as project leader.'
+    message: |
+      SC 4 authorizes preliminary (stage 0) work on Systems Engineering Data
+      Representation and appoints Sylvain BARBEAU as project leader.
     dates:
     - start: '1996-10-15'
       kind: effective
 - identifier: '298'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: 'the SC 4 organization handbook be amended as follows:  "SC'
+  title: Recommend amending SC 4 organization handbook regarding Conveners
   dates:
   - start: '1996-10-15'
     kind: decision
   actions:
   - type: recommends
-    message: 'SC 4 recommends that the SC 4 organization handbook be amended as follows:  "SC
-
+    message: |
+      SC 4 recommends that the SC 4 organization handbook be amended as follows: "SC
       4 Conveners and deputy conveners shall be nominated by the SC 4 P-members and
-
       shall serve for a maximum period of three years or for such shorter period as may be
-
       designated when they are elected. Successive extensions each of a maximum of
-
-      three years may be approved by a vote of SC 4.”'
+      three years may be approved by a vote of SC 4."
     dates:
     - start: '1996-10-15'
       kind: effective
 - identifier: '299'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: the revised schedules and justification, and reconfirms the continued
+  title: Accept revised schedules for SC 4 projects
   dates:
   - start: '1996-10-15'
     kind: decision
   actions:
   - type: accepts
-    message: 'SC 4 accepts the revised schedules and justification, and reconfirms the continued
-
+    message: |
+      SC 4 accepts the revised schedules and justification, and reconfirms the continued
       standardization efforts for the following SC 4 projects:
-
       10303-1DAM, 10303-34, 10303-106, 10303-215, 10303-216, 10303-217, 10303-218,
-
       10303-221, 10303-222, 10303-226, 10303-227, 10303-228, 10303-230, 13584-101,
-
-      13584-102, and 14959.'
+      13584-102, and 14959.
     dates:
     - start: '1996-10-15'
       kind: effective
 - identifier: '300'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Phil Kennicott as the convener of WG 12, SC 4 Common Resources
+  title: Approve Phil Kennicott as convener of WG 12
   dates:
   - start: '1996-10-15'
     kind: decision
   actions:
   - type: approves
-    message: SC 4 approves Phil Kennicott as the convener of WG 12, SC 4 Common Resources.
+    message: |
+      SC 4 approves Phil Kennicott as the convener of WG 12, SC 4 Common Resources.
     dates:
     - start: '1996-10-15'
       kind: effective
 - identifier: '301'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: preparatory (stage 0) work on Java programming language binding to
+  title: Authorize preparatory work on Java programming language binding
   dates:
   - start: '1996-10-15'
     kind: decision
   actions:
   - type: resolves
-    message: 'SC 4 authorizes preparatory (stage 0) work on Java programming language binding to
-
+    message: |
+      SC 4 authorizes preparatory (stage 0) work on Java programming language binding to
       the Standard Data Access Interface specification and appoints Tom Rando as project
-
-      leader.'
+      leader.
     dates:
     - start: '1996-10-15'
       kind: effective
 - identifier: '302'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: 'cancel Project #113, ISO 10303-13 “Architecture and methodology'
+  title: Cancel Project #113 (ISO 10303-13) and redirect work
   dates:
   - start: '1996-10-15'
     kind: decision
   actions:
   - type: agrees
-    message: 'SC 4 agrees to cancel Project #113, ISO 10303-13 “Architecture and methodology
-
-      reference manual”, and to redirect this work towards an SC 4 Standing Document and
-
-      to the Part 1 amendment project.'
+    message: |
+      SC 4 agrees to cancel Project #113, ISO 10303-13 "Architecture and methodology
+      reference manual", and to redirect this work towards an SC 4 Standing Document and
+      to the Part 1 amendment project.
     dates:
     - start: '1996-10-15'
       kind: effective
 - identifier: '303'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: preliminary (stage 0) work on the extension of capabilities of ISO
+  title: Authorize preparatory work on extension of ISO 10303-21 capabilities
   dates:
   - start: '1996-10-15'
     kind: decision
   actions:
   - type: resolves
-    message: 'SC 4 authorizes preliminary (stage 0) work on the extension of capabilities of ISO
-
+    message: |
+      SC 4 authorizes preliminary (stage 0) work on the extension of capabilities of ISO
       10303- 21 and appoints Neal Laurence and David Price as joint project leaders, and
-
-      requests a statement of scope of requirement be circulated to P-members.'
+      requests a statement of scope of requirement be circulated to P-members.
     dates:
     - start: '1996-10-15'
       kind: effective
 - identifier: '304'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: an AP document may have an informative annex containing a fully
+  title: Require AP documents to optionally include informative ARM annex
   dates:
   - start: '1996-10-15'
     kind: decision
   actions:
-  - type: request
-    message: 'SC 4 requires that an AP document may have an informative annex containing a fully
-
+  - type: requests
+    message: |
+      SC 4 requires that an AP document may have an informative annex containing a fully
       attributed EXPRESS specification of the ARM.
 
       An ARM implementation may be taken as validation evidence at DIS according to
-
-      resolution 226.'
+      resolution 226.
     dates:
     - start: '1996-10-15'
       kind: effective
 - identifier: '305'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: this first successful step between WG 2 and WG 10 on a solution for
+  title: Recognize cooperation between WG 2 and WG 10 on interoperability
   dates:
   - start: '1996-10-15'
     kind: decision
   actions:
   - type: recognises
-    message: 'SC 4 recognises this first successful step between WG 2 and WG 10 on a solution for
-
-
+    message: |
+      SC 4 recognises this first successful step between WG 2 and WG 10 on a solution for
       the problem of interoperability between STEP (ISO 10303) and P-LIB (ISO 13584)
-
-      within ISO/TC 184/SC 4 and encourages WG 2 and WG 10 to complete this work SC
-
-      4 encourages all STEP AP developers to study the feasibility of describing their library
-
-      and dictionary data using the P-LIB standards.'
+      within ISO/TC 184/SC 4 and encourages WG 2 and WG 10 to complete this work.
+      SC 4 encourages all STEP AP developers to study the feasibility of describing their library
+      and dictionary data using the P-LIB standards.
     dates:
     - start: '1996-10-15'
       kind: effective
 - identifier: '306'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: a preliminary stage 0 project on “Design and Configuration of
+  title: Authorize preliminary project on Design and Configuration of Manufacturing Systems
   dates:
   - start: '1996-10-15'
     kind: decision
   actions:
   - type: resolves
-    message: 'SC 4 authorizes a preliminary stage 0 project on “Design and Configuration of
-
-      Manufacturing Systems” and appoints Torsten Kjellberg as project leader.'
+    message: |
+      SC 4 authorizes a preliminary stage 0 project on "Design and Configuration of
+      Manufacturing Systems" and appoints Torsten Kjellberg as project leader.
     dates:
     - start: '1996-10-15'
       kind: effective
 - identifier: '307'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: 'its Canadian hosts and US meeting sponsors: The Standards Council of'
+  title: Thank Canadian hosts and US meeting sponsors
   dates:
   - start: '1996-10-15'
     kind: decision
   actions:
   - type: thanks
-    message: 'SC 4 thanks its Canadian hosts and US meeting sponsors: The Standards Council of
-
+    message: |
+      SC 4 thanks its Canadian hosts and US meeting sponsors: The Standards Council of
       Canada, National Research Council of Canada, and US PRO. Particular thanks go to
-
-      Melanie Varn, Erinbeth Massie, Kristi Adams, and Chuck Stark.'
+      Melanie Varn, Erinbeth Massie, Kristi Adams, and Chuck Stark.
     dates:
     - start: '1996-10-15'
       kind: effective
 - identifier: '308'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: the following technical SEDS reports as found in SC 4 N 458, for
+  title: Process technical SEDS reports and incorporate into ISO 10303
   dates:
   - start: '1996-10-15'
     kind: decision
-  actions:
-  - type: notes
-    message: 'SC 4 notes the following technical SEDS reports as found in SC 4 N 458, for
-
+  considerations:
+  - type: noting
+    message: |
+      Noting the following technical SEDS reports as found in SC 4 N 458, for
       incorporating into the affected part of ISO 10303:
-
-      10303-203: Reports 24, 25, and 27'
+      * 10303-203: Reports 24, 25, and 27
     dates:
     - start: '1996-10-15'
       kind: effective
-  - type: resolves
-    message: .
-    dates:
-    - start: '1996-10-15'
-      kind: effective
+  actions:
   - type: requests
-    message: 'SC 4 requests the SC 4 Secretariat ensure these reports are made publicly available
-
+    message: |
+      SC 4 requests the SC 4 Secretariat ensure these reports are made publicly available
       on SOLIS (SC 4 ON-Line Information Service), and incorporated into technical
-
-      corrigenda, amendments, or new editions when appropriate.'
+      corrigenda, amendments, or new editions when appropriate.
     dates:
     - start: '1996-10-15'
       kind: effective
 - identifier: '309'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: STEP abstract test suites (ATSs) shall not place additional requirements on the
+  title: STEP ATSs shall not place additional requirements on AP implementors
   dates:
   - start: '1996-10-15'
     kind: decision
   actions:
   - type: resolves
-    message: 'STEP abstract test suites (ATSs) shall not place additional requirements on the
-
-      implementors of application protocol (AP) parts.  AP parts may however make
-
+    message: |
+      STEP abstract test suites (ATSs) shall not place additional requirements on the
+      implementors of application protocol (AP) parts. AP parts may however make
       normative references to an ATS and other conformance testing-related parts for
-
-      terminology.  AP parts should not invoke requirements defined in ATS parts of
-
-      STEP.'
+      terminology. AP parts should not invoke requirements defined in ATS parts of
+      STEP.
     dates:
     - start: '1996-10-15'
       kind: effective
 - identifier: '310'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: replacing clauses 6
+  title: Approve replacing SC 4 Organization Handbook clauses 6.2 and 6.3
   dates:
   - start: '1996-10-15'
     kind: decision
   actions:
   - type: approves
-    message: 'SC 4 approves replacing clauses 6.2 and 6.3 of the SC 4 Organization Handbook with
-
-      the text found in ISO/TC 184/SC 4 N516'
+    message: |
+      SC 4 approves replacing clauses 6.2 and 6.3 of the SC 4 Organization Handbook with
+      the text found in ISO/TC 184/SC 4 N516.
     dates:
     - start: '1996-10-15'
       kind: effective
   - type: resolves
-    message: 'SC 4 further authorizes editorial changes to
-
-      other clauses of the handbook to maintain consistency with this new text. This
-
-      resolution supersedes SC 4 Resolutions #80 and #292.'
+    message: |
+      SC 4 further authorizes editorial changes to other clauses of the handbook to maintain
+      consistency with this new text. This resolution supersedes SC 4 Resolutions #80 and #292.
     dates:
     - start: '1996-10-15'
       kind: effective

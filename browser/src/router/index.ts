@@ -1,19 +1,14 @@
-import { createRouter, createWebHashHistory } from 'vue-router'
+import { createRouter, createWebHistory } from 'vue-router'
 import Home from '../views/Home.vue'
 import ResolutionDetail from '../views/ResolutionDetail.vue'
 
 const router = createRouter({
-  history: createWebHashHistory(),
+  history: createWebHistory(import.meta.env.BASE_URL),
   routes: [
     {
       path: '/',
       name: 'home',
       component: Home
-    },
-    {
-      path: '/meetings/:meetingId/resolution/:resolutionId',
-      name: 'resolution-by-meeting',
-      component: ResolutionDetail
     },
     {
       path: '/resolution/:id',

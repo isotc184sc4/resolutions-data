@@ -9,627 +9,432 @@ metadata:
 resolutions:
 - identifier: '422'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Leadership and Editorship Approvals
+  title: Approve project leaders and editors for ISO 10303 projects
   dates:
   - start: '1999-11-15'
     kind: decision
   actions:
-  - type: resolves
-    message: SC 4 Project Leadership and Editorship Approvals
+  - type: approves
+    message: |
+      SC4 approves the following new project leaders or project editors for the associated SC4 projects:
+
+      |===
+      |ISO Project |Project Lead |Document Editor
+
+      |10303-11 Edition 2 |Don Sanderson |
+      |10303-325 |Julian Fowler |
+      |10303-AP221 |Andries van Renssen |
+      |===
     dates:
     - start: '1999-11-15'
       kind: effective
-  - type: approves
-    message: 'SC 4 approves the following new project leaders or project editors for the associated SC 4 projects:
-
-
-      ISO Project #
-
-      Project Lead
-
-      Document Editor
-
-      10303-11 Edition 2
-
-      Don Sanderson
-
-      10303-325
-
-      Julian Fowler
-
-      10303-AP221
-
-      Andries van Renssen.'
 - identifier: '423'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Retention of Dual Editions of ISO 10303-41, -42, -43, and -- 44
+  title: Request retention of 1994 editions of ISO 10303-41, -42, -43, and -44
   dates:
   - start: '1999-11-15'
     kind: decision
   actions:
-  - type: resolves
-    message: Retention of Dual Editions of ISO 10303-41, -42, -43, and -- 44
-    dates:
-    - start: '1999-11-15'
-      kind: effective
   - type: requests
-    message: 'SC 4 requests that the ISO Central Secretariat retain the 1994 editions of ISO10303 –
-
-      41, -42, -43, and –44. In order to support parts 104, 204, 205, 209, 213 and 518 and
-
-      the corresponding ATSs'
+    message: |
+      SC4 requests that the ISO Central Secretariat retain the 1994 editions of ISO 10303-41,
+      -42, -43, and -44 in order to support parts 104, 204, 205, 209, 213 and 518 and
+      the corresponding ATSs.
     dates:
     - start: '1999-11-15'
       kind: effective
   - type: directs
-    message: 'SC 4 directs the Project Teams of the respective parts to
-
-      modify their documents to reflect this decision.'
+    message: |
+      SC4 directs the Project Teams of the respective parts to modify their documents to
+      reflect this decision.
     dates:
     - start: '1999-11-15'
       kind: effective
 - identifier: '424'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: EXPRESS Amendment
+  title: Ballot EXPRESS amendment to support modularization as DIS
   dates:
   - start: '1999-11-15'
     kind: decision
   actions:
   - type: resolves
-    message: EXPRESS Amendment
-    dates:
-    - start: '1999-11-15'
-      kind: effective
-  - type: resolves
-    message: 'SC 4 resolves that the proposed amendment (WG 11N084 as amended) to ISO
-
-      10303- 11(1994) EXPRESS to support modularization be balloted as a DIS and
-
+    message: |
+      SC4 resolves that the proposed amendment (WG 11N084 as amended) to ISO
+      10303-11(1994) EXPRESS to support modularization be balloted as a DIS and
       incorporated in a new document with Technical Corrigendum 1 and Technical
-
-      Corrigendum 2 for publication.'
+      Corrigendum 2 for publication.
     dates:
     - start: '1999-11-15'
       kind: effective
 - identifier: '425'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Recognition of Joint OMG/SC 4 Harmonization Activity
+  title: Support continuation of joint OMG/SC 4 harmonization activity
   dates:
   - start: '1999-11-15'
     kind: decision
   actions:
-  - type: resolves
-    message: Recognition of Joint OMG/SC 4 Harmonization Activity
-    dates:
-    - start: '1999-11-15'
-      kind: effective
   - type: recognizes
-    message: 'SC 4 recognizes and supports the continuation of the harmonization activity by the
-
-      OMG Manufacturing Domain Task Force and members of the SC 4 community SC
-
-      4 requests that members disseminate information about this white paper and the
-
-      OMG/ harmonization activity in general.'
+    message: |
+      SC4 recognizes and supports the continuation of the harmonization activity by the
+      OMG Manufacturing Domain Task Force and members of the SC4 community. SC4
+      requests that members disseminate information about this white paper and the
+      OMG harmonization activity in general.
     dates:
     - start: '1999-11-15'
       kind: effective
 - identifier: '426'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Minor Revision Process Update for SC 4 Handbook
+  title: Update Minor Revision process in SC 4 Handbook
   dates:
   - start: '1999-11-15'
     kind: decision
   actions:
-  - type: resolves
-    message: Minor Revision Process Update for SC 4 Handbook
-    dates:
-    - start: '1999-11-15'
-      kind: effective
   - type: requests
-    message: 'SC 4 requests the Secretary to make the following changes to Clause 3.1.3 Revision
-
-      of the SC 4 Handbook.
+    message: |
+      SC4 requests the Secretary to make the following changes to Clause 3.1.3 Revision
+      of the SC4 Handbook.
 
       1. Replace Clause 3.1.3 with the following text:
 
       A revision to an International Standard results in the publication of a new edition of
-
-      the standard. Revisions may take one of two forms.
-
-
-      Revision
-
-      Minor
-
-      Revision
+      the standard. Revisions may take one of two forms: Revision and Minor Revision.
 
       3.1.3.1 Revision
 
       A revision is developed when the extent and scope of the changes being made make
-
       it impractical to publish the changes in the form of an amendment.
 
       The procedure for authorizing, developing and approving a revision shall be as
-
       described in clauses 2.3 through 2.7 of this handbook.
 
       3.1.3.2 Minor Revision
 
       A minor revision is developed when there are no fundamental changes to the existing
-
-      International Standard and when a)the use of a Technical Corrigenda is not justified as
-
-      described in IDP1, 2.10.1 or b)the cost and time for a full revision as described in
-
-      clause
-
-      3.1.3.1 of this handbook is not justified.
+      International Standard and when a) the use of a Technical Corrigenda is not justified as
+      described in IDP1, 2.10.1 or b) the cost and time for a full revision as described in
+      clause 3.1.3.1 of this handbook is not justified.
 
       The procedure for authorizing, developing and approving a minor revision is not
-
-      described in the ISO Directives.  The ISO Technical Officer for SC 4 describes the
-
+      described in the ISO Directives. The ISO Technical Officer for SC4 describes the
       process as: a) Develop a completely new document, b) Forward the document to
+      ISO with a certification by the SC4 Secretary that there are not fundamental
+      changes and request publication as a minor revision, c) ISO will ballot as an FDIS
+      and upon a successful ballot publish as a new edition of the International Standard.
 
-      ISO with a certification by the SC 4 Secretary that there are not fundamental
-
-      changes and
-
-      request publication as a minor revision, c) ISO will ballot as an FDIS and upon a
-
-      successful ballot publish as a new edition of the International Standard.
-
-      Within SC 4, the proposer shall seek the advice of the Change Management Advisory
-
-      Committee. They will provide to the committee:  a) An explanation of the need for the
-
+      Within SC4, the proposer shall seek the advice of the Change Management Advisory
+      Committee. They will provide to the committee: a) An explanation of the need for the
       minor revision as documented in SEDS reports, b) an explanation of the expected
-
       changes to the standard and why the resulting documents will not make a fundamental
-
       change to the existing international standard and c) the schedule and resources for
-
       producing the required document.
 
       Upon acceptance of the information provided, the Change Management Committee
-
-      will advise the Secretary to draft a resolution for SC 4 to authorize the commencement
-
+      will advise the Secretary to draft a resolution for SC4 to authorize the commencement
       of work on the minor revision.
 
-      Approval by SC 4 shall require the same level of approval as the current level of
-
+      Approval by SC4 shall require the same level of approval as the current level of
       approval for an FDIS ballot.
 
-      When the document is completed, complying with SC 4 procedures and check-off, the
-
-
+      When the document is completed, complying with SC4 procedures and check-off, the
       Secretary will forward the document to ISO CS for ballot circulation as a minor
-
       revision.
 
       2. Replace the reference in clause 3.2 to the QC Change Management Committee and
-
       the reference in clause 3.1 to the Change Management Team of the Quality Committee
-
-      in clause 3.1 with a reference to the Change Management Advisory Committee'
+      with a reference to the Change Management Advisory Committee.
     dates:
     - start: '1999-11-15'
       kind: effective
 - identifier: '427'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Electronic Balloting
+  title: Identify actions to migrate SC 4 to electronic balloting
   dates:
   - start: '1999-11-15'
     kind: decision
   actions:
-  - type: resolves
-    message: Electronic Balloting
-    dates:
-    - start: '1999-11-15'
-      kind: effective
   - type: instructs
-    message: 'SC 4 instructs the Secretariat to identify actions necessary to migrate to a totally
-
-      electronic operation of SC 4 as soon as feasible and to prepare any necessary
-
-      proposals for approval at Melbourne.'
+    message: |
+      SC4 instructs the Secretariat to identify actions necessary to migrate to a totally
+      electronic operation of SC4 as soon as feasible and to prepare any necessary
+      proposals for approval at Melbourne.
     dates:
     - start: '1999-11-15'
       kind: effective
 - identifier: '428'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Balloting of Technical Specifications
+  title: Amend Organization Handbook regarding balloting of Technical Specifications
   dates:
   - start: '1999-11-15'
     kind: decision
   actions:
-  - type: resolves
-    message: Balloting of Technical Specifications
-    dates:
-    - start: '1999-11-15'
-      kind: effective
   - type: approves
-    message: 'SC 4 approves the following amendments to the Organization Handbook (changes in
-
+    message: |
+      SC4 approves the following amendments to the Organization Handbook (changes in
       italics):
 
       Clause 2.1:
-
-      Amend the current text:  30 Committee Stage: Consensus is achieved on a Committee
-
+      Amend the current text: 30 Committee Stage: Consensus is achieved on a Committee
       Draft (CD) or preliminary Draft Technical Specification (PDTS);
-
       Insert: Technical Specifications pass directly from the Committee Stage to the
-
-      Publication Stage
+      Publication Stage.
 
       Clause 2.5:
-
       Amend the current text:
-
       The Committee Stage begins with the circulation for formal ballot of the CD or TS
+      document by the SC4 Secretariat.
 
-      document by the SC 4 Secretariat'
-    dates:
-    - start: '1999-11-15'
-      kind: effective
-  - type: resolves
-    message: 'The SC 4 Secretariat shall not begin the
+      The SC4 Secretariat shall not begin the Committee Stage until an electronic form is
+      available for review by SC4. A four-month voting period, which may be extended to
+      six months, is used for the first ballot. After each ballot, the Project team and
+      Editor prepare a revised document that resolves the ballot comments received. A
+      technical and editorial review of the revised document is conducted within the
+      Project.
 
-      Committee Stage until an electronic form is available for review by SC 4. A four-
-
-      month voting period, which may be extended to six months, is used for the first ballot.
-
-      After each ballot, the Project team and Editor prepare a revised document that
-
-      resolves the ballot comments received. A technical and editorial review of the revised
-
-      document is conducted within the Project'
-    dates:
-    - start: '1999-11-15'
-      kind: effective
-  - type: resolves
-    message: 'The SC 4 Quality Manual provides
-
-      procedures and guidelines for preparation of the document and for review of its
-
-      content. The Project Leader and the Working Group Convener review and approve
-
-      the document using the checklists provided by the Quality Committee before the next
-
-
-      stage of balloting starts.
+      The SC4 Quality Manual provides procedures and guidelines for preparation of the
+      document and for review of its content. The Project Leader and the Working Group
+      Convener review and approve the document using the checklists provided by the
+      Quality Committee before the next stage of balloting starts.
 
       For a TS, the Chairman and Secretariat, in conjunction with the Project Leader,
-
       assess the nature of any comments and decide whether to either
-
       (a) submit the revised document to ISO for publication as a TS, and prepare a report
-
-      for SC 4 how all the comments have been addressed, or
-
+      for SC4 how all the comments have been addressed, or
       (b) resubmit the document for a further CD ballot.
 
-      Clauses 6.2.4, 7.6, 8.2: Add TS to CD in the list of documents'
+      Clauses 6.2.4, 7.6, 8.2: Add TS to CD in the list of documents.
     dates:
     - start: '1999-11-15'
       kind: effective
-  - type: resolves
-    message: .
-    dates:
-    - start: '1999-11-15'
-      kind: effective
-  - type: resolves
-    message: 'SC 4 further requests its secretariat to make the corresponding changes to the SC 4
-
-      web pages.'
+  - type: requests
+    message: |
+      SC4 further requests its secretariat to make the corresponding changes to the SC4
+      web pages.
     dates:
     - start: '1999-11-15'
       kind: effective
 - identifier: '429'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Reconfirmation of Conveners
+  title: Reconfirm conveners for WG 11, WG 8, and WG 2
   dates:
   - start: '1999-11-15'
     kind: decision
   actions:
-  - type: resolves
-    message: 'Reconfirmation of Conveners
-
+  - type: confirms
+    message: |
+      SC4 reconfirms the following conveners:
       David Price as Deputy Convener WG 11
-
       Christophe Viel WG 11
-
-      Jean Jacques Michel WG
-
-      8 Gerd Ehinger WG 2'
+      Jean Jacques Michel WG 8
+      Gerd Ehinger WG 2
     dates:
     - start: '1999-11-15'
       kind: effective
 - identifier: '430'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Liaison with PLCS, Inc.
+  title: Establish Category A liaison with PLCS, Inc. and appoint John Dunford
   dates:
   - start: '1999-11-15'
     kind: decision
   actions:
-  - type: resolves
-    message: Liaison with PLCS, Inc
-    dates:
-    - start: '1999-11-15'
-      kind: effective
-  - type: resolves
-    message: .
-    dates:
-    - start: '1999-11-15'
-      kind: effective
   - type: accepts
-    message: 'SC 4 accepts the request of PLCS, Inc. to establish a Category liaison from PLCS,
-
-      Inc. to SC 4 and appoints John Dunford as liaison officer.'
+    message: |
+      SC4 accepts the request of PLCS, Inc. to establish a Category liaison from PLCS,
+      Inc. to SC4 and appoints John Dunford as liaison officer.
     dates:
     - start: '1999-11-15'
       kind: effective
 - identifier: '431'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Additional Liaison to OMG
+  title: Authorize Bernd Wenzel as SC 4 representative to OMG
   dates:
   - start: '1999-11-15'
     kind: decision
   actions:
-  - type: resolves
-    message: Additional Liaison to OMG
-    dates:
-    - start: '1999-11-15'
-      kind: effective
-  - type: resolves
-    message: 'SC 4 authorizes Bernd Wenzel to act as the representative of SC 4 in his contacts
-
-      with OMG regarding modelling language requirements.'
+  - type: approves
+    message: |
+      SC4 authorizes Bernd Wenzel to act as the representative of SC4 in his contacts
+      with OMG regarding modelling language requirements.
     dates:
     - start: '1999-11-15'
       kind: effective
 - identifier: '432'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Liaison between ISO/TC 184/SC 4 and INCOSE
+  title: Establish Category A liaison with INCOSE and appoint David Oliver
   dates:
   - start: '1999-11-15'
     kind: decision
   actions:
-  - type: resolves
-    message: Liaison between ISO/TC 184/SC 4 and INCOSE
-    dates:
-    - start: '1999-11-15'
-      kind: effective
   - type: approves
-    message: 'SC 4 approves a Category A liaison with INCOSE, appoints Mr. David Oliver as the
-
-      liaison officer, and requests that the SC 4 secretary confirm this liaison with the ISO
-
-      Central Secretariat.'
+    message: |
+      SC4 approves a Category A liaison with INCOSE, appoints Mr. David Oliver as the
+      liaison officer, and requests that the SC4 secretary confirm this liaison with the ISO
+      Central Secretariat.
     dates:
     - start: '1999-11-15'
       kind: effective
 - identifier: '433'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: ISO 10303-518 Preparation as a DIS
+  title: Authorize ISO 10303-518 Project Leader to prepare DIS document
   dates:
   - start: '1999-11-15'
     kind: decision
   actions:
-  - type: resolves
-    message: ISO 10303-518 Preparation as a DIS
-    dates:
-    - start: '1999-11-15'
-      kind: effective
-  - type: resolves
-    message: 'SC 4 authorizes the Project Leader for ISO 10303-518 to prepare the document as a
-
-      DIS.'
+  - type: approves
+    message: |
+      SC4 authorizes the Project Leader for ISO 10303-518 to prepare the document as a
+      DIS.
     dates:
     - start: '1999-11-15'
       kind: effective
 - identifier: '434'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Industrial Requirement to Introduce into ISO 10303 Structures for controlling...
+  title: Invite SC 1 WG 7 to jointly specify process flow requirements
   dates:
   - start: '1999-11-15'
     kind: decision
+  considerations:
+  - type: noting
+    message: |
+      SC4 notes the SC 1 requirements for the functionality's including, but not limited to
+      looping, branching, conditionals and parallel execution.
+    dates:
+    - start: '1999-11-15'
+      kind: effective
   actions:
-  - type: resolves
-    message: 'Industrial Requirement to Introduce into ISO 10303 Structures for controlling and
-
-      Changing the Flow of a Process'
-    dates:
-    - start: '1999-11-15'
-      kind: effective
-  - type: notes
-    message: 'SC 4 notes the SC 1 requirements for the functionality’s including, but not limited to
-
-      looping, branching, conditionals and parallel execution'
-    dates:
-    - start: '1999-11-15'
-      kind: effective
-  - type: resolves
-    message: .
-    dates:
-    - start: '1999-11-15'
-      kind: effective
-  - type: investigates
-    message: SC 4 invites SC 1 WG 7 to work jointly with SC 4 to specify these requirements
-    dates:
-    - start: '1999-11-15'
-      kind: effective
-  - type: resolves
-    message: .
+  - type: requests
+    message: |
+      SC4 invites SC 1 WG 7 to work jointly with SC4 to specify these requirements.
     dates:
     - start: '1999-11-15'
       kind: effective
   - type: requests
-    message: 'SC 4 requests SC 1 WG 7 to defer the DIS ballot on ISO 14649 in order to resolve
-
-      issues related to integration of its information models with SC 4 Standards.'
+    message: |
+      SC4 requests SC 1 WG 7 to defer the DIS ballot on ISO 14649 in order to resolve
+      issues related to integration of its information models with SC4 Standards.
+    dates:
+    - start: '1999-11-15'
+      kind: effective
+- identifier: 199911-acclaim-01
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank Michael Endres Jr. for his service as WG 12 Deputy Convener
+  dates:
+  - start: '1999-11-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC4 thanks Michael Endres Jr. for his efforts as Deputy Convener WG 12.
     dates:
     - start: '1999-11-15'
       kind: effective
 - identifier: '435'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: WG 12 Deputy Convenor
+  title: Approve Christian Donges as WG 12 Deputy Convener
   dates:
   - start: '1999-11-15'
     kind: decision
   actions:
-  - type: resolves
-    message: WG 12 Deputy Convenor
-    dates:
-    - start: '1999-11-15'
-      kind: effective
-  - type: thanks
-    message: 'SC 4 thanks Michael Endres Jr. for his efforts as Deputy Convener WG 12 and
-
-      approves Christian Donges as Deputy Convener of ISO/TC 184/SC 4/WG 12
-
-      “Common Resources”.'
+  - type: approves
+    message: |
+      SC4 approves Christian Donges as Deputy Convener of ISO/TC 184/SC 4/WG 12
+      "Common Resources".
     dates:
     - start: '1999-11-15'
       kind: effective
 - identifier: '436'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Proposal to allow Projects to enter Stage 3 ballot in HTML format
+  title: Allow SC 4 projects to enter Stage 3 ballot using HTML format
   dates:
   - start: '1999-11-15'
     kind: decision
   actions:
   - type: resolves
-    message: Proposal to allow Projects to enter Stage 3 ballot in HTML format
+    message: |
+      SC4 resolves to allow SC4 projects to enter their Stage 3 ballot with drafts
+      documented using HTML.
     dates:
     - start: '1999-11-15'
       kind: effective
   - type: resolves
-    message: 'SC 4 resolves to allow SC 4 projects to enter their Stage 3 ballot with drafts
-
-      documented using HTML'
+    message: |
+      SC4 resolves that the project be required to provide a printable review version of
+      the materials.
     dates:
     - start: '1999-11-15'
       kind: effective
   - type: resolves
-    message: 'SC 4 resolves that the project be required to provide a
-
-      printable review version of the materials'
-    dates:
-    - start: '1999-11-15'
-      kind: effective
-  - type: resolves
-    message: 'SC 4 resolves that these printable review
-
-      versions and the html versions of the materials be excepted from conformance to the
-
-      presentation requirements of the Supplementary Directives for ISO 10303. The
-
-      provisions of Resolution 395 with respect to the use of guidelines development by
-
-      the WG 10 STEP Modularization PWI remain in effect'
-    dates:
-    - start: '1999-11-15'
-      kind: effective
-  - type: resolves
-    message: .
+    message: |
+      SC4 resolves that these printable review versions and the html versions of the
+      materials be excepted from conformance to the presentation requirements of the
+      Supplementary Directives for ISO 10303. The provisions of Resolution 395 with
+      respect to the use of guidelines development by the WG 10 STEP Modularization PWI
+      remain in effect.
     dates:
     - start: '1999-11-15'
       kind: effective
   - type: instructs
-    message: 'SC 4 instructs the Quality Committee and the WG 10 STEP Modularization PWI Project
-
-      to provide advice on the use of html to present documents.'
+    message: |
+      SC4 instructs the Quality Committee and the WG 10 STEP Modularization PWI Project
+      to provide advice on the use of html to present documents.
     dates:
     - start: '1999-11-15'
       kind: effective
 - identifier: '437'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Proposal to split ISO 10303-27 into two parts and publish as Technical Specif...
+  title: Split ISO 10303-27 into two parts and publish as Technical Specifications
   dates:
   - start: '1999-11-15'
     kind: decision
   actions:
   - type: resolves
-    message: Proposal to split ISO 10303-27 into two parts and publish as Technical Specification
-    dates:
-    - start: '1999-11-15'
-      kind: effective
-  - type: resolves
-    message: 'SC 4 resolves that the technical content of ISO 10303-27 shall be published as two
-
+    message: |
+      SC4 resolves that the technical content of ISO 10303-27 shall be published as two
       separate parts and as Technical Specifications rather than as a single part as a Draft
-
       International Standard. Conformance Class 3 of ISO 10303-27 shall be published as
-
       ISO 10303-27 under the title of the current ISO 10303-27 and Conformance Class 1
-
       and 2 shall be published as ISO 10303-29 under the title of "Lightweight SDAI (
-
-      insert trademark) Java Programming Language Binding"'
-    dates:
-    - start: '1999-11-15'
-      kind: effective
-  - type: resolves
-    message: .
+      insert trademark) Java Programming Language Binding".
     dates:
     - start: '1999-11-15'
       kind: effective
   - type: directs
-    message: 'SC 4 directs the Secretariat to update the URL containing the titles of all ISO 10303
-
-      parts to reflect this change.'
+    message: |
+      SC4 directs the Secretariat to update the URL containing the titles of all ISO 10303
+      parts to reflect this change.
     dates:
     - start: '1999-11-15'
       kind: effective
 - identifier: '438'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Impact of New EXPRESS Document
+  title: Investigate impact and benefits of the new EXPRESS document
   dates:
   - start: '1999-11-15'
     kind: decision
   actions:
-  - type: resolves
-    message: Impact of New EXPRESS Document
-    dates:
-    - start: '1999-11-15'
-      kind: effective
   - type: requests
-    message: 'SC 4 requests its WGs to investigate the impact and benefits of the new Express
-
+    message: |
+      SC4 requests its WGs to investigate the impact and benefits of the new Express
       document (see resolution C) and to put forward NWIs for revising parts, as
-
-      appropriate.'
+      appropriate.
     dates:
     - start: '1999-11-15'
       kind: effective
-- identifier: '439'
+- identifier: 199911-acclaim-02
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Expression of Appreciation
+  title: Thank US PRO, Central Secretariat, and TC 184 Secretariat for their support
   dates:
   - start: '1999-11-15'
     kind: decision
   actions:
-  - type: resolves
-    message: Expression of Appreciation
-    dates:
-    - start: '1999-11-15'
-      kind: effective
-  - type: resolves
-    message: 'SC 4 wishes to express their appreciation:
+  - type: thanks
+    message: |
+      SC4 wishes to express their appreciation:
 
-      * To the US for hosting the New Orleans SC 4 meeting.  A special thanks goes
-
+      * To the US for hosting the New Orleans SC4 meeting. A special thanks goes
       to US PRO, Chuck Stark, and his staff for their assistance and support
-
       * To the Central Secretariat for providing support in the person of Ms
-
       Sophie Clivio, and
-
-      * To ISO/TC 184 Secretariat, Ms. Christine Hermetet-Filez, for participating in the SC 4 meeting.'
+      * To ISO/TC 184 Secretariat, Ms. Christine Hermetet-Filez, for participating in the SC4 meeting.
     dates:
     - start: '1999-11-15'
       kind: effective

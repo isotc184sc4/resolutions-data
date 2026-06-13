@@ -8,427 +8,257 @@ metadata:
 resolutions:
 - identifier: '736'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Reappointment of WG 11 Convener
+  title: Reappoint David Loffredo as WG 11 Convener
   dates:
   - start: '2008-03-15'
     kind: decision
   actions:
-  - type: resolves
-    message: Reappointment of WG 11 Convener
-    dates:
-    - start: '2008-03-15'
-      kind: effective
-  - type: appreciates
-    message: 'SC 4 appreciates and accepts the offer of David Loffredo to serve as Convener of WG
-
-      11'
-    dates:
-    - start: '2008-03-15'
-      kind: effective
-  - type: approves
-    message: 'SC 4 approves the nomination of David Loffredo to serve for an additional three
-
-      year term.'
+  - type: appoints
+    message: |
+      SC4 appreciates and accepts the offer of David Loffredo to serve as Convener of WG 11 and approves the nomination of David Loffredo to serve for an additional three year term.
     dates:
     - start: '2008-03-15'
       kind: effective
 - identifier: '737'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Schedule for AP 203
+  title: Establish schedule and ballot process for AP 203 ed2
   dates:
   - start: '2008-03-15'
     kind: decision
   actions:
-  - type: resolves
-    message: Schedule for AP 203
-    dates:
-    - start: '2008-03-15'
-      kind: effective
-  - type: notes
-    message: SC 4 notes that ISO/NP 10303-203 has passed the limit date for its DIS ballot
+  - type: agrees
+    message: |
+      SC4 agrees to the following dates for AP 203:
+      * 2008-03-21: target date for start of CD-TS ballot of AP 203 modules
+      * 2008-03-31: target date for submission of AP 203 ed 2 to ISO for DIS ballot
+      * 2008-05-23: requested date for national bodies to submit copies of their ballot comments on the AP 203 modules to the AP 203 project leader
+      * 2008-06-06: closing date for CD-TS ballot of AP 203 modules
+      * 2008-06-08 to 13: AP 203 module ballot comment resolution at SC4 Sun City meeting
+      * 2009-02-28: target date for stage 50 of AP 203 ed2
     dates:
     - start: '2008-03-15'
       kind: effective
   - type: agrees
-    message: 'SC 4
-
-      agrees to the following dates:
-
-      2008-03-21: target date for start of CD-TS ballot of AP 203 modules
-
-      2008-03-31: target date for submission of AP 203 ed 2 to ISO for DIS ballot
-
-      2008-05-23: requested date for national bodies to submit copies of their
-
-      ballot
-
-      comments on the AP 203 modules to the AP 203 project
-
-      leader 2008-06-06: closing date for CD-TS ballot of AP 203
-
-      modules
-
-      2008-06-08 to 13: AP 203 module ballot comment resolution at SC 4 Sun City
-
-      meeting
-
-      2009-02-28: target date for stage 50 of AP 203 ed2'
-    dates:
-    - start: '2008-03-15'
-      kind: effective
-  - type: agrees
-    message: 'SC 4 agrees that minor EXPRESS errors in AP 203 modules can be addressed
-
-      through ballot comments'
+    message: |
+      SC4 agrees that minor EXPRESS errors in AP 203 modules can be addressed through ballot comments.
     dates:
     - start: '2008-03-15'
       kind: effective
   - type: requests
-    message: 'SC 4 requests that technical comments on the AP 203 modules should be submitted
-
-      through the AP 203 module CD-TS ballot and not through the AP 203 DIS ballot'
-    dates:
-    - start: '2008-03-15'
-      kind: effective
-  - type: resolves
-    message: .
+    message: |
+      SC4 requests that technical comments on the AP 203 modules should be submitted through the AP 203 module CD-TS ballot and not through the AP 203 DIS ballot.
     dates:
     - start: '2008-03-15'
       kind: effective
   - type: requests
-    message: 'SC 4 requests its secretariat to update the ISO database with these target dates in
-
-      accordance with TMB Resolution 56/2007.'
+    message: |
+      SC4 requests its secretariat to update the ISO database with these target dates in accordance with TMB Resolution 56/2007.
+    dates:
+    - start: '2008-03-15'
+      kind: effective
+  considerations:
+  - type: noting
+    message: |
+      Noting that ISO/NP 10303-203 has passed the limit date for its DIS ballot
     dates:
     - start: '2008-03-15'
       kind: effective
 - identifier: '738'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Liaison to MIMOSA
+  title: Establish Category A liaison with MIMOSA and appoint Nils Sandsmark
   dates:
   - start: '2008-03-15'
     kind: decision
   actions:
   - type: resolves
-    message: Liaison to MIMOSA
-    dates:
-    - start: '2008-03-15'
-      kind: effective
-  - type: decides
-    message: SC 4 decides to create a Category A liaison to the MIMOSA organization
+    message: |
+      SC4 decides to create a Category A liaison to the MIMOSA organization.
     dates:
     - start: '2008-03-15'
       kind: effective
   - type: requests
-    message: 'SC 4
-
-      requests its secretariat to initiate the necessary actions. Subject to confirmation of
-
-      the liaison by ISO, SC 4 welcomes the offer of Nils Sandsmark to act as the liaison
-
-      officer from SC 4 to MIMOSA'
+    message: |
+      SC4 requests its secretariat to initiate the necessary actions.
     dates:
     - start: '2008-03-15'
       kind: effective
   - type: appoints
-    message: 'SC 4 appoints Nils Sandsmark as liaison officer.
-
-      The secretariat is requested to invite MIMOSA to nominate a liaison officer from
-
-      MIMOSA to SC 4'
+    message: |
+      Subject to confirmation of the liaison by ISO, SC4 welcomes the offer of Nils Sandsmark to act as the liaison officer from SC4 to MIMOSA and appoints Nils Sandsmark as liaison officer.
+    dates:
+    - start: '2008-03-15'
+      kind: effective
+  - type: requests
+    message: |
+      The secretariat is requested to invite MIMOSA to nominate a liaison officer from MIMOSA to SC4.
     dates:
     - start: '2008-03-15'
       kind: effective
 - identifier: '739'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Liaison to OASIS
+  title: Appoint Howard Mason as liaison officer to OASIS
   dates:
   - start: '2008-03-15'
     kind: decision
   actions:
-  - type: resolves
-    message: Liaison to OASIS
-    dates:
-    - start: '2008-03-15'
-      kind: effective
-  - type: welcomes
-    message: SC 4 welcomes the offer of Howard Mason to act as liaison officer to OASIS
-    dates:
-    - start: '2008-03-15'
-      kind: effective
   - type: appoints
-    message: 'SC 4
-
-      appoints Howard Mason as liaison officer to OASIS.'
+    message: |
+      SC4 welcomes the offer of Howard Mason to act as liaison officer to OASIS and appoints Howard Mason as liaison officer to OASIS.
     dates:
     - start: '2008-03-15'
       kind: effective
 - identifier: '740'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Cre a tio n of a T a sk Fo rce t o d e scrib e requ ire m e nts f o r “Cro ss...
+  title: Create Task Force for Cross-AP-Implementations requirements
   dates:
   - start: '2008-03-15'
     kind: decision
   actions:
-  - type: resolves
-    message: Cre a tio n of a T a sk Fo rce t o d e scrib e requ ire m e nts f o r “Cro ss -AP-Im p lem en ta tio n s”
-    dates:
-    - start: '2008-03-15'
-      kind: effective
-  - type: decides
-    message: 'SC 4 decides to establish an ad hoc Task Force to investigate how several modular
+  - type: creates
+    message: |
+      SC4 decides to establish an ad hoc Task Force to investigate how several modular and non-modular APs can be used in a single implementation. Members of the Task Force will be: Lothar Klein (Chair), Gerry Radack (WG 3), Keith Hunten (WG 12), Burt Gischner (PPC), and AP developers. Gerry Radack is requested to ask for members by a circular letter within WG 3.
 
-      and non-modular APs can be used in a single implementation. Members of the Task
-
-      Force will be: Lothar Klein (Chair), Gerry Radack (WG 3), Keith Hunten (WG 12), Burt
-
-      Gischner (PPC), and AP developers. Gerry Radack is requested to ask for members
-
-      by a circular letter within WG 3.
-
-      A report shall be made available by 2008-09-15. A verbal report is expected during
-
-      the meeting in November 2008.'
+      A report shall be made available by 2008-09-15. A verbal report is expected during the meeting in November 2008.
     dates:
     - start: '2008-03-15'
       kind: effective
 - identifier: '741'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Advancement of ISO 22745 Initial Set of Parts
+  title: Submit ISO 22745 initial set of parts for DIS ballot
   dates:
   - start: '2008-03-15'
     kind: decision
   actions:
-  - type: resolves
-    message: Advancement of ISO 22745 Initial Set of Parts
-    dates:
-    - start: '2008-03-15'
-      kind: effective
   - type: approves
-    message: 'SC 4 approves the submission of ISO/TS 22745 parts 1, 2, 11, 13 and 20 for ballot
-
-      as International Standards'
+    message: |
+      SC4 approves the submission of ISO/TS 22745 parts 1, 2, 11, 13 and 20 for ballot as International Standards.
     dates:
     - start: '2008-03-15'
       kind: effective
   - type: directs
-    message: 'SC 4 directs the project team to provide the Secretariat
-
-
-      with drafts for DIS balloting as soon as possible, and directs the Secretariat to
-
-      submit these parts to ISO for DIS ballot.'
+    message: |
+      SC4 directs the project team to provide the Secretariat with drafts for DIS balloting as soon as possible, and directs the Secretariat to submit these parts to ISO for DIS ballot.
     dates:
     - start: '2008-03-15'
       kind: effective
 - identifier: '742'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: URI defined by an SC 4 Standard
+  title: Ballot SC 4 N2265 URI standing document
   dates:
   - start: '2008-03-15'
     kind: decision
   actions:
-  - type: resolves
-    message: URI defined by an SC 4 Standard
-    dates:
-    - start: '2008-03-15'
-      kind: effective
   - type: requests
-    message: 'SC 4 requests its Secretariat to submit SC 4 N2265 "URI defined by an SC 4
-
-      standard" with changes agreed at the Louisville meeting for ballot as a standing
-
-      document.'
+    message: |
+      SC4 requests its Secretariat to submit SC4 N2265 "URI defined by an SC4 standard" with changes agreed at the Louisville meeting for ballot as a standing document.
     dates:
     - start: '2008-03-15'
       kind: effective
 - identifier: '743'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Ap p o in tm e n t of a ne w L iaiso n off icer b e twe e n I SO/T C 11 8 “Co...
+  title: Extend ISO/TC 118 liaison to SC 1 and welcome Gerd Koziel
   dates:
   - start: '2008-03-15'
     kind: decision
   actions:
-  - type: resolves
-    message: 'Ap p o in tm e n t of a ne w L iaiso n off icer b e twe e n I SO/T C 11 8 “Com p resso rs, p ne um a tic
-
-      to o ls an d p n eum a tic ma ch ine s” a n d I SO/T C 18 4 /S C 4 “Ind u stria l da ta ”
-
-      Further to Resolution 725, SC 4 welcomes Gerd Koziel as liaison officer from
-
-      ISO/TC 118 to ISO/TC 184/SC 4, and extends the liaison to include ISO/TC 118/SC
-
-      1.'
+  - type: welcomes
+    message: |
+      Further to Resolution 725, SC4 welcomes Gerd Koziel as liaison officer from ISO/TC 118 to ISO/TC 184/SC 4, and extends the liaison to include ISO/TC 118/SC 1.
     dates:
     - start: '2008-03-15'
       kind: effective
 - identifier: '744'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: L iaiso n to ISO/T C 17 1 “Do cu m en t m an a ge m en t ap p lica tion s”
+  title: Appoint Dr. King Yee as liaison officer to ISO/TC 171 and SC 2
   dates:
   - start: '2008-03-15'
     kind: decision
   actions:
-  - type: resolves
-    message: L iaiso n to ISO/T C 17 1 “Do cu m en t m an a ge m en t ap p lica tion s”
-    dates:
-    - start: '2008-03-15'
-      kind: effective
   - type: appoints
-    message: 'SC 4
-
-      appoints Dr Yee as the liaison officer to ISO/TC 171 and SC 2.'
+    message: |
+      SC4 appoints Dr King Yee as the liaison officer to ISO/TC 171 and SC 2.
     dates:
     - start: '2008-03-15'
       kind: effective
   - type: thanks
-    message: 'SC 4 thanks Dr King Yee for his offer to act as the liaison officer to ISO/TC 171
-
-      “Document management applications” and its SC 2 “Application issues”'
+    message: |
+      SC4 thanks Dr King Yee for his offer to act as the liaison officer to ISO/TC 171 "Document management applications" and its SC 2 "Application issues".
     dates:
     - start: '2008-03-15'
       kind: effective
 - identifier: '745'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: L iaiso n to ISO/T C 29 /W G 34 “Cuttin g to o l data rep rese n ta tio n a n...
+  title: Appoint Bengt Olsson as liaison officer to ISO/TC 29/WG 34
   dates:
   - start: '2008-03-15'
     kind: decision
   actions:
-  - type: resolves
-    message: L iaiso n to ISO/T C 29 /W G 34 “Cuttin g to o l data rep rese n ta tio n a nd e xch a n ge ”
-    dates:
-    - start: '2008-03-15'
-      kind: effective
-  - type: welcomes
-    message: 'SC 4 welcomes the offer of Bengt Olsson to act as liaison officer to ISO/TC 29/WG
-
-      34'
-    dates:
-    - start: '2008-03-15'
-      kind: effective
   - type: appoints
-    message: SC 4 appoints Bengt Olsson as liaison officer to ISO/TC 29/WG 34
+    message: |
+      SC4 welcomes the offer of Bengt Olsson to act as liaison officer to ISO/TC 29/WG 34 and appoints Bengt Olsson as liaison officer to ISO/TC 29/WG 34.
     dates:
     - start: '2008-03-15'
       kind: effective
-  - type: resolves
-    message: .
-    dates:
-    - start: '2008-03-15'
-      kind: effective
-  - type: recommends
-    message: 'SC 4 records its sincere thanks to Norman Swindells for his efforts and achievements
-
-      in acting as liaison officer.'
-    dates:
-    - start: '2008-03-15'
-      kind: effective
-- identifier: '746'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: ACKNOWLEDGEMENTS and APPRECIATIONS
-  dates:
-  - start: '2008-03-15'
-    kind: decision
-  actions:
-  - type: resolves
-    message: ACKNOWLEDGEMENTS and APPRECIATIONS
+  - type: thanks
+    message: |
+      SC4 records its sincere thanks to Norman Swindells for his efforts and achievements in acting as liaison officer.
     dates:
     - start: '2008-03-15'
       kind: effective
 - identifier: 200803-acclaim-01
   subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank SC 4 short report and Open Technical Forum presenters
   dates:
   - start: '2008-03-15'
     kind: decision
   actions:
   - type: thanks
-    message: 'Thank you to our SC 4 short report presenters at the opening plenary. We appreciate
+    message: |
+      SC4 expresses its thanks to our SC4 short report presenters at the opening plenary for their representation to and for ISO/TC 184/SC 4:
 
+      * OMG (David Price)
+      * PDES, Inc. (Jack Harris)
 
-      your representation to and for ISO/TC 184/SC 4.
+      SC4 also offers thanks to those external projects who presented their material at the Open Technical Forum:
 
-      OMG
-
-      David Price
-
-      PDES, Inc
-
-      Jack Harris
-
-      We also offer thanks to those external projects who presented their material at the
-
-      Open Technical Forum.
-
-      “Results of the S-TEN project to map STEP data models onto RDF/OWL”  Lothar
-
-      Klein “Beyond data models”
-
-      David Leal
-
-      “Binary, OMG EXPRESS, Ruby, OWL/RDF, DEXLib templets”
-
-      David
-
-      Price “Toward Data Quality Guarantee Data Exchange and Share” Akihiko Ohtaka
-
-      “History-based parametrics interface between CAD & CAE”
-
-      Ilhwan Song'
+      * "Results of the S-TEN project to map STEP data models onto RDF/OWL" (Lothar Klein)
+      * "Beyond data models" (David Leal)
+      * "Binary, OMG EXPRESS, Ruby, OWL/RDF, DEXLib templets" (David Price)
+      * "Toward Data Quality Guarantee Data Exchange and Share" (Akihiko Ohtaka)
+      * "History-based parametrics interface between CAD & CAE" (Ilhwan Song)
     dates:
     - start: '2008-03-15'
       kind: decision
 - identifier: 200803-acclaim-02
   subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank SC 4 Liaisons and Liaison Plenary presenters
   dates:
   - start: '2008-03-15'
     kind: decision
   actions:
   - type: thanks
-    message: 'Appreciation to our SC 4 Liaisons and those projects who presented at the Liaison
+    message: |
+      SC4 expresses its appreciation to our SC4 Liaisons and those projects who presented at the Liaison Plenary:
 
-      Plenary.
-
-      Steve Arnett –
-
-      NATO AC/135 -- “Building
-
-      Bridges” Peter Benson -- “ISO 8000-110 Certification
-
-      Program”
-
-      Nils Sandsmark –
-
-      “Implementation of ISO
-
-      15926” David Price –
-
-      “OMG Activities”'
+      * NATO AC/135 -- "Building Bridges" (Steve Arnett)
+      * "ISO 8000-110 Certification Program" (Peter Benson)
+      * "Implementation of ISO 15926" (Nils Sandsmark)
+      * "OMG Activities" (David Price)
     dates:
     - start: '2008-03-15'
       kind: decision
 - identifier: 200803-acclaim-03
   subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank ECCMA and Marriott Downtown for hosting the meeting
   dates:
   - start: '2008-03-15'
     kind: decision
   actions:
   - type: thanks
-    message: 'SC 4 expresses its appreciation to ECCMA -- The Electronic Commerce Code
+    message: |
+      SC4 expresses its appreciation to ECCMA -- The Electronic Commerce Code Management Association for its hosting of the 54th ISO/TC 184/SC 4 Plenary Meeting at the Marriott Downtown, Louisville, Kentucky. Mr. Peter Benson, Executive Director, Mr. Dan King, Chief Operating Officer; and Ms Melissa Scheib, Marketing and Events Manager for an excellent venue and outstanding service to the SC4 community.
 
-      Management Association for its hosting of the 54th ISO/TC 184/SC 4 Plenary
-
-      Meeting at the Marriott Downtown, Louisville, Kentucky.  Mr. Peter Benson,
-
-      Executive Director, Mr. Dan King, Chief Operating Officer; and Ms Melissa Scheib,
-
-      Marketing and Events Manager for an excellent venue and outstanding service to
-
-      the SC 4 community .
-
-      Special acknowledgement is extended to the Marriott Downtown, Louisville and its
-
-      staff for their seamless support.'
+      Special acknowledgement is extended to the Marriott Downtown, Louisville and its staff for their seamless support.
     dates:
     - start: '2008-03-15'
       kind: decision

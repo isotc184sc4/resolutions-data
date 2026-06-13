@@ -1,3 +1,4 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
 metadata:
   title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Gothenburg, Sweden, June 25, 1990 -- July 5, 1990
   dates:
@@ -9,512 +10,377 @@ metadata:
 resolutions:
 - identifier: '60'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: the Strategic Planning Advisory Group with carrying out the intent of SC
+  title: Instruct SPAG to resolve EIA petition to IEC
   dates:
   - start: '1990-06-15'
     kind: decision
   actions:
-  - type: chairs
-    message: 'SC 4 charges the Strategic Planning Advisory Group with carrying out the intent of SC
-
+  - type: instructs
+    message: |
+      SC 4 charges the Strategic Planning Advisory Group with carrying out the intent of SC
       4 Resolution 44 (Electrical Harmonization), particularly working toward a resolution of
-
       the developing situation with regard to the EIA petition to IEC (dated April 12, 1990).
-
-      (USA)'
+      (USA)
     dates:
     - start: '1990-06-15'
       kind: effective
 - identifier: '61'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: its electrical project leader to develop one or more electrical schematic
+  title: Ask electrical project leader to develop electrical schematic APs
   dates:
   - start: '1990-06-15'
     kind: decision
   actions:
   - type: asks
-    message: 'SC 4 asks its electrical project leader to develop one or more electrical schematic
-
+    message: |
+      SC 4 asks its electrical project leader to develop one or more electrical schematic
       application protocols based upon documented efforts such as the German VNS, the
-
-      French SET electrical, the IEC/TC 3, and the U.S. IGES and EDIF electrical projects.'
+      French SET electrical, the IEC/TC 3, and the U.S. IGES and EDIF electrical projects.
     dates:
     - start: '1990-06-15'
       kind: effective
 - identifier: '62'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: 'the following recommendation of the ad hoc Application Protocols group:'
+  title: Adopt recommendation for STEP Version 1.0 Application Protocols
   dates:
   - start: '1990-06-15'
     kind: decision
   actions:
   - type: adopts
-    message: 'SC 4 adopts the following recommendation of the ad hoc Application Protocols group:
-
+    message: |
+      SC 4 adopts the following recommendation of the ad hoc Application Protocols group:
+      
       Following the WG 1 decision that STEP Version 1.0 must include at least one
-
-      draughting related AP, the SC 4 ad hoc group on Apes recommends that STEP
-
-      Version
-
-      1.0 should include the proposed AP #3,
-
+      draughting related AP, the SC 4 ad hoc group on APs recommends that STEP
+      Version 1.0 should include the proposed AP #3,
       "Exchange of 2D geometrically explicit CAD drawings with explicit annotation."
-
-
+      
       Proposed AP #3 is the top priority for STEP Version 1.0. The proposed APs #4, 5, 6 &
-
-      18 should be reviewed by the end of October 1990 to assess their adequacy.  These
-
+      18 should be reviewed by the end of October 1990 to assess their adequacy. These
       APs could be included in STEP Version 1.0 if they do not require extensive SC 4
-
       resources for completion. None of these APs shall be allowed to delay the delivery of
-
       STEP Version 1.0.
-
+      
       NB.: PMAG must assign the responsibility for assessing the adequacy of the proposed
-
       APs to the new WG, "Qualification & Integration."
-
-      AP # 4
-
-      Exchange of CAD drawings with reference to 3D geometry
-
-      model and
-
-      with explicit annotation
-
-      AP # 5
-
-      Exchange of configuration controlled 3D product definition
-
-      data AP # 6 Exchange of sculptured surface models
-
-      AP #18
-
-      Exchange of boundary representation models'
+      
+      * AP #4 Exchange of CAD drawings with reference to 3D geometry model and with explicit annotation
+      * AP #5 Exchange of configuration controlled 3D product definition data 
+      * AP #6 Exchange of sculptured surface models
+      * AP #18 Exchange of boundary representation models
     dates:
     - start: '1990-06-15'
       kind: effective
 - identifier: '63'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: 'the following recommendation of the ad hoc Application Protocols group:'
+  title: Assign AP project leaders for APs 3, 5, and 18
   dates:
   - start: '1990-06-15'
     kind: decision
   actions:
   - type: adopts
-    message: 'SC 4 adopts the following recommendation of the ad hoc Application Protocols group:
-
+    message: |
+      SC 4 adopts the following recommendation of the ad hoc Application Protocols group:
+      
       In order to ensure the timely delivery of APs, a project leader must be assigned for
-
       each of the APs listed in Resolution # 62. The project leaders will report directly to
-
-      the PMAG'
-    dates:
-    - start: '1990-06-15'
-      kind: effective
-  - type: resolves
-    message: .
+      the PMAG.
     dates:
     - start: '1990-06-15'
       kind: effective
   - type: appoints
-    message: 'SC 4 appoints Bruno Schilli as project leader for AP #3'
-    dates:
-    - start: '1990-06-15'
-      kind: effective
-  - type: resolves
-    message: .
+    message: |
+      SC 4 appoints Bruno Schilli as project leader for AP #3.
     dates:
     - start: '1990-06-15'
       kind: effective
   - type: appoints
-    message: 'SC 4 appoints Steve Ryan as project leader for AP #5'
-    dates:
-    - start: '1990-06-15'
-      kind: effective
-  - type: resolves
-    message: .
+    message: |
+      SC 4 appoints Steve Ryan as project leader for AP #5.
     dates:
     - start: '1990-06-15'
       kind: effective
   - type: appoints
-    message: 'SC 4 appoints Ray Goult as project leader for AP #18.
-
-      The PMAG will appoint project leaders for APs #4 and #6 as soon as possible by the
-
-      PMAG, to be confirmed by SC 4.'
+    message: |
+      SC 4 appoints Ray Goult as project leader for AP #18.
+      
+      The PMAG will appoint project leaders for APs #4 and #6 as soon as possible, to be confirmed by SC 4.
     dates:
     - start: '1990-06-15'
       kind: effective
 - identifier: '64'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: As well as the need for normative APs, SC 4 recognizes that there exists an i...
+  title: Define guidelines for AP development outside SC 4
   dates:
   - start: '1990-06-15'
     kind: decision
-  actions:
-  - type: resolves
-    message: 'As well as the need for normative APs, SC 4 recognizes that there exists an industrial
-
+  considerations:
+  - type: recognizing
+    message: |
+      As well as the need for normative APs, SC 4 recognizes that there exists an industrial
       requirement for additional APs to be defined outside the SC 4 organization at the
-
-      industry, national, or regional level'
+      industry, national, or regional level.
     dates:
     - start: '1990-06-15'
       kind: effective
+  actions:
   - type: requests
-    message: 'SC 4 requests the PMAG to define requirements
-
+    message: |
+      SC 4 requests the PMAG to define requirements
       for guidelines to permit the development of APs both inside and outside SC 4.
-
       Provision should also be made for the registration of APs with SC 4 to ensure the
-
-      consistency of related standards.'
+      consistency of related standards.
     dates:
     - start: '1990-06-15'
       kind: effective
 - identifier: '65'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: the reorganization structure as proposed by the ad hoc reorganization
+  title: Adopt reorganization structure and disband WG 1
   dates:
   - start: '1990-06-15'
     kind: decision
   actions:
   - type: adopts
-    message: 'SC 4 adopts the reorganization structure as proposed by the ad hoc reorganization
-
+    message: |
+      SC 4 adopts the reorganization structure as proposed by the ad hoc reorganization
       group in Reston. The current WG 1 is to be disbanded, effective at the end of the
-
       Gothenburg meeting, and its current work is to be allocated to the following new
-
       working groups:
-
-      WG 3 Product Modeling
-
-      WG 4 Qualification & Integration WG 5
-
-      STEP Development Methods
-
-      WG 6 Conformance Testing
-
-      Procedures WG 7 Implementation
-
-      Specifications'
+      
+      * WG 3 Product Modeling
+      * WG 4 Qualification & Integration
+      * WG 5 STEP Development Methods
+      * WG 6 Conformance Testing Procedures
+      * WG 7 Implementation Specifications
     dates:
     - start: '1990-06-15'
       kind: effective
-- identifier: '66'
+- identifier: 199006-acclaim-01
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: the WG 1 convener, Mr Jerry Weiss, for his pioneering leadership and
+  title: Thank Jerry Weiss for his leadership of WG 1
   dates:
   - start: '1990-06-15'
     kind: decision
   actions:
   - type: thanks
-    message: 'SC 4 thanks the WG 1 convener, Mr Jerry Weiss, for his pioneering leadership and
-
+    message: |
+      SC 4 thanks the WG 1 convener, Mr Jerry Weiss, for his pioneering leadership and
       personal dedication to the STEP development over the last six years, and looks
-
       forward to his continuing support as Project Management Advisory Group convener in
-
-      the future.'
+      the future.
     dates:
     - start: '1990-06-15'
       kind: effective
 - identifier: '67'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: 'the following working group conveners:'
+  title: Appoint conveners for WG 3 through 7
   dates:
   - start: '1990-06-15'
     kind: decision
   actions:
   - type: appoints
-    message: 'SC 4 appoints the following working group conveners:
-
-      WG 3 Product Modeling: Barbara Warthen (USA)
-
-      WG 4 Qualification & Integration: Yuhwei Yang
-
-      (USA)
-
-      WG 5 STEP Development Methods: Bill Danner (USA)
-
-      WG 6 Conformance Testing Procedures: Jon Owen
-
-      (UK)
-
-      WG 7 Implementation Specifications: Jan van Maanen (UK)'
+    message: |
+      SC 4 appoints the following working group conveners:
+      
+      * WG 3 Product Modeling: Barbara Warthen (USA)
+      * WG 4 Qualification & Integration: Yuhwei Yang (USA)
+      * WG 5 STEP Development Methods: Bill Danner (USA)
+      * WG 6 Conformance Testing Procedures: Jon Owen (UK)
+      * WG 7 Implementation Specifications: Jan van Maanen (UK)
     dates:
     - start: '1990-06-15'
       kind: effective
 - identifier: '68'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: STEP Version 1
+  title: Define the parts that comprise STEP Version 1.0
   dates:
   - start: '1990-06-15'
     kind: decision
   actions:
   - type: resolves
-    message: 'SC 4 resolves that STEP Version 1.0 comprises the following parts:
-
-      Overview
-
-      (Part 1)
-
-      Express
-
-      (Part 11)
-
-      Physical File
-
-      (Part 21)
-
-      Conformance Testing
-
-      (Part
-
-      31) Generic Product Data Model (Part
-
-      41) Shape Representation
-
-      (Part
-
-      42) Presentation
-
-      (Part 46)
-
-      Drafting
-
-      (Part 101)
-
-      and one or more Application Protocols as per Resolution # 62.
-
+    message: |
+      SC 4 resolves that STEP Version 1.0 comprises the following parts:
+      
+      * Overview (Part 1)
+      * Express (Part 11)
+      * Physical File (Part 21)
+      * Conformance Testing (Part 31)
+      * Generic Product Data Model (Part 41)
+      * Shape Representation (Part 42)
+      * Presentation (Part 46)
+      * Drafting (Part 101)
+      * and one or more Application Protocols as per Resolution # 62.
+      
       Additional parts may be considered for Version 1.0; however, no additional part will be
-
       included if its inclusion will result in a schedule slippage.
-
-      Moreover, if there is slippage in the adopted schedule of any part in the above list, then SC 4 may vote to defer that part to a future version of STEP'
-  - type: resolves
-    message: .
+      
+      Moreover, if there is slippage in the adopted schedule of any part in the above list, then SC 4 may vote to defer that part to a future version of STEP.
     dates:
     - start: '1990-06-15'
       kind: effective
   - type: recognizes
-    message: 'SC 4 recognizes the importance of both the documentation architecture and the
-
-
+    message: |
+      SC 4 recognizes the importance of both the documentation architecture and the
       schema framework, and directs the PMAG to ensure their inclusion in STEP Version
-
-      1.0.'
+      1.0.
     dates:
     - start: '1990-06-15'
       kind: effective
 - identifier: '69'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: the project leaders who are responsible for the development of the
+  title: Direct project leaders to complete STEP parts for CD ballot
   dates:
   - start: '1990-06-15'
     kind: decision
   actions:
   - type: directs
-    message: 'SC 4 directs the project leaders who are responsible for the development of the
-
+    message: |
+      SC 4 directs the project leaders who are responsible for the development of the
       following STEP parts to complete their documents both technically and editorially, for
-
-      CD ballot by December 1990.
-
-      Overview
-
-      (Part 1)
-
-      Physical File
-
-      (Part 21)
-
-      Conformance Testing
-
-      (Part
-
-      31)
-
-      Shape Representation
-
-      (Part 42)'
+      CD ballot by December 1990:
+      
+      * Overview (Part 1)
+      * Physical File (Part 21)
+      * Conformance Testing (Part 31)
+      * Shape Representation (Part 42)
     dates:
     - start: '1990-06-15'
       kind: effective
   - type: directs
-    message: 'SC 4 directs the project leaders who are responsible for the development of the
-
+    message: |
+      SC 4 directs the project leaders who are responsible for the development of the
       following STEP parts to complete their documents both technically and editorially, as
-
-      early as possible in 1991 for CD ballot, completing them no later than July 1991.
-
-      Generic Product Data Model
-
-      (Part 41)
-
-      Presentation
-
-      (Part 46)
-
-      Drafting
-
-      (Part 101)
-
-      AP #3
-
-      (Exchange of 2D geometrically explicit CAD drawings with explicit
-
-      annotation)'
+      early as possible in 1991 for CD ballot, completing them no later than July 1991:
+      
+      * Generic Product Data Model (Part 41)
+      * Presentation (Part 46)
+      * Drafting (Part 101)
+      * AP #3 (Exchange of 2D geometrically explicit CAD drawings with explicit annotation)
     dates:
     - start: '1990-06-15'
       kind: effective
 - identifier: '70'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: PMAG to organize the work of the Working Groups in order to achieve
+  title: Direct PMAG to organize WG work to achieve CD ballot goals
   dates:
   - start: '1990-06-15'
     kind: decision
   actions:
   - type: directs
-    message: 'SC 4 directs PMAG to organize the work of the Working Groups in order to achieve
-
+    message: |
+      SC 4 directs PMAG to organize the work of the Working Groups in order to achieve
       the goals in Resolutions # 68 and # 69.
-
-      1 This resolution was originally passed and designated as Resolution 70: (Gothenburg #11, June 1990). During the
-
-      transition of the Secretary from one leader to the next (1995), the list of resolutions inherited by the new secretary
-
-      was missing this particular resolution. As of 1997-03-18, the current secretary was given an old hard copy of early
-
-      resolutions and was able to identify the dropped resolution. However, because the current numbering of
-
-      resolutions has proliferated into many documents, the secretary deemed it best to insert the original resolution
-
-
-      #70 as #69a.'
+      
+      NOTE: This resolution was originally passed and designated as Resolution 70: (Gothenburg #11, June 1990). During the transition of the Secretary from one leader to the next (1995), the list of resolutions inherited by the new secretary was missing this particular resolution. As of 1997-03-18, the current secretary was given an old hard copy of early resolutions and was able to identify the dropped resolution. However, because the current numbering of resolutions has proliferated into many documents, the secretary deemed it best to insert the original resolution #70 as #69a.
     dates:
     - start: '1990-06-15'
       kind: effective
 - identifier: '71'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Part 11 EXPRESS (WG 1 N496) as the first CD of the STEP work item
+  title: Welcome Part 11 EXPRESS as first Committee Draft of STEP
   dates:
   - start: '1990-06-15'
     kind: decision
   actions:
   - type: welcomes
-    message: SC 4 welcomes Part 11 EXPRESS (WG 1 N496) as the first CD of the STEP work item.
+    message: |
+      SC 4 welcomes Part 11 EXPRESS (WG 1 N496) as the first CD of the STEP work item.
     dates:
     - start: '1990-06-15'
       kind: effective
 - identifier: '72'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Whereas the new ISO/IEC procedures in 2
+  title: Require CDs circulated within SC 4 to be circulated for ballot
   dates:
   - start: '1990-06-15'
     kind: decision
+  considerations:
+  - type: considering
+    message: |
+      Whereas the new ISO/IEC procedures in 2.4.1 allow the circulation of documents for
+      comment or for voting by P members on their approval as Committee Drafts (CDs),
+    dates:
+    - start: '1990-06-15'
+      kind: effective
   actions:
   - type: resolves
-    message: 'Whereas the new ISO/IEC procedures in 2.4.1 allow the circulation of documents for
-
-      comment or for voting by P members on their approval as Committee Drafts (CDs),
-
-      CDs circulated within SC 4 shall only be circulated for ballot.'
+    message: |
+      CDs circulated within SC 4 shall only be circulated for ballot.
     dates:
     - start: '1990-06-15'
       kind: effective
 - identifier: '73'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: accept for ballot a new work item on industrial manufacturing
+  title: Accept new work item on industrial manufacturing management data
   dates:
   - start: '1990-06-15'
     kind: decision
   actions:
-  - type: resolves
-    message: 'SC 4 moves to accept for ballot a new work item on industrial manufacturing
-
-      management data (SC 4 N60, submitted by France).'
+  - type: accepts
+    message: |
+      SC 4 moves to accept for ballot a new work item on industrial manufacturing
+      management data (SC 4 N60, submitted by France).
     dates:
     - start: '1990-06-15'
       kind: effective
 - identifier: '74'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: 'Terms of reference item "c" for the PMAG that is defined in SC 4 Resolution #...'
+  title: Amend PMAG terms of reference item "c"
   dates:
   - start: '1990-06-15'
     kind: decision
   actions:
   - type: resolves
-    message: 'Terms of reference item "c" for the PMAG that is defined in SC 4 Resolution # 49 shall
-
+    message: |
+      Terms of reference item "c" for the PMAG that is defined in SC 4 Resolution # 49 shall
       be changed so that it shall read, "coordinate activities between Product Data Definition
-
-      Working Groups and the Editing Committee."'
+      Working Groups and the Editing Committee."
     dates:
     - start: '1990-06-15'
       kind: effective
 - identifier: '75'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: an Editing Committee to finalise the texts of the Parts of the STEP
+  title: Establish new Editing Committee for STEP Parts and define its tasks
   dates:
   - start: '1990-06-15'
     kind: decision
   actions:
   - type: establishes
-    message: 'SC 4 establishes an Editing Committee to finalise the texts of the Parts of the STEP
-
+    message: |
+      SC 4 establishes an Editing Committee to finalise the texts of the Parts of the STEP
       standard for submission as a Draft International Standard and maintain configuration
-
       control so that all future changes be documented and approved.
-
+      
       Membership of the Editing Committee is by nomination; each "P" member may
-
       nominate one representative to the Editing Committee. Additional members may be
-
-      co- opted in order to achieve the objectives.
-
-      The Editing Committee reports directly to SC 4.  Its tasks comprise:
-
-      Collecting and registering issues resulting from ballots and reviews of STEP
-
-      Parts
-
-      Collection of comments
-
-
-      Assessing of comments as technical, editorial or irrelevant
-
-      Passing technical issues and comments to the SC 4 Working Groups for
-
-      technical solution
-
-      Incorporating updates produced by the SC 4 Working Groups
-
-      Making editorial improvements to the standard
-
-      Ensuring technical coherence among Parts of the standard
-
-      Ensuring conformance of the standard to ISO Directives and Drafting Rules
-
+      co-opted in order to achieve the objectives.
+      
+      The Editing Committee reports directly to SC 4. Its tasks comprise:
+      
+      * Collecting and registering issues resulting from ballots and reviews of STEP Parts
+      * Collection of comments
+      * Assessing of comments as technical, editorial or irrelevant
+      * Passing technical issues and comments to the SC 4 Working Groups for technical solution
+      * Incorporating updates produced by the SC 4 Working Groups
+      * Making editorial improvements to the standard
+      * Ensuring technical coherence among Parts of the standard
+      * Ensuring conformance of the standard to ISO Directives and Drafting Rules
+      
       This committee will supersede the Editing Committee established by Resolution # 18
-
-      of SC 4 at the Tokyo meeting.'
+      of SC 4 at the Tokyo meeting.
     dates:
     - start: '1990-06-15'
       kind: effective
-- identifier: '76'
+- identifier: 199006-acclaim-02
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: thank Sweden for hosting the SC 4 meeting in Gothenburg
+  title: Thank Sweden for hosting the SC 4 meeting in Gothenburg
   dates:
   - start: '1990-06-15'
     kind: decision
   actions:
-  - type: resolves
-    message: SC 4 wishes to thank Sweden for hosting the SC 4 meeting in Gothenburg.
+  - type: thanks
+    message: |
+      SC 4 wishes to thank Sweden for hosting the SC 4 meeting in Gothenburg.
     dates:
     - start: '1990-06-15'
       kind: effective

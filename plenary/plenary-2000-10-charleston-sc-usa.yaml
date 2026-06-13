@@ -9,314 +9,227 @@ metadata:
 resolutions:
 - identifier: '475'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Permission to Include Photographs in SC 4 Documents
+  title: Allow photographs in SC 4 normative documents
   dates:
   - start: '2000-10-15'
     kind: decision
   actions:
   - type: resolves
-    message: Permission to Include Photographs in SC 4 Documents
-    dates:
-    - start: '2000-10-15'
-      kind: effective
-  - type: resolves
-    message: 'SC 4 resolves that photographs may be included in SC 4 normative documents when
-
+    message: |
+      SC 4 resolves that photographs may be included in SC 4 normative documents when
       such photographs will enhance the understandability and use of those documents, in
-
-      accordance with ISO directives'
-    dates:
-    - start: '2000-10-15'
-      kind: effective
-  - type: resolves
-    message: .
+      accordance with ISO directives.
     dates:
     - start: '2000-10-15'
       kind: effective
   - type: directs
-    message: 'SC 4 directs the Quality Committee to exclude any restriction in the Supplementary
-
-      Directives on the inclusion of photographs.'
+    message: |
+      SC 4 directs the Quality Committee to exclude any restriction in the Supplementary
+      Directives on the inclusion of photographs.
     dates:
     - start: '2000-10-15'
       kind: effective
 - identifier: '476'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Rep lacem en t fo r Cha ir of Im p leme n to r’s Fo rum
+  title: Endorse Martin Hardwick as Chair of Industrial Data Implementor's Forum
   dates:
   - start: '2000-10-15'
     kind: decision
   actions:
-  - type: resolves
-    message: Rep lacem en t fo r Cha ir of Im p leme n to r’s Fo rum
-    dates:
-    - start: '2000-10-15'
-      kind: effective
   - type: endorses
-    message: 'SC 4 endorses the nomination of Martin Hardwick as Chair of the Industrial Data
-
-      Implementor’s Forum to serve for a period of three years.'
+    message: |
+      SC 4 endorses the nomination of Martin Hardwick as Chair of the Industrial Data
+      Implementor's Forum to serve for a period of three years.
     dates:
     - start: '2000-10-15'
       kind: effective
 - identifier: '477'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Integrated Manufacturing Task Force
+  title: Create task force on Integrated Manufacturing for mechanical components
   dates:
   - start: '2000-10-15'
     kind: decision
   actions:
-  - type: resolves
-    message: Integrated Manufacturing Task Force
-    dates:
-    - start: '2000-10-15'
-      kind: effective
   - type: creates
-    message: 'SC 4 creates a task force on Integrated Manufacturing for mechanical components,
-
+    message: |
+      SC 4 creates a task force on Integrated Manufacturing for mechanical components,
       with the following objectives:
 
-      - Define the scope of Integrated Manufacturing
-
-      - Create an Integrated AAM covering the whole scope of Integrated Manufacturing
-
-      for mechanical components, taking into account the overlapping requirements of
-
-      other sectors
-
-      - Evaluate the current SC 4 and other relevant normative documents in relation to
-
-      the Integrated AAM, and to identify the overlaps and the missing links
-
-      - Create requirements for enhancing current SC 4 and other relevant
-
-      normative documents- Survey the evidence of industrial needs for this effort
+      * Define the scope of Integrated Manufacturing
+      * Create an Integrated AAM covering the whole scope of Integrated Manufacturing
+        for mechanical components, taking into account the overlapping requirements of
+        other sectors
+      * Evaluate the current SC 4 and other relevant normative documents in relation to
+        the Integrated AAM, and to identify the overlaps and the missing links
+      * Create requirements for enhancing current SC 4 and other relevant
+        normative documents - Survey the evidence of industrial needs for this effort
 
       The results of the technical evaluation will be submitted to SC 4 at the next meeting,
-
-      and the survey on industrial needs at the following meeting'
-    dates:
-    - start: '2000-10-15'
-      kind: effective
-  - type: resolves
-    message: .
+      and the survey on industrial needs at the following meeting.
     dates:
     - start: '2000-10-15'
       kind: effective
   - type: appoints
-    message: SC 4 appoints Pr. Takeshi Kishinami as leader of the task force
+    message: |
+      SC 4 appoints Pr. Takeshi Kishinami as leader of the task force.
     dates:
     - start: '2000-10-15'
       kind: effective
   - type: directs
-    message: SC 4 directs its secretariat to circulate to P-members and A-liaisons a call for experts.
+    message: |
+      SC 4 directs its secretariat to circulate to P-members and A-liaisons a call for experts.
     dates:
     - start: '2000-10-15'
       kind: effective
 - identifier: '478'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: New ISO Number for Express Edition 3
+  title: Request new ISO number for EXPRESS Edition 3
   dates:
   - start: '2000-10-15'
     kind: decision
   actions:
-  - type: resolves
-    message: New ISO Number for Express Edition 3
-    dates:
-    - start: '2000-10-15'
-      kind: effective
   - type: requests
-    message: 'SC 4 requests ISO Central Secretariat to provide a new standard number for SC 4
-
-      project #32952'
+    message: |
+      SC 4 requests ISO Central Secretariat to provide a new standard number for SC 4
+      project #32952.
     dates:
     - start: '2000-10-15'
       kind: effective
   - type: resolves
-    message: .
-    dates:
-    - start: '2000-10-15'
-      kind: effective
-  - type: resolves
-    message: 'SC 4 resolves that SC 4 project #32952 be removed as a part of ISO 10303 and
-
-      published as a draft technical specification part under the new standard number'
-    dates:
-    - start: '2000-10-15'
-      kind: effective
-  - type: resolves
-    message: .
+    message: |
+      SC 4 resolves that SC 4 project #32952 be removed as a part of ISO 10303 and
+      published as a draft technical specification part under the new standard number.
     dates:
     - start: '2000-10-15'
       kind: effective
   - type: directs
-    message: 'SC 4 directs WG 11 and Express team to continue efforts to deliver this in a timely
-
+    message: |
+      SC 4 directs WG 11 and Express team to continue efforts to deliver this in a timely
       fashion and to take into account any requirements for dynamic capabilities arising from
-
-      SC 5'
-    dates:
-    - start: '2000-10-15'
-      kind: effective
-  - type: resolves
-    message: .
+      SC 5.
     dates:
     - start: '2000-10-15'
       kind: effective
   - type: requests
-    message: 'SC 4 requests WG 11 to identify a new name for the standard, emphasizing its
-
-      derivation from EXPRESS.'
+    message: |
+      SC 4 requests WG 11 to identify a new name for the standard, emphasizing its
+      derivation from EXPRESS.
     dates:
     - start: '2000-10-15'
       kind: effective
 - identifier: '479'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: UML-EXPRESS Cooperation
+  title: Create team for UML-EXPRESS cooperation and harmonization
   dates:
   - start: '2000-10-15'
     kind: decision
   actions:
   - type: resolves
-    message: UML-EXPRESS Cooperation
-    dates:
-    - start: '2000-10-15'
-      kind: effective
-  - type: resolves
-    message: 'SC 4 resolves that WG 11 create a team of people lead by Bernd Wenzel and
-
+    message: |
+      SC 4 resolves that WG 11 create a team of people lead by Bernd Wenzel and
       including, but not limited to, the following individuals:
 
-      Dave Price
-
-      Phil Spiby'
+      * Dave Price
+      * Phil Spiby
     dates:
     - start: '2000-10-15'
       kind: effective
   - type: directs
-    message: 'SC 4 directs this team to work with the UML 2.0 submission teams to achieve the
-
-      harmonization of EXPRESS and UML and act as a liaison with ISO/IEC JTC 1/SC 7'
-    dates:
-    - start: '2000-10-15'
-      kind: effective
-  - type: resolves
-    message: .
+    message: |
+      SC 4 directs this team to work with the UML 2.0 submission teams to achieve the
+      harmonization of EXPRESS and UML and act as a liaison with ISO/IEC JTC 1/SC 7.
     dates:
     - start: '2000-10-15'
       kind: effective
   - type: requests
-    message: SC 4 requests SC 4 secretariat to send a call for experts for the team.
+    message: |
+      SC 4 requests SC 4 secretariat to send a call for experts for the team.
     dates:
     - start: '2000-10-15'
       kind: effective
 - identifier: '480'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Cancellation of Inactive ATS Projects
+  title: Cancel inactive Abstract Test Suite Parts of ISO 10303
   dates:
   - start: '2000-10-15'
     kind: decision
   actions:
   - type: resolves
-    message: Cancellation of Inactive ATS Projects
-    dates:
-    - start: '2000-10-15'
-      kind: effective
-  - type: resolves
-    message: 'SC 4 cancels the following inactive Abstract Test Suite Parts of ISO 10303, and
-
+    message: |
+      SC 4 cancels the following inactive Abstract Test Suite Parts of ISO 10303, and
       instructs its Secretariat to remove them from the work programme, in the absence of
-
       any firm development commitment by 20 February 2001:
 
-      301, 309, 310, 313, 315, 316, 317, 321, 322, 323, 326, 327, 334, 335'
-    dates:
-    - start: '2000-10-15'
-      kind: effective
-- identifier: '481'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Appreciations
-  dates:
-  - start: '2000-10-15'
-    kind: decision
-  actions:
-  - type: resolves
-    message: Appreciations
+      301, 309, 310, 313, 315, 316, 317, 321, 322, 323, 326, 327, 334, 335
     dates:
     - start: '2000-10-15'
       kind: effective
 - identifier: 200010-acclaim-01
   subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank US PRO for hosting the Charleston meeting
   dates:
   - start: '2000-10-15'
     kind: decision
   actions:
   - type: thanks
-    message: 'SC 4 expresses its appreciation to its meeting host, US PRO, for the excellent meeting
-
+    message: |
+      SC 4 expresses its appreciation to its meeting host, US PRO, for the excellent meeting
       facilities, good food, as well as the wonderful Social Event on Tuesday evening. SC 4
-
       also expresses its appreciation for their hospitality and outstanding support both
-
       before and during the meeting.
 
       SC 4 commends Chuck Stark for the outstanding arrangements that contributed to the
-
       successful completion of SC 4 business.
 
       A special recognition to Stacy Watts, Jill Vaning, and Linda Beck for their hospitality,
-
       patience and outstanding support and all around good humor during crises both
-
-      before, during, and after the ISO/TC 184/SC 4 meeting.'
+      before, during, and after the ISO/TC 184/SC 4 meeting.
     dates:
     - start: '2000-10-15'
       kind: decision
 - identifier: 200010-acclaim-02
   subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank Sophie Clivio for participating and providing guidance
   dates:
   - start: '2000-10-15'
     kind: decision
   actions:
   - type: thanks
-    message: 'SC 4 expresses its appreciation to Sophie Clivio for taking time from her busy
-
+    message: |
+      SC 4 expresses its appreciation to Sophie Clivio for taking time from her busy
       schedule to participate in our meeting and for her valuable guidance and support for
-
-      SC 4 work.'
+      SC 4 work.
     dates:
     - start: '2000-10-15'
       kind: decision
 - identifier: 200010-acclaim-03
   subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank Larry McKee for his outstanding leadership and contributions
   dates:
   - start: '2000-10-15'
     kind: decision
   actions:
   - type: thanks
-    message: 'SC 4 expresses its appreciation to Larry McKee for many years of outstanding
-
+    message: |
+      SC 4 expresses its appreciation to Larry McKee for many years of outstanding
       leadership, and his many contributions to the development of SC 4 standards. Larry
-
-      will be remembered for his patience and his valuable assistance to all.  Last but not
-
-
-      least Larry will be remembered for his special “personal” humor and he will be
-
-      missed.'
+      will be remembered for his patience and his valuable assistance to all. Last but not
+      least Larry will be remembered for his special "personal" humor and he will be
+      missed.
     dates:
     - start: '2000-10-15'
       kind: decision
 - identifier: 200010-acclaim-04
   subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank participants for their contributions and professionalism
   dates:
   - start: '2000-10-15'
     kind: decision
   actions:
   - type: thanks
-    message: 'SC 4 expresses its appreciation to those who participated for their outstanding
-
-      contributions and professionalism this week to the work of ISO/TC 184/SC 4.'
+    message: |
+      SC 4 expresses its appreciation to those who participated for their outstanding
+      contributions and professionalism this week to the work of ISO/TC 184/SC 4.
     dates:
     - start: '2000-10-15'
       kind: decision
