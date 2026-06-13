@@ -1,0 +1,346 @@
+metadata:
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Seattle, United States, October 3, 2004 -- October 8, 2004
+  dates:
+  - start: '2004-10-03'
+    end: '2004-10-08'
+    kind: meeting
+  source: ISO/TC 184/SC 4 Secretariat
+  venue: Seattle, United States
+resolutions:
+- identifier: '621'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Approve project leader for ISO 10303-0058
+  dates:
+  - start: '2004-10-15'
+    kind: decision
+  actions:
+  - type: approves
+    message: |
+      SC 4 approves the following new project leaders or project editors for the associated SC 4 projects:
+
+      |===
+      |Project |Leader |Editor
+
+      |ISO 10303-0058 |Nils Sandsmark |
+      |===
+    dates:
+    - start: '2004-10-15'
+      kind: effective
+- identifier: '622'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Request ISO CS consider module progress to avoid AP cancellation
+  dates:
+  - start: '2004-10-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      SC 4 requests ISO to consider the progress of individual modules when
+      deciding whether it is appropriate to cancel an AP Project for lack of progress.
+      In particular, ballot submission of a substantive set of the new implementation and
+      foundation modules that are included within the scope of an AP (as defined in its
+      NWI), should also be considered as a change in the status for the overall AP
+      document, and should therefore preclude its cancellation for lack of progress.
+    dates:
+    - start: '2004-10-15'
+      kind: effective
+  - type: requests
+    message: |
+      SC 4 requests its Secretariat to ask ISO to apply this approach to the development of
+      AP233 as a test case, noting the substantive progress on an initial set of modules, and
+      the threat of cancellation of the AP project in January 2005.
+    dates:
+    - start: '2004-10-15'
+      kind: effective
+- identifier: '623'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Request retention of ISO/TS 10303-28 ed1 after ed2 publication
+  dates:
+  - start: '2004-10-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      SC 4 requests the ISO Central Secretariat to retain the listing of ISO TS 10303-28
+      edition 1 in the ISO catalogue of available International Standards, after the
+      publication of the ISO TS 10303-28 edition 2 "Implementation methods: XML
+      representations of EXPRESS schemas and data, using XML schemas".
+
+      Note: Action 124 to notify ISO CS of name change in the database.
+    dates:
+    - start: '2004-10-15'
+      kind: effective
+- identifier: '624'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Appoint Darren Meister as Education and Outreach Rapporteur
+  dates:
+  - start: '2004-10-15'
+    kind: decision
+  actions:
+  - type: appoints
+    message: |
+      SC 4 appoints Mr. Darren Meister as the new SC 4 Education and Outreach
+      Rapporteur to act as the focal point for SC 4 outreach, education, and promotional
+      activities. These activities should be closely linked to International Industry STEP
+      Centers (ISC) related marketing and promotional activities.
+    dates:
+    - start: '2004-10-15'
+      kind: effective
+  considerations:
+  - type: recognizing
+    message: |
+      Recognizing the continuing need to make industry, the public, the research
+      community, and other stakeholders knowledgeable of SC 4 standards and SC 4
+      activities.
+    dates:
+    - start: '2004-10-15'
+      kind: effective
+- identifier: '625'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Create NWI for lifecycle support of AEC facilities
+  dates:
+  - start: '2004-10-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: |
+      The goal of this PWI is to create a NWI for a model for lifecycle support of AEC
+      facilities. The following tasks will be performed:
+
+      * Detailed in scope, out of scope analysis of the information requirements of
+      AEC facilities including information requirement for facility management.
+      * Review of capability of existing SC 4 standards to cover lifecycle aspects such
+      as facility management. Describe to which extent they cover the information
+      requirements of AEC facilities
+      * Describe gaps and necessary adaptations
+      * Explore feasibility and best approach to combine existing standards. The
+      different approaches of developing a modular AP or a conventional approach
+      will be assessed.
+    dates:
+    - start: '2004-10-15'
+      kind: effective
+  - type: directs
+    message: |
+      SC 4 directs WG 3 to create the NWI within 6 months forward it to SC 4 for review and
+      approval, and appoints Inhan Kim and Wolfgang Haas as co project leaders.
+
+      Attached documents: Description of the PWI, ISO/TC 184/SC 4/WG 3 N1505, change
+      management project review questionnaire, ISO/TC 184/SC 4/WG 3 N1506.
+    dates:
+    - start: '2004-10-15'
+      kind: effective
+- identifier: '626'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Create ad hoc group to assess SASIG PDQ 2.0 PAS proposal
+  dates:
+  - start: '2004-10-15'
+    kind: decision
+  actions:
+  - type: creates
+    message: |
+      SC 4 creates an ad hoc group led by Oscar Rocha to assess the proposal from
+      SASIG to transpose the PDQ 2.0 guidelines into a Publicly Available Specification
+      (PAS).
+    dates:
+    - start: '2004-10-15'
+      kind: effective
+  - type: requests
+    message: |
+      SC 4 invites WG 3, WG 11, WG 12, PPC and the Quality Committee (QC) to
+      nominate representatives by 2004-11-30. The ad hoc group is requested to assess
+      the specification and explanatory report (SC 4 N1792), negotiate with SASIG on any
+      issues, and make a recommendation to SC 4 by 2005-01-31 on how to process the
+      proposal.
+    dates:
+    - start: '2004-10-15'
+      kind: effective
+- identifier: '627'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Appoint Wolfgang Wilkes and Gerry Radack as liaisons to ISO/IEC JWG 1
+  dates:
+  - start: '2004-10-15'
+    kind: decision
+  actions:
+  - type: appoints
+    message: |
+      SC 4 appoints Dr. Wolfgang Wilkes and Dr. Gerry Radack as the SC 4 Rapporteurs to
+      ISO/IEC/JWG 1.
+    dates:
+    - start: '2004-10-15'
+      kind: effective
+  - type: resolves
+    message: |
+      SC 4 extends the mandate of the delegates to JWG 1 as nominated in Resolution 611.
+    dates:
+    - start: '2004-10-15'
+      kind: effective
+- identifier: '628'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Split ISO 13584-501 and direct IEC SC 65B liaison actions
+  dates:
+  - start: '2004-10-15'
+    kind: decision
+  actions:
+  - type: decides
+    message: |
+      SC 4 decides to split the scope of the registered dictionary defined by ISO 13584 Part
+      501 (ISO id 39753) into two parts, covering (a) laboratory and environment measuring
+      instruments and (b) industrial process measuring instruments.
+    dates:
+    - start: '2004-10-15'
+      kind: effective
+  - type: directs
+    message: |
+      SC 4 directs WG 2 to stop the work on item (b) and directs its Secretariat to offer the
+      work on this item to IEC SC 65B for potential publication either as a joint ISO/IEC
+      standard or as an IEC standard.
+    dates:
+    - start: '2004-10-15'
+      kind: effective
+  - type: directs
+    message: |
+      SC 4 directs WG 2 to continue the work on item (a), and authorizes a new delivery
+      date for the DIS ballot of 2004-11-30.
+    dates:
+    - start: '2004-10-15'
+      kind: effective
+  - type: requests
+    message: |
+      SC 4 invites IEC experts to contribute to the work on item (a) in WG 2, both during
+      the further development of the standard and during the operation of the registration
+      authority.
+    dates:
+    - start: '2004-10-15'
+      kind: effective
+  - type: encourages
+    message: |
+      SC 4 encourages WG 2 experts who are also members of IEC to
+      participate in the work of IEC SC 65B on item (b).
+    dates:
+    - start: '2004-10-15'
+      kind: effective
+  - type: instructs
+    message: |
+      SC 4 instructs WG 2 to take into account forthcoming results of ISO/IEC JWG 1
+      concerning the maintenance of dictionaries during the preparation of the next
+      versions of the ISO 13584-501 standard.
+    dates:
+    - start: '2004-10-15'
+      kind: effective
+- identifier: '629'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Appoint Timothy King as liaison to OASIS PLCS Technical Committee
+  dates:
+  - start: '2004-10-15'
+    kind: decision
+  actions:
+  - type: accepts
+    message: |
+      SC 4 accepts the nomination of Dr. Timothy King as the OASIS PLCS Technical
+      Committee Liaison, and nominates Dr. Timothy King as the SC 4 liaison to the OASIS
+      PLCS Technical Committee.
+    dates:
+    - start: '2004-10-15'
+      kind: effective
+  - type: thanks
+    message: |
+      SC 4 would like to express its appreciation to Ms. Margaret Christison who has previously acted in these roles.
+    dates:
+    - start: '2004-10-15'
+      kind: effective
+- identifier: 200410-acclaim-01
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank Chuck Stark for organizing North American SC 4 meetings
+  dates:
+  - start: '2004-10-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 expresses its utmost appreciation to Chuck Stark for his many years of
+      dedication organizing all SC 4 meetings held in North America for the last 14 years.
+      Chuck has provided an extremely high level of support and hospitality to make these
+      meetings successful. SC 4 wishes Chuck every success in his future endeavours.
+    dates:
+    - start: '2004-10-15'
+      kind: effective
+- identifier: 200410-acclaim-02
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank Tony Fry for leadership of WG 3/T23
+  dates:
+  - start: '2004-10-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 expresses its sincere thanks to Tony Fry for his long-standing, dedicated efforts
+      and excellent performance in the leadership of WG 3/T23, and wishes him all the best
+      for his future. In particular, it would like to commend him for his efforts leading to the
+      adoption of four Shipbuilding Application Protocols as ISO Standards and for his
+      leadership in organizing the ISO/TC 184/SC 4 meeting in Bath, U.K.
+    dates:
+    - start: '2004-10-15'
+      kind: effective
+- identifier: 200410-acclaim-03
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank Ricardo Goncalves for leading the Education and Outreach Initiative
+  dates:
+  - start: '2004-10-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 expresses its appreciation to Ricardo Goncalves for his dedication, untiring
+      efforts, enthusiasm, and creativity as the leader for the SC 4 Education and Outreach
+      Initiative. Ricardo will be remembered for his willingness to take on unpopular, but
+      essential tasks and his valuable assistance to all. The challenge of finding his
+      replacement will not be trivial. SC 4 wishes him well in his future endeavors, and
+      looks forward to his continued contribution to the work of SC 4.
+    dates:
+    - start: '2004-10-15'
+      kind: effective
+- identifier: 200410-acclaim-04
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank US PRO and Renaissance Hotel for organizing the meeting
+  dates:
+  - start: '2004-10-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 wishes to give its unanimous thanks to US PRO, its Members and the staff of the
+      Seattle Renaissance Hotel for their efforts in organizing this meeting, arranging the
+      facilities, excellent food, and excellent social events.
+    dates:
+    - start: '2004-10-15'
+      kind: effective
+- identifier: 200410-acclaim-05
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Commend Chuck Stark for outstanding meeting arrangements
+  dates:
+  - start: '2004-10-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 commends Chuck Stark for the outstanding arrangements that contributed to the
+      successful completion of SC 4 business.
+    dates:
+    - start: '2004-10-15'
+      kind: effective
+- identifier: 200410-acclaim-06
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank Sarah Hartline and Karri McGough for administrative support
+  dates:
+  - start: '2004-10-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 recognizes the unique talents and demanding requirements necessary to
+      support the SC 4 meeting workload. A special recognition to Ms Sarah Hartline and
+      Ms Karri McGough for their superior administrative support, outstanding hospitality,
+      and patience before and during the ISO/TC 184/SC 4 meeting.
+    dates:
+    - start: '2004-10-15'
+      kind: effective

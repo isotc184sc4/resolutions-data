@@ -1,0 +1,484 @@
+metadata:
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Virtual, May 16, 2022 -- May 20, 2022
+  dates:
+  - start: '2022-05-16'
+    end: '2022-05-20'
+    kind: meeting
+  source: ISO/TC 184/SC 4 Secretariat
+  venue: Virtual
+resolutions:
+- identifier: '1089'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Approve Project Leaders and Project Editors for SC 4 Projects
+  dates:
+  - start: '2022-05-15'
+    kind: decision
+  actions:
+  - type: approves
+    message: |
+      SC 4 approves the following Project Leaders and Project Editors for the listed Projects
+      noted:
+
+      |===
+      |Project |Working Group |Project Leader/Editor
+
+      |ISO 10303-2 (ID 81196) |WG 12 |Stuart Galt (Leader)
+      |ISO/PAS 8329 (ID 83119) |WG 12 |Matthias Weinert (Leader)
+      |===
+    dates:
+    - start: '2022-05-15'
+      kind: effective
+  - type: encourages
+    message: |
+      SC 4 encourages the above-named individuals to approach their respective National
+      Body to request they are nominated as a participating expert in ISO/TC 184/SC 4/QC
+      (Quality Committee) giving them access to the latest advice on ensuring SC 4 projects
+      deliver products that satisfy ISO and SC 4 expectations for quality.
+    dates:
+    - start: '2022-05-15'
+      kind: effective
+
+- identifier: '1090'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Establish 8-week ballot duration for new work item proposals
+  dates:
+  - start: '2022-05-15'
+    kind: decision
+  considerations:
+  - type: noting
+    message: |
+      Noting the report of ISO/TC 184/SC 4 Change Management Advisory Group
+    dates:
+    - start: '2022-05-15'
+      kind: effective
+  actions:
+  - type: requests
+    message: |
+      SC 4 requests its Committee Manager to apply the 8-week ballot duration to the following NP ballots:
+
+      |===
+      |Project |Approval
+
+      |Framework for Nuclear Digital Ecosystem (NDE) |☒
+      |ISO 8000-1 ed3, Data quality -- Part 1: Overview |☒
+      |ISO 8000-200, Data quality -- Part 200: Transaction data: Quality of transaction data |☒
+      |===
+    dates:
+    - start: '2022-05-15'
+      kind: effective
+
+- identifier: '1091'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Appoint Convenor for TF1 ISO 10303 SMRL architecture innovation
+  dates:
+  - start: '2022-05-15'
+    kind: decision
+  considerations:
+  - type: noting
+    message: |
+      Noting that continuity of operations and management of work is an important
+      consideration to the successful operation of advisory groups
+    dates:
+    - start: '2022-05-15'
+      kind: effective
+  actions:
+  - type: appoints
+    message: |
+      SC 4 appoints the following Convenor for a three-year term, with appreciation to serve
+      in this capacity.
+
+      |===
+      |WG |Role |Appointment
+
+      |TF1 ISO 10303 SMRL architecture innovation |Convenor |Stuart Galt
+      |===
+    dates:
+    - start: '2022-05-15'
+      kind: effective
+
+- identifier: '1092'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Establish liaison to ISO/TC 85 and appoint representative
+  dates:
+  - start: '2022-05-15'
+    kind: decision
+  considerations:
+  - type: noting
+    message: |
+      Noting that AHG 2 is currently reviewing and managing the comments received from
+      ISO/TC 85 and that a comments resolution meeting will be organized with ISO/TC 85
+    dates:
+    - start: '2022-05-15'
+      kind: effective
+  actions:
+  - type: recommends
+    message: |
+      SC 4 welcomes this fruitful discussion and proposes to ISO/TC 85 to prepare a future
+      coordination on development and implementation of standards in establishing a liaison
+      from ISO/TC 184/SC 4 to ISO/TC 85.
+    dates:
+    - start: '2022-05-15'
+      kind: effective
+  - type: appoints
+    message: |
+      SC 4 welcomes the proposal to establish a liaison from ISO/TC 184/SC 4 to ISO/TC 85
+      and appoints Christophe MOUTON for a three-year term, with appreciation for his offer
+      to serve in that capacity.
+    dates:
+    - start: '2022-05-15'
+      kind: effective
+
+- identifier: '1093'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Identify experts in support of ISO 16792 and ISO/TC 10 Liaison
+  dates:
+  - start: '2022-05-15'
+    kind: decision
+  considerations:
+  - type: recalling
+    message: |
+      Recalling the liaison relationship between ISO/TC 184/SC 4 and ISO/TC 10 and the
+      request from ISO/TC 10 for support in the development of ISO 16792 ed4 with expertise
+      from SC 4
+    dates:
+    - start: '2022-05-15'
+      kind: effective
+  actions:
+  - type: nominates
+    message: |
+      SC 4 nominates Atsuto Soma, Tom Thurman, Keith Hunten, Leo van Ruijven, Mikael Hedlind,
+      Pierre Duchier and Allison Barnard Feeney as experts from ISO/TC 184/SC 4.
+    dates:
+    - start: '2022-05-15'
+      kind: effective
+  - type: requests
+    message: |
+      SC 4 requests its Committee Manager coordinate with ISO/CS to add
+      the experts noted to the project in the ISO systems as required for access to necessary
+      documents and participation in the project's development.
+    dates:
+    - start: '2022-05-15'
+      kind: effective
+
+- identifier: '1094'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Update the ISO/TC 184/SC 4 Handbook standing documents
+  dates:
+  - start: '2022-05-15'
+    kind: decision
+  considerations:
+  - type: noting
+    message: |
+      Noting the work accomplished by ISO/TC 184/SC 4/TF 1 in establishing the Jira/Git
+      repositories for SC 4 use, the updates from the Quality Committee, and a review by
+      ISO/TC 184/SC 4/PPC
+    dates:
+    - start: '2022-05-15'
+      kind: effective
+  actions:
+  - type: requests
+    message: |
+      SC 4 requests its Committee Manager submit ISO/TC 184/SC 4/PPC N201,
+      ISO/TC 184/SC 4/N 3492, and ISO/TC 184/SC 4/N 3619 for a Committee Internal Ballot
+      of eight weeks duration for approval as standing documents of SC 4.
+    dates:
+    - start: '2022-05-15'
+      kind: effective
+
+- identifier: '1095'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Incorporate ISO/TS 10303-4000 into the SMRL database
+  dates:
+  - start: '2022-05-15'
+    kind: decision
+  considerations:
+  - type: noting
+    message: |
+      Noting that ISO 10303-4000 ed1 is a technical specification approved by ballot in 2021
+      and released in early 2022 and requires update to the STEP Extended Architecture and
+      modular architecture APs consistent with the procedures of SC4N2591 and the SC 4
+      Handbook
+    dates:
+    - start: '2022-05-15'
+      kind: effective
+  actions:
+  - type: requests
+    message: |
+      SC 4 requests that ISO/CS incorporate ISO 10303-4000 into the SMRL
+      covered by the procedures for managing standards in database format and the standing
+      document SC4N2591 and launch edition 2 noting no change in scope and supporting
+      SDG 9.
+    dates:
+    - start: '2022-05-15'
+      kind: effective
+  - type: appoints
+    message: |
+      SC 4 appoints Jean Brange as project leader and notes the following schedule:
+      * Change Request ballot: 2022-05-30
+      * SMRL integration: 2022-07-30
+      * Submitted for publication as part of SMRLv10: 2022-09
+    dates:
+    - start: '2022-05-15'
+      kind: effective
+
+- identifier: '1096'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Modify ISO 10303-1819 designation from IS to TS
+  dates:
+  - start: '2022-05-15'
+    kind: decision
+  considerations:
+  - type: noting
+    message: |
+      Noting that ISO 10303 SMRL is a body of work collectively managed as a set of Technical
+      Specification and subject to the procedures noted in SC4N2591 for managing
+      standards in database format, ISO 10303-1819 is managed in SC 4 as a required
+      element of the SMRL and has been since its inception, ISO/CS has found that ISO
+      10303-1819 is currently listed as an IS in the publication process for SMRL V9, and
+      having found no root cause for the discrepancy
+    dates:
+    - start: '2022-05-15'
+      kind: effective
+  actions:
+  - type: requests
+    message: |
+      SC 4 requests its Committee Manager coordinate with ISO/CS and modify ISO 10303-1819
+      from IS to TS in the ISO Project Portal and continue with its incorporation into
+      SMRL V9.
+    dates:
+    - start: '2022-05-15'
+      kind: effective
+
+- identifier: '1097'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Change target dates for ISO/CD 10303-239 ed3 to SDT 36
+  dates:
+  - start: '2022-05-15'
+    kind: decision
+  considerations:
+  - type: noting
+    message: |
+      Noting the progress of the project team to complete a DIS quality ISO 10303-239 ed3
+      and the actions taken to address the resources and technical mapping issues
+    dates:
+    - start: '2022-05-15'
+      kind: effective
+  actions:
+  - type: requests
+    message: |
+      SC 4 requests its Committee Manager coordinate with ISO/CS to move ISO 10303-239 ed3
+      (project id = 78832) from SDT 24 to SDT 36 with the following target dates:
+
+      * Stage 40 -- DIS Registered: 2022-10-15 (Original Target: 2022-04-14)
+      * Stage 50 -- FDIS Registered: 2023-06-15 (Original Target: not set)
+      * Stage 60 -- IS Published: 2023-11-28 (Original Target: 2023-04-14)
+    dates:
+    - start: '2022-05-15'
+      kind: effective
+
+- identifier: '1098'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Call for experts to join AG 2 Implementation Forum
+  dates:
+  - start: '2022-05-15'
+    kind: decision
+  considerations:
+  - type: noting
+    message: |
+      Noting the extensive work underway in industry, ISO, and IEC to formalize digital twin
+      capabilities and the opportunity to share more broadly the value of SC 4 standards to
+      the maturity of digital twin activities
+    dates:
+    - start: '2022-05-15'
+      kind: effective
+  actions:
+  - type: recognizes
+    message: |
+      SC 4 recognizes the value of the Implementation Forum and the rich discussion
+      regarding digital twins.
+    dates:
+    - start: '2022-05-15'
+      kind: effective
+  - type: requests
+    message: |
+      SC 4 requests all interested experts to coordinate with their respective organizational
+      representative and join the AG02 Implementation Forum.
+    dates:
+    - start: '2022-05-15'
+      kind: effective
+
+- identifier: '1099'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Establish a TR for the reference model for industrial data
+  dates:
+  - start: '2022-05-15'
+    kind: decision
+  considerations:
+  - type: recalling
+    message: |
+      Recalling Resolution 1045 and the progress of Task Force 2 in accomplishing their
+      terms of reference, notably the creation of a human readable guide complementary to
+      the reference model
+    dates:
+    - start: '2022-05-15'
+      kind: effective
+  actions:
+  - type: establishes
+    message: |
+      SC 4 establishes a TR for the reference model for industrial data.
+    dates:
+    - start: '2022-05-15'
+      kind: effective
+  - type: nominates
+    message: |
+      SC 4 nominates Jean Brange as project leader and David Leal as project editor.
+    dates:
+    - start: '2022-05-15'
+      kind: effective
+  - type: encourages
+    message: |
+      SC 4 encourages its P-members and A-liaisons to review their current participation in Task
+      Force 2, appointing additional Experts as appropriate to support the development of the
+      Technical Report.
+    dates:
+    - start: '2022-05-15'
+      kind: effective
+
+- identifier: '1100'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Establish liaison to ISO/IEC JTC 1/SC 41 and nominate representatives
+  dates:
+  - start: '2022-05-15'
+    kind: decision
+  considerations:
+  - type: recalling
+    message: |
+      Recalling the decision by ISO/JTC 1 to revise the scope of ISO/IEC JTC 1/SC 41 and
+      incorporate digital twin with a mandate to serve as the focus and proponent for JTC 1's
+      standardization programme and the creation of ISO/IEC JTC 1/SC 41/WG 6 -- Digital
+      Twin
+    dates:
+    - start: '2022-05-15'
+      kind: effective
+  - type: noting
+    message: |
+      Noting that ISO/TC 184/SC 4 possesses numerous requirements in the space of industrial
+      data for digital twin
+    dates:
+    - start: '2022-05-15'
+      kind: effective
+  actions:
+  - type: establishes
+    message: |
+      ISO/TC 184/SC 4 establishes a liaison to ISO/IEC JTC 1/SC 41.
+    dates:
+    - start: '2022-05-15'
+      kind: effective
+  - type: nominates
+    message: |
+      ISO/TC 184/SC 4 nominates the following liaison representatives for a three-year term with
+      appreciation to serve in that capacity:
+
+      * Soonhung Han
+      * Martin Hardwick
+      * Sangkeun Yoo
+      * Duan Haibo
+    dates:
+    - start: '2022-05-15'
+      kind: effective
+
+- identifier: '202205-acclaim-01'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank SC 4 Liaisons for reports provided to the 83rd Plenary
+  dates:
+  - start: '2022-05-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 expresses its appreciation to our SC 4 Liaisons and reports provided to the 83rd
+      Plenary.
+    dates:
+    - start: '2022-05-15'
+      kind: decision
+
+- identifier: '202205-acclaim-02'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank participants and presenters of the pre-plenary week forums
+  dates:
+  - start: '2022-05-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 expresses its appreciation to participants and presenters of the Open Technical
+      Forum, Implementation Forum, and Change Management Committee during the pre-plenary
+      week of activities.
+    dates:
+    - start: '2022-05-15'
+      kind: decision
+
+- identifier: '202205-acclaim-03'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank Meinolf Gröpper for his many years of service to ISO/TC 184/SC 4
+  dates:
+  - start: '2022-05-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 expresses its appreciation to Meinolf Gröpper for his many years of service to
+      ISO/TC 184/SC 4 and to the international standardization community. Meinolf entered
+      into retirement between Plenary meetings and SC 4 wishes him all the best in this next
+      phase of his journey.
+    dates:
+    - start: '2022-05-15'
+      kind: decision
+
+- identifier: '202205-acclaim-04'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank Brandon Sapp for TF 1 leadership and Jira/GIT infrastructure
+  dates:
+  - start: '2022-05-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 expresses its appreciation to Brandon Sapp for his leadership of ISO/TC 184/SC 4/TF 1,
+      ISO/CD 10303-2, and his extensive contribution to the development of SC 4's
+      Jira / GIT infrastructure. SC 4 extends its best wishes to Brandon in his new career endeavours.
+    dates:
+    - start: '2022-05-15'
+      kind: decision
+
+- identifier: '202205-acclaim-05'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank Melissa Harvey for her service as Quality Committee Secretary
+  dates:
+  - start: '2022-05-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 expresses its appreciation to Melissa Harvey for her service in the role of Quality
+      Committee Secretary and her valuable contributions to its success. SC 4 extends its
+      best wishes to Melissa in all her future career endeavours.
+    dates:
+    - start: '2022-05-15'
+      kind: decision
+
+- identifier: '202205-acclaim-06'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank experts and leaders for successfully executing a virtual plenary
+  dates:
+  - start: '2022-05-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 expresses its sincere appreciation to all the experts, delegates, and leaders for
+      executing a completely virtual plenary meeting successfully while undergoing numerous
+      challenges during this extraordinary time for stakeholders worldwide.
+    dates:
+    - start: '2022-05-15'
+      kind: decision

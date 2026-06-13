@@ -1,0 +1,225 @@
+metadata:
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Sun City, South Africa, June 8, 2008 -- June 13, 2008
+  dates:
+  - start: '2008-06-08'
+    end: '2008-06-13'
+    kind: meeting
+  source: ISO/TC 184/SC 4 Secretariat
+  venue: Sun City, South Africa
+resolutions:
+- identifier: '747'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Appoint WG 13 Deputy Conveners
+  dates:
+  - start: '2008-06-15'
+    kind: decision
+  actions:
+  - type: appoints
+    message: |
+      SC4 approves the appointment of Ms. Emily Grantner and Mr. Leif Gyllström as Deputy Conveners for WG 13 for a period of three years.
+    dates:
+    - start: '2008-06-15'
+      kind: effective
+- identifier: '748'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Appoint Phil Spiby as INCOSE liaison officer
+  dates:
+  - start: '2008-06-15'
+    kind: decision
+  actions:
+  - type: appoints
+    message: |
+      SC4 appoints Dr. Phil Spiby as the liaison officer to the INCOSE.
+    dates:
+    - start: '2008-06-15'
+      kind: effective
+  - type: thanks
+    message: |
+      SC4 expresses its appreciation to David Oliver for his liaison role with INCOSE and accepts his resignation from that position. SC4 thanks Dr. Phil Spiby for his offer to act as the liaison officer from SC4 to INCOSE.
+    dates:
+    - start: '2008-06-15'
+      kind: effective
+- identifier: '749'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Express concerns regarding ISO/TC 37/SC 3 NWI 22274
+  dates:
+  - start: '2008-06-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: |
+      SC4 expresses the following concerns regarding NWI 22274 from ISO/TC 37/SC 3:
+      * This proposal appears to violate the agreements made at the ISO/TC 37 Beijing 2006 and Provo 2007 meetings.
+      * SC4's request that ISO/TC 37/SC 3 delay circulating a NWI proposal for 22274 until a harmonised position between ISO/TC 184/SC 4 and ISO/TC 37 could be agreed and until a draft could be produced that could be circulated as a combined NWI/CD was not followed.
+      * This proposal seems to have expanded to cover product classification schemes, which are within scope of SC4 and not of ISO/TC 37.
+    dates:
+    - start: '2008-06-15'
+      kind: effective
+  - type: directs
+    message: |
+      SC4 directs the Chair, Secretariat, and liaison officers to ISO/TC 37/SC 3 to jointly develop a liaison statement expressing SC4's concerns about this project, for submission to ISO/TC 37/SC 3.
+    dates:
+    - start: '2008-06-15'
+      kind: effective
+  - type: requests
+    message: |
+      SC4 requests the liaison officers to coordinate an SC4 review of the NWI and prepare a set of ballot comments, noting the ballot closing date of 2008-07-31.
+    dates:
+    - start: '2008-06-15'
+      kind: effective
+  - type: encourages
+    message: |
+      SC4 encourages its member countries to submit corresponding ballot comments through their national bodies.
+    dates:
+    - start: '2008-06-15'
+      kind: effective
+- identifier: '750'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Terminate liaisons to IEC SB3 and ISO/TC 10/SC 6
+  dates:
+  - start: '2008-06-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      SC4 requests its secretariat to terminate the liaison to IEC SB3 and ISO/TC 10/SC 6.
+    dates:
+    - start: '2008-06-15'
+      kind: effective
+- identifier: '751'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Propose new scope for ISO/TC 184/SC 4
+  dates:
+  - start: '2008-06-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      SC4 requests its secretariat by 2008-06-30 to provide ISO/TC 184 with the following proposed new scope for SC4:
+
+      Standardization of the definition, integration and quality management of information which is shared, exchanged and archived in the context of:
+      * the definition, description and classification of products and facilities throughout their lifecycle,
+      * industrial management and operations,
+      * other information requirements supporting automation systems.
+    dates:
+    - start: '2008-06-15'
+      kind: effective
+- identifier: '752'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Align OMG activity on data quality with WG 13
+  dates:
+  - start: '2008-06-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      SC4 invites the Object Management Group (OMG) to take account of the scope and deliverables of the approved ISO 8000 work programme on data quality (ISO/TC 184/SC 4 N2271) in moving forward with activities around data quality.
+    dates:
+    - start: '2008-06-15'
+      kind: effective
+  - type: appoints
+    message: |
+      SC4 appoints Peter Benson as its delegate to attend the MIT Information Quality Industry Symposium (2008-07) and subsequent OMG Proposed Data Quality Standard Preparatory Meeting.
+    dates:
+    - start: '2008-06-15'
+      kind: effective
+  - type: requests
+    message: |
+      SC4 requests Mr Benson to promote the full scope of the ISO 8000 work programme at these meetings, to identify individuals with whom to establish working relationships and to report his findings back to SC4.
+    dates:
+    - start: '2008-06-15'
+      kind: effective
+- identifier: '753'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Subdivide ISO 15926-7 into parts 7 through 10
+  dates:
+  - start: '2008-06-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: |
+      SC4 resolves that the current content may be published as the following ISO 15926 parts:
+      * Part 7: Templates and methodology
+      * Part 8: OWL representation
+      * Part 9: Interfaces through facades
+      * Part 10: Test methods
+    dates:
+    - start: '2008-06-15'
+      kind: effective
+  - type: requests
+    message: |
+      SC4 requests its Secretariat to inform ISO of this subdivision.
+    dates:
+    - start: '2008-06-15'
+      kind: effective
+  considerations:
+  - type: noting
+    message: |
+      Noting the successful second CD-TS ballot on ISO 15926-7
+    dates:
+    - start: '2008-06-15'
+      kind: effective
+- identifier: 200806-acclaim-01
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank Open Technical Forum presenters
+  dates:
+  - start: '2008-06-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC4 offers thanks to those external projects who presented their material at the Open Technical Forum:
+
+      * "Combining Gellish and RDF" (Leo van Ruijven)
+      * "RDF Pilot for Materials" (David Leal)
+    dates:
+    - start: '2008-06-15'
+      kind: decision
+- identifier: 200806-acclaim-02
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank SC 4 Liaisons and Liaison Plenary presenters
+  dates:
+  - start: '2008-06-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC4 expresses its appreciation to our SC4 Liaisons and those projects who presented at the Liaison Plenary:
+
+      * IAI (Thomas Liebich)
+      * ISO/TC 207 and VAMAS (Anna Moreno)
+      * SASIG (Oscar Rocha)
+      * ISO/TC 37 (Gerry Radack)
+      * ISO/IEC JTC 1/SC 32 (Gerry Radack)
+      * PDES, Inc. (Tom Thurman)
+    dates:
+    - start: '2008-06-15'
+      kind: decision
+- identifier: 200806-acclaim-03
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Acknowledge resignation of Len Slovensky
+  dates:
+  - start: '2008-06-15'
+    kind: decision
+  actions:
+  - type: notes
+    message: |
+      SC4 notes with regret the resignation of Len Slovensky from the positions of WG 3 Deputy Convenor and AP229 project leader and editor, and wishes him well in his future endeavours.
+    dates:
+    - start: '2008-06-15'
+      kind: decision
+- identifier: 200806-acclaim-04
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank hosts and sponsors of the Sun City meeting
+  dates:
+  - start: '2008-06-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC4 expresses its appreciation to SABS, PiLog, SASOL, Transnet and Traces of Africa for their hosting and support of the 55th ISO/TC 184/SC 4 Plenary Meeting at the Sun City Hotel, Sun City, South Africa. We especially commend Dr Salomon de Jager (PiLog), Dr Hanneke du Preez, Mrs Charlotte du Plessis, and Ms Barrie-Anne Basson (Traces of Africa) for an excellent venue and outstanding service to the SC4 community.
+
+      A special acknowledgement is extended to Ms Erna Stadtlander, Sun City Conference Coordinator, and her Support Team.
+    dates:
+    - start: '2008-06-15'
+      kind: decision

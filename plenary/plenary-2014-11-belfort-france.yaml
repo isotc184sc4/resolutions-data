@@ -1,0 +1,293 @@
+metadata:
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Belfort, France, November 2, 2014 -- November 7, 2014
+  dates:
+  - start: '2014-11-02'
+    end: '2014-11-07'
+    kind: meeting
+  source: ISO/TC 184/SC 4 Secretariat
+  venue: Belfort, France
+resolutions:
+- identifier: '882'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Approve Project Leaders and Project Editors for AP 242 ed 2
+  dates:
+  - start: '2014-11-15'
+    kind: decision
+  actions:
+  - type: approves
+    message: |
+      SC 4 approves the following Project Leaders and Project Editors for the associated SC 4 projects:
+      
+      |===
+      |Project |Project Leader |Editor
+      
+      |AP 242 ed 2 |Jean Brange |Darla Nettles
+      |===
+    dates:
+    - start: '2014-11-15'
+      kind: effective
+- identifier: '883'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Appoint Jean Brangé as WG 13 Deputy Convenor
+  dates:
+  - start: '2014-11-15'
+    kind: decision
+  actions:
+  - type: appoints
+    message: |
+      SC 4 appoints Mr. Jean Brangé as Deputy Convenor for WG 13 for a further three-year
+      term, with appreciation for his offer to serve in that capacity.
+    dates:
+    - start: '2014-11-15'
+      kind: effective
+- identifier: '884'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Appoint Paul Van Exel as WG 22 Deputy Convener
+  dates:
+  - start: '2014-11-15'
+    kind: decision
+  actions:
+  - type: appoints
+    message: |
+      SC 4 appoints Mr. Paul Van Exel as Deputy Convener for WG 22 for a three-year term,
+      with appreciation for his offer to serve in that capacity.
+    dates:
+    - start: '2014-11-15'
+      kind: effective
+- identifier: '885'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Establish 2-month ballot duration for new NPs
+  dates:
+  - start: '2014-11-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      SC 4 requests its Secretariat to apply the 2-month duration to NPs for:
+      
+      * 18828-3 Information Flows within Production Systems Engineering;
+      * 15926-6e2 Scope and Representation for Additional Reference Data -- OWL Extension;
+      * 15926-10 Conformance Testing;
+      * 15926: Initial Reference Data for the Maritime Industry;
+      * 15926 Integrated Lifecycle Asset Planning.
+    dates:
+    - start: '2014-11-15'
+      kind: effective
+- identifier: '886'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Cancel the UPDM project and remove ISO/PAS 17729
+  dates:
+  - start: '2014-11-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      SC 4 requests its secretariat to cancel the project and remove ISO/PAS 17729 from
+      the SC 4 Work Program.
+    dates:
+    - start: '2014-11-15'
+      kind: effective
+- identifier: '887'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Appoint Bob Young as JWG 8 Deputy Convener
+  dates:
+  - start: '2014-11-15'
+    kind: decision
+  actions:
+  - type: appoints
+    message: |
+      SC 4 appoints Mr. Bob Young as Deputy Convener for JWG 8 for a three-year term,
+      with appreciation for his offer to serve in that capacity.
+    dates:
+    - start: '2014-11-15'
+      kind: effective
+- identifier: '888'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Publish ISO 8000 Part 8 as International Standard
+  dates:
+  - start: '2014-11-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      SC 4 requests its secretary to submit the amended part to ISO CS for publication
+      as IS omitting the FDIS ballot.
+    dates:
+    - start: '2014-11-15'
+      kind: effective
+  considerations:
+  - type: noting
+    message: |
+      SC 4 notes the results of the DIS ballot on ISO 8000 "Information and data quality --
+      Part 8: Concepts and measuring".
+    dates:
+    - start: '2014-11-15'
+      kind: effective
+- identifier: '889'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Support future scope and interoperability efforts of JWG 12
+  dates:
+  - start: '2014-11-15'
+    kind: decision
+  actions:
+  - type: welcomes
+    message: |
+      SC 4 welcomes the progress made to date by JWG 12 and their intention to turn ISO
+      16739 into a useful and widely adopted set of building information management
+      standards.
+    dates:
+    - start: '2014-11-15'
+      kind: effective
+  - type: encourages
+    message: |
+      SC 4 encourages all members of JWG 12 to strive to maintain and where necessary
+      even improve the interoperability of ISO 16739 and ISO 10303.
+    dates:
+    - start: '2014-11-15'
+      kind: effective
+  - type: requests
+    message: |
+      Especially in light of the envisaged development of model view definitions for ISO
+      16739, SC 4 requests JWG 12 to leverage the experiences of SC 4 in producing and
+      maintaining their application protocols over the last two decades.
+    dates:
+    - start: '2014-11-15'
+      kind: effective
+  - type: asks
+    message: |
+      SC 4 asks JWG 12 to report on their efforts to agree on a harmonized methodology for
+      the presentation and implementation of ISO 16739 and ISO 10303 at the next SC 4
+      plenary meeting in Vico Equense in April 2015.
+    dates:
+    - start: '2014-11-15'
+      kind: effective
+  considerations:
+  - type: noting
+    message: |
+      SC 4 notes the recommendations made by ISO/TC 59/SC 13/JWG 12 at their third
+      meeting and the related resolutions 159 and 160 approved by ISO/TC 59/SC 13 at
+      their plenary meeting in Toronto.
+    dates:
+    - start: '2014-11-15'
+      kind: effective
+- identifier: '890'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank Jerry Smith for his service as SC 4 Secretary
+  dates:
+  - start: '2014-11-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 expresses its great appreciation to Jerry Smith for his excellent service as
+      Secretary to SC 4 since 1999, and wishes him a long and happy retirement.
+      
+      SC 4 commends his efforts to secure resources to support the original SC 4 website,
+      and for the operation of the committee.
+      
+      SC 4 also thanks DISA, Mr. Dennis Devera and Ms. Bich Ngoc Nguyen for their support.
+    dates:
+    - start: '2014-11-15'
+      kind: effective
+- identifier: '891'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Apply extended timeframe to ISO 14306 ed2 project
+  dates:
+  - start: '2014-11-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      SC 4 requests its Secretariat to apply the extended timeframe to the ISO 14306e2
+      project, with a DIS limit date of 2015-12-15.
+    dates:
+    - start: '2014-11-15'
+      kind: effective
+- identifier: '201411-acclaim-01'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank external projects presenting at Open Technical Forum
+  dates:
+  - start: '2014-11-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      We offer thanks to those external projects who presented their material at the Open
+      Technical Forum:
+      
+      * "Visualization for the web for 3D CAD massive Datasets" -- Dr. Johannes Behr
+      * "Industrial Data and the Circular Economy" -- Dr. Norman Swindells
+      * "Configuration Services for Global Production Networks" -- Prof. Bob Young
+      * "Equivalence Validation" -- Mr. Akihiko Ohtaka
+    dates:
+    - start: '2014-11-15'
+      kind: effective
+- identifier: '201411-acclaim-02'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank liaison members presenting at Liaison Plenary
+  dates:
+  - start: '2014-11-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      We offer thanks to our liaison members who presented their material at the Liaison
+      Plenary:
+      
+      * "ISO/TC 176/SC 2" -- Dr. Timothy King
+      * "ISO/TC 59/SC 13/JWG 12 Buildings and civil engineering works" -- Mr. Jochen Haenisch
+      * "Industry Views on ISO 15926" -- Mr. Anders Thostrup
+      * "Liaison Issues" -- Mr. Howard Mason
+    dates:
+    - start: '2014-11-15'
+      kind: effective
+- identifier: '201411-acclaim-03'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank AFNOR and University de Technologie de Belfort-Montbeliard for hosting
+  dates:
+  - start: '2014-11-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 expresses its appreciation to AFNOR -- Association Française de Normalisation
+      and the University de Technologie de Belfort-Montbeliard for their hosting and support
+      of the 68th ISO TC 184/SC 4 Plenary meetings at the University de Technologie de
+      Belfort-Montbeliard, Belfort France.
+      
+      We especially commend Ms. Ghislaine Magnan and Mr. Christophe Mouton for an excellent
+      venue and outstanding service to the SC 4 community.
+    dates:
+    - start: '2014-11-15'
+      kind: effective
+- identifier: '201411-acclaim-04'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank AFNOR for organizing Industry Day
+  dates:
+  - start: '2014-11-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 expresses its appreciation to AFNOR for their organization of the Industry
+      Day, and to the speakers and panel members for attending and presenting on
+      matters of interest to the SC 4 community.
+    dates:
+    - start: '2014-11-15'
+      kind: effective
+- identifier: '201411-acclaim-05'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank Groupe Elephant for support of the meetings
+  dates:
+  - start: '2014-11-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 expresses its appreciation to Groupe Elephant for their excellent support of
+      the 68th ISO TC 184/SC 4 Plenary meetings. Mr. David Ramos and Mr. Bruno
+      Christmann and their staff are to be commended for their exceptional support and
+      service to organization of the meetings.
+    dates:
+    - start: '2014-11-15'
+      kind: effective

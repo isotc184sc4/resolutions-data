@@ -1,0 +1,336 @@
+metadata:
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Philadelphia, United States, May 4, 2014 -- May 9, 2014
+  dates:
+  - start: '2014-05-04'
+    end: '2014-05-09'
+    kind: meeting
+  source: ISO/TC 184/SC 4 Secretariat
+  venue: Philadelphia, United States
+resolutions:
+- identifier: '866'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Issue call for nominations for Quality Committee Convener
+  dates:
+  - start: '2014-05-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      SC 4 requests its Secretariat to circulate a call for nominations for the
+      post of Quality Committee Convener for a three-year term.
+    dates:
+    - start: '2014-05-15'
+      kind: effective
+- identifier: '867'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Reappoint David Loffredo as WG 11 Convener
+  dates:
+  - start: '2014-05-15'
+    kind: decision
+  actions:
+  - type: appoints
+    message: |
+      SC 4 appoints David Loffredo as Convener for WG 11 for a further three-year
+      term, with appreciation for his offer to serve in that capacity.
+    dates:
+    - start: '2014-05-15'
+      kind: effective
+- identifier: '868'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Appoint Nils Sandsmark as WG 3 Deputy Convener
+  dates:
+  - start: '2014-05-15'
+    kind: decision
+  actions:
+  - type: appoints
+    message: |
+      SC 4 appoints Nils Sandsmark as Deputy Convener for WG 3 for a three-year
+      term, with appreciation for his offer to serve in that capacity.
+    dates:
+    - start: '2014-05-15'
+      kind: effective
+- identifier: '869'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Issue call for nominations for WG 23 Vocabulary Validation Team Leader
+  dates:
+  - start: '2014-05-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      SC 4 requests its Secretariat to circulate a call for nominations for the
+      post of WG 23 Vocabulary Validation Team Leader.
+    dates:
+    - start: '2014-05-15'
+      kind: effective
+- identifier: '870'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Appoint Nicolas Figay as liaison to OSLC
+  dates:
+  - start: '2014-05-15'
+    kind: decision
+  actions:
+  - type: appoints
+    message: |
+      SC 4 appoints Nicolas Figay as liaison to OSLC, with appreciation for his
+      offer to serve in that capacity.
+    dates:
+    - start: '2014-05-15'
+      kind: effective
+- identifier: '871'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Appoint Tor Arne Irgens as liaison to ISO/TC 176 for ISO 9000
+  dates:
+  - start: '2014-05-15'
+    kind: decision
+  actions:
+  - type: appoints
+    message: |
+      SC 4 appoints Tor Arne Irgens as liaison to ISO/TC 176 for ISO 9000,
+      with appreciation for his offer to serve in that capacity.
+    dates:
+    - start: '2014-05-15'
+      kind: effective
+- identifier: '872'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Welcome Jay Hollingsworth as liaison from Energistics
+  dates:
+  - start: '2014-05-15'
+    kind: decision
+  actions:
+  - type: welcomes
+    message: |
+      SC 4 welcomes Jay Hollingsworth as liaison from Energistics, with
+      appreciation for his offer to serve in that capacity.
+    dates:
+    - start: '2014-05-15'
+      kind: effective
+- identifier: '873'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Cancel PAS 26183
+  dates:
+  - start: '2014-05-15'
+    kind: decision
+  actions:
+  - type: decides
+    message: |
+      SC 4 agrees to cancel Publicly Available Specification 26183 "Product
+      Data Quality Guidelines for the Global Automotive Industry".
+    dates:
+    - start: '2014-05-15'
+      kind: effective
+  - type: requests
+    message: |
+      SC 4 requests its Secretariat to inform ISO CS, and to retain all relevant
+      documentation for future use.
+    dates:
+    - start: '2014-05-15'
+      kind: effective
+- identifier: '874'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Establish 2-month ballot duration for NPs 15926-12 and 10303-242e2
+  dates:
+  - start: '2014-05-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      SC 4 requests its Secretariat to apply the 2-month duration to NPs
+      for 15926-12 and 10303-242e2.
+    dates:
+    - start: '2014-05-15'
+      kind: effective
+- identifier: '875'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Invite experts to the MOU/MG Semantic Interoperability project
+  dates:
+  - start: '2014-05-15'
+    kind: decision
+  actions:
+  - type: asks
+    message: |
+      SC 4 invites David Leal, Anne-Francoise Cutting-Decelle and Keith
+      Hunten to participate in the MOU/MG Semantic Interoperability project.
+    dates:
+    - start: '2014-05-15'
+      kind: effective
+- identifier: '876'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Send liaison statement to IEC/TC 3 regarding scope overlap
+  dates:
+  - start: '2014-05-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      SC 4 requests its Secretariat to send a liaison statement to IEC/TC 3
+      before 2014-06-06 highlighting the potential overlap of scope, and to request the TC
+      184 Secretariat to re-establish a liaison to TC 3.
+    dates:
+    - start: '2014-05-15'
+      kind: effective
+- identifier: '877'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Direct project group on ISO 14306 ed2 to continue work
+  dates:
+  - start: '2014-05-15'
+    kind: decision
+  actions:
+  - type: directs
+    message: |
+      SC 4 directs the project group on ISO 14306 ed2 "JT" to continue its
+      work under the following conditions:
+      
+      * The platform for document storage and providing information in written
+      electronic form is the SC 4 space for eCommittees on the ISO internet platform.
+      * An updated timeframe with milestones shall be prepared with the strong
+      request to meet the defined milestones.
+    dates:
+    - start: '2014-05-15'
+      kind: effective
+  - type: requests
+    message: |
+      SC 4 requests its Secretariat to cancel the current CD ballot and to launch a new CD
+      ballot with ISO/CD 14306 ed2 and the latest AP243 document, including a specific
+      request for NBs to consider any proposed variations in scope.
+    dates:
+    - start: '2014-05-15'
+      kind: effective
+- identifier: '878'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Participate in the TC 184/TC 65 ad hoc group
+  dates:
+  - start: '2014-05-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      SC 4 requests its WG 2 to participate in the proposed TC 184/TC 65 ad hoc group by
+      showing and describing the practical uses of the standards ISO 13584 and ISO 22745
+      which shows the benefit in a productive environment, taking into account ISO/IEC Guide
+      77 and previous SC 4 work on this topic.
+    dates:
+    - start: '2014-05-15'
+      kind: effective
+  - type: asks
+    message: |
+      SC 4 supports the need for a common face of the standards program to potential users
+      within industry. Therefore SC 4 invites WG 2 to nominate members to participate in this
+      ad hoc group by the end of May 2014.
+    dates:
+    - start: '2014-05-15'
+      kind: effective
+  considerations:
+  - type: noting
+    message: |
+      Noting the successful collaboration between SC 4 and IEC TC 3 on the
+      deployment of PLIB.
+    dates:
+    - start: '2014-05-15'
+      kind: effective
+- identifier: '879'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Investigate possible scope overlaps with IEC SC 65E
+  dates:
+  - start: '2014-05-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      SC 4 requests its liaison officers Messrs Murayama and Ondracek to contact
+      IEC SC 65E and investigate possible areas of overlaps, which could be the
+      subject of future cooperation between SC 4 and IEC SC 65E.
+    dates:
+    - start: '2014-05-15'
+      kind: effective
+  considerations:
+  - type: noting
+    message: |
+      SC 4 has noted possible overlaps of work to IEC SC 65E by reviewing
+      the scope of IEC 62714 AutomationML.
+    dates:
+    - start: '2014-05-15'
+      kind: effective
+- identifier: '880'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Send liaison statement to IEC TC 171/SC 2 on ISO/CD 17911
+  dates:
+  - start: '2014-05-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      SC 4 requests its secretariat to send the above liaison statement to the
+      secretariat of ISO/TC 171/SC 2.
+    dates:
+    - start: '2014-05-15'
+      kind: effective
+- identifier: '881'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank Dr. Gerry Radack for his service and dedication
+  dates:
+  - start: '2014-05-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 expresses its special recognition and thanks to Dr. Gerry Radack
+      for his exceptional dedication and outstanding service for many years in the
+      international standardization community.
+      
+      SC 4 especially thanks Dr. Radack for his service as the U.S. Head of Delegation.
+    dates:
+    - start: '2014-05-15'
+      kind: effective
+- identifier: '201405-acclaim-01'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank SC 4 Liaisons and Opening Technical Plenary presenters
+  dates:
+  - start: '2014-05-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      Appreciation to our SC 4 Liaisons and those projects who presented at the Opening
+      Technical Plenary:
+      
+      * Jochen Haenisch, JOTNE -- “Open Data Exchange Standards for Infrastructure Opens the Door for Enterprise Resource Planning Systems”
+      * Thomas Liebich, Chair, ISO/TC 59/SC 13/JWG 12
+    dates:
+    - start: '2014-05-15'
+      kind: effective
+- identifier: '201405-acclaim-02'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank US national TAG and speakers for Industry Day
+  dates:
+  - start: '2014-05-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 expresses its appreciation to the US national TAG for their organization of the
+      Industry Day, and to the speakers and panel members for attending and presenting
+      on matters of interest to the SC 4 community.
+    dates:
+    - start: '2014-05-15'
+      kind: effective
+- identifier: '201405-acclaim-03'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank ECCMA and ACE Conference Center for hosting the Plenary
+  dates:
+  - start: '2014-05-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 expresses its appreciation to ECCMA for their hosting and support of the 67th
+      ISO TC 184/SC 4 Plenary meetings at ACE Conference Center, Philadelphia, PA.
+      
+      We especially commend them for an excellent venue and outstanding service to the
+      SC 4 community. A special acknowledgement is extended to Ms. Melissa Hildebrand
+      and Ms. Vicky Falcone for their outstanding support during the week. Special
+      acknowledgement is extended to the ACE Conference Center and its staff for their
+      seamless and attentive support.
+    dates:
+    - start: '2014-05-15'
+      kind: effective

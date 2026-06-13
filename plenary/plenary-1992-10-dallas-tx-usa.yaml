@@ -1,0 +1,662 @@
+metadata:
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Dallas, TX, USA, October 1992
+  dates:
+  - start: '1992-10-15'
+    kind: meeting
+  source: ISO/TC 184/SC 4 Secretariat
+  venue: Dallas, TX, USA
+resolutions:
+- identifier: '124'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Note consensus position on Initial Release implementation issues
+  dates:
+  - start: '1992-10-15'
+    kind: decision
+  actions:
+  - type: notes
+    message: |
+      SC 4 notes the consensus position reached by PMAG and WG experts on the issues
+      relating to Initial Release implementation. This represents a solution to a number of
+      potential ballot comments which may arise during the current CD ballot. The following
+      represent the proposed solution:
+
+      Part 21:
+      ANDOR Supertype/Subtype Structures
+      * Instances based on AND will use external mapping.
+      * Other instances will use internal mapping.
+      * Entity names within the external mapping structure will be ordered alphabetically.
+
+      Part 41:
+      * The Measures Schema recommended by WG 4 will be adopted.
+
+      Parts 42 and 46:
+      * Other Parts will conform with the new Measures Schema.
+
+      Part 203:
+      * Annex D of the current CD release will be removed.
+      * A new informative annex will be added (Annex J).
+
+      consensus:
+      Text for the new informative annex should express the following:
+      "This annex provides an example instantiation data structure that may
+      help implementors understand how the Application Interpreted Model of
+      Annex A might be restructured for internal implementation purposes."
+      "The data structure contained in this annex is not intended to be used as
+      the required schema for the clear text encoding as defined in ISO 10303-21."
+
+      AP Guidelines and Supplementary Directives:
+      * The informative annex (Annex J) as previously defined will be described as an optional annex for all APs.
+    dates:
+    - start: '1992-10-15'
+      kind: effective
+- identifier: '125'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Confirm CD ballot target dates and instruct Secretariat to circulate integrated documents
+  dates:
+  - start: '1992-10-15'
+    kind: decision
+  actions:
+  - type: confirms
+    message: |
+      SC 4 confirms the CD ballot target dates for existing STEP documents. The resulting
+      comments, will be addressed at the workshop scheduled for 14 - 18 December 1992
+      at NIST.
+    dates:
+    - start: '1992-10-15'
+      kind: effective
+  - type: instructs
+    message: |
+      SC 4 instructs its secretariat to circulate the integrated set of consistent
+      documents to P-members by 15 January 1993. The final decision to register the
+      documents as DIS will be taken by SC 4 at the Torino meeting.
+    dates:
+    - start: '1992-10-15'
+      kind: effective
+- identifier: '126'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Allow referencing mechanisms to a part in a standard part library
+  dates:
+  - start: '1992-10-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: |
+      The Initial Release of ISO 10303 shall allow referencing mechanisms to a part in a
+      standard part library using names and attributes. Such mechanisms shall allow the
+      exchange through a STEP file of that information which is necessary to generate the
+      same part in the receiving system when both sending and receiving systems contain
+      the same part library. (SPAG 9)
+    dates:
+    - start: '1992-10-15'
+      kind: effective
+- identifier: '127'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Circulate ISO 10303-21 to P-members by January 1993
+  dates:
+  - start: '1992-10-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: |
+      Because of the likelihood of changes required to maintain overall consistency, ISO
+      10303-21 will be circulated to P-members on or before 15 January 1993, so that it
+      can be included in the final decision on the registration of the Initial Release of
+      STEP.
+    dates:
+    - start: '1992-10-15'
+      kind: effective
+- identifier: '128'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Request Secretariat to explicitly describe expectations for STEP Initial Release
+  dates:
+  - start: '1992-10-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      SC 4 requests its secretariat to clearly and explicitly describe the expectations for the
+      Initial Release of STEP as the basis for national bodies to prepare their own press
+      releases.
+    dates:
+    - start: '1992-10-15'
+      kind: effective
+- identifier: '129'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Direct WG 4 and WG 5 to submit required documents as Type 3 Technical Reports
+  dates:
+  - start: '1992-10-15'
+    kind: decision
+  actions:
+  - type: directs
+    message: |
+      SC 4 directs its Working Groups WG 4 and WG 5 to complete all documents required
+      for the use of the STEP methodologies, and to submit them for approval as ISO Type
+      3 Technical Reports.
+    dates:
+    - start: '1992-10-15'
+      kind: effective
+- identifier: '130'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Request member bodies to provide qualified experts to support critical central functions
+  dates:
+  - start: '1992-10-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      SC 4 requests member bodies to identify and provide qualified people with
+      adequate long-term commitment and funding to support the critical central functions
+      of qualification, integration, editing, training material development, training and
+      configuration management. In addition, SC 4 requests PMAG to identify to member
+      bodies the requirements for support for these functions.
+    dates:
+    - start: '1992-10-15'
+      kind: effective
+- identifier: '131'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Instruct Secretariat to ballot proposed strategic policy statement
+  dates:
+  - start: '1992-10-15'
+    kind: decision
+  actions:
+  - type: instructs
+    message: |
+      SC 4 instructs its secretariat to send out for mail ballot the proposed strategic policy
+      statement, developed by SPAG and WG 2 in the document SPAG N104 V1.4.
+    dates:
+    - start: '1992-10-15'
+      kind: effective
+- identifier: '132'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Require an ASCII source listing for CD ballots
+  dates:
+  - start: '1992-10-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      ISO/TC 184/SC 4 asks the ISO/TC 184/SC 4 Secretariat to make sure that an ASCII
+      source listing will be available, containing an explicit representation of all characters of
+      the CD text to be balloted represented as ASCII characters, without any formatting
+      information or figures.
+
+      A 3.5" MS-DOS disk formatted at 720 K containing a complete 7 bit ASCII text must
+      then be an integral part of any package for which a CD ballot is requested.
+    dates:
+    - start: '1992-10-15'
+      kind: effective
+- identifier: '133'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Request specific document formats for each STEP Part on NIST SOLIS
+  dates:
+  - start: '1992-10-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      For each STEP Part on the NIST SOLIS, ISO/TC 184/SC 4 asks that the following
+      forms be available, consistent and up to date:
+
+      * Master copy in LaTeX or WordPerfect.
+      * One derived copy containing a complete ASCII text of the STEP Part,
+        containing as much text as possible.
+      * One derived copy containing a POSTSCRIPT copy of the STEP Part, including
+        the cover sheet.
+    dates:
+    - start: '1992-10-15'
+      kind: effective
+- identifier: '134'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Request registration of WG 2 work as a new standards project
+  dates:
+  - start: '1992-10-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      SC 4 asks its secretariat to register the work of WG 2 with ISO as a new standards
+      project, different from 10303.
+    dates:
+    - start: '1992-10-15'
+      kind: effective
+- identifier: '135'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Request principal meeting schedules be determined at least one year in advance
+  dates:
+  - start: '1992-10-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      SC 4 requests its secretariat to ensure that the schedule for the principal meetings of
+      the Working and Advisory Groups of SC 4 shall be determined at least one year in
+      advance of such meetings.
+    dates:
+    - start: '1992-10-15'
+      kind: effective
+- identifier: '136'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Require eight-week advance notice for expected votes prior to SC 4 meetings
+  dates:
+  - start: '1992-10-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: |
+      At least eight weeks prior to each meeting of ISO/TC 184/SC 4, a memorandum shall
+      be sent to each "P" member country indicating all issues, documents, projects, etc. for
+      which votes are expected at that meeting.
+    dates:
+    - start: '1992-10-15'
+      kind: effective
+- identifier: '137'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Encourage WG 3/T8 and WG 8 to cover the domain of maintenance data
+  dates:
+  - start: '1992-10-15'
+    kind: decision
+  actions:
+  - type: encourages
+    message: |
+      SC 4 encourages WG 3/T8 (Product Life Cycle Support) and WG 8 (Industrial
+      Manufacturing Management) to cover the domain of maintenance data. WG 3/T8 will
+      particularly address maintenance support data. WG 8 will particularly address
+      maintenance management data. The specific case related to diagnostics and
+      resource status has to be solved in common. (WG 3)
+    dates:
+    - start: '1992-10-15'
+      kind: effective
+- identifier: '138'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Direct Secretariat to propose shared guidelines for ISO and IEC cooperation
+  dates:
+  - start: '1992-10-15'
+    kind: decision
+  actions:
+  - type: directs
+    message: |
+      SC 4 directs its Secretariat to send to the Central Secretariats of ISO and IEC, to the
+      ISO/CEO, and to the secretariat of IEC/TC 93, the memorandum SC 4 N166 (SPAG
+      N106) as a proposal of shared guidelines to be used as the basis for common
+      agreements between ISO and IEC to achieve the cooperation required by SCIA in
+      their decision #83.
+    dates:
+    - start: '1992-10-15'
+      kind: effective
+- identifier: '139'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Direct Secretariat to respond to IEC/TC 3 questionnaire IEC 5/1992
+  dates:
+  - start: '1992-10-15'
+    kind: decision
+  actions:
+  - type: directs
+    message: |
+      SC 4 directs its Secretariat to respond to the IEC/TC 3 questionnaire IEC 5/1992 by
+      sending back the SC 4 terms of reference containing the updated list of projects and
+      the programme of work of JWG 9.
+    dates:
+    - start: '1992-10-15'
+      kind: effective
+- identifier: '140'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Appoint SC 4 representatives to first IEC/TC 93 meeting
+  dates:
+  - start: '1992-10-15'
+    kind: decision
+  actions:
+  - type: appoints
+    message: |
+      SC 4 appoints Mr. Fritz Reuter and Mr. Pat Harrow to represent SC 4 at the first
+      meeting of IEC/TC 93 in Paris, on 29 - 30 October 1992.
+    dates:
+    - start: '1992-10-15'
+      kind: effective
+  considerations:
+  - type: recognizing
+    message: |
+      Recognising the creation of IEC/TC 93 and desiring to fully support the activities of
+      IEC/TC 93 in the area of STEP AP development for design automation.
+    dates:
+    - start: '1992-10-15'
+      kind: effective
+- identifier: '141'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Adopt SC 4 N165 to manage evolution of SC 4 standards and parts
+  dates:
+  - start: '1992-10-15'
+    kind: decision
+  actions:
+  - type: adopts
+    message: |
+      To fulfil the objectives #c2 and c3 of the SC 4 strategic policy (SC 4 N128), SC 4
+      adopts the document SC 4 N165 as the policy to manage the evolution of SC 4
+      standards and their parts. This document has been balloted with a positive result,
+      and comments have been reviewed and resolved.
+    dates:
+    - start: '1992-10-15'
+      kind: effective
+- identifier: '142'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Direct PMAG to define configuration control requirements for STEP evolution
+  dates:
+  - start: '1992-10-15'
+    kind: decision
+  actions:
+  - type: directs
+    message: |
+      SC 4 directs PMAG to define the requirements for the configuration control to manage
+      the evolution of STEP as defined in SC 4 N165.
+    dates:
+    - start: '1992-10-15'
+      kind: effective
+  - type: directs
+    message: |
+      SC 4 directs PMAG will also define proposals of alternative procedures for meeting
+      those requirements to fulfil the SC 4 policy adopted in Resolution #141.
+    dates:
+    - start: '1992-10-15'
+      kind: effective
+  - type: directs
+    message: |
+      SC 4 directs PMAG to report these to SC 4 at least by mid 1993 for final decision.
+    dates:
+    - start: '1992-10-15'
+      kind: effective
+- identifier: '143'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Adopt SC 4 N164 as information model of main elements used within SC 4
+  dates:
+  - start: '1992-10-15'
+    kind: decision
+  actions:
+  - type: adopts
+    message: |
+      To fulfil the objective #b6 of the SC 4 Strategic Policy (SC 4 N128) and to embed
+      consistency in the SC 4 procedures proposed in SC 4 Resolution #83, SC 4 adopts
+      the document SC 4 N164 as the information model of the main elements used within
+      SC 4 according to the ISO directives.
+    dates:
+    - start: '1992-10-15'
+      kind: effective
+- identifier: '144'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Direct Secretariat to circulate SPAG N93 on Global Programming Language
+  dates:
+  - start: '1992-10-15'
+    kind: decision
+  actions:
+  - type: directs
+    message: |
+      SC 4 directs its secretariat to circulate the working paper SPAG N93 on "Global
+      Programming Language for Manufacturing Applications" to P-member bodies,
+      requesting national comments, priorities, and recommendations on whether SC 4
+      should or should not keep the area of scope within its program of work.
+    dates:
+    - start: '1992-10-15'
+      kind: effective
+- identifier: '145'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Direct WG 8 to establish liaisons with UN and JTC 1 groups
+  dates:
+  - start: '1992-10-15'
+    kind: decision
+  actions:
+  - type: directs
+    message: |
+      SC 4 directs WG 8 to establish liaisons between SC 4 and the following bodies:
+
+      * United Nations Trade Division
+      * ISO/IEC JTC 1/WG 3
+      * ISO/IEC JTC 1/SC 14
+    dates:
+    - start: '1992-10-15'
+      kind: effective
+  considerations:
+  - type: recognizing
+    message: |
+      To ensure that incoherencies, gaps, and overlaps are recognized and eliminated, SC
+      4 recognizes the need for liaison between the business information domain covered
+      by EDIFACT and other related standards, and the technical information domain
+      covered by SC 4 standards.
+    dates:
+    - start: '1992-10-15'
+      kind: effective
+- identifier: '146'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Direct Secretariat and SPAG to structure requirements for future STEP capabilities
+  dates:
+  - start: '1992-10-15'
+    kind: decision
+  actions:
+  - type: directs
+    message: |
+      SC 4 directs its secretariat and SPAG to examine the feasibility of organizing during
+      1993 appropriate mechanisms to identify and structure requirements for STEP
+      capabilities that will be needed during the next five years.
+    dates:
+    - start: '1992-10-15'
+      kind: effective
+- identifier: '147'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Request EXPRESS Language project leader to present requirements and strategy
+  dates:
+  - start: '1992-10-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      To fulfil objective c1 of the SC 4 strategic policy (SC 4 N128), SC 4 requests that the
+      P02 (EXPRESS Language) project leader:
+
+      * present to SPAG in Torino, Italy (February 1993 meeting) the status and the
+        content of its requirement analysis for EXPRESS.
+      * elaborate a strategy for future EXPRESS development, and to present it to
+        SPAG for validation by July 1993. This strategy should include the context, the
+        background, the main objectives on a mid-term and long-term basis,
+        assessment of any alternative options, and the analysis of major risks. (SPAG 4)
+    dates:
+    - start: '1992-10-15'
+      kind: effective
+- identifier: '148'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Request P35 project leader to propose interoperability concepts to SPAG
+  dates:
+  - start: '1992-10-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      SC 4 requests the P35 project leader, Mr. Mark Palmer, along with the participation of
+      WG 4, WG 5, Editing Committee, interested members of PMAG, and experts within
+      SC 4, to present their point of view and to make a proposal to SPAG and PMAG at
+      their February 1993 meeting in Torino, Italy. The point of view and proposal will address the
+      topics of a reference model of SC 4 standards, concepts of "interoperability" and
+      "companion standards," and requirements for coordinating and qualifying APs
+      developed outside SC 4.
+    dates:
+    - start: '1992-10-15'
+      kind: effective
+- identifier: '149'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Adopt project P54 Automotive Mechanical Design AP and appoint leader
+  dates:
+  - start: '1992-10-15'
+    kind: decision
+  actions:
+  - type: adopts
+    message: |
+      SC 4 adopts project P54 "Automotive Mechanical Design AP".
+    dates:
+    - start: '1992-10-15'
+      kind: effective
+  - type: appoints
+    message: |
+      SC 4 appoints Mr. Juergen Mohrmann as the project leader.
+    dates:
+    - start: '1992-10-15'
+      kind: effective
+- identifier: '150'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Appoint Mr. Albert Colin as liaison with ISO/TAG 7
+  dates:
+  - start: '1992-10-15'
+    kind: decision
+  actions:
+  - type: appoints
+    message: |
+      Following the resolution SC 4 #108, SC 4 appoints Mr. Albert Colin as the liaison with
+      the ISO/TAG 7 / Data Element Coordination Group.
+    dates:
+    - start: '1992-10-15'
+      kind: effective
+- identifier: '151'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Appoint Ms. Sheila Lewis as convener of WG 6
+  dates:
+  - start: '1992-10-15'
+    kind: decision
+  actions:
+  - type: appoints
+    message: |
+      SC 4 appoints Ms. Sheila Lewis (UK) as convener of WG 6, in succession to Dr. Jon
+      Owen, with the appointment to be effective upon the resignation of Dr. Owen.
+    dates:
+    - start: '1992-10-15'
+      kind: effective
+- identifier: 199210-acclaim-01
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank Dr. Jon Owen for his efforts as WG 6 convener
+  dates:
+  - start: '1992-10-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 expresses its thanks to Dr. Owen for his efforts in developing the framework for
+      conformance testing for STEP.
+    dates:
+    - start: '1992-10-15'
+      kind: effective
+- identifier: '152'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Appoint Mr. Rainer Glatz as liaison with ISO/TC 184/WG 5
+  dates:
+  - start: '1992-10-15'
+    kind: decision
+  actions:
+  - type: appoints
+    message: |
+      Following the ISO/TC 184 resolution #153, SC 4 appoints Mr. Rainer Glatz as liaison
+      with ISO/TC 184/WG 5.
+    dates:
+    - start: '1992-10-15'
+      kind: effective
+- identifier: '153'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Appoint Mr. Martin Holland as liaison with ISO/TC 10/SC 5
+  dates:
+  - start: '1992-10-15'
+    kind: decision
+  actions:
+  - type: appoints
+    message: |
+      Following SC 4 Resolution #110 (Oslo), Mr. Martin Holland is proposed by WG 3 as
+      the liaison with ISO/TC 10/SC 5. SC 4 appoints him as a liaison.
+    dates:
+    - start: '1992-10-15'
+      kind: effective
+- identifier: '154'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Appoint Mr. Cliff Borchert as project leader for P29 on External Exchanges
+  dates:
+  - start: '1992-10-15'
+    kind: decision
+  actions:
+  - type: appoints
+    message: |
+      SC 4 appoints Mr. Cliff Borchert as leader of project P29 on External Exchanges.
+    dates:
+    - start: '1992-10-15'
+      kind: effective
+- identifier: '155'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Appoint Prof. Wilhelm Dangelmaier as project leader for P30
+  dates:
+  - start: '1992-10-15'
+    kind: decision
+  actions:
+  - type: appoints
+    message: |
+      SC 4 appoints Prof. Wilhelm Dangelmaier as leader of project P30 on Material Flow
+      Control.
+    dates:
+    - start: '1992-10-15'
+      kind: effective
+- identifier: '156'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Appoint Mr. Massimo Actis Dato as liaison with JTC 1/SGFS
+  dates:
+  - start: '1992-10-15'
+    kind: decision
+  actions:
+  - type: appoints
+    message: |
+      SC 4 appoints Mr. Massimo Actis Dato as liaison with JTC 1/SGFS.
+    dates:
+    - start: '1992-10-15'
+      kind: effective
+- identifier: '157'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Request PMAG to appoint liaison with ISO/TC 172/SC 1
+  dates:
+  - start: '1992-10-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      SC 4 requests PMAG to appoint a liaison with ISO/TC 172/SC 1 on optical systems.
+    dates:
+    - start: '1992-10-15'
+      kind: effective
+- identifier: '158'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Appoint Tom Baker as liaison with ISO/IEC JTC 1/SC 7
+  dates:
+  - start: '1992-10-15'
+    kind: decision
+  actions:
+  - type: appoints
+    message: |
+      SC 4 appoints Tom Baker as liaison with ISO/IEC JTC 1/SC 7 on software engineering.
+    dates:
+    - start: '1992-10-15'
+      kind: effective
+- identifier: '159'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Commend Initial Release team and international experts
+  dates:
+  - start: '1992-10-15'
+    kind: decision
+  actions:
+  - type: acknowledges
+    message: |
+      SC 4 commends the Initial Release team and all the international experts who have
+      contributed to the completion of the Parts in accordance with the schedule which was
+      set by SC 4.
+    dates:
+    - start: '1992-10-15'
+      kind: effective
+- identifier: '160'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank the United States for hosting SC 4 meeting
+  dates:
+  - start: '1992-10-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 thanks the U.S. for hosting this meeting of SC 4.
+    dates:
+    - start: '1992-10-15'
+      kind: effective

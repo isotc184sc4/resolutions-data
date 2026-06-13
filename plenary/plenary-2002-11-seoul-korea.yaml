@@ -1,0 +1,496 @@
+metadata:
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Seoul, Korea, November 3, 2002 -- November 8, 2002
+  dates:
+  - start: '2002-11-03'
+    end: '2002-11-08'
+    kind: meeting
+  source: ISO/TC 184/SC 4 Secretariat
+  venue: Seoul, Korea
+resolutions:
+- identifier: '544'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Approve new project leaders and editors
+  dates:
+  - start: '2002-11-15'
+    kind: decision
+  actions:
+  - type: approves
+    message: |
+      SC 4 approves the following new project leaders or project editors for the associated SC 4 projects:
+
+      |===
+      |Project |Leader |Editor
+
+      |ISO 10303-28ed2 |Heidi Preston |
+      |===
+    dates:
+    - start: '2002-11-15'
+      kind: effective
+- identifier: '545'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Cancel ISO 10303-29
+  dates:
+  - start: '2002-11-15'
+    kind: decision
+  actions:
+  - type: decides
+    message: |
+      SC 4 cancels ISO 10303-29, Implementation methods: Java programming language
+      binding to the EXPRESS modeling language from its work program.
+    dates:
+    - start: '2002-11-15'
+      kind: effective
+- identifier: '546'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Cancel AP226 for ship mechanical systems
+  dates:
+  - start: '2002-11-15'
+    kind: decision
+  actions:
+  - type: decides
+    message: |
+      SC 4 resolves to cancel 10303-226, Ship mechanical systems.
+    dates:
+    - start: '2002-11-15'
+      kind: effective
+- identifier: '547'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Cancel inactive ATS projects
+  dates:
+  - start: '2002-11-15'
+    kind: decision
+  actions:
+  - type: decides
+    message: |
+      SC 4 resolves to cancel 10303 parts 302, 318, 324ed2, and 333.
+    dates:
+    - start: '2002-11-15'
+      kind: effective
+- identifier: '548'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Cooperate with OAGI
+  dates:
+  - start: '2002-11-15'
+    kind: decision
+  actions:
+  - type: welcomes
+    message: |
+      SC 4 welcomes the request for a formal membership of the Open Applications Group.
+      Inc. (OAG) to ISO IEC ITU UN/ECE MoU. Based on the library described in OAGIS
+      8.0 SC 4 sees a complementary activity to its own STEP development. Therefore SC
+      4 invites the OAG to give a presentation at the next meeting on OAGs work. After the
+      presentation SC 4 shall consider inviting OAG to nominate an official Liaison Officer,
+      and initiation of the SC 4 Harvesting Procedure for OAGIS 8.0.
+    dates:
+    - start: '2002-11-15'
+      kind: effective
+  - type: asks
+    message: |
+      SC 4 invites National Member Bodies to recommend other similar groups that
+      should be invited to present their work programs to SC 4 and to be considered
+      for liaison.
+    dates:
+    - start: '2002-11-15'
+      kind: effective
+- identifier: '549'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Expand part marking standard to other industry sectors
+  dates:
+  - start: '2002-11-15'
+    kind: decision
+  actions:
+  - type: directs
+    message: |
+      In anticipation of a request from ISO/TC 20 to take over the task of expanding the part
+      marking standard to cover other industry sectors, SC 4 directs its Secretariat to
+      respond positively to such a request.
+    dates:
+    - start: '2002-11-15'
+      kind: effective
+  - type: requests
+    message: |
+      SC 4 requests the ad hoc group established by Resolution #512 to assess the
+      specification and to prepare an appropriate NWI proposal and circulate it to SC 4 and
+      the ISO/IEC/ITU/CEFACT MoU/MG.
+    dates:
+    - start: '2002-11-15'
+      kind: effective
+- identifier: '550'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Establish SC 4 Education and Outreach Rapporteur
+  dates:
+  - start: '2002-11-15'
+    kind: decision
+  actions:
+  - type: creates
+    message: |
+      SC 4 establishes an Education and Outreach Rapporteur as a focal point for SC 4 outreach,
+      education, and promotional activities. This should be closely linked to International
+      STEP Centers (ISC) related marketing and promotional activities.
+    dates:
+    - start: '2002-11-15'
+      kind: effective
+  - type: appoints
+    message: |
+      SC 4 appoints Mr. Ricardo Gonçalves as the first SC 4 Education and Outreach
+      Rapporteur.
+    dates:
+    - start: '2002-11-15'
+      kind: effective
+  considerations:
+  - type: recognizing
+    message: |
+      Recognizing the need to make the public, research community, and industry
+      knowledgeable of STEP International Standards, and SC 4 activities,
+    dates:
+    - start: '2002-11-15'
+      kind: effective
+- identifier: '551'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Approve minor revision of ISO 10303-214:2001
+  dates:
+  - start: '2002-11-15'
+    kind: decision
+  actions:
+  - type: approves
+    message: |
+      SC 4 approves the creation of a new edition of ISO 10303-214 as a minor revision to
+      correct errors in EXPRESS, Mapping Tables, Application Object definitions, and
+      orthography.
+    dates:
+    - start: '2002-11-15'
+      kind: effective
+  - type: appoints
+    message: |
+      SC 4 appoints Max Ungerer as Project Leader and Ulrich Pfeifer-Silberbach as Part
+      Editor.
+    dates:
+    - start: '2002-11-15'
+      kind: effective
+  - type: instructs
+    message: |
+      SC 4 instructs its Secretariat to submit the completed document to ISO CS for FDIS
+      ballot as a Minor Revision when available.
+    dates:
+    - start: '2002-11-15'
+      kind: effective
+- identifier: '552'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Promote development of ISO 13584-511 for fasteners
+  dates:
+  - start: '2002-11-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      SC 4 requests national member bodies to promote the achievements to date by CNIS
+      and the proposed project for development of “Mechanical systems and components for
+      general use -- Reference dictionary for fasteners” as part 511 of ISO 13584. In
+      particular, SC 4 recommends national member bodies to establish links with the
+      corresponding national technical committees involved with fastener technologies and
+      standards to promote the work and seek to attract potential ballot reviewers for the
+      expected ISO 13584-511.
+    dates:
+    - start: '2002-11-15'
+      kind: effective
+- identifier: '553'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Cancel ISO 15531 parts 21, 33, and 45 from MANDATE
+  dates:
+  - start: '2002-11-15'
+    kind: decision
+  actions:
+  - type: decides
+    message: |
+      SC 4 cancels ISO 15531-21, ISO 15531-33 and ISO 15531-45, and removes ISO
+      15531-21 from the MANDATE P1 project, ISO 15531-33 from the P2 project and ISO
+      15531-45 from the P3 project. Nevertheless the potential provision to BSR of specific
+      manufacturing BSU’s for data exchange is kept in the JWG 8 program of work and will
+      become a new work item if needed after clarification of evolution of the BSR project.
+    dates:
+    - start: '2002-11-15'
+      kind: effective
+- identifier: '554'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Assert SC 4 position on overlaps with ISO/IEC 62264
+  dates:
+  - start: '2002-11-15'
+    kind: decision
+  actions:
+  - type: asks
+    message: |
+      SC 4 asks its member bodies to take appropriate actions to ensure that these comments
+      will be taken into account in their answer to the ballot, from the ISO side as well as
+      from the IEC side.
+    dates:
+    - start: '2002-11-15'
+      kind: effective
+  - type: asks
+    message: |
+      SC 4 also asks ISO/TC 184 to clarify as far as possible the situation with IEC/TC 65
+      and to improve the collaboration already set up by the SC 5/JWG 15 to include SC 4
+      participation to that working group.
+
+      Moreover SC 4 asks ISO/TC 184 to take appropriate actions to ensure that ISO and
+      IEC committees with scopes that may overlap or relate to its own subcommittees are
+      aware of the standards already published and the work in progress in ISO/TC 184.
+    dates:
+    - start: '2002-11-15'
+      kind: effective
+  considerations:
+  - type: noting
+    message: |
+      Noting that ISO/TC 184/SC 4 notices some overlaps and inconsistencies between ISO/IEC 62264
+      and some of its existing developed standards or work in progress. Although some
+      normative references have been added in part 1 in the framework of ballot comment
+      resolution, SC 4 is concerned that insufficient consideration of the SC 4 approach,
+      work and constructs have been made in ISO/IEC 62264-2 which is currently under
+      ballot through a fast-track procedure.
+
+      This especially concerns the objects product, material, equipment, resource,
+      personnel, product segment, personnel segment, capability segment in ISO/IEC
+      62264-2 versus product, resource, capability, event, time as they are defined in
+      STEP, MANDATE and other SC 4 standards. In addition, some of the objects as they
+      are defined in ISO/IEC 62264-2 are not independent one from the other and contains
+      their relationship to the other. Time is not managed independently and appears in
+      each object. That is also incompatible with the SC 4 approach.
+
+      Since ISO/TC 184 standards and ISO/IEC 62264 address strongly related and
+      overlapping area of work, this situation may lead to conflict, difficulties and to the
+      unnecessary duplication of work.
+    dates:
+    - start: '2002-11-15'
+      kind: effective
+- identifier: '555'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Consider developing STEP AP for ISO/IEC 62264 Part 2
+  dates:
+  - start: '2002-11-15'
+    kind: decision
+  actions:
+  - type: investigates
+    message: |
+      SC 4 invites JWG 15 to consider the possibility of developing a STEP Application
+      Protocol with the scope of the information defined in ISO/IEC 62264 Part 2.
+    dates:
+    - start: '2002-11-15'
+      kind: effective
+- identifier: '556'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Ensure adequate representation in comparative assessment of ISO 14649 and ISO 10303-238
+  dates:
+  - start: '2002-11-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      SC 4 requests SC 1 to ensure adequate representation of SC 4 development activities
+      within the proposed studies, noting the existing participation of SC 4 experts in SC 1
+      meetings.
+    dates:
+    - start: '2002-11-15'
+      kind: effective
+  - type: requests
+    message: |
+      SC 4 requests WG 3/T24 experts to report on the status of this activity at the SC 4
+      meeting in San Diego in March 2003, and give initial recommendation on the
+      necessary convergence between AP238 and ISO 14649.
+    dates:
+    - start: '2002-11-15'
+      kind: effective
+  - type: asks
+    message: |
+      SC 4 invites ISO/TC 184 to note these requirements.
+    dates:
+    - start: '2002-11-15'
+      kind: effective
+  considerations:
+  - type: noting
+    message: |
+      Noting resolution 145 of SC 1.
+    dates:
+    - start: '2002-11-15'
+      kind: effective
+- identifier: '557'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Streamline publication of Modular APs
+  dates:
+  - start: '2002-11-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      SC 4 requires all projects developing modular APs and Application Modules to use
+      the XSL development environment in the STEP Repository. Deviations from this
+      requirement shall be approved by the appropriate Convenors and the Quality
+      Committee.
+    dates:
+    - start: '2002-11-15'
+      kind: effective
+  - type: requests
+    message: |
+      SC 4 requests its secretariat to register new AP modules as 10303 parts in the 400
+      series. The AP module number for an AP 2xy shall be 4xy.
+    dates:
+    - start: '2002-11-15'
+      kind: effective
+  - type: decides
+    message: |
+      SC 4 permits modular APs to be submitted directly to DIS ballot following successful
+      completion of the TS ballots for their component modules.
+    dates:
+    - start: '2002-11-15'
+      kind: effective
+  - type: requests
+    message: |
+      SC 4 requests its secretariat to negotiate with ISO for the publication of standard
+      products comprising APs and all their supporting modules.
+    dates:
+    - start: '2002-11-15'
+      kind: effective
+  - type: requests
+    message: |
+      SC 4 requests its member bodies and the affected projects to nominate resources to an
+      ad hoc team to develop revised AP Guidelines and Supplementary Directives.
+    dates:
+    - start: '2002-11-15'
+      kind: effective
+  considerations:
+  - type: noting
+    message: |
+      Noting the significant progress made in the definition of the structure and content
+      of modular APs, which shall be published as an AP with a complementary AP
+      module.
+    dates:
+    - start: '2002-11-15'
+      kind: effective
+- identifier: 200211-acclaim-01
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank KATS, KSTEP, and Seoul COEX Center
+  dates:
+  - start: '2002-11-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 expresses its deep appreciation to KATS (Korean Agency for Technology and
+      Standards) and KSTEP (Korea STEP Center) and the staff of Seoul COEX Center for
+      their efforts in organizing this meeting, arranging the facilities, excellent food, social
+      events, and excellent accompanying events. SC 4 also expresses its appreciation for
+      their hospitality and outstanding support before, during, and after the meeting.
+
+      SC 4 expresses its deep appreciation and thanks for the warm welcome by Mr. Dong-Chul
+      Kim, Administrator of KATS; and to the ISO/TC 184/SC 4 Meeting Organizing
+      Committee: Mr. Jong-Hee Hong, Director General, Department of Manufacturing
+      Technology and Standards, Korean Agency for Technology and Standards Ministry of
+      Commerce, Industry and Energy; Mr. Se-Jin Kim, Director of Automation and
+      Components Division, Chief Organizer of ISO/TC 184/ SC 4 Seoul meeting, Korean
+      Agency for Technology and Standards (KATS); Dr. Soonhung Han, Chairman of KSTEP.
+
+      SC 4 addresses a special recognition to Ju Hyun Yi (CES), Eunsook Kim (KATS),
+      Youchon Oh (KATS), Byeong Huee Lee (KATS), Su Jeong Baek (KSTEP), Du Hwan
+      Mun (KSTEP) and Sang Uk Cheon (KSTEP) for their hospitality, outstanding
+      support, and patience both before and during the ISO/TC 184/SC 4 meeting.
+
+      SC 4 also expresses its sincere appreciation and thanks for the following ISO/TC
+      184/SC 4 meeting sponsors: Jaebon Choi and Byungwhui Lee, Automation and
+      Components Division in KATS; Dr. Yongdae Kim, Korea Ocean Research &
+      Development Institute (KORDI); Professor Inhan Kim, Laboratory for Information
+      Technology in Architecture (ITalab); Mr. Seongsig Kim, Senior Researcher, Korea
+      Institute of Construction Technology (KICT); Professor Hyunchan Lee, Hongik
+      University Department of I.I.E. CAD/PAM Laboratory, and Mr. Kukhwan Lee,
+      Integrated Forum on Electronic Commerce.
+    dates:
+    - start: '2002-11-15'
+      kind: decision
+- identifier: 200211-acclaim-02
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank French GOSET organization, Alain Bezos, and Pascal Huau
+  dates:
+  - start: '2002-11-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 expresses its sincere thanks to the French GOSET organisation for its
+      contributions to the work of SC 4 since 1989. SC 4 expresses its particular thanks for
+      the leading roles played by Alain Bezos and Pascal Huau within the SC 4
+      organisation, and for their outstanding contributions to the results of SC 4. We wish
+      both of them every success in their future careers, and hope for their continued
+      participation in the work of SC 4.
+    dates:
+    - start: '2002-11-15'
+      kind: decision
+- identifier: 200211-acclaim-03
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank SC 4 Liaisons and Plenary Presenters
+  dates:
+  - start: '2002-11-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      Appreciation to our SC 4 Liaisons. We appreciate your representation to and for
+      ISO/TC 184/SC 4.
+
+      A special thank you to the SC 4 Liaison Plenary presenters for their insightful and
+      comprehensive presentations:
+
+      |===
+      |Organization |Presenter
+
+      |ASAM |Gerald Sammer
+      |IAI - Nordic chapter |Jeff Wix
+      |PDES, Inc |Gerry Graves
+      |PLCS |John Dunford
+      |SC 1 |Peter Mueller
+      |ISO/TC 29/WG 34 |Norman Swindells
+      |===
+    dates:
+    - start: '2002-11-15'
+      kind: decision
+- identifier: 200211-acclaim-04
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank Teresa Brittingham and welcome Ron Kolakowski
+  dates:
+  - start: '2002-11-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 extends its sincere appreciation for the efforts of Ms. Teresa Brittingham during
+      her tenure as Deputy Secretary. SC 4 wishes her well in her future endeavors. SC 4
+      welcomes the new Deputy Secretary, Mr. Ron Kolakowski, and looks forward to
+      working with him to ensure a successful and productive organization.
+    dates:
+    - start: '2002-11-15'
+      kind: decision
+- identifier: 200211-acclaim-05
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank Joe Brazy and Chris Kreiler for acting as Deputy Secretary
+  dates:
+  - start: '2002-11-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 expresses its sincere thanks to Joe Brazy (ManTech) and Chris Kreiler (CACI)
+      for their untiring efforts and excellent performance as acting Deputy Secretary before
+      and during the meeting.
+    dates:
+    - start: '2002-11-15'
+      kind: decision
+- identifier: 200211-acclaim-06
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank NIST for supporting the STEP repository development
+  dates:
+  - start: '2002-11-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 expresses its appreciation to NIST for their support in the development of the
+      STEP repository.
+    dates:
+    - start: '2002-11-15'
+      kind: decision
