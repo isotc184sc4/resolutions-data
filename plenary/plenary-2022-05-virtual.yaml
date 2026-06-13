@@ -340,18 +340,18 @@ resolutions:
       kind: effective
 - identifier: '1097'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Change to project duration of ISO/CD 10303 – 239 ed3
+  title: Change to project duration of ISO/CD 10303–239 ed3
   dates:
   - start: '2022-05-15'
     kind: decision
   actions:
   - type: resolves
-    message: Change to project duration of ISO/CD 10303 – 239 ed3
+    message: Change to project duration of ISO/CD 10303–239 ed3
     dates:
     - start: '2022-05-15'
       kind: effective
   - type: requests
-    message: 'SC 4 requests its Committee Manager coordinate with ISO/CS to move ISO 10303 – 239 ed3
+    message: 'SC 4 requests its Committee Manager coordinate with ISO/CS to move ISO 10303–239 ed3
 
       (project id = 78832) from SDT 24 to SDT 36 with the following target dates:
 
@@ -366,7 +366,7 @@ resolutions:
       kind: effective
   considerations:
   - type: noting
-    message: 'Noting the progress of the project team to complete a DIS quality ISO 10303 – 239 ed3
+    message: 'Noting the progress of the project team to complete a DIS quality ISO 10303–239 ed3
 
       and the actions taken to address the resources and technical mapping issues'
     dates:

@@ -324,7 +324,7 @@ resolutions:
   - type: requests
     message: 'SC 4 requests its Committee
 
-      Manager to coordinate with ISO/CS and initiate the revision of ISO 10303 – 242 ed4 as
+      Manager to coordinate with ISO/CS and initiate the revision of ISO 10303–242 ed4 as
 
       a Preliminary Work Item with an expected submission of NP ballot on or before 2025-
 
@@ -357,7 +357,7 @@ resolutions:
 
        SN: Nils Sandsmark,
 
-      Further, due to the special nature of ISO 10303 – 242 SC 4 requests ISO to grant a
+      Further, due to the special nature of ISO 10303–242 SC 4 requests ISO to grant a
 
       waiver on the mandatory use of the ISO Online Standards Development platform for this
 
@@ -367,7 +367,7 @@ resolutions:
       kind: effective
   considerations:
   - type: noting
-    message: 'Noting the proposal from WG 12 for creating edition 5 of ISO 10303 – 242 to
+    message: 'Noting the proposal from WG 12 for creating edition 5 of ISO 10303–242 to
 
       incorporate
 
@@ -447,7 +447,7 @@ resolutions:
       kind: effective
   considerations:
   - type: noting
-    message: 'Noting the progress on ISO/AWI TR 8000 – 320 ed1 and the commitment of the project
+    message: 'Noting the progress on ISO/AWI TR 8000–320 ed1 and the commitment of the project
 
       development team to resolve the current resource constraints'
     dates:
@@ -455,13 +455,13 @@ resolutions:
       kind: effective
 - identifier: '1151'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Revise schedule for ISO/CD 10303 – 238 ed4
+  title: Revise schedule for ISO/CD 10303–238 ed4
   dates:
   - start: '2024-10-15'
     kind: decision
   actions:
   - type: resolves
-    message: Revise schedule for ISO/CD 10303 – 238 ed4
+    message: Revise schedule for ISO/CD 10303–238 ed4
     dates:
     - start: '2024-10-15'
       kind: effective
@@ -482,7 +482,7 @@ resolutions:
   - type: noting
     message: 'Noting the action taken at the 87th Plenary meeting of ISO/TC 184 SC/4 to place
 
-      ISO/CD 10303 – 238 ed4 on hold to execute round robin testing of capabilities prior to
+      ISO/CD 10303–238 ed4 on hold to execute round robin testing of capabilities prior to
 
       incorporation'
     dates:

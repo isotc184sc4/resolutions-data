@@ -65,7 +65,7 @@ resolutions:
   - type: appoints
     message: 'SC 4 appoints the
 
-      following Convenors and Deputy Convenors for a three-year term [2022 – 2024], with
+      following Convenors and Deputy Convenors for a three-year term [2022–2024], with
 
       appreciation to serve in this capacity. Note the Convenor for the PPC is appointed to a
 
@@ -157,7 +157,7 @@ resolutions:
   - type: appoints
     message: 'SC 4 appoints and recognizes the following individuals.
 
-      The appointments are for a three-year term [2022 – 2024]'
+      The appointments are for a three-year term [2022–2024]'
     dates:
     - start: '2021-11-15'
       kind: effective

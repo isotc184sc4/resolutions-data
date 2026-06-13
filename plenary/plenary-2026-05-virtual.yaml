@@ -23,7 +23,7 @@ resolutions:
 
       Approval
 
-      ISO/NP 18136 – 2: Automation systems and integration — Nuclear
+      ISO/NP 18136–2: Automation systems and integration — Nuclear
 
       digital ecosystem — Part 2: Vocabulary
 
@@ -79,9 +79,9 @@ resolutions:
       kind: effective
   considerations:
   - type: noting
-    message: 'Noting the increasing involvement of SC4 in vocabularies including ISO 15926 – 100,
+    message: 'Noting the increasing involvement of SC4 in vocabularies including ISO 15926–100,
 
-      ISO 23726 – 2, and ISO/NP 18136 – 2 with recognition that ISO/TC 37 – Language and
+      ISO 23726–2, and ISO/NP 18136–2 with recognition that ISO/TC 37 – Language and
 
       terminology has expertise in this domain'
     dates:
@@ -177,7 +177,7 @@ resolutions:
 
       Liaison Representative from ISO/TC 184/SC 4 to ISO/TC 85 (Nuclear energy, nuclear
 
-      technologies, and radiological protection) for a three year term (2026 – 2029) with
+      technologies, and radiological protection) for a three year term (2026–2029) with
 
       appreciation to serve in this capacity.'
     dates:
@@ -218,7 +218,7 @@ resolutions:
   - type: recalling
     message: 'Recalling Annex SS of the ISO/IEC Directives Part 1 and noting the consensus found in
 
-      WG 12 regarding the maturity of ISO/AWI 10303 – 59 ed5 to be at DIS level'
+      WG 12 regarding the maturity of ISO/AWI 10303–59 ed5 to be at DIS level'
     dates:
     - start: '2026-05-15'
       kind: effective
@@ -249,7 +249,7 @@ resolutions:
   - type: recalling
     message: 'Recalling Annex SS of the ISO/IEC Directives Part 1 and noting the consensus found in
 
-      WG 12 regarding the maturity of ISO/AWI 10303 – 62 ed5 to be at DIS level'
+      WG 12 regarding the maturity of ISO/AWI 10303–62 ed5 to be at DIS level'
     dates:
     - start: '2026-05-15'
       kind: effective
@@ -355,7 +355,7 @@ resolutions:
   - type: requests
     message: 'SC4 requests its Committee
 
-      Manager to launch ISO 15926 – 6 ed2 as a Preliminary Work Item in the ISO OSD with
+      Manager to launch ISO 15926–6 ed2 as a Preliminary Work Item in the ISO OSD with
 
       the following terms of reference:
 
@@ -415,7 +415,7 @@ resolutions:
   - type: requests
     message: 'SC4 requests its Committee Manager to
 
-      launch ISO 18136 – 11 in the ISO OSD as a Preliminary Work Item with the following
+      launch ISO 18136–11 in the ISO OSD as a Preliminary Work Item with the following
 
       terms of reference:
 
@@ -449,7 +449,7 @@ resolutions:
       kind: effective
   considerations:
   - type: noting
-    message: 'Noting that ISO 18136 – 11 is required by industry to establish the standards for
+    message: 'Noting that ISO 18136–11 is required by industry to establish the standards for
 
       configuration management of nuclear ecosystem data, that the resources are available,
 
@@ -552,7 +552,7 @@ resolutions:
   - type: requests
     message: 'SC4 requests its Committee Manager to coordinate with ISO/CS and
 
-      initiate the revision of ISO 10303 – 15, as a New Project on SDT 18 track with the following
+      initiate the revision of ISO 10303–15, as a New Project on SDT 18 track with the following
 
       terms of reference:
 
@@ -619,7 +619,7 @@ resolutions:
       kind: effective
   considerations:
   - type: noting
-    message: 'Noting the proposal from WG 11 for creating edition 3 of ISO 10303 – 15 to incorporate
+    message: 'Noting the proposal from WG 11 for creating edition 3 of ISO 10303–15 to incorporate
 
       capability enhancements from industry requirements identified in ISO JIRA
 
@@ -685,21 +685,21 @@ resolutions:
       kind: effective
   considerations:
   - type: noting
-    message: 'Noting the ballot results of the Systematic Review for ISO/SRR TS 8000 – 60 taken on
+    message: 'Noting the ballot results of the Systematic Review for ISO/SRR TS 8000–60 taken on
 
-      2025 – 12 – 02 and the recommendation by WG 13'
+      2025–12–02 and the recommendation by WG 13'
     dates:
     - start: '2026-05-15'
       kind: effective
 - identifier: '1195'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: advance ISO/PWI 13584 – 26 ed2 to stage 20 with the following
+  title: advance ISO/PWI 13584–26 ed2 to stage 20 with the following
   dates:
   - start: '2026-05-15'
     kind: decision
   actions:
   - type: resolves
-    message: 'SC4 resolves to advance ISO/PWI 13584 – 26 ed2 to stage 20 with the following
+    message: 'SC4 resolves to advance ISO/PWI 13584–26 ed2 to stage 20 with the following
 
       terms of reference:
 
@@ -717,13 +717,13 @@ resolutions:
 
       o Publication: 2027-12-11
 
-       ISO 13584 – 26 supports the UN Sustainable Development Goal 9 (Industry,
+       ISO 13584–26 supports the UN Sustainable Development Goal 9 (Industry,
 
       Innovation and Infrastructure) by ensuring efficient use of data in industrial settings
 
       in concert with the larger part of the ISO 13584 series.
 
-       ISO 13584 – 26 supports the UN Sustainable Development Goal 12 (Responsible
+       ISO 13584–26 supports the UN Sustainable Development Goal 12 (Responsible
 
       Consumption and Production) by properly identifying data, its meaning and
 
@@ -755,7 +755,7 @@ resolutions:
       kind: effective
   considerations:
   - type: noting
-    message: 'Noting the work of JWG 24 in the refinement of ISO/PWI 13584 – 26 ed2 by the project
+    message: 'Noting the work of JWG 24 in the refinement of ISO/PWI 13584–26 ed2 by the project
 
       team'
     dates:

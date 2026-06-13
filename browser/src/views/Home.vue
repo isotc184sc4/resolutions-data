@@ -61,8 +61,8 @@
         </div>
         <div class="std-results__title">{{ res.is_acclamation ? 'Acclamation' : (res.title || 'Resolution ' + res.id) }}</div>
         <div v-if="res.snippet" class="std-results__snippet" style="font-size:0.875rem;color:var(--color-slate-500);margin-top:0.25rem;">{{ res.snippet }}</div>
-        <div style="display:flex;gap:0.375rem;align-items:center;margin-top:auto;padding-top:1rem;">
-          <span v-if="res.year" class="std-results__badge">{{ res.year }}</span>
+        <div style="display:flex;gap:0.375rem;align-items:center;flex-wrap:wrap;margin-top:auto;padding-top:1rem;">
+          <span v-if="res.meeting_date" class="std-results__badge">{{ formatDate(res.meeting_date) }}</span>
           <span v-if="res.venue" class="std-results__badge">{{ res.venue }}</span>
         </div>
       </router-link>
@@ -137,6 +137,12 @@ const hasMore = computed(() => {
 
 const loadMore = () => {
   limit.value += 50
+}
+
+const formatDate = (iso: string) => {
+  if (!iso) return ''
+  const d = new Date(iso + 'T00:00:00')
+  return d.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' })
 }
 
 watch([searchQuery, selectedYear], () => {

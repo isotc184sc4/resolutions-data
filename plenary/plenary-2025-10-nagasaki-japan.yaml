@@ -23,7 +23,7 @@ resolutions:
 
       Approval
 
-      ISO/PWI 23726 – 1 Industrial automation systems and integration –
+      ISO/PWI 23726–1 Industrial automation systems and integration –
 
       Ontology based interoperability – Part 1: Overview and fundamental
 
@@ -31,7 +31,7 @@ resolutions:
 
       ☒
 
-      ISO/NP 8000 – 260: Data quality – Part 260: Sensor data life cycle
+      ISO/NP 8000–260: Data quality – Part 260: Sensor data life cycle
 
       management: Concept and framework
 
@@ -50,7 +50,7 @@ resolutions:
 
       ☒
 
-      ISO/NP 15926 – 200: Industrial automation systems and integration
+      ISO/NP 15926–200: Industrial automation systems and integration
 
       — Integration of life-cycle data for process plants including oil and
 
@@ -195,7 +195,7 @@ resolutions:
 
       National Bodies and Liaisons to participate in the project’s work.
 
-      Finally, due to the special nature of ISO 10303 – 59 SC 4 requests ISO to grant a
+      Finally, due to the special nature of ISO 10303–59 SC 4 requests ISO to grant a
 
       waiver on the mandatory use of the ISO Online Standards Development platform for this
 
@@ -257,7 +257,7 @@ resolutions:
 
       National Bodies and Liaisons to participate in the project’s work.
 
-      Finally, due to the special nature of ISO 10303 – 62 SC 4 requests ISO to grant a
+      Finally, due to the special nature of ISO 10303–62 SC 4 requests ISO to grant a
 
 
       waiver on the mandatory use of the ISO Online Standards Development platform for this
@@ -276,7 +276,7 @@ resolutions:
       kind: effective
 - identifier: '1173'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Noting the proposal from WG 12 for creating edition 5 of ISO 10303 – 242 to
+  title: Noting the proposal from WG 12 for creating edition 5 of ISO 10303–242 to
   dates:
   - start: '2025-10-15'
     kind: decision
@@ -286,7 +286,7 @@ resolutions:
 
       Manager to
 
-      coordinate with ISO/CS and initiate the revision of ISO 10303 – 242 as a new project
+      coordinate with ISO/CS and initiate the revision of ISO 10303–242 as a new project
 
       using the SDT 36 track with the following dates:
 
@@ -343,7 +343,7 @@ resolutions:
 
       National Bodies and Liaisons to participate in the project’s work.
 
-      Finally, due to the special nature of ISO 10303 – 242 SC 4 requests ISO to grant a
+      Finally, due to the special nature of ISO 10303–242 SC 4 requests ISO to grant a
 
       waiver on the mandatory use of the ISO Online Standards Development platform for this
 
@@ -353,7 +353,7 @@ resolutions:
       kind: effective
   considerations:
   - type: noting
-    message: 'Noting the proposal from WG 12 for creating edition 5 of ISO 10303 – 242 to
+    message: 'Noting the proposal from WG 12 for creating edition 5 of ISO 10303–242 to
 
       incorporate
 
@@ -485,7 +485,7 @@ resolutions:
       kind: effective
 - identifier: '1177'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Noting the proposal from WG 12 for creating ISO/NP 10303 – 63 to define
+  title: Noting the proposal from WG 12 for creating ISO/NP 10303–63 to define
   dates:
   - start: '2025-10-15'
     kind: decision
@@ -495,7 +495,7 @@ resolutions:
 
       launch a New Work Item for 10303-63 with an 8 weeks duration, due to the special
 
-      nature of ISO 10303 – 63, SC 4 requests ISO to grant a waiver on the mandatory use of
+      nature of ISO 10303–63, SC 4 requests ISO to grant a waiver on the mandatory use of
 
       the ISO Online Standards Development platform for this project.'
     dates:
@@ -503,7 +503,7 @@ resolutions:
       kind: effective
   considerations:
   - type: noting
-    message: 'Noting the proposal from WG 12 for creating ISO/NP 10303 – 63 to define
+    message: 'Noting the proposal from WG 12 for creating ISO/NP 10303–63 to define
 
       representation structures for isogeometric analysis (IGA)'
     dates:
@@ -511,7 +511,7 @@ resolutions:
       kind: effective
 - identifier: '1178'
   subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Noting the proposal from WG 12 for creating ISO/NP 10303 – 63 to define
+  title: Noting the proposal from WG 12 for creating ISO/NP 10303–63 to define
   dates:
   - start: '2025-10-15'
     kind: decision
@@ -521,7 +521,7 @@ resolutions:
 
       launch a New Work Item for 10303-63 with an 8 weeks duration, due to the special
 
-      nature of ISO 10303 – 63, SC 4 requests ISO to grant a waiver on the mandatory use of
+      nature of ISO 10303–63, SC 4 requests ISO to grant a waiver on the mandatory use of
 
       the ISO Online Standards Development platform for this project.'
     dates:
@@ -529,7 +529,7 @@ resolutions:
       kind: effective
   considerations:
   - type: noting
-    message: 'Noting the proposal from WG 12 for creating ISO/NP 10303 – 63 to define
+    message: 'Noting the proposal from WG 12 for creating ISO/NP 10303–63 to define
 
       representation structures for isogeometric analysis (IGA)'
     dates:
@@ -553,7 +553,7 @@ resolutions:
 
       Soonhung Han and Christophe Mouton, to serve as liaison representatives for a three-
 
-      year term [2025 – 2028], with appreciation for their offer to serve in that capacity.'
+      year term [2025–2028], with appreciation for their offer to serve in that capacity.'
     dates:
     - start: '2025-10-15'
       kind: effective

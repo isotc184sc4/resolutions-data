@@ -1,6 +1,8 @@
 import { ref, type Ref } from 'vue'
 import FlexSearch from 'flexsearch'
 
+const BUILD_TIME = Date.now()
+
 export interface Action {
   type: string
   subject?: string
@@ -53,7 +55,7 @@ export function useResolutions() {
 
     loadPromise = (async () => {
       try {
-        const response = await fetch(`${import.meta.env.BASE_URL}data/resolutions.json`)
+        const response = await fetch(`${import.meta.env.BASE_URL}data/resolutions.json?t=${BUILD_TIME}`)
         const data: Resolution[] = await response.json()
         resolutions.value = data
 
