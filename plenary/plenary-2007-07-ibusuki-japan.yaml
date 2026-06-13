@@ -279,7 +279,7 @@ resolutions:
     dates:
     - start: '2007-07-15'
       kind: effective
-- identifier: 724-acclamation-1
+- identifier: 200707-acclaim-01
   subject: ISO/TC 184/SC 4 "Industrial data"
   dates:
   - start: '2007-07-15'
@@ -304,7 +304,7 @@ resolutions:
     dates:
     - start: '2007-07-15'
       kind: decision
-- identifier: 724-acclamation-2
+- identifier: 200707-acclaim-02
   subject: ISO/TC 184/SC 4 "Industrial data"
   dates:
   - start: '2007-07-15'

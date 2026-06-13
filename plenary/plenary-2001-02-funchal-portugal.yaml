@@ -743,7 +743,7 @@ resolutions:
     dates:
     - start: '2001-02-15'
       kind: effective
-- identifier: 499-acclamation-1
+- identifier: 200102-acclaim-01
   subject: ISO/TC 184/SC 4 "Industrial data"
   dates:
   - start: '2001-02-15'
@@ -759,7 +759,7 @@ resolutions:
     dates:
     - start: '2001-02-15'
       kind: decision
-- identifier: 499-acclamation-2
+- identifier: 200102-acclaim-02
   subject: ISO/TC 184/SC 4 "Industrial data"
   dates:
   - start: '2001-02-15'
@@ -772,7 +772,7 @@ resolutions:
     dates:
     - start: '2001-02-15'
       kind: decision
-- identifier: 499-acclamation-3
+- identifier: 200102-acclaim-03
   subject: ISO/TC 184/SC 4 "Industrial data"
   dates:
   - start: '2001-02-15'
@@ -787,7 +787,7 @@ resolutions:
     dates:
     - start: '2001-02-15'
       kind: decision
-- identifier: 499-acclamation-4
+- identifier: 200102-acclaim-04
   subject: ISO/TC 184/SC 4 "Industrial data"
   dates:
   - start: '2001-02-15'
@@ -800,7 +800,7 @@ resolutions:
     dates:
     - start: '2001-02-15'
       kind: decision
-- identifier: 499-acclamation-5
+- identifier: 200102-acclaim-05
   subject: ISO/TC 184/SC 4 "Industrial data"
   dates:
   - start: '2001-02-15'
@@ -815,7 +815,7 @@ resolutions:
     dates:
     - start: '2001-02-15'
       kind: decision
-- identifier: 499-acclamation-6
+- identifier: 200102-acclaim-06
   subject: ISO/TC 184/SC 4 "Industrial data"
   dates:
   - start: '2001-02-15'
@@ -854,7 +854,7 @@ resolutions:
     dates:
     - start: '2001-02-15'
       kind: decision
-- identifier: 499-acclamation-7
+- identifier: 200102-acclaim-07
   subject: ISO/TC 184/SC 4 "Industrial data"
   dates:
   - start: '2001-02-15'
@@ -881,7 +881,7 @@ resolutions:
     dates:
     - start: '2001-02-15'
       kind: decision
-- identifier: 499-acclamation-8
+- identifier: 200102-acclaim-08
   subject: ISO/TC 184/SC 4 "Industrial data"
   dates:
   - start: '2001-02-15'

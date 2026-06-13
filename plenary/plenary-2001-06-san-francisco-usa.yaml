@@ -311,7 +311,7 @@ resolutions:
     dates:
     - start: '2001-06-15'
       kind: effective
-- identifier: 508-acclamation-1
+- identifier: 200106-acclaim-01
   subject: ISO/TC 184/SC 4 "Industrial data"
   dates:
   - start: '2001-06-15'
@@ -334,7 +334,7 @@ resolutions:
     dates:
     - start: '2001-06-15'
       kind: decision
-- identifier: 508-acclamation-2
+- identifier: 200106-acclaim-02
   subject: ISO/TC 184/SC 4 "Industrial data"
   dates:
   - start: '2001-06-15'
@@ -347,7 +347,7 @@ resolutions:
     dates:
     - start: '2001-06-15'
       kind: decision
-- identifier: 508-acclamation-3
+- identifier: 200106-acclaim-03
   subject: ISO/TC 184/SC 4 "Industrial data"
   dates:
   - start: '2001-06-15'

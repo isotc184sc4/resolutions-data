@@ -796,7 +796,7 @@ resolutions:
     dates:
     - start: '2025-05-15'
       kind: effective
-- identifier: 1168-acclamation-1
+- identifier: 202505-acclaim-01
   subject: ISO/TC 184/SC 4 "Industrial data"
   dates:
   - start: '2025-05-15'
@@ -841,7 +841,7 @@ resolutions:
     dates:
     - start: '2025-05-15'
       kind: decision
-- identifier: 1168-acclamation-2
+- identifier: 202505-acclaim-02
   subject: ISO/TC 184/SC 4 "Industrial data"
   dates:
   - start: '2025-05-15'
@@ -878,7 +878,7 @@ resolutions:
     dates:
     - start: '2025-05-15'
       kind: decision
-- identifier: 1168-acclamation-3
+- identifier: 202505-acclaim-03
   subject: ISO/TC 184/SC 4 "Industrial data"
   dates:
   - start: '2025-05-15'
@@ -916,7 +916,7 @@ resolutions:
     dates:
     - start: '2025-05-15'
       kind: decision
-- identifier: 1168-acclamation-4
+- identifier: 202505-acclaim-04
   subject: ISO/TC 184/SC 4 "Industrial data"
   dates:
   - start: '2025-05-15'
@@ -955,7 +955,7 @@ resolutions:
     dates:
     - start: '2025-05-15'
       kind: decision
-- identifier: 1168-acclamation-5
+- identifier: 202505-acclaim-05
   subject: ISO/TC 184/SC 4 "Industrial data"
   dates:
   - start: '2025-05-15'

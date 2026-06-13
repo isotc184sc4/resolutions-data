@@ -488,7 +488,7 @@ resolutions:
     dates:
     - start: '2024-10-15'
       kind: effective
-- identifier: 1151-acclamation-1
+- identifier: 202410-acclaim-01
   subject: ISO/TC 184/SC 4 "Industrial data"
   dates:
   - start: '2024-10-15'
@@ -503,7 +503,7 @@ resolutions:
     dates:
     - start: '2024-10-15'
       kind: decision
-- identifier: 1151-acclamation-2
+- identifier: 202410-acclaim-02
   subject: ISO/TC 184/SC 4 "Industrial data"
   dates:
   - start: '2024-10-15'
@@ -530,7 +530,7 @@ resolutions:
     dates:
     - start: '2024-10-15'
       kind: decision
-- identifier: 1151-acclamation-3
+- identifier: 202410-acclaim-03
   subject: ISO/TC 184/SC 4 "Industrial data"
   dates:
   - start: '2024-10-15'
@@ -553,7 +553,7 @@ resolutions:
     dates:
     - start: '2024-10-15'
       kind: decision
-- identifier: 1151-acclamation-4
+- identifier: 202410-acclaim-04
   subject: ISO/TC 184/SC 4 "Industrial data"
   dates:
   - start: '2024-10-15'
@@ -568,7 +568,7 @@ resolutions:
     dates:
     - start: '2024-10-15'
       kind: decision
-- identifier: 1151-acclamation-5
+- identifier: 202410-acclaim-05
   subject: ISO/TC 184/SC 4 "Industrial data"
   dates:
   - start: '2024-10-15'
@@ -583,7 +583,7 @@ resolutions:
     dates:
     - start: '2024-10-15'
       kind: decision
-- identifier: 1151-acclamation-6
+- identifier: 202410-acclaim-06
   subject: ISO/TC 184/SC 4 "Industrial data"
   dates:
   - start: '2024-10-15'
@@ -598,7 +598,7 @@ resolutions:
     dates:
     - start: '2024-10-15'
       kind: decision
-- identifier: 1151-acclamation-7
+- identifier: 202410-acclaim-07
   subject: ISO/TC 184/SC 4 "Industrial data"
   dates:
   - start: '2024-10-15'
@@ -613,7 +613,7 @@ resolutions:
     dates:
     - start: '2024-10-15'
       kind: decision
-- identifier: 1151-acclamation-8
+- identifier: 202410-acclaim-08
   subject: ISO/TC 184/SC 4 "Industrial data"
   dates:
   - start: '2024-10-15'
@@ -701,7 +701,7 @@ resolutions:
     dates:
     - start: '2024-10-15'
       kind: decision
-- identifier: 1151-acclamation-9
+- identifier: 202410-acclaim-09
   subject: ISO/TC 184/SC 4 "Industrial data"
   dates:
   - start: '2024-10-15'
@@ -716,7 +716,7 @@ resolutions:
     dates:
     - start: '2024-10-15'
       kind: decision
-- identifier: 1151-acclamation-10
+- identifier: 202410-acclaim-10
   subject: ISO/TC 184/SC 4 "Industrial data"
   dates:
   - start: '2024-10-15'
@@ -741,7 +741,7 @@ resolutions:
     dates:
     - start: '2024-10-15'
       kind: decision
-- identifier: 1151-acclamation-11
+- identifier: 202410-acclaim-11
   subject: ISO/TC 184/SC 4 "Industrial data"
   dates:
   - start: '2024-10-15'

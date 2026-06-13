@@ -42,7 +42,7 @@ function main() {
 
     for (const res of parsed.resolutions) {
       const identifier = String(res.identifier);
-      const isAcclamation = identifier.includes('-acclamation-');
+      const isAcclamation = identifier.includes('-acclaim-');
 
       // Find the first action message for the snippet
       let snippet = '';
@@ -79,26 +79,24 @@ function main() {
   }
 
   // Sort by meeting_date desc, then identifier desc
-  // Acclamations (e.g. "1195-acclamation-1") sort right after their parent
+  // Acclamations (e.g. "202510-acclaim-01") sort right after their parent
   allResolutions.sort((a, b) => {
     if (a.meeting_date !== b.meeting_date) {
       return (b.meeting_date || '').localeCompare(a.meeting_date || '');
     }
-    // Extract base identifier (numeric part before any "-acclamation-")
-    const aBase = a.id.split('-acclamation-')[0];
-    const bBase = b.id.split('-acclamation-')[0];
-    const aNum = parseFloat(aBase);
-    const bNum = parseFloat(bBase);
-    if (!isNaN(aNum) && !isNaN(bNum) && aNum !== bNum) {
-      return bNum - aNum;
+    // Acclamations use YYYYMM-acclaim-NN format — sort by full ID
+    const aIsAcc = a.id.includes('-acclaim-');
+    const bIsAcc = b.id.includes('-acclaim-');
+    if (!aIsAcc && !bIsAcc) {
+      // Both regular resolutions — sort by numeric identifier desc
+      const aNum = parseFloat(a.id);
+      const bNum = parseFloat(b.id);
+      if (!isNaN(aNum) && !isNaN(bNum)) return bNum - aNum;
+      return (b.id || '').localeCompare(a.id);
     }
-    if (aBase !== bBase) {
-      return (bBase || '').localeCompare(aBase || '');
-    }
-    // Same base — acclamations sort after parent, in order
-    const aAcc = a.id.includes('-acclamation-') ? parseInt(a.id.split('-acclamation-')[1]) : 0;
-    const bAcc = b.id.includes('-acclamation-') ? parseInt(b.id.split('-acclamation-')[1]) : 0;
-    return aAcc - bAcc;
+    // Regular resolutions before acclamations, then acclamations by NN
+    if (aIsAcc !== bIsAcc) return aIsAcc ? 1 : -1;
+    return (a.id || '').localeCompare(b.id);
   });
 
   fs.writeFileSync(OUTPUT_FILE, JSON.stringify(allResolutions), 'utf8');
