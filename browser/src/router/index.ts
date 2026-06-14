@@ -1,8 +1,4 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import Home from '../views/Home.vue'
-import ResolutionDetail from '../views/ResolutionDetail.vue'
-import Meetings from '../views/Meetings.vue'
-import MeetingDetail from '../views/MeetingDetail.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -10,22 +6,27 @@ const router = createRouter({
     {
       path: '/',
       name: 'home',
-      component: Home
+      component: () => import('../views/Home.vue')
     },
     {
       path: '/resolution/:id',
       name: 'resolution-detail',
-      component: ResolutionDetail
+      component: () => import('../views/ResolutionDetail.vue')
     },
     {
       path: '/meetings',
       name: 'meetings',
-      component: Meetings
+      component: () => import('../views/Meetings.vue')
     },
     {
       path: '/meetings/:sourceFile',
       name: 'meeting-detail',
-      component: MeetingDetail
+      component: () => import('../views/MeetingDetail.vue')
+    },
+    {
+      path: '/about',
+      name: 'about',
+      component: () => import('../views/About.vue')
     }
   ],
   scrollBehavior(_to, _from, savedPosition) {

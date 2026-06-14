@@ -1,10 +1,14 @@
 <template>
-  <div v-if="resolution" class="std-page res-detail-page">
+  <div v-if="resolution" class="std-page res-detail-page" ref="pageRef">
+    <!-- Reading Progress -->
+    <div class="reading-progress-track">
+      <div class="reading-progress-fill" :style="{ '--progress': readingProgress + '%' }"></div>
+    </div>
 
     <!-- Back link -->
     <button @click="$router.back()" class="std-page__back back-link animate-up" style="--nth: 1">
       <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="back-link__icon"><path d="m15 18-6-6 6-6"/></svg>
-      Go Back
+      Back to results
     </button>
 
     <!-- Header -->
@@ -39,17 +43,32 @@
       </p>
     </header>
 
+    <!-- URN Identifier -->
+    <div v-if="resolution.urn" class="urn-bar animate-up" style="--nth: 3">
+      <span class="urn-label">URN</span>
+      <code class="urn-value">{{ resolution.urn }}</code>
+      <button 
+        v-if="resolution.urn" 
+        @click="copyUrn(resolution.urn)" 
+        class="urn-copy-btn"
+        :aria-label="copied ? 'Copied' : 'Copy URN'"
+      >
+        <svg v-if="!copied" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
+        <svg v-else width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>
+      </button>
+    </div>
+
     <!-- Content -->
     <div class="std-page__content res-detail-content">
 
-      <section v-if="resolution.subject" class="std-page__section animate-up" style="--nth: 3">
+      <section v-if="resolution.subject" class="std-page__section animate-up" style="--nth: 4">
         <h2 class="std-page__section-heading res-detail-section-title">Subject</h2>
         <div class="std-page__body res-detail-body">
           <p>{{ resolution.subject }}</p>
         </div>
       </section>
 
-      <section v-if="resolution.considerations && resolution.considerations.length > 0" class="std-page__section animate-up" style="--nth: 4">
+      <section v-if="resolution.considerations && resolution.considerations.length > 0" class="std-page__section animate-up" style="--nth: 5">
         <h2 class="std-page__section-heading res-detail-section-title">Considerations</h2>
         <div class="std-page__body res-detail-list">
           <div v-for="(cons, idx) in resolution.considerations" :key="idx" class="consideration-item res-detail-card">
@@ -59,14 +78,20 @@
         </div>
       </section>
 
-      <section v-if="resolution.actions && resolution.actions.length > 0" class="std-page__section animate-up" style="--nth: 5">
+      <section v-if="resolution.actions && resolution.actions.length > 0" class="std-page__section animate-up" style="--nth: 6">
         <h2 class="std-page__section-heading res-detail-section-title">Actions</h2>
         <div class="std-page__body res-detail-list">
           <div v-for="(act, idx) in resolution.actions" :key="idx" class="action-item res-detail-card res-detail-card--action">
-            <span v-if="act.type" class="res-detail-card-type res-detail-card-type--action">{{ act.type }}</span>
+            <span 
+              v-if="act.type" 
+              class="res-detail-card-type res-detail-card-type--action"
+              :style="{ '--action-color': getActionColor(act.type).bg }"
+            >
+              {{ act.type }}
+            </span>
             <p v-if="act.subject" class="res-detail-card-subject">{{ act.subject }}</p>
             <div class="res-detail-richtext" v-html="asciidocify(act.message)"></div>
-            <template v-if="act.dates">
+            <template v-if="act.dates && act.dates.length > 0">
               <div class="res-detail-dates">
                 <span v-for="(d, didx) in act.dates" :key="didx" class="res-detail-date">
                   Effective: {{ d.start }}<template v-if="d.end"> &ndash; {{ d.end }}</template>
@@ -77,7 +102,7 @@
         </div>
       </section>
 
-      <section v-if="resolution.approvals && resolution.approvals.length > 0" class="std-page__section animate-up" style="--nth: 6">
+      <section v-if="resolution.approvals && resolution.approvals.length > 0" class="std-page__section animate-up" style="--nth: 7">
         <h2 class="std-page__section-heading res-detail-section-title">Approval</h2>
         <div class="std-page__body">
           <div v-for="(app, idx) in resolution.approvals" :key="idx" class="approval-panel" :class="{ 'mt-4': idx > 0 }">
@@ -89,15 +114,37 @@
         </div>
       </section>
 
-      <section v-if="resolution.categories && resolution.categories.length > 0" class="std-page__section animate-up" style="--nth: 7">
+      <section v-if="resolution.categories && resolution.categories.length > 0" class="std-page__section animate-up" style="--nth: 8">
         <h2 class="std-page__section-heading res-detail-section-title">Categories</h2>
         <div class="categories-list">
           <span v-for="(cat, idx) in resolution.categories" :key="idx" class="std-page__badge">{{ cat }}</span>
         </div>
       </section>
+      
+      <!-- Related Resolutions -->
+      <section v-if="relatedResolutions.length > 0" class="std-page__section animate-up" style="--nth: 9">
+        <h2 class="std-page__section-heading res-detail-section-title">Related Resolutions</h2>
+        <div class="related-list">
+          <router-link 
+            v-for="r in relatedResolutions" 
+            :key="r.id" 
+            :to="{ name: 'resolution-detail', params: { id: r.id } }"
+            class="related-card"
+          >
+            <div class="related-meta">
+              <span class="related-id">{{ r.id }}</span>
+              <span class="related-date">{{ formatDate(r.meeting_date) }}</span>
+            </div>
+            <div class="related-title">{{ r.title || 'Resolution ' + r.id }}</div>
+            <div class="card-hover-arrow">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+            </div>
+          </router-link>
+        </div>
+      </section>
 
       <!-- Prev / Next Navigation -->
-      <nav class="res-navigation animate-up" style="--nth: 8" aria-label="Resolution navigation">
+      <nav class="res-navigation animate-up" style="--nth: 10" aria-label="Resolution navigation">
         <router-link 
           v-if="prevResolution" 
           :to="{ name: 'resolution-detail', params: { id: prevResolution.id } }"
@@ -172,11 +219,12 @@
 </template>
 
 <script setup lang="ts">
-import { ref, computed, onMounted } from 'vue'
+import { ref, computed, onMounted, onUnmounted, watch } from 'vue'
 import { useRouter, useRoute } from 'vue-router'
 import { useResolutions } from '../composables/useResolutions'
 import { useMeetings } from '../composables/useMeetings'
 import { asciidocify } from '../utils/asciidoc'
+import { getActionColor } from '../data/actionTypes'
 
 const router = useRouter()
 const route = useRoute()
@@ -184,11 +232,47 @@ const { resolutions, isLoaded, loadData } = useResolutions()
 const { getMeetingResolutions, loadData: loadMeetingsData, isLoaded: isMeetingsLoaded } = useMeetings()
 
 const searchInput = ref('')
+const pageRef = ref<HTMLElement | null>(null)
+const readingProgress = ref(0)
+const copied = ref(false)
 
 onMounted(() => {
   loadData()
   loadMeetingsData()
+  window.addEventListener('scroll', updateProgress, { passive: true })
 })
+
+onUnmounted(() => {
+  window.removeEventListener('scroll', updateProgress)
+})
+
+watch(() => route.params, () => {
+  // Reset progress when navigating
+  readingProgress.value = 0
+})
+
+function updateProgress() {
+  if (!pageRef.value) return
+  
+  const element = pageRef.value
+  const rect = element.getBoundingClientRect()
+  
+  // Calculate how much of the element we've scrolled past
+  const totalScrollableHeight = rect.height - window.innerHeight
+  
+  if (totalScrollableHeight <= 0) {
+    readingProgress.value = 100
+    return
+  }
+  
+  const pixelsScrolled = -rect.top
+  let percent = (pixelsScrolled / totalScrollableHeight) * 100
+  
+  if (percent < 0) percent = 0
+  if (percent > 100) percent = 100
+  
+  readingProgress.value = percent
+}
 
 const resolution = computed(() => {
   if (!isLoaded.value) return null
@@ -223,6 +307,31 @@ const nextResolution = computed(() => {
   return idx !== -1 && idx < meetingResolutions.value.length - 1 ? meetingResolutions.value[idx + 1] : null
 })
 
+const relatedResolutions = computed(() => {
+  if (!isLoaded.value || !resolution.value) return []
+  
+  const current = resolution.value
+  // Find same subject first
+  let related = resolutions.value.filter(r => 
+    r.subject && 
+    current.subject && 
+    r.subject === current.subject && 
+    r.id !== current.id
+  )
+  
+  // If none or very few found, fill with resolutions from the same meeting
+  if (related.length === 0) {
+    related = resolutions.value.filter(r => 
+      r.meeting_date === current.meeting_date && 
+      r.id !== current.id &&
+      r.id !== prevResolution.value?.id &&
+      r.id !== nextResolution.value?.id
+    )
+  }
+  
+  return related.slice(0, 5)
+})
+
 function submitSearch() {
   if (searchInput.value) {
     router.push({ name: 'home', query: { q: searchInput.value } })
@@ -237,6 +346,15 @@ function formatDate(dateStr: string) {
   } catch(e) {
     return dateStr
   }
+}
+
+function copyUrn(urn: string) {
+  navigator.clipboard.writeText(urn).then(() => {
+    copied.value = true
+    setTimeout(() => {
+      copied.value = false
+    }, 2000)
+  })
 }
 </script>
 
@@ -257,25 +375,64 @@ function formatDate(dateStr: string) {
 .res-detail-page {
   max-width: 56rem;
   margin: 0 auto;
+  position: relative;
 }
 
+/* Reading Progress */
+.reading-progress-track {
+  position: fixed;
+  left: 1rem;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 3px;
+  height: 40vh;
+  background: var(--color-slate-200);
+  border-radius: 999px;
+  overflow: hidden;
+  display: none;
+}
+.dark .reading-progress-track {
+  background: var(--color-slate-800);
+}
+
+@media (min-width: 1280px) {
+  .reading-progress-track {
+    display: block;
+  }
+}
+
+.reading-progress-fill {
+  width: 100%;
+  height: var(--progress, 0%);
+  background: var(--color-blue-accent);
+  transition: height 0.1s linear;
+}
+
+/* Base layout */
 .back-link {
   background: transparent;
   border: none;
   cursor: pointer;
-  display: flex;
+  display: inline-flex;
   align-items: center;
   gap: 0.5rem;
   font-size: 0.875rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
   color: var(--color-slate-500);
   transition: color 0.2s;
   padding: 0;
+  margin-bottom: 2rem;
 }
-.back-link:hover {
-  color: var(--color-slate-900);
+.back-link:hover,
+.back-link:focus-visible {
+  color: var(--color-blue-accent);
+  outline: none;
 }
-.dark .back-link:hover {
-  color: white;
+.dark .back-link:hover,
+.dark .back-link:focus-visible {
+  color: #66a3e0;
 }
 .back-link__icon {
   transition: transform 0.2s;
@@ -285,16 +442,14 @@ function formatDate(dateStr: string) {
 }
 
 .res-detail-header {
-  margin-bottom: 3rem;
-  border-bottom: 1px solid var(--color-slate-200);
-  padding-bottom: 2rem;
-}
-.dark .res-detail-header {
-  border-bottom-color: var(--color-slate-800);
+  margin-bottom: 4rem;
 }
 
 .res-detail-meta {
-  margin-bottom: 1rem;
+  margin-bottom: 1.5rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
 }
 
 .res-detail-badge--acclamation {
@@ -317,16 +472,16 @@ function formatDate(dateStr: string) {
 
 .res-detail-title {
   font-family: var(--font-serif);
-  font-size: 1.875rem;
+  font-size: 2rem;
   color: var(--color-slate-900);
   line-height: 1.2;
   margin-bottom: 1rem;
 }
 @media (min-width: 768px) {
-  .res-detail-title { font-size: 2.25rem; }
+  .res-detail-title { font-size: 2.75rem; }
 }
 @media (min-width: 1024px) {
-  .res-detail-title { font-size: 3rem; }
+  .res-detail-title { font-size: 3.5rem; }
 }
 .dark .res-detail-title { color: white; }
 
@@ -334,28 +489,50 @@ function formatDate(dateStr: string) {
   font-size: 1.125rem;
   color: var(--color-slate-500);
   font-style: italic;
+  padding-left: 1rem;
+  border-left: 2px solid var(--color-slate-200);
 }
-.dark .res-detail-subtitle { color: var(--color-slate-400); }
+.dark .res-detail-subtitle { 
+  color: var(--color-slate-400);
+  border-left-color: var(--color-slate-700);
+}
 
 .res-detail-content {
   display: flex;
   flex-direction: column;
-  gap: 3rem;
+  gap: 4rem;
+  background: white;
+  padding: 3rem;
+  border-radius: 1rem;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.05), 0 4px 6px -2px rgba(0, 0, 0, 0.025);
+  border: 1px solid var(--color-slate-200);
+}
+@media (max-width: 768px) {
+  .res-detail-content {
+    padding: 1.5rem;
+  }
+}
+.dark .res-detail-content {
+  background: var(--color-slate-900);
+  border-color: var(--color-slate-800);
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.4);
 }
 
 .res-detail-section-title {
   font-family: var(--font-serif);
   font-size: 1.25rem;
-  color: var(--color-slate-800);
-  border-bottom: 1px solid var(--color-slate-100);
+  color: var(--color-slate-900);
+  border-bottom: 2px solid var(--color-slate-100);
   padding-bottom: 0.5rem;
-  margin-bottom: 1.5rem;
+  margin-bottom: 2rem;
+  font-weight: 600;
+  letter-spacing: -0.01em;
 }
 @media (min-width: 768px) {
   .res-detail-section-title { font-size: 1.5rem; }
 }
 .dark .res-detail-section-title {
-  color: var(--color-slate-200);
+  color: white;
   border-bottom-color: var(--color-slate-800);
 }
 
@@ -385,8 +562,17 @@ function formatDate(dateStr: string) {
 
 .res-detail-card--action {
   background: white;
-  box-shadow: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+  box-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.05);
   border-color: var(--color-slate-200);
+  position: relative;
+  overflow: hidden;
+}
+.res-detail-card--action::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; bottom: 0;
+  width: 4px;
+  background-color: var(--action-color, var(--color-blue-accent));
 }
 .dark .res-detail-card--action {
   background: var(--color-slate-900);
@@ -405,14 +591,20 @@ function formatDate(dateStr: string) {
 .dark .res-detail-card-type { color: var(--color-slate-400); }
 
 .res-detail-card-type--action {
-  color: var(--color-blue-accent);
+  color: var(--action-color, var(--color-blue-accent));
+  background: rgba(0, 0, 0, 0.03);
+  padding: 0.125rem 0.5rem;
+  border-radius: 9999px;
+}
+.dark .res-detail-card-type--action {
+  background: rgba(255, 255, 255, 0.05);
 }
 
 .res-detail-card-subject {
   font-weight: 600;
   font-size: 1.125rem;
   color: var(--color-slate-900);
-  margin-bottom: 0.75rem;
+  margin-bottom: 1rem;
 }
 .dark .res-detail-card-subject { color: white; }
 
@@ -426,7 +618,7 @@ function formatDate(dateStr: string) {
 .res-detail-richtext :deep(a) { color: var(--color-blue-accent); text-decoration: underline; }
 
 .res-detail-dates {
-  margin-top: 1rem;
+  margin-top: 1.5rem;
   display: flex;
   flex-wrap: wrap;
   gap: 0.5rem;
@@ -435,12 +627,12 @@ function formatDate(dateStr: string) {
 .res-detail-date {
   display: inline-flex;
   align-items: center;
-  padding: 0.125rem 0.625rem;
+  padding: 0.25rem 0.75rem;
   border-radius: 9999px;
   font-size: 0.75rem;
-  font-weight: 500;
+  font-weight: 600;
   background: var(--color-slate-100);
-  color: var(--color-slate-800);
+  color: var(--color-slate-700);
 }
 .dark .res-detail-date {
   background: var(--color-slate-800);
@@ -462,11 +654,86 @@ function formatDate(dateStr: string) {
   gap: 0.5rem;
 }
 
+/* Related Resolutions */
+.related-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.related-card {
+  position: relative;
+  display: block;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  border: 1px solid var(--color-slate-200);
+  background: white;
+  text-decoration: none;
+  transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.dark .related-card {
+  background: var(--color-slate-900);
+  border-color: var(--color-slate-800);
+}
+
+.related-card:hover,
+.related-card:focus-visible {
+  border-color: var(--color-blue-accent);
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+  transform: translateY(-2px);
+  outline: none;
+}
+.dark .related-card:hover,
+.dark .related-card:focus-visible {
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.4);
+}
+
+.related-meta {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 0.5rem;
+  font-size: 0.75rem;
+}
+
+.related-id {
+  font-weight: 600;
+  color: var(--color-slate-500);
+}
+
+.related-date {
+  color: var(--color-slate-400);
+}
+
+.related-title {
+  font-weight: 500;
+  color: var(--color-slate-900);
+  padding-right: 1.5rem;
+}
+.dark .related-title { color: white; }
+.related-card:hover .related-title { color: var(--color-blue-accent); }
+
+.card-hover-arrow {
+  position: absolute;
+  bottom: 1rem;
+  right: 1rem;
+  color: var(--color-blue-accent);
+  opacity: 0;
+  transform: translateX(-10px);
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.related-card:hover .card-hover-arrow {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+
+/* Navigation */
 .res-navigation {
   display: flex;
   justify-content: space-between;
   gap: 1rem;
-  margin-top: 4rem;
+  margin-top: 2rem;
   padding-top: 2rem;
   border-top: 1px solid var(--color-slate-200);
 }
@@ -487,13 +754,16 @@ function formatDate(dateStr: string) {
   background: rgba(30, 41, 59, 0.5);
   border-color: var(--color-slate-800);
 }
-.res-nav-card:hover {
+.res-nav-card:hover,
+.res-nav-card:focus-visible {
   background: white;
   border-color: var(--color-blue-accent);
   box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);
   transform: translateY(-2px);
+  outline: none;
 }
-.dark .res-nav-card:hover {
+.dark .res-nav-card:hover,
+.dark .res-nav-card:focus-visible {
   background: var(--color-slate-900);
   border-color: #66a3e0;
 }
@@ -541,6 +811,7 @@ function formatDate(dateStr: string) {
   text-align: center;
 }
 
+/* Rest of the empty/loading states... */
 .empty-state {
   display: inline-block;
   padding: 4rem;
@@ -616,20 +887,12 @@ function formatDate(dateStr: string) {
 
 .link-no-ul { text-decoration: none; display: inline-block; }
 
-/* Skeleton Loading */
-.skeleton-header {
-  display: flex;
-  flex-direction: column;
-  gap: 1rem;
-}
-
+.skeleton-header { display: flex; flex-direction: column; gap: 1rem; }
 .skeleton-link { width: 6rem; height: 1rem; }
 .skeleton-badges { display: flex; gap: 0.5rem; }
 .skeleton-title-large { width: 100%; height: 3rem; margin-top: 0.5rem; }
-
 .skeleton-content { display: flex; flex-direction: column; gap: 1rem; }
 .mt-8 { margin-top: 2rem; }
-
 .skeleton-link, .skeleton-title-large, .skeleton-badge, .skeleton-title, .skeleton-text, .skeleton-card {
   background-color: var(--color-slate-200);
   border-radius: 0.25rem;
@@ -638,11 +901,9 @@ function formatDate(dateStr: string) {
 .dark .skeleton-link, .dark .skeleton-title-large, .dark .skeleton-badge, .dark .skeleton-title, .dark .skeleton-text, .dark .skeleton-card {
   background-color: var(--color-slate-800);
 }
-
 .skeleton-badge { height: 1rem; width: 5rem; border-radius: 9999px; }
 .w-24 { width: 6rem; }
 .w-3-4 { width: 75%; }
-
 .skeleton-title { height: 1.5rem; width: 60%; }
 .skeleton-text { height: 1rem; width: 100%; }
 .skeleton-card { height: 8rem; width: 100%; border-radius: 0.75rem; }
@@ -650,5 +911,59 @@ function formatDate(dateStr: string) {
 @keyframes pulse {
   0%, 100% { opacity: 1; }
   50% { opacity: .5; }
+}
+
+.urn-bar {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.75rem 1rem;
+  background: var(--color-slate-50);
+  border: 1px solid var(--color-slate-200);
+  border-radius: 0.5rem;
+  margin-bottom: 2rem;
+}
+.dark .urn-bar {
+  background: rgba(30, 41, 59, 0.5);
+  border-color: var(--color-slate-800);
+}
+.urn-label {
+  font-size: 0.6875rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--color-slate-400);
+  flex-shrink: 0;
+}
+.urn-value {
+  font-family: ui-monospace, 'SF Mono', Monaco, monospace;
+  font-size: 0.8125rem;
+  color: var(--color-slate-700);
+  flex: 1;
+  overflow-x: auto;
+  white-space: nowrap;
+}
+.dark .urn-value {
+  color: var(--color-slate-300);
+}
+.urn-copy-btn {
+  flex-shrink: 0;
+  background: transparent;
+  border: 1px solid var(--color-slate-200);
+  border-radius: 0.375rem;
+  padding: 0.375rem;
+  color: var(--color-slate-500);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s;
+}
+.urn-copy-btn:hover,
+.urn-copy-btn:focus-visible {
+  background: var(--color-blue-accent);
+  border-color: var(--color-blue-accent);
+  color: white;
+  outline: none;
 }
 </style>

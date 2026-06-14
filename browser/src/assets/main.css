@@ -12,6 +12,10 @@
 
 @custom-variant dark (&:where(.dark, .dark *));
 
+html {
+  scroll-behavior: smooth;
+}
+
 /* Base Tailwind configurations for TC 154 style */
 @theme {
   --color-blue-accent: #0061ad;

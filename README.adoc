@@ -9,11 +9,21 @@ accessible format.
 
 == Structure
 
-This repository currently contains these resolutions:
+This repository contains 1456 resolutions across 86 plenary YAML files (332 are acclamations).
 
 `plenary/`:: Plenary meetings: 1st through 91st plenary meetings (1984--2026).
 
 Original documents are located in the `reference-docs/` folder.
+
+
+== URN scheme
+
+Resolutions and meetings are identified by unique URNs.
+
+Resolution URNs:: `urn:iso:tc:184:sc:4:resolution:{id}` (e.g., `urn:iso:tc:184:sc:4:resolution:1142`)
+Meeting URNs:: `urn:iso:tc:184:sc:4:meeting:{source_file}` (e.g., `urn:iso:tc:184:sc:4:meeting:plenary-2024-10-stavanger-norway`)
+
+RFC 5141 notes that TC-level documents are not covered by `urn:iso:std:`. Section 2.6 delegates URN management for TC resources to the Technical Committees themselves.
 
 
 == Data model
@@ -122,36 +132,53 @@ This enables IDE validation and autocompletion when editing resolution files.
 
 == Resolutions browser
 
-A web-based resolutions browser is available at
-https://isotc184sc4.github.io/resolutions-data/[isotc184sc4.github.io/resolutions-data].
+The resolutions browser is a Vue 3 single-page application (SPA) located in the `browser/` directory.
 
-It provides full-text search (FlexSearch) and year-based filtering across all 1178
-resolutions, with detail views showing subject, considerations, actions, and approvals.
+URL:: https://isotc184sc4.github.io/resolutions-data/
 
-The browser is a Vue 3 single-page application in `browser/` that builds from the YAML
-data in `plenary/`.
+=== Key features
+
+* Full-text search using FlexSearch
+* Meeting timeline and year-based filtering
+* Resolution detail views with URN identifiers
+* Dark mode support
+* Clean URLs (no hash routing) enabled via `404.html` fallback
+
+=== Stack
+
+* Vue 3
+* Vite
+* Tailwind CSS v4
+* FlexSearch
+
+=== Data pipeline
+
+The browser application consumes data generated from the `plenary/*.yaml` files.
+
+Source:: `plenary/*.yaml` in Edoxen format.
+Build script:: `browser/scripts/build-data.mjs` reads the YAML files and generates `browser/public/data/resolutions.json` with URN fields.
+Post-build script:: `browser/scripts/post-build.mjs` generates `dist/404.html` to support SPA routing on GitHub Pages.
 
 === Local development
 
-[source,sh]
+[source,shell]
 ----
 cd browser
 npm install
 npm run dev
 ----
 
-This generates the JSON data file and starts a Vite dev server with hot module
-replacement.
+This starts a Vite dev server with hot module replacement.
 
 === Build for production
 
-[source,sh]
+[source,shell]
 ----
 cd browser
 npm run build
 ----
 
-Output goes to `browser/dist/`. The build also runs type checking via `vue-tsc`.
+The build process reads `plenary/*.yaml`, outputs the compiled site to `browser/dist/`, and generates the `resolutions.json` data file. It also performs type checking via `vue-tsc`.
 
 === Deployment
 

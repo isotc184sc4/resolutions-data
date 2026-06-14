@@ -9,6 +9,7 @@ const __dirname = path.dirname(__filename);
 const PLENARY_DIR = path.resolve(__dirname, '../../plenary');
 const OUTPUT_DIR = path.resolve(__dirname, '../public/data');
 const OUTPUT_FILE = path.join(OUTPUT_DIR, 'resolutions.json');
+const URN_BASE = 'urn:iso:tc:184:sc:4';
 
 function main() {
   if (!fs.existsSync(OUTPUT_DIR)) {
@@ -71,11 +72,13 @@ function main() {
 
       allResolutions.push({
         id: identifier,
+        urn: `${URN_BASE}:resolution:${identifier}`,
         title: display_title,
         subject: res.subject || '',
         year: year,
         venue: venue,
         source_file: source_file,
+        meeting_urn: `${URN_BASE}:meeting:${source_file}`,
         source_title: source_title,
         meeting_date: meeting_date,
         is_acclamation: isAcclamation,
