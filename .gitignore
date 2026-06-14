@@ -3,3 +3,4 @@ browser/dist/
 .playwright-mcp/
 .omo/
 *.png
+!browser/public/**
