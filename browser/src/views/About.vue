@@ -108,55 +108,39 @@
         </div>
       </section>
 
-      <!-- 5. Data Pipeline -->
+      <!-- 5. Resolution Lifecycle -->
       <section class="about-section animate-up" style="--nth: 6">
-        <h2 class="about-heading">Data Pipeline</h2>
+        <h2 class="about-heading">Resolution Lifecycle</h2>
         <div class="about-body">
-          <div class="pipeline-steps">
-            <div class="pipeline-step">
-              <div class="pipeline-icon">
-                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/><polyline points="10 9 9 9 8 9"/></svg>
+          <p>
+            Each resolution in the Edoxen model follows a structured lifecycle, captured through three interconnected sections:
+          </p>
+          <div class="lifecycle-list">
+            <div class="lifecycle-item">
+              <div class="lifecycle-number">1</div>
+              <div class="lifecycle-content">
+                <h3 class="lifecycle-title">Considerations</h3>
+                <p class="lifecycle-desc">The context and background that led to the resolution. Each consideration has a type (e.g., <code class="inline-code">noting</code>, <code class="inline-code">recalling</code>, <code class="inline-code">recognising</code>) and a message explaining what the committee observed or referenced.</p>
               </div>
-              <h3 class="pipeline-title">1. YAML Source Files</h3>
-              <p class="pipeline-desc">Authoritative plenary files maintained in the repository.</p>
             </div>
-            
-            <div class="pipeline-arrow">
-              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
-            </div>
-
-            <div class="pipeline-step">
-              <div class="pipeline-icon">
-                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/></svg>
+            <div class="lifecycle-item">
+              <div class="lifecycle-number">2</div>
+              <div class="lifecycle-content">
+                <h3 class="lifecycle-title">Actions</h3>
+                <p class="lifecycle-desc">The decisions themselves — what the committee resolved to do. Each action carries a semantic type (e.g., <code class="inline-code">requests</code>, <code class="inline-code">approves</code>, <code class="inline-code">appoints</code>) that categorizes the nature of the decision, along with the detailed message.</p>
               </div>
-              <h3 class="pipeline-title">2. Build Script</h3>
-              <p class="pipeline-desc">Node.js process that parses YAML and generates static JSON assets.</p>
             </div>
-
-            <div class="pipeline-arrow">
-              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
-            </div>
-
-            <div class="pipeline-step">
-              <div class="pipeline-icon">
-                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+            <div class="lifecycle-item">
+              <div class="lifecycle-number">3</div>
+              <div class="lifecycle-content">
+                <h3 class="lifecycle-title">Approvals</h3>
+                <p class="lifecycle-desc">How the resolution was formally adopted, including the degree of consensus (e.g., <code class="inline-code">unanimous</code>, <code class="inline-code">consensus</code>) and any relevant notes about the approval process.</p>
               </div>
-              <h3 class="pipeline-title">3. Client Search</h3>
-              <p class="pipeline-desc">FlexSearch index built entirely in the browser at load time.</p>
-            </div>
-
-            <div class="pipeline-arrow">
-              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
-            </div>
-
-            <div class="pipeline-step">
-              <div class="pipeline-icon">
-                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="3" width="20" height="14" rx="2" ry="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/></svg>
-              </div>
-              <h3 class="pipeline-title">4. Vue SPA</h3>
-              <p class="pipeline-desc">The compiled application, deployed statically to GitHub Pages.</p>
             </div>
           </div>
+          <p>
+            A single resolution may contain multiple considerations, actions, and approvals — together forming a complete record of the committee's decision-making process.
+          </p>
         </div>
       </section>
 
@@ -499,81 +483,57 @@ const actionChips = actionTypes.map(type => ({
   color: var(--color-slate-400);
 }
 
-/* Data Pipeline */
-.pipeline-steps {
+/* Resolution Lifecycle */
+.lifecycle-list {
   display: flex;
   flex-direction: column;
-  align-items: center;
-  gap: 1rem;
-  margin-top: 1.5rem;
-}
-@media (min-width: 768px) {
-  .pipeline-steps {
-    flex-direction: row;
-    align-items: flex-start;
-    justify-content: space-between;
-  }
+  gap: 1.5rem;
+  margin: 1.5rem 0;
 }
 
-.pipeline-step {
-  flex: 1;
+.lifecycle-item {
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  text-align: center;
-  background: var(--color-slate-50);
-  padding: 1.5rem;
-  border-radius: 0.75rem;
-  border: 1px solid var(--color-slate-100);
-  width: 100%;
-}
-.dark .pipeline-step {
-  background: rgba(30, 41, 59, 0.5);
-  border-color: var(--color-slate-800);
+  gap: 1.25rem;
+  align-items: flex-start;
 }
 
-.pipeline-icon {
-  width: 3rem;
-  height: 3rem;
+.lifecycle-number {
+  flex-shrink: 0;
+  width: 2.5rem;
+  height: 2.5rem;
   border-radius: 50%;
   background: var(--color-blue-accent);
   color: white;
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-bottom: 1rem;
+  font-weight: 700;
+  font-size: 1.125rem;
 }
-.pipeline-title {
-  font-weight: 600;
-  font-size: 1rem;
-  color: var(--color-slate-900);
-  margin-bottom: 0.5rem;
+.dark .lifecycle-number {
+  background: #2b5d8a;
 }
-.dark .pipeline-title { color: white; }
 
-.pipeline-desc {
-  font-size: 0.875rem;
-  color: var(--color-slate-500);
-  line-height: 1.4;
+.lifecycle-content {
+  flex: 1;
+  padding-top: 0.125rem;
+}
+
+.lifecycle-title {
+  font-weight: 600;
+  font-size: 1.125rem;
+  color: var(--color-slate-900);
+  margin-bottom: 0.375rem;
+}
+.dark .lifecycle-title { color: white; }
+
+.lifecycle-desc {
+  font-size: 1rem;
+  color: var(--color-slate-600);
+  line-height: 1.625;
   margin: 0 !important;
 }
-.dark .pipeline-desc { color: var(--color-slate-400); }
-
-.pipeline-arrow {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  color: var(--color-slate-300);
-  padding: 1rem 0;
-  transform: rotate(90deg);
-}
-@media (min-width: 768px) {
-  .pipeline-arrow {
-    transform: rotate(0deg);
-    padding: 2.5rem 0 0;
-  }
-}
-.dark .pipeline-arrow { color: var(--color-slate-600); }
+.dark .lifecycle-desc { color: var(--color-slate-400); }
 
 /* Committee Section */
 .committee-card {
