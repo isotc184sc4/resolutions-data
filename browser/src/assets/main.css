@@ -2,6 +2,8 @@
 
 @import "tailwindcss";
 
+@custom-variant dark (&:where(.dark, .dark *));
+
 @import "./css/filter.css";
 @import "./css/resolution.css";
 @import "./css/header.css";
