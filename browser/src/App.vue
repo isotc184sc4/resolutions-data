@@ -140,15 +140,20 @@ const router = useRouter()
 const isDark = ref(false)
 const isMobileMenuOpen = ref(false)
 const showScrollTop = ref(false)
+const THEME_KEY = 'theme'
 
 onMounted(() => {
-  if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+  const saved = localStorage.getItem(THEME_KEY)
+  if (saved === 'dark') {
+    isDark.value = true
+  } else if (saved === 'light') {
+    isDark.value = false
+  } else if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
     isDark.value = true
   }
-  if (document.documentElement.classList.contains('dark')) {
-    isDark.value = true
-  }
-  
+
+  document.documentElement.classList.toggle('dark', isDark.value)
+
   window.addEventListener('scroll', handleScroll, { passive: true })
   window.addEventListener('keydown', handleGlobalSearch)
 })
@@ -160,11 +165,8 @@ onUnmounted(() => {
 
 function toggleTheme() {
   isDark.value = !isDark.value
-  if (isDark.value) {
-    document.documentElement.classList.add('dark')
-  } else {
-    document.documentElement.classList.remove('dark')
-  }
+  document.documentElement.classList.toggle('dark', isDark.value)
+  localStorage.setItem(THEME_KEY, isDark.value ? 'dark' : 'light')
 }
 
 function handleScroll() {
