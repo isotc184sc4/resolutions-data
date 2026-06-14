@@ -45,35 +45,41 @@
       </div>
     </div>
 
-    <div class="std-results" v-if="isLoaded">
-      <router-link 
-        v-for="(meeting, index) in paginatedMeetings" 
-        :key="meeting.source_file" 
-        :to="{ name: 'meeting-detail', params: { sourceFile: meeting.source_file } }"
-        class="std-results__card meeting-card animate-card"
-        :style="`--nth: ${index % limit}`"
-      >
-        <div class="std-results__name">
-          <span>{{ meeting.year }} Plenary</span>
-          <span class="std-results__type">{{ meeting.resolution_count }} Resolutions</span>
-        </div>
-        <div class="std-results__title meeting-card__title">{{ meeting.venue || 'Unknown Venue' }}</div>
-        
-        <div class="card-footer">
-          <span v-if="meeting.meeting_date" class="std-results__badge">{{ formatDate(meeting.meeting_date) }}</span>
-          <span v-if="meeting.acclamation_count > 0" class="std-results__badge badge-acclamation">{{ meeting.acclamation_count }} Acclamations</span>
-          
-          <div class="card-hover-arrow">
-            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
-          </div>
-        </div>
-      </router-link>
-      
+    <div class="timeline-container animate-up" style="--nth: 4" v-if="isLoaded">
       <div v-if="filteredMeetings.length === 0" class="empty-state">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="empty-state__icon"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
         <h3>No meetings found</h3>
         <p>Try adjusting your search or year filter.</p>
         <button class="std-chip btn-mt" @click="searchQuery=''; selectedYear=''">Clear filters</button>
+      </div>
+      
+      <div v-else class="decade-timeline">
+        <div v-for="decade in meetingsByDecade" :key="decade.label" class="decade-row">
+          <div class="decade-label">{{ decade.label }}</div>
+          
+          <div class="decade-track">
+            <div class="decade-line"></div>
+            <div class="decade-dots">
+              <router-link 
+                v-for="m in decade.meetings" 
+                :key="m.source_file"
+                :to="{ name: 'meeting-detail', params: { sourceFile: m.source_file } }"
+                class="meeting-dot"
+                :class="{ 'has-acclamation': m.acclamation_count > 0 }"
+                :aria-label="m.year + ' Plenary: ' + m.venue"
+              >
+                <div class="meeting-tooltip">
+                  <div class="tooltip-title">{{ m.venue || 'Unknown Venue' }}</div>
+                  <div class="tooltip-meta">{{ m.year }} &bull; {{ m.resolution_count }} res</div>
+                </div>
+              </router-link>
+            </div>
+          </div>
+          
+          <div class="decade-stats">
+            {{ decade.meetings.length }} meetings &middot; {{ decade.resCount }} resolutions
+          </div>
+        </div>
       </div>
     </div>
     
@@ -88,12 +94,6 @@
           </div>
         </div>
       </div>
-    </div>
-    
-    <div v-if="hasMore" class="load-more-container">
-      <button @click="loadMore" class="std-chip load-more-btn">
-        Load More
-      </button>
     </div>
   </div>
 </template>
@@ -110,7 +110,6 @@ const { meetings, isLoaded, loadData } = useMeetings()
 
 const searchQuery = ref((route.query.q as string) || '')
 const selectedYear = ref((route.query.year as string) || '')
-const limit = ref(50)
 
 onMounted(() => {
   loadData()
@@ -143,37 +142,36 @@ const filteredMeetings = computed(() => {
   return list
 })
 
-const paginatedMeetings = computed(() => {
-  return filteredMeetings.value.slice(0, limit.value)
+const meetingsByDecade = computed(() => {
+  const decades: Record<string, { meetings: any[], resCount: number, accCount: number }> = {}
+  filteredMeetings.value.forEach(m => {
+    const year = parseInt(m.year)
+    if (isNaN(year)) return
+    const decade = Math.floor(year / 10) * 10 + 's'
+    if (!decades[decade]) {
+      decades[decade] = { meetings: [], resCount: 0, accCount: 0 }
+    }
+    decades[decade].meetings.push(m)
+    decades[decade].resCount += (m.resolution_count || 0)
+    decades[decade].accCount += (m.acclamation_count || 0)
+  })
+  
+  return Object.keys(decades)
+    .sort((a, b) => b.localeCompare(a))
+    .map(key => ({
+      label: key,
+      resCount: decades[key].resCount,
+      accCount: decades[key].accCount,
+      meetings: decades[key].meetings.sort((a, b) => a.year.localeCompare(b.year))
+    }))
 })
-
-const hasMore = computed(() => {
-  return limit.value < filteredMeetings.value.length
-})
-
-function loadMore() {
-  limit.value += 50
-}
 
 watch([searchQuery, selectedYear], () => {
-  limit.value = 50
-  
-  // Sync state to URL
   const query: Record<string, string> = {}
   if (searchQuery.value) query.q = searchQuery.value
   if (selectedYear.value) query.year = selectedYear.value
   router.replace({ query })
 })
-
-function formatDate(dateStr: string) {
-  if (!dateStr) return ''
-  try {
-    const d = new Date(dateStr)
-    return d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC' })
-  } catch(e) {
-    return dateStr
-  }
-}
 </script>
 
 <style scoped>
@@ -190,24 +188,182 @@ function formatDate(dateStr: string) {
   to { opacity: 1; transform: translateY(0); }
 }
 
-.animate-card {
+.timeline-container {
+  margin-top: 3rem;
+  padding: 2rem;
+  background: white;
+  border-radius: 1rem;
+  border: 1px solid var(--color-slate-200);
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.05), 0 4px 6px -2px rgba(0, 0, 0, 0.025);
+}
+.dark .timeline-container {
+  background: var(--color-slate-900);
+  border-color: var(--color-slate-800);
+}
+
+.decade-timeline {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+}
+
+.decade-row {
+  display: grid;
+  grid-template-columns: 80px 1fr auto;
+  align-items: center;
+  gap: 2rem;
+}
+
+@media (max-width: 1024px) {
+  .decade-row {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+}
+
+.decade-label {
+  font-family: var(--font-serif);
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--color-slate-900);
+}
+.dark .decade-label {
+  color: white;
+}
+
+.decade-track {
+  position: relative;
+  display: flex;
+  align-items: center;
+  min-height: 40px;
+}
+
+.decade-line {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  right: 0;
+  height: 2px;
+  background-color: var(--color-slate-200);
+  transform: translateY(-50%);
+  z-index: 1;
+}
+.dark .decade-line {
+  background-color: var(--color-slate-700);
+}
+
+.decade-dots {
+  position: relative;
+  z-index: 2;
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.meeting-dot {
+  position: relative;
+  width: 16px;
+  height: 16px;
+  background-color: white;
+  border: 3px solid var(--color-slate-400);
+  border-radius: 50%;
+  transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+  cursor: pointer;
+}
+.dark .meeting-dot {
+  background-color: var(--color-slate-900);
+  border-color: var(--color-slate-500);
+}
+
+.meeting-dot:hover,
+.meeting-dot:focus-visible {
+  border-color: var(--color-blue-accent);
+  transform: scale(1.5);
+  outline: none;
+  z-index: 10;
+  box-shadow: 0 0 0 4px rgba(0, 97, 173, 0.1);
+}
+
+.meeting-dot.has-acclamation {
+  border-color: #6366f1;
+}
+.meeting-dot.has-acclamation:hover,
+.meeting-dot.has-acclamation:focus-visible {
+  border-color: #4f46e5;
+  box-shadow: 0 0 0 4px rgba(99, 102, 241, 0.2);
+}
+
+.meeting-tooltip {
+  position: absolute;
+  bottom: calc(100% + 10px);
+  left: 50%;
+  transform: translateX(-50%) translateY(10px);
+  background: var(--color-slate-900);
+  color: white;
+  padding: 0.75rem 1rem;
+  border-radius: 0.5rem;
+  white-space: nowrap;
   opacity: 0;
-  transform: translateY(15px);
-  animation: fadeUp 0.5s cubic-bezier(0.16, 1, 0.3, 1) forwards;
-  animation-delay: calc(var(--nth) * 0.05s);
+  visibility: hidden;
+  transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.2), 0 4px 6px -2px rgba(0, 0, 0, 0.1);
+  pointer-events: none;
+}
+.dark .meeting-tooltip {
+  background: white;
+  color: var(--color-slate-900);
+}
+
+.meeting-tooltip::after {
+  content: '';
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  border-width: 6px;
+  border-style: solid;
+  border-color: var(--color-slate-900) transparent transparent transparent;
+}
+.dark .meeting-tooltip::after {
+  border-color: white transparent transparent transparent;
+}
+
+.meeting-dot:hover .meeting-tooltip,
+.meeting-dot:focus-visible .meeting-tooltip {
+  opacity: 1;
+  visibility: visible;
+  transform: translateX(-50%) translateY(0);
+}
+
+.tooltip-title {
+  font-weight: 600;
+  font-size: 0.875rem;
+  margin-bottom: 0.25rem;
+}
+
+.tooltip-meta {
+  font-size: 0.75rem;
+  color: var(--color-slate-300);
+}
+.dark .tooltip-meta {
+  color: var(--color-slate-600);
+}
+
+.decade-stats {
+  font-size: 0.875rem;
+  color: var(--color-slate-500);
+  font-weight: 500;
+  white-space: nowrap;
+}
+.dark .decade-stats {
+  color: var(--color-slate-400);
 }
 
 .empty-state {
-  grid-column: 1 / -1;
   text-align: center;
   padding: 4rem 1rem;
-  background: white;
-  border-radius: 1rem;
-  border: 1px dashed var(--color-slate-200);
-}
-.dark .empty-state {
-  background: var(--color-slate-900);
-  border-color: var(--color-slate-800);
 }
 .empty-state__icon {
   width: 3rem;
@@ -225,88 +381,18 @@ function formatDate(dateStr: string) {
 .dark .empty-state h3 { color: white; }
 .empty-state p { color: var(--color-slate-500); }
 
-.btn-mt {
-  margin-top: 1rem;
-}
-
-.meeting-card {
-  transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.3s cubic-bezier(0.16, 1, 0.3, 1), border-color 0.3s;
-}
-.meeting-card:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 12px 20px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1);
-  border-color: var(--color-blue-accent);
-}
-.dark .meeting-card:hover {
-  box-shadow: 0 12px 20px -5px rgb(0 0 0 / 0.4), 0 8px 10px -6px rgb(0 0 0 / 0.4);
-}
-.meeting-card__title {
-  transition: color 0.3s;
-  font-weight: 600;
-  font-size: 1.125rem !important;
-  color: var(--color-slate-900) !important;
-}
-.dark .meeting-card__title {
-  color: white !important;
-}
-.meeting-card:hover .meeting-card__title {
-  color: var(--color-blue-accent) !important;
-}
-
-.card-footer {
-  display: flex;
-  gap: 0.375rem;
-  align-items: center;
-  flex-wrap: wrap;
-  margin-top: auto;
-  padding-top: 1rem;
-}
-
-.badge-acclamation {
-  background: var(--color-slate-100);
-  color: var(--color-slate-700);
-}
-.dark .badge-acclamation {
-  background: var(--color-slate-800);
-  color: var(--color-slate-300);
-}
-
-.card-hover-arrow {
-  margin-left: auto;
-  color: var(--color-blue-accent);
-  opacity: 0;
-  transform: translateX(-10px);
-  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
-}
-
-.meeting-card:hover .card-hover-arrow {
-  opacity: 1;
-  transform: translateX(0);
-}
-
-.load-more-container {
-  margin-top: 3rem;
-  text-align: center;
-}
-
-.load-more-btn {
-  font-size: 0.875rem;
-  font-weight: 600;
-  padding: 0.5rem 1.5rem;
-}
+.btn-mt { margin-top: 1rem; }
 
 /* Skeleton Loading */
 .loading-container {
   padding: 2.5rem 0;
   width: 100%;
 }
-
 .skeleton-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
   gap: 0.75rem;
 }
-
 .skeleton-card {
   padding: 1rem;
   background: white;
@@ -320,7 +406,6 @@ function formatDate(dateStr: string) {
   background: rgb(15 23 42 / 0.4);
   border-color: var(--color-slate-800);
 }
-
 .skeleton-badge,
 .skeleton-title {
   background-color: var(--color-slate-200);
@@ -331,25 +416,21 @@ function formatDate(dateStr: string) {
 .dark .skeleton-title {
   background-color: var(--color-slate-800);
 }
-
 .skeleton-badge {
   height: 1rem;
   width: 5rem;
   border-radius: 9999px;
 }
-
 .skeleton-title {
   height: 1.75rem;
   width: 80%;
 }
-
 .skeleton-footer {
   display: flex;
   gap: 0.5rem;
   margin-top: auto;
   padding-top: 1rem;
 }
-
 @keyframes pulse {
   0%, 100% { opacity: 1; }
   50% { opacity: .5; }

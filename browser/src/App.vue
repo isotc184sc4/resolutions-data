@@ -1,4 +1,5 @@
 <template>
+  <div class="scroll-progress" :style="{ '--progress': scrollPercent + '%' }"></div>
   <div class="site-brand-bar" aria-hidden="true"></div>
   <header id="nav-header" class="site-header">
     <div class="site-header__inner">
@@ -11,6 +12,7 @@
       <nav class="site-header__nav">
         <router-link :to="{ name: 'home' }" class="site-header__nav-link" active-class="active">Resolutions</router-link>
         <router-link :to="{ name: 'meetings' }" class="site-header__nav-link" active-class="active">Meetings</router-link>
+        <router-link :to="{ name: 'about' }" class="site-header__nav-link" active-class="active">About</router-link>
       </nav>
 
       <div class="site-header__actions">
@@ -49,6 +51,7 @@
     <div v-show="isMobileMenuOpen" class="mobile-menu" :class="{ 'mobile-menu--open': isMobileMenuOpen }">
       <router-link :to="{ name: 'home' }" class="mobile-menu__link" @click="isMobileMenuOpen = false">Resolutions</router-link>
       <router-link :to="{ name: 'meetings' }" class="mobile-menu__link" @click="isMobileMenuOpen = false">Meetings</router-link>
+      <router-link :to="{ name: 'about' }" class="mobile-menu__link" @click="isMobileMenuOpen = false">About</router-link>
       
       <span class="mobile-menu__section-title">External Links</span>
       <a :href="committee.links.committeeSite" target="_blank" rel="noopener noreferrer" class="mobile-menu__link">ISO Committee</a>
@@ -96,6 +99,7 @@
           <ul class="site-footer__links">
             <li><router-link :to="{ name: 'home' }" class="site-footer__link">Resolutions</router-link></li>
             <li><router-link :to="{ name: 'meetings' }" class="site-footer__link">Meetings</router-link></li>
+            <li><router-link :to="{ name: 'about' }" class="site-footer__link">About</router-link></li>
           </ul>
         </div>
         
@@ -140,6 +144,7 @@ const router = useRouter()
 const isDark = ref(false)
 const isMobileMenuOpen = ref(false)
 const showScrollTop = ref(false)
+const scrollPercent = ref(0)
 const THEME_KEY = 'theme'
 
 onMounted(() => {
@@ -171,6 +176,19 @@ function toggleTheme() {
 
 function handleScroll() {
   showScrollTop.value = window.scrollY > 500
+  
+  const docElement = document.documentElement
+  const bodyElement = document.body
+  const scrollTop = docElement.scrollTop || bodyElement.scrollTop
+  const scrollHeight = docElement.scrollHeight || bodyElement.scrollHeight
+  const clientHeight = docElement.clientHeight
+  const height = scrollHeight - clientHeight
+  
+  if (height > 0) {
+    scrollPercent.value = (scrollTop / height) * 100
+  } else {
+    scrollPercent.value = 0
+  }
 }
 
 function scrollToTop() {
@@ -214,6 +232,16 @@ function handleGlobalSearch(e: KeyboardEvent) {
 </script>
 
 <style>
+.scroll-progress {
+  position: fixed;
+  top: 0; left: 0;
+  width: var(--progress);
+  height: 3px;
+  background: linear-gradient(90deg, #0061ad, #e3000f);
+  z-index: 100;
+  transition: width 0.1s linear;
+}
+
 .scroll-to-top {
   position: fixed;
   bottom: 2rem;

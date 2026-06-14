@@ -40,6 +40,8 @@ export interface Resolution {
   categories?: string[]
   dates: any[]
   snippet: string
+  urn?: string
+  meeting_urn?: string
 }
 
 const resolutions = ref<Resolution[]>([]) as Ref<Resolution[]>

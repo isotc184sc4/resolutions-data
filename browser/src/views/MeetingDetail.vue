@@ -38,6 +38,20 @@
         
         <h1 class="meeting-detail__title">{{ meeting.venue || 'Virtual Meeting' }}</h1>
         <p class="res-page__subtitle subtitle-max-w">{{ meeting.source_title }}</p>
+
+        <!-- Meeting URN -->
+        <div v-if="meetingUrn" class="meeting-urn-bar">
+          <span class="meeting-urn-label">Meeting URN</span>
+          <code class="meeting-urn-value">{{ meetingUrn }}</code>
+          <button 
+            @click="copyUrn(meetingUrn)" 
+            class="meeting-urn-copy"
+            :aria-label="meetingCopied ? 'Copied' : 'Copy URN'"
+          >
+            <svg v-if="!meetingCopied" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
+            <svg v-else width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>
+          </button>
+        </div>
       </header>
 
       <div class="section-meta animate-up" style="--nth: 2">
@@ -75,7 +89,7 @@
 </template>
 
 <script setup lang="ts">
-import { computed, onMounted } from 'vue'
+import { computed, ref, onMounted } from 'vue'
 import { useRoute } from 'vue-router'
 import { useMeetings } from '../composables/useMeetings'
 
@@ -83,6 +97,7 @@ const route = useRoute()
 const { getMeeting, getMeetingResolutions, isLoaded, loadData } = useMeetings()
 
 const sourceFile = computed(() => route.params.sourceFile as string)
+const meetingCopied = ref(false)
 
 onMounted(() => {
   loadData()
@@ -90,6 +105,11 @@ onMounted(() => {
 
 const meeting = computed(() => {
   return isLoaded.value ? getMeeting(sourceFile.value) : null
+})
+
+const meetingUrn = computed(() => {
+  if (!meeting.value) return ''
+  return `urn:iso:tc:184:sc:4:meeting:${sourceFile.value}`
 })
 
 const meetingResolutions = computed(() => {
@@ -104,6 +124,15 @@ function formatDate(dateStr: string) {
   } catch(e) {
     return dateStr
   }
+}
+
+function copyUrn(urn: string) {
+  navigator.clipboard.writeText(urn).then(() => {
+    meetingCopied.value = true
+    setTimeout(() => {
+      meetingCopied.value = false
+    }, 2000)
+  })
 }
 </script>
 
@@ -395,5 +424,59 @@ function formatDate(dateStr: string) {
 @keyframes pulse {
   0%, 100% { opacity: 1; }
   50% { opacity: .5; }
+}
+
+.meeting-urn-bar {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.75rem 1rem;
+  background: var(--color-slate-50);
+  border: 1px solid var(--color-slate-200);
+  border-radius: 0.5rem;
+  margin-top: 1.5rem;
+}
+.dark .meeting-urn-bar {
+  background: rgba(30, 41, 59, 0.5);
+  border-color: var(--color-slate-800);
+}
+.meeting-urn-label {
+  font-size: 0.6875rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--color-slate-400);
+  flex-shrink: 0;
+}
+.meeting-urn-value {
+  font-family: ui-monospace, 'SF Mono', Monaco, monospace;
+  font-size: 0.8125rem;
+  color: var(--color-slate-700);
+  flex: 1;
+  overflow-x: auto;
+  white-space: nowrap;
+}
+.dark .meeting-urn-value {
+  color: var(--color-slate-300);
+}
+.meeting-urn-copy {
+  flex-shrink: 0;
+  background: transparent;
+  border: 1px solid var(--color-slate-200);
+  border-radius: 0.375rem;
+  padding: 0.375rem;
+  color: var(--color-slate-500);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s;
+}
+.meeting-urn-copy:hover,
+.meeting-urn-copy:focus-visible {
+  background: var(--color-blue-accent);
+  border-color: var(--color-blue-accent);
+  color: white;
+  outline: none;
 }
 </style>
