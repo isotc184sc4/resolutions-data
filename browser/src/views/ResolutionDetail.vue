@@ -225,6 +225,8 @@ import { useResolutions } from '../composables/useResolutions'
 import { useMeetings } from '../composables/useMeetings'
 import { asciidocify } from '../utils/asciidoc'
 import { getActionColor } from '../data/actionTypes'
+import { formatDate } from '../utils/format'
+import { useClipboard } from '../composables/useClipboard'
 
 const router = useRouter()
 const route = useRoute()
@@ -234,7 +236,7 @@ const { getMeetingResolutions, loadData: loadMeetingsData, isLoaded: isMeetingsL
 const searchInput = ref('')
 const pageRef = ref<HTMLElement | null>(null)
 const readingProgress = ref(0)
-const copied = ref(false)
+const { copied, copy: copyUrn } = useClipboard()
 
 onMounted(() => {
   loadData()
@@ -336,25 +338,6 @@ function submitSearch() {
   if (searchInput.value) {
     router.push({ name: 'home', query: { q: searchInput.value } })
   }
-}
-
-function formatDate(dateStr: string) {
-  if (!dateStr) return ''
-  try {
-    const d = new Date(dateStr)
-    return d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC' })
-  } catch(e) {
-    return dateStr
-  }
-}
-
-function copyUrn(urn: string) {
-  navigator.clipboard.writeText(urn).then(() => {
-    copied.value = true
-    setTimeout(() => {
-      copied.value = false
-    }, 2000)
-  })
 }
 </script>
 

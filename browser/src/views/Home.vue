@@ -264,6 +264,8 @@ import { useMeetings } from '../composables/useMeetings'
 import { committee } from '../data/committee'
 import { useCountUp } from '../composables/useCountUp'
 import { getActionColor } from '../data/actionTypes'
+import { formatDate } from '../utils/format'
+import { highlightText } from '../utils/highlight'
 
 const router = useRouter()
 const route = useRoute()
@@ -400,18 +402,6 @@ function getUniqueActions(res: any): string[] {
   return Array.from(types)
 }
 
-function highlightText(text: string, query: string): string {
-  if (!query || !text) return text
-  
-  const div = document.createElement('div')
-  div.innerText = text
-  const escapedText = div.innerHTML
-  
-  const escapedQuery = query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
-  const regex = new RegExp(`(${escapedQuery})`, 'gi')
-  return escapedText.replace(regex, '<mark class="search-highlight">$1</mark>')
-}
-
 const filteredResolutions = computed(() => {
   let list = resolutions.value
   
@@ -479,16 +469,6 @@ watch([searchQuery, selectedYear, sortOrder], () => {
   if (sortOrder.value && sortOrder.value !== 'newest') query.sort = sortOrder.value
   router.replace({ query })
 })
-
-function formatDate(dateStr: string) {
-  if (!dateStr) return ''
-  try {
-    const d = new Date(dateStr)
-    return d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC' })
-  } catch(e) {
-    return dateStr
-  }
-}
 </script>
 
 <style scoped>
