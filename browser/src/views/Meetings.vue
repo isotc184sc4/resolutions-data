@@ -85,32 +85,31 @@
               :to="{ name: 'meeting-detail', params: { sourceFile: m.source_file } }"
               class="timeline-entry"
             >
-              <div class="timeline-node-wrap">
-                <span 
-                  class="timeline-node"
-                  :class="{
-                    'node--small': m.resolution_count <= 5,
-                    'node--medium': m.resolution_count > 5 && m.resolution_count <= 15,
-                    'node--large': m.resolution_count > 15
-                  }"
-                ></span>
-              </div>
+              <span 
+                class="timeline-node"
+                :class="{
+                  'node--small': m.resolution_count <= 5,
+                  'node--medium': m.resolution_count > 5 && m.resolution_count <= 15,
+                  'node--large': m.resolution_count > 15
+                }"
+              ></span>
               
-              <div class="timeline-content">
-                <div class="timeline-year">{{ m.year }}</div>
-                <div class="timeline-venue">
-                  <span v-if="venueToFlag(m.venue)" class="timeline-flag">{{ venueToFlag(m.venue) }}</span>
-                  {{ m.venue || 'Virtual Meeting' }}
-                </div>
-                <div class="timeline-meta">
-                  <span v-if="m.meeting_date" class="meta-date">{{ formatDate(m.meeting_date) }}</span>
-                  <span class="meta-count">{{ m.resolution_count }} resolution{{ m.resolution_count !== 1 ? 's' : '' }}</span>
-                </div>
-              </div>
+              <span class="timeline-year">{{ m.year }}</span>
+              
+              <span class="timeline-venue">
+                <span v-if="venueToFlag(m.venue)" class="timeline-flag">{{ venueToFlag(m.venue) }}</span>
+                {{ m.venue || 'Virtual Meeting' }}
+              </span>
+              
+              <span class="timeline-meta">
+                <span v-if="m.meeting_date" class="meta-date">{{ formatDateShort(m.meeting_date) }}</span>
+                <span v-if="m.meeting_date" class="meta-sep">&middot;</span>
+                <span class="meta-count">{{ m.resolution_count }} resolution{{ m.resolution_count !== 1 ? 's' : '' }}</span>
+              </span>
 
-              <div class="timeline-arrow">
-                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
-              </div>
+              <span class="timeline-arrow">
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+              </span>
             </router-link>
           </div>
         </section>
@@ -197,7 +196,7 @@ const meetingsByDecade = computed(() => {
       label: key,
       resCount: decades[key].resCount,
       accCount: decades[key].accCount,
-      meetings: decades[key].meetings.sort((a, b) => a.year.localeCompare(b.year))
+      meetings: decades[key].meetings.sort((a, b) => b.year.localeCompare(a.year))
     }))
 })
 
@@ -208,11 +207,11 @@ watch([searchQuery, selectedYear], () => {
   router.replace({ query })
 })
 
-function formatDate(dateStr: string) {
+function formatDateShort(dateStr: string) {
   if (!dateStr) return ''
   try {
     const d = new Date(dateStr)
-    return d.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric', timeZone: 'UTC' })
+    return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric', timeZone: 'UTC' })
   } catch(e) {
     return dateStr
   }
@@ -220,36 +219,32 @@ function formatDate(dateStr: string) {
 </script>
 
 <style scoped>
-/* Animations */
 .animate-up {
   opacity: 0;
   transform: translateY(20px);
   animation: fadeUp 0.6s cubic-bezier(0.16, 1, 0.3, 1) forwards;
   animation-delay: calc(var(--nth) * 0.1s);
 }
-
 @keyframes fadeUp {
   from { opacity: 0; transform: translateY(20px); }
   to { opacity: 1; transform: translateY(0); }
 }
 
-/* Timeline Section */
 .timeline-section {
-  margin-top: 3rem;
+  margin-top: 1.5rem;
 }
 
-/* Legend */
 .timeline-legend {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  gap: 1.5rem;
-  padding: 1rem 1.5rem;
+  gap: 1.25rem;
+  padding: 0.625rem 1rem;
   background: var(--color-slate-50);
   border: 1px solid var(--color-slate-200);
-  border-radius: 0.5rem;
-  margin-bottom: 2.5rem;
-  font-size: 0.8125rem;
+  border-radius: 0.375rem;
+  margin-bottom: 1.25rem;
+  font-size: 0.75rem;
   color: var(--color-slate-600);
 }
 .dark .timeline-legend {
@@ -261,17 +256,13 @@ function formatDate(dateStr: string) {
 .legend-item {
   display: inline-flex;
   align-items: center;
-  gap: 0.5rem;
-}
-
-.legend-flag-example {
-  font-size: 1.25rem;
-  line-height: 1;
-}
-
-.legend-item--size {
   gap: 0.375rem;
 }
+.legend-flag-example {
+  font-size: 1rem;
+  line-height: 1;
+}
+.legend-item--size { gap: 0.25rem; }
 .legend-size-small,
 .legend-size-medium,
 .legend-size-large {
@@ -279,99 +270,80 @@ function formatDate(dateStr: string) {
   border-radius: 50%;
   background: var(--color-slate-400);
 }
-.legend-size-small { width: 0.375rem; height: 0.375rem; }
-.legend-size-medium { width: 0.625rem; height: 0.625rem; }
-.legend-size-large { width: 0.875rem; height: 0.875rem; }
+.legend-size-small  { width: 0.3rem;  height: 0.3rem; }
+.legend-size-medium { width: 0.5rem;  height: 0.5rem; }
+.legend-size-large  { width: 0.625rem; height: 0.625rem; }
 .legend-size-label {
   margin-left: 0.25rem;
   font-style: italic;
 }
 
-/* Decade List */
 .decade-list {
   display: flex;
   flex-direction: column;
-  gap: 3rem;
-}
-
-.decade-block {
-  position: relative;
+  gap: 1.5rem;
 }
 
 .decade-header {
   display: flex;
   align-items: baseline;
-  gap: 1rem;
-  margin-bottom: 1.5rem;
-  padding-bottom: 0.75rem;
-  border-bottom: 2px solid var(--color-slate-100);
+  gap: 0.75rem;
+  margin-bottom: 0.5rem;
+  padding-bottom: 0.375rem;
+  border-bottom: 1px solid var(--color-slate-200);
 }
 .dark .decade-header {
   border-bottom-color: var(--color-slate-800);
 }
-
 .decade-title {
   font-family: var(--font-serif);
-  font-size: 2rem;
+  font-size: 1.375rem;
   font-weight: 700;
   color: var(--color-slate-900);
   line-height: 1;
+  font-variant-numeric: tabular-nums;
 }
-.dark .decade-title {
-  color: white;
-}
-
+.dark .decade-title { color: white; }
 .decade-summary {
-  font-size: 0.8125rem;
+  font-size: 0.75rem;
   color: var(--color-slate-500);
   font-weight: 500;
 }
-.dark .decade-summary {
-  color: var(--color-slate-400);
-}
+.dark .decade-summary { color: var(--color-slate-400); }
 
-/* Timeline Track */
 .timeline-track {
   position: relative;
   display: flex;
   flex-direction: column;
 }
 
-/* Timeline Entry */
 .timeline-entry {
   display: grid;
-  grid-template-columns: 2rem 1fr auto;
+  grid-template-columns: 1.25rem 2.75rem 1fr auto auto;
   align-items: center;
-  gap: 1.25rem;
-  padding: 1rem 1.25rem;
+  gap: 0.625rem;
+  padding: 0.375rem 0.75rem;
   text-decoration: none;
-  border-radius: 0.5rem;
-  transition: background-color 0.2s ease, box-shadow 0.2s ease;
+  border-radius: 0.375rem;
+  transition: background-color 0.15s ease;
   position: relative;
 }
 
-/* Vertical connecting line */
 .timeline-entry::before {
   content: '';
   position: absolute;
-  left: calc(1rem - 1px);
+  left: calc(1.375rem - 0.5px);
   top: 0;
   bottom: 0;
-  width: 2px;
+  width: 1px;
   background: var(--color-slate-200);
   z-index: 0;
 }
 .dark .timeline-entry::before {
   background: var(--color-slate-700);
 }
-
-/* Remove the line for the first and last entry's outside portions */
-.timeline-entry:first-child::before {
-  top: 50%;
-}
-.timeline-entry:last-child::before {
-  bottom: 50%;
-}
+.timeline-entry:first-child::before { top: 50%; }
+.timeline-entry:last-child::before  { bottom: 50%; }
 
 .timeline-entry:hover,
 .timeline-entry:focus-visible {
@@ -383,105 +355,86 @@ function formatDate(dateStr: string) {
   background: rgba(30, 41, 59, 0.5);
 }
 
-/* Node */
-.timeline-node-wrap {
-  position: relative;
-  z-index: 1;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 2rem;
-  height: 2rem;
-}
-
 .timeline-node {
+  justify-self: center;
   display: block;
   border-radius: 50%;
   background: var(--color-blue-accent);
-  border: 3px solid white;
+  border: 2px solid var(--bg-surface, white);
   box-shadow: 0 0 0 1px var(--color-blue-accent);
+  z-index: 1;
   transition: transform 0.2s cubic-bezier(0.16, 1, 0.3, 1);
 }
 .dark .timeline-node {
   border-color: var(--color-slate-900);
 }
-
-.node--small { width: 0.5rem; height: 0.5rem; }
-.node--medium { width: 0.75rem; height: 0.75rem; }
-.node--large { width: 1rem; height: 1rem; }
+.node--small  { width: 0.375rem; height: 0.375rem; }
+.node--medium { width: 0.5rem;   height: 0.5rem; }
+.node--large  { width: 0.625rem; height: 0.625rem; }
 
 .timeline-entry:hover .timeline-node,
 .timeline-entry:focus-visible .timeline-node {
-  transform: scale(1.3);
-}
-
-/* Content */
-.timeline-content {
-  display: flex;
-  flex-direction: column;
-  gap: 0.125rem;
-  min-width: 0;
+  transform: scale(1.35);
 }
 
 .timeline-year {
   font-family: var(--font-serif);
-  font-size: 1.125rem;
+  font-size: 0.9375rem;
   font-weight: 700;
   color: var(--color-slate-900);
+  font-variant-numeric: tabular-nums;
   line-height: 1.3;
 }
-.dark .timeline-year {
-  color: white;
-}
+.dark .timeline-year { color: white; }
 
 .timeline-venue {
-  font-size: 0.9375rem;
+  font-size: 0.875rem;
   color: var(--color-slate-600);
-  line-height: 1.4;
+  line-height: 1.3;
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
+  min-width: 0;
 }
-.dark .timeline-venue {
-  color: var(--color-slate-300);
+.dark .timeline-venue { color: var(--color-slate-300); }
+
+.timeline-flag {
+  margin-right: 0.25rem;
+  font-size: 1.0625rem;
+  line-height: 1;
+  vertical-align: -1px;
 }
 
 .timeline-meta {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.75rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.375rem;
   font-size: 0.75rem;
   color: var(--color-slate-500);
-  margin-top: 0.125rem;
+  white-space: nowrap;
 }
-.dark .timeline-meta {
-  color: var(--color-slate-400);
+.dark .timeline-meta { color: var(--color-slate-400); }
+
+.meta-sep {
+  color: var(--color-slate-300);
 }
+.dark .meta-sep { color: var(--color-slate-600); }
 
 .meta-count {
   font-weight: 600;
   color: var(--color-slate-600);
 }
-.dark .meta-count {
-  color: var(--color-slate-300);
-}
+.dark .meta-count { color: var(--color-slate-300); }
 
-.timeline-flag {
-  margin-right: 0.375rem;
-  font-size: 1.375rem;
-  line-height: 1;
-  vertical-align: -2px;
-}
-
-/* Arrow */
 .timeline-arrow {
   color: var(--color-slate-300);
   opacity: 0;
-  transform: translateX(-8px);
-  transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+  transform: translateX(-6px);
+  transition: all 0.15s cubic-bezier(0.16, 1, 0.3, 1);
+  display: flex;
+  align-items: center;
   flex-shrink: 0;
 }
-
 .timeline-entry:hover .timeline-arrow,
 .timeline-entry:focus-visible .timeline-arrow {
   opacity: 1;
@@ -489,32 +442,27 @@ function formatDate(dateStr: string) {
   color: var(--color-blue-accent);
 }
 
-/* Responsive */
 @media (max-width: 640px) {
   .timeline-entry {
-    grid-template-columns: 1.5rem 1fr auto;
-    gap: 0.75rem;
-    padding: 0.75rem;
-  }
-  .timeline-year {
-    font-size: 1rem;
-  }
-  .timeline-venue {
-    font-size: 0.875rem;
-  }
-  .timeline-meta {
+    grid-template-columns: 1rem 2.5rem 1fr auto;
     gap: 0.5rem;
+    padding: 0.375rem 0.5rem;
   }
+  .timeline-entry::before {
+    left: calc(1rem - 0.5px);
+  }
+  .timeline-year { font-size: 0.875rem; }
+  .timeline-venue { font-size: 0.8125rem; }
+  .timeline-flag { font-size: 0.9375rem; }
+  .meta-date, .meta-sep { display: none; }
+  .timeline-arrow { display: none; }
   .timeline-legend {
-    gap: 1rem;
-    padding: 0.75rem 1rem;
+    gap: 0.75rem;
+    padding: 0.5rem 0.75rem;
   }
-  .legend-item--size {
-    display: none;
-  }
+  .legend-item--size { display: none; }
 }
 
-/* Empty State */
 .empty-state {
   text-align: center;
   padding: 4rem 1rem;
@@ -534,10 +482,8 @@ function formatDate(dateStr: string) {
 }
 .dark .empty-state h3 { color: white; }
 .empty-state p { color: var(--color-slate-500); }
-
 .btn-mt { margin-top: 1rem; }
 
-/* Skeleton Loading */
 .loading-container {
   padding: 2.5rem 0;
   width: 100%;
