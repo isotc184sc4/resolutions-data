@@ -134,7 +134,7 @@
 <script setup lang="ts">
 import { ref, computed, onMounted, watch } from 'vue'
 import { useRouter, useRoute } from 'vue-router'
-import { useMeetings } from '../composables/useMeetings'
+import { useMeetings, groupMeetingsByDecade } from '../composables/useMeetings'
 import { venueToFlag } from '../data/countryFlags'
 import { formatDateShort } from '../utils/format'
 
@@ -177,29 +177,7 @@ const filteredMeetings = computed(() => {
   return list
 })
 
-const meetingsByDecade = computed(() => {
-  const decades: Record<string, { meetings: any[], resCount: number, accCount: number }> = {}
-  filteredMeetings.value.forEach(m => {
-    const year = parseInt(m.year)
-    if (isNaN(year)) return
-    const decade = Math.floor(year / 10) * 10 + 's'
-    if (!decades[decade]) {
-      decades[decade] = { meetings: [], resCount: 0, accCount: 0 }
-    }
-    decades[decade].meetings.push(m)
-    decades[decade].resCount += (m.resolution_count || 0)
-    decades[decade].accCount += (m.acclamation_count || 0)
-  })
-  
-  return Object.keys(decades)
-    .sort((a, b) => b.localeCompare(a))
-    .map(key => ({
-      label: key,
-      resCount: decades[key].resCount,
-      accCount: decades[key].accCount,
-      meetings: decades[key].meetings.sort((a, b) => b.year.localeCompare(a.year))
-    }))
-})
+const meetingsByDecade = computed(() => groupMeetingsByDecade(filteredMeetings.value))
 
 watch([searchQuery, selectedYear], () => {
   const query: Record<string, string> = {}

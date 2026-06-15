@@ -4,6 +4,38 @@ import type { Meeting } from '../types/resolution'
 
 export type { Meeting }
 
+export interface DecadeGroup {
+  label: string
+  resCount: number
+  accCount: number
+  meetings: Meeting[]
+}
+
+export function groupMeetingsByDecade(meetings: Meeting[]): DecadeGroup[] {
+  const decades: Record<string, { meetings: Meeting[]; resCount: number; accCount: number }> = {}
+
+  meetings.forEach(m => {
+    const year = parseInt(m.year)
+    if (isNaN(year)) return
+    const decade = Math.floor(year / 10) * 10 + 's'
+    if (!decades[decade]) {
+      decades[decade] = { meetings: [], resCount: 0, accCount: 0 }
+    }
+    decades[decade].meetings.push(m)
+    decades[decade].resCount += (m.resolution_count || 0)
+    decades[decade].accCount += (m.acclamation_count || 0)
+  })
+
+  return Object.keys(decades)
+    .sort((a, b) => b.localeCompare(a))
+    .map(key => ({
+      label: key,
+      resCount: decades[key].resCount,
+      accCount: decades[key].accCount,
+      meetings: decades[key].meetings.sort((a, b) => b.year.localeCompare(a.year))
+    }))
+}
+
 export function useMeetings() {
   const { resolutions, isLoaded, loadData } = useResolutions()
 
