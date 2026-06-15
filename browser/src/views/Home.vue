@@ -54,7 +54,7 @@
               type="search" 
               v-model="searchQuery" 
               class="hero-search-input" 
-              placeholder="Search resolutions by topic, number, or keyword..." 
+              placeholder="Search by topic, number, or keyword…"
               autocomplete="off" 
               spellcheck="false" 
               aria-label="Search resolutions" 
@@ -648,7 +648,7 @@ function formatDate(dateStr: string) {
 
 .hero-search-input {
   width: 100%;
-  padding: 1.25rem 4rem 1.25rem 3.5rem;
+  padding: 1.25rem 6.5rem 1.25rem 3.5rem;
   font-size: 1.125rem;
   border-radius: 9999px;
   border: 1px solid rgba(0, 0, 0, 0.1);
