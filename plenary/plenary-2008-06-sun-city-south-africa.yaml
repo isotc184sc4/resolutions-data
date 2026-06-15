@@ -49,6 +49,7 @@ resolutions:
   - type: resolves
     message: |
       SC4 expresses the following concerns regarding NWI 22274 from ISO/TC 37/SC 3:
+
       * This proposal appears to violate the agreements made at the ISO/TC 37 Beijing 2006 and Provo 2007 meetings.
       * SC4's request that ISO/TC 37/SC 3 delay circulating a NWI proposal for 22274 until a harmonised position between ISO/TC 184/SC 4 and ISO/TC 37 could be agreed and until a draft could be produced that could be circulated as a combined NWI/CD was not followed.
       * This proposal seems to have expanded to cover product classification schemes, which are within scope of SC4 and not of ISO/TC 37.
@@ -98,6 +99,7 @@ resolutions:
       SC4 requests its secretariat by 2008-06-30 to provide ISO/TC 184 with the following proposed new scope for SC4:
 
       Standardization of the definition, integration and quality management of information which is shared, exchanged and archived in the context of:
+
       * the definition, description and classification of products and facilities throughout their lifecycle,
       * industrial management and operations,
       * other information requirements supporting automation systems.
@@ -139,6 +141,7 @@ resolutions:
   - type: resolves
     message: |
       SC4 resolves that the current content may be published as the following ISO 15926 parts:
+
       * Part 7: Templates and methodology
       * Part 8: OWL representation
       * Part 9: Interfaces through facades

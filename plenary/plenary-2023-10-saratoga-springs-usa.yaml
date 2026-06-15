@@ -101,6 +101,7 @@ resolutions:
   - type: noting
     message: |
       Noting that:
+
       * A revision to ISO/TR 24464 ed1 started in 2021-11 and was reviewed at the change management meeting,
       * A working group consultation was held in 2021-11, and
       * A CIB was launched in 2022-10,

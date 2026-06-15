@@ -173,15 +173,16 @@ resolutions:
       italics):
 
       Clause 2.1:
-      Amend the current text: 30 Committee Stage: Consensus is achieved on a Committee
+
+      * Amend the current text: 30 Committee Stage: Consensus is achieved on a Committee
       Draft (CD) or preliminary Draft Technical Specification (PDTS);
-      Insert: Technical Specifications pass directly from the Committee Stage to the
+      * Insert: Technical Specifications pass directly from the Committee Stage to the
       Publication Stage.
 
       Clause 2.5:
-      Amend the current text:
-      The Committee Stage begins with the circulation for formal ballot of the CD or TS
-      document by the SC4 Secretariat.
+
+      * Amend the current text: The Committee Stage begins with the circulation
+      for formal ballot of the CD or TS document by the SC4 Secretariat.
 
       The SC4 Secretariat shall not begin the Committee Stage until an electronic form is
       available for review by SC4. A four-month voting period, which may be extended to
@@ -196,10 +197,11 @@ resolutions:
       Quality Committee before the next stage of balloting starts.
 
       For a TS, the Chairman and Secretariat, in conjunction with the Project Leader,
-      assess the nature of any comments and decide whether to either
-      (a) submit the revised document to ISO for publication as a TS, and prepare a report
+      assess the nature of any comments and decide whether to either:
+
+      . submit the revised document to ISO for publication as a TS, and prepare a report
       for SC4 how all the comments have been addressed, or
-      (b) resubmit the document for a further CD ballot.
+      . resubmit the document for a further CD ballot.
 
       Clauses 6.2.4, 7.6, 8.2: Add TS to CD in the list of documents.
     dates:
@@ -222,10 +224,11 @@ resolutions:
   - type: confirms
     message: |
       SC4 reconfirms the following conveners:
-      David Price as Deputy Convener WG 11
-      Christophe Viel WG 11
-      Jean Jacques Michel WG 8
-      Gerd Ehinger WG 2
+
+      * David Price as Deputy Convener WG 11
+      * Christophe Viel WG 11
+      * Jean Jacques Michel WG 8
+      * Gerd Ehinger WG 2
     dates:
     - start: '1999-11-15'
       kind: effective

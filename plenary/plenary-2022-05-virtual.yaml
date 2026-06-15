@@ -214,6 +214,7 @@ resolutions:
   - type: appoints
     message: |
       SC 4 appoints Jean Brange as project leader and notes the following schedule:
+
       * Change Request ballot: 2022-05-30
       * SMRL integration: 2022-07-30
       * Submitted for publication as part of SMRLv10: 2022-09

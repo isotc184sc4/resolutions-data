@@ -202,12 +202,13 @@ resolutions:
 
       The following wording shall be incorporated in any introduction of the SC 4
       standards:
-      "Attention:
-      This standard provides a specification which can be used for the development of
-      software. Any implementation of software based on a translation of this standard into
-      national languages other than the official languages of ISO may cause incompatibility
-      in machine-machine communication. In order to avoid such incompatibilities, the
-      agreed international standard is the governing version."
+
+      * "Attention: This standard provides a specification which can be used for
+      the development of software. Any implementation of software based on a
+      translation of this standard into national languages other than the
+      official languages of ISO may cause incompatibility in machine-machine
+      communication. In order to avoid such incompatibilities, the agreed
+      international standard is the governing version."
     dates:
     - start: '2005-03-15'
       kind: effective
@@ -232,6 +233,7 @@ resolutions:
 
       A special thank you to the SC 4 Liaison Plenary presenters for their insightful and
       comprehensive presentations:
+
       * USPI-NL: Leo van Ruijven
       * EPISTLE: Per Christian Malmin
       * Statoil Integrated Operations in Oil & Gas: Thore Langeland

@@ -97,8 +97,9 @@ resolutions:
       SC 4 requests its Secretariat to initiate a DIS ballot on ISO 13584-35 as soon as the DIS document is available.
 
       Nominations:
-      Project leader: Hiroshi Murayama
-      Project editor: Nikolaus Ondracek and Noriko Minamino
+
+      * Project leader: Hiroshi Murayama
+      * Project editor: Nikolaus Ondracek and Noriko Minamino
     dates:
     - start: '2007-03-15'
       kind: effective
