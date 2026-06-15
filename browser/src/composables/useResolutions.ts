@@ -8,6 +8,7 @@ const BUILD_TIME = Date.now()
 
 const resolutions = ref<Resolution[]>([]) as Ref<Resolution[]>
 const isLoaded = ref(false)
+const hasFullData = ref(false)
 
 let indexInstance: InstanceType<typeof FlexSearch.Document> | null = null
 let loadPromise: Promise<void> | null = null
@@ -36,7 +37,7 @@ function buildSearchIndex(data: Resolution[]): InstanceType<typeof FlexSearch.Do
 
 export function useResolutions() {
   const loadData = async () => {
-    if (isLoaded.value) return
+    if (hasFullData.value) return
     if (loadPromise) { await loadPromise; return }
 
     loadPromise = (async () => {
@@ -46,6 +47,7 @@ export function useResolutions() {
         resolutions.value = data
         indexInstance = buildSearchIndex(data)
         isLoaded.value = true
+        hasFullData.value = true
       } catch (e) {
         console.error('Failed to load resolutions', e)
         loadPromise = null
@@ -53,6 +55,11 @@ export function useResolutions() {
     })()
 
     await loadPromise
+  }
+
+  const setPageData = (data: Resolution[]) => {
+    resolutions.value = data
+    isLoaded.value = true
   }
 
   const search = (query: string): Resolution[] => {
@@ -71,6 +78,7 @@ export function useResolutions() {
     resolutions,
     isLoaded,
     loadData,
-    search
+    search,
+    setPageData
   }
 }
