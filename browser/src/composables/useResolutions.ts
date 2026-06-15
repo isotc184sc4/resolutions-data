@@ -1,48 +1,10 @@
 import { ref, type Ref } from 'vue'
 import FlexSearch from 'flexsearch'
+import type { Action, Consideration, Approval, Resolution } from '../types/resolution'
+
+export type { Action, Consideration, Approval, Resolution }
 
 const BUILD_TIME = Date.now()
-
-export interface Action {
-  type: string
-  subject?: string
-  message: string
-  dates?: any[]
-}
-
-export interface Consideration {
-  type: string
-  message: string
-  dates?: any[]
-}
-
-export interface Approval {
-  type: string
-  degree: string
-  message?: string
-}
-
-export interface Resolution {
-  id: string
-  title: string
-  subject: string
-  year: string
-  venue: string
-  source_file: string
-  source_title: string
-  source_type?: string
-  group_id?: string
-  meeting_date: string
-  is_acclamation: boolean
-  actions: Action[]
-  considerations: Consideration[]
-  approvals: Approval[]
-  categories?: string[]
-  dates: any[]
-  snippet: string
-  urn?: string
-  meeting_urn?: string
-}
 
 const resolutions = ref<Resolution[]>([]) as Ref<Resolution[]>
 const isLoaded = ref(false)

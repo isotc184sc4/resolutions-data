@@ -1,15 +1,8 @@
 import { computed, type ComputedRef } from 'vue'
 import { useResolutions } from './useResolutions'
+import type { Meeting } from '../types/resolution'
 
-export interface Meeting {
-  source_file: string
-  source_title: string
-  meeting_date: string
-  venue: string
-  year: string
-  resolution_count: number
-  acclamation_count: number
-}
+export type { Meeting }
 
 export function useMeetings() {
   const { resolutions, isLoaded, loadData } = useResolutions()
