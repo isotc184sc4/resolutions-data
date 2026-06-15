@@ -20,10 +20,18 @@
         <router-link 
           v-if="resolution.source_file" 
           :to="{ name: 'meeting-detail', params: { sourceFile: resolution.source_file } }" 
-          class="std-page__badge std-page__badge--link"
+          class="meeting-link-badge"
         >
-          <template v-if="resolution.venue">{{ resolution.venue }}</template>
-          <template v-else-if="resolution.source_title">{{ resolution.source_title }}</template>
+          <svg class="meeting-link-badge__icon" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <rect x="3" y="4" width="18" height="18" rx="2" ry="2"/>
+            <line x1="16" y1="2" x2="16" y2="6"/>
+            <line x1="8" y1="2" x2="8" y2="6"/>
+            <line x1="3" y1="10" x2="21" y2="10"/>
+          </svg>
+          <span class="meeting-link-badge__text">{{ meetingLinkLabel }}</span>
+          <svg class="meeting-link-badge__arrow" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M5 12h14M12 5l7 7-7 7"/>
+          </svg>
         </router-link>
         
         <span v-if="resolution.meeting_date" class="std-page__badge badge-date">{{ formatDate(resolution.meeting_date) }}</span>
@@ -292,6 +300,23 @@ const resolution = computed(() => {
   return null
 })
 
+const meetingLinkLabel = computed(() => {
+  const res = resolution.value
+  if (!res) return ''
+  const venue = res.venue || ''
+  const isVirtual = venue.toLowerCase().includes('virtual')
+  if (isVirtual && res.meeting_date) {
+    try {
+      const d = new Date(res.meeting_date)
+      const monthYear = d.toLocaleDateString('en-US', { month: 'short', year: 'numeric', timeZone: 'UTC' })
+      return `Virtual \u00b7 ${monthYear}`
+    } catch {
+      return venue || res.source_title || 'Meeting'
+    }
+  }
+  return venue || res.source_title || 'Meeting'
+})
+
 const meetingResolutions = computed(() => {
   if (!isMeetingsLoaded.value || !resolution.value || !resolution.value.source_file) return []
   return getMeetingResolutions(resolution.value.source_file)
@@ -446,6 +471,80 @@ function submitSearch() {
 .dark .badge-group {
   color: #66a3e0;
   border-color: #66a3e0;
+}
+
+.meeting-link-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.375rem;
+  padding: 0.3rem 0.625rem 0.3rem 0.5rem;
+  font-size: 0.8125rem;
+  font-weight: 500;
+  line-height: 1.4;
+  color: var(--color-blue-accent);
+  background: rgba(0, 97, 173, 0.06);
+  border: 1px solid rgba(0, 97, 173, 0.15);
+  border-radius: 0.375rem;
+  text-decoration: none;
+  transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.meeting-link-badge__icon {
+  color: var(--color-blue-accent);
+  opacity: 0.7;
+  flex-shrink: 0;
+}
+
+.meeting-link-badge__arrow {
+  color: var(--color-blue-accent);
+  opacity: 0;
+  transform: translateX(-4px);
+  transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+  flex-shrink: 0;
+}
+
+.meeting-link-badge:hover,
+.meeting-link-badge:focus-visible {
+  background: var(--color-blue-accent);
+  color: white;
+  border-color: var(--color-blue-accent);
+  outline: none;
+}
+
+.meeting-link-badge:hover .meeting-link-badge__icon,
+.meeting-link-badge:focus-visible .meeting-link-badge__icon {
+  color: white;
+  opacity: 1;
+}
+
+.meeting-link-badge:hover .meeting-link-badge__arrow,
+.meeting-link-badge:focus-visible .meeting-link-badge__arrow {
+  color: white;
+  opacity: 1;
+  transform: translateX(0);
+}
+
+.dark .meeting-link-badge {
+  color: #66a3e0;
+  background: rgba(102, 163, 224, 0.08);
+  border-color: rgba(102, 163, 224, 0.2);
+}
+
+.dark .meeting-link-badge__icon,
+.dark .meeting-link-badge__arrow {
+  color: #66a3e0;
+}
+
+.dark .meeting-link-badge:hover,
+.dark .meeting-link-badge:focus-visible {
+  background: #66a3e0;
+  color: var(--color-slate-900);
+  border-color: #66a3e0;
+}
+
+.dark .meeting-link-badge:hover .meeting-link-badge__icon,
+.dark .meeting-link-badge:hover .meeting-link-badge__arrow {
+  color: var(--color-slate-900);
 }
 
 .res-detail-title {
