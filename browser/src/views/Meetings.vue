@@ -136,6 +136,7 @@ import { ref, computed, onMounted, watch } from 'vue'
 import { useRouter, useRoute } from 'vue-router'
 import { useMeetings } from '../composables/useMeetings'
 import { venueToFlag } from '../data/countryFlags'
+import { formatDateShort } from '../utils/format'
 
 const router = useRouter()
 const route = useRoute()
@@ -206,16 +207,6 @@ watch([searchQuery, selectedYear], () => {
   if (selectedYear.value) query.year = selectedYear.value
   router.replace({ query })
 })
-
-function formatDateShort(dateStr: string) {
-  if (!dateStr) return ''
-  try {
-    const d = new Date(dateStr)
-    return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric', timeZone: 'UTC' })
-  } catch(e) {
-    return dateStr
-  }
-}
 </script>
 
 <style scoped>

@@ -92,16 +92,19 @@
 </template>
 
 <script setup lang="ts">
-import { computed, ref, onMounted } from 'vue'
+import { computed, onMounted } from 'vue'
 import { useRoute } from 'vue-router'
 import { useMeetings } from '../composables/useMeetings'
 import { venueToFlag } from '../data/countryFlags'
+import { formatDate } from '../utils/format'
+import { buildMeetingUrn } from '../utils/urn'
+import { useClipboard } from '../composables/useClipboard'
 
 const route = useRoute()
 const { getMeeting, getMeetingResolutions, isLoaded, loadData } = useMeetings()
+const { copied: meetingCopied, copy: copyUrn } = useClipboard()
 
 const sourceFile = computed(() => route.params.sourceFile as string)
-const meetingCopied = ref(false)
 
 onMounted(() => {
   loadData()
@@ -113,7 +116,7 @@ const meeting = computed(() => {
 
 const meetingUrn = computed(() => {
   if (!meeting.value) return ''
-  return `urn:iso:tc:184:sc:4:meeting:${sourceFile.value}`
+  return buildMeetingUrn(sourceFile.value)
 })
 
 const venueFlag = computed(() => venueToFlag(meeting.value?.venue))
@@ -121,25 +124,6 @@ const venueFlag = computed(() => venueToFlag(meeting.value?.venue))
 const meetingResolutions = computed(() => {
   return isLoaded.value ? getMeetingResolutions(sourceFile.value) : []
 })
-
-function formatDate(dateStr: string) {
-  if (!dateStr) return ''
-  try {
-    const d = new Date(dateStr)
-    return d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC' })
-  } catch(e) {
-    return dateStr
-  }
-}
-
-function copyUrn(urn: string) {
-  navigator.clipboard.writeText(urn).then(() => {
-    meetingCopied.value = true
-    setTimeout(() => {
-      meetingCopied.value = false
-    }, 2000)
-  })
-}
 </script>
 
 <style scoped>
