@@ -948,16 +948,53 @@ function formatDate(dateStr: string) {
   text-decoration: underline;
 }
 
+.std-filter__meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  padding-top: 0.75rem;
+  margin-top: 0.5rem;
+  border-top: 1px solid var(--color-slate-100);
+}
+.dark .std-filter__meta {
+  border-top-color: var(--color-slate-800);
+}
+.std-filter__meta > span:first-child {
+  font-size: 0.8125rem;
+  color: var(--color-slate-600);
+  font-weight: 500;
+}
+.dark .std-filter__meta > span:first-child {
+  color: var(--color-slate-400);
+}
+
 .legend-toggle {
-  background: none;
-  border: none;
-  color: var(--color-slate-500);
-  font-size: 0.875rem;
+  background: var(--color-slate-100);
+  border: 1px solid var(--color-slate-200);
+  color: var(--color-slate-600);
+  font-size: 0.75rem;
+  font-weight: 600;
+  padding: 0.25rem 0.625rem;
+  border-radius: 9999px;
   cursor: pointer;
-  text-decoration: underline;
+  transition: all 0.2s;
+  white-space: nowrap;
 }
 .legend-toggle:hover {
-  color: var(--color-blue-accent);
+  background: var(--color-blue-accent);
+  border-color: var(--color-blue-accent);
+  color: white;
+}
+.dark .legend-toggle {
+  background: var(--color-slate-800);
+  border-color: var(--color-slate-700);
+  color: var(--color-slate-300);
+}
+.dark .legend-toggle:hover {
+  background: var(--color-blue-accent);
+  border-color: var(--color-blue-accent);
+  color: white;
 }
 
 .action-legend {

@@ -154,7 +154,7 @@
             <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m15 18-6-6 6-6"/></svg>
             Previous
           </span>
-          <span class="res-nav-id">{{ prevResolution.id }}</span>
+          <span class="res-nav-title">{{ prevResolution.title || prevResolution.id }}</span>
         </router-link>
         <div v-else class="res-nav-empty"></div>
 
@@ -167,7 +167,7 @@
             Next
             <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg>
           </span>
-          <span class="res-nav-id">{{ nextResolution.id }}</span>
+          <span class="res-nav-title">{{ nextResolution.title || nextResolution.id }}</span>
         </router-link>
         <div v-else class="res-nav-empty"></div>
       </nav>
@@ -785,14 +785,19 @@ function copyUrn(urn: string) {
 }
 .res-nav-card--next .res-nav-label { justify-content: flex-end; }
 
-.res-nav-id {
-  font-weight: 600;
+.res-nav-title {
+  font-weight: 500;
   color: var(--color-slate-900);
-  font-size: 1.125rem;
+  font-size: 0.9375rem;
+  line-height: 1.4;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }
-.dark .res-nav-id { color: white; }
-.res-nav-card:hover .res-nav-id { color: var(--color-blue-accent); }
-.dark .res-nav-card:hover .res-nav-id { color: #66a3e0; }
+.dark .res-nav-title { color: white; }
+.res-nav-card:hover .res-nav-title { color: var(--color-blue-accent); }
+.dark .res-nav-card:hover .res-nav-title { color: #66a3e0; }
 
 .res-loading {
   display: flex;

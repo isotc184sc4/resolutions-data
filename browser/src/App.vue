@@ -6,7 +6,10 @@
       <router-link :to="{ name: 'home' }" class="site-header__logo">
         <img src="/assets/iso-red.svg" alt="ISO" class="dark:hidden">
         <img src="/assets/iso-red.svg" alt="ISO" class="hidden dark:block">
-        <span class="site-header__logo-text">{{ committee.name }}</span>
+        <span class="site-header__logo-text">
+          {{ committee.name }}
+          <span class="site-header__logo-subtitle">{{ committee.title }}</span>
+        </span>
       </router-link>
 
       <nav class="site-header__nav">
