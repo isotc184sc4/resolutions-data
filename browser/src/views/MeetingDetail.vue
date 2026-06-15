@@ -36,7 +36,10 @@
           <span v-if="meeting.meeting_date" class="std-results__badge">{{ formatDate(meeting.meeting_date) }}</span>
         </div>
         
-        <h1 class="meeting-detail__title">{{ meeting.venue || 'Virtual Meeting' }}</h1>
+        <h1 class="meeting-detail__title">
+          <span v-if="venueFlag" class="meeting-detail__flag">{{ venueFlag }}</span>
+          {{ meeting.venue || 'Virtual Meeting' }}
+        </h1>
         <p class="res-page__subtitle subtitle-max-w">{{ meeting.source_title }}</p>
 
         <!-- Meeting URN -->
@@ -92,6 +95,7 @@
 import { computed, ref, onMounted } from 'vue'
 import { useRoute } from 'vue-router'
 import { useMeetings } from '../composables/useMeetings'
+import { venueToFlag } from '../data/countryFlags'
 
 const route = useRoute()
 const { getMeeting, getMeetingResolutions, isLoaded, loadData } = useMeetings()
@@ -111,6 +115,8 @@ const meetingUrn = computed(() => {
   if (!meeting.value) return ''
   return `urn:iso:tc:184:sc:4:meeting:${sourceFile.value}`
 })
+
+const venueFlag = computed(() => venueToFlag(meeting.value?.venue))
 
 const meetingResolutions = computed(() => {
   return isLoaded.value ? getMeetingResolutions(sourceFile.value) : []
@@ -307,6 +313,11 @@ function copyUrn(urn: string) {
   margin-bottom: 1rem;
   line-height: 1.1;
   font-size: 1.875rem;
+}
+.meeting-detail__flag {
+  margin-right: 0.5rem;
+  font-size: 1em;
+  vertical-align: middle;
 }
 @media (min-width: 768px) {
   .meeting-detail__title { font-size: 2.25rem; }
