@@ -222,11 +222,6 @@ const actionChips = actionTypes.map(type => ({
   animation-delay: calc(var(--nth) * 0.1s);
 }
 
-@keyframes fadeUp {
-  from { opacity: 0; transform: translateY(20px); }
-  to { opacity: 1; transform: translateY(0); }
-}
-
 .about-page {
   max-width: 56rem;
   margin: 0 auto;
