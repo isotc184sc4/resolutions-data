@@ -12,6 +12,28 @@ const isLoaded = ref(false)
 let indexInstance: InstanceType<typeof FlexSearch.Document> | null = null
 let loadPromise: Promise<void> | null = null
 
+function buildSearchIndex(data: Resolution[]): InstanceType<typeof FlexSearch.Document> {
+  const idx = new FlexSearch.Document({
+    document: {
+      id: 'internalId',
+      index: ['id', 'title', 'subject', 'snippet']
+    },
+    tokenize: 'forward'
+  })
+
+  data.forEach((res, i) => {
+    idx.add({
+      internalId: i,
+      id: res.id,
+      title: res.title,
+      subject: res.subject,
+      snippet: res.snippet
+    })
+  })
+
+  return idx
+}
+
 export function useResolutions() {
   const loadData = async () => {
     if (isLoaded.value) return
@@ -22,26 +44,7 @@ export function useResolutions() {
         const response = await fetch(`${import.meta.env.BASE_URL}data/resolutions.json?t=${BUILD_TIME}`)
         const data: Resolution[] = await response.json()
         resolutions.value = data
-
-        const idx = new FlexSearch.Document({
-          document: {
-            id: 'internalId',
-            index: ['id', 'title', 'subject', 'snippet']
-          },
-          tokenize: 'forward'
-        })
-
-        data.forEach((res, i) => {
-          idx.add({
-            internalId: i,
-            id: res.id,
-            title: res.title,
-            subject: res.subject,
-            snippet: res.snippet
-          })
-        })
-
-        indexInstance = idx
+        indexInstance = buildSearchIndex(data)
         isLoaded.value = true
       } catch (e) {
         console.error('Failed to load resolutions', e)
@@ -52,16 +55,16 @@ export function useResolutions() {
     await loadPromise
   }
 
-  const search = (query: string): Set<number> => {
-    if (!indexInstance || !query) return new Set()
+  const search = (query: string): Resolution[] => {
+    if (!indexInstance || !query) return []
     const results = indexInstance.search(query, { limit: 1000 })
-    const matched = new Set<number>()
+    const matchedIndices = new Set<number>()
     results.forEach((fieldResult: any) => {
       fieldResult.result.forEach((docId: number) => {
-        matched.add(docId)
+        matchedIndices.add(docId)
       })
     })
-    return matched
+    return resolutions.value.filter((_, i) => matchedIndices.has(i))
   }
 
   return {
