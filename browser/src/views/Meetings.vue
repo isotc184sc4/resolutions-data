@@ -39,6 +39,26 @@
             >{{ year }}</button>
           </div>
         </div>
+        <div class="std-filter__field" v-if="availableCountries.length > 1">
+          <span class="std-filter__label">Country</span>
+          <div class="std-filter__chips">
+            <button 
+              class="std-chip" 
+              :class="{ 'is-active': selectedCountry === '' }"
+              @click="selectedCountry = ''"
+            >All</button>
+            <button 
+              v-for="country in availableCountries" 
+              :key="country.code"
+              class="std-chip country-chip"
+              :class="{ 'is-active': selectedCountry === country.code }"
+              @click="selectedCountry = country.code"
+            >
+              <span class="country-chip__flag">{{ country.flag }}</span>
+              {{ country.name }}
+            </button>
+          </div>
+        </div>
       </div>
       <div class="std-filter__meta">
         <span>{{ filteredMeetings.length }} meetings</span>
@@ -68,7 +88,7 @@
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="empty-state__icon"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
         <h3>No meetings found</h3>
         <p>Try adjusting your search or year filter.</p>
-        <button class="std-chip btn-mt" @click="searchQuery=''; selectedYear=''">Clear filters</button>
+        <button class="std-chip btn-mt" @click="searchQuery=''; selectedYear=''; selectedCountry=''">Clear filters</button>
       </div>
       
       <div v-else class="decade-list">
@@ -135,7 +155,7 @@
 import { ref, computed, onMounted, watch } from 'vue'
 import { useRouter, useRoute } from 'vue-router'
 import { useMeetings, groupMeetingsByDecade } from '../composables/useMeetings'
-import { venueToFlag } from '../data/countryFlags'
+import { venueToFlag, venueToCountryCode } from '../data/countryFlags'
 import { formatDateShort } from '../utils/format'
 
 const router = useRouter()
@@ -145,6 +165,7 @@ const { meetings, isLoaded, loadData } = useMeetings()
 
 const searchQuery = ref((route.query.q as string) || '')
 const selectedYear = ref((route.query.year as string) || '')
+const selectedCountry = ref((route.query.country as string) || '')
 
 onMounted(() => {
   loadData()
@@ -158,11 +179,42 @@ const availableYears = computed(() => {
   return Array.from(years).sort((a, b) => b.localeCompare(a))
 })
 
+const availableCountries = computed(() => {
+  const countries = new Map<string, { code: string; name: string; flag: string }>()
+  meetings.value.forEach(m => {
+    const venue = m.venue || ''
+    if (venue.toLowerCase().includes('virtual')) {
+      if (!countries.has('virtual')) {
+        countries.set('virtual', { code: 'virtual', name: 'Virtual', flag: '\u{1F310}' })
+      }
+    } else {
+      const code = venueToCountryCode(venue)
+      if (code && !countries.has(code)) {
+        const countryName = venue.split(',').pop()?.trim() || code
+        countries.set(code, { code, name: countryName, flag: venueToFlag(venue) })
+      }
+    }
+  })
+  return Array.from(countries.values()).sort((a, b) => {
+    if (a.code === 'virtual') return 1
+    if (b.code === 'virtual') return -1
+    return a.name.localeCompare(b.name)
+  })
+})
+
 const filteredMeetings = computed(() => {
   let list = meetings.value
   
   if (selectedYear.value) {
     list = list.filter(m => m.year === selectedYear.value)
+  }
+
+  if (selectedCountry.value) {
+    if (selectedCountry.value === 'virtual') {
+      list = list.filter(m => m.venue && m.venue.toLowerCase().includes('virtual'))
+    } else {
+      list = list.filter(m => venueToCountryCode(m.venue) === selectedCountry.value)
+    }
   }
   
   if (searchQuery.value) {
@@ -179,10 +231,11 @@ const filteredMeetings = computed(() => {
 
 const meetingsByDecade = computed(() => groupMeetingsByDecade(filteredMeetings.value))
 
-watch([searchQuery, selectedYear], () => {
+watch([searchQuery, selectedYear, selectedCountry], () => {
   const query: Record<string, string> = {}
   if (searchQuery.value) query.q = searchQuery.value
   if (selectedYear.value) query.year = selectedYear.value
+  if (selectedCountry.value) query.country = selectedCountry.value
   router.replace({ query })
 })
 </script>
@@ -368,6 +421,16 @@ watch([searchQuery, selectedYear], () => {
   font-size: 1.0625rem;
   line-height: 1;
   vertical-align: -1px;
+}
+
+.country-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+.country-chip__flag {
+  font-size: 0.9375rem;
+  line-height: 1;
 }
 
 .timeline-meta {
