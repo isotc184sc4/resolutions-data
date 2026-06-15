@@ -9,6 +9,7 @@
 @import "./css/standard-detail.css";
 @import "./css/content-panel.css";
 @import "./css/typography.css";
+@import "./css/_patterns.css";
 
 @custom-variant dark (&:where(.dark, .dark *));
 

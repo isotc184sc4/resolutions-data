@@ -764,17 +764,6 @@ watch([searchQuery, selectedYear, sortOrder], () => {
   animation-delay: calc(var(--nth) * 0.15s);
 }
 
-@keyframes fadeUp {
-  from {
-    opacity: 0;
-    transform: translateY(20px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-
 .animate-card {
   opacity: 0;
   transform: translateY(15px);
@@ -1267,19 +1256,6 @@ watch([searchQuery, selectedYear, sortOrder], () => {
   border-color: var(--color-slate-800);
 }
 
-.skeleton-badge,
-.skeleton-title,
-.skeleton-text {
-  background-color: var(--color-slate-200);
-  border-radius: 0.25rem;
-  animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
-}
-.dark .skeleton-badge,
-.dark .skeleton-title,
-.dark .skeleton-text {
-  background-color: var(--color-slate-800);
-}
-
 .skeleton-badge {
   height: 1rem;
   width: 4rem;
@@ -1303,10 +1279,5 @@ watch([searchQuery, selectedYear, sortOrder], () => {
   gap: 0.5rem;
   margin-top: auto;
   padding-top: 1rem;
-}
-
-@keyframes pulse {
-  0%, 100% { opacity: 1; }
-  50% { opacity: .5; }
 }
 </style>

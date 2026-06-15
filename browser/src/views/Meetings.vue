@@ -194,10 +194,6 @@ watch([searchQuery, selectedYear], () => {
   animation: fadeUp 0.6s cubic-bezier(0.16, 1, 0.3, 1) forwards;
   animation-delay: calc(var(--nth) * 0.1s);
 }
-@keyframes fadeUp {
-  from { opacity: 0; transform: translateY(20px); }
-  to { opacity: 1; transform: translateY(0); }
-}
 
 .timeline-section {
   margin-top: 1.5rem;
@@ -475,16 +471,6 @@ watch([searchQuery, selectedYear], () => {
   background: rgb(15 23 42 / 0.4);
   border-color: var(--color-slate-800);
 }
-.skeleton-badge,
-.skeleton-title {
-  background-color: var(--color-slate-200);
-  border-radius: 0.25rem;
-  animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
-}
-.dark .skeleton-badge,
-.dark .skeleton-title {
-  background-color: var(--color-slate-800);
-}
 .skeleton-badge {
   height: 1rem;
   width: 5rem;
@@ -499,9 +485,5 @@ watch([searchQuery, selectedYear], () => {
   gap: 0.5rem;
   margin-top: auto;
   padding-top: 1rem;
-}
-@keyframes pulse {
-  0%, 100% { opacity: 1; }
-  50% { opacity: .5; }
 }
 </style>

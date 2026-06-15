@@ -135,11 +135,6 @@ const meetingResolutions = computed(() => {
   animation-delay: calc(var(--nth) * 0.1s);
 }
 
-@keyframes fadeUp {
-  from { opacity: 0; transform: translateY(20px); }
-  to { opacity: 1; transform: translateY(0); }
-}
-
 .animate-card {
   opacity: 0;
   transform: translateY(15px);
@@ -368,15 +363,6 @@ const meetingResolutions = computed(() => {
   height: 1.5rem;
 }
 
-.skeleton-link, .skeleton-title-large, .skeleton-subtitle, .skeleton-badge, .skeleton-title, .skeleton-text {
-  background-color: var(--color-slate-200);
-  border-radius: 0.25rem;
-  animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
-}
-.dark .skeleton-link, .dark .skeleton-title-large, .dark .skeleton-subtitle, .dark .skeleton-badge, .dark .skeleton-title, .dark .skeleton-text {
-  background-color: var(--color-slate-800);
-}
-
 .skeleton-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
@@ -414,11 +400,6 @@ const meetingResolutions = computed(() => {
   height: 1rem;
   width: 100%;
   margin-top: auto;
-}
-
-@keyframes pulse {
-  0%, 100% { opacity: 1; }
-  50% { opacity: .5; }
 }
 
 .meeting-urn-bar {
