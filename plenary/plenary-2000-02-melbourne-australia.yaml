@@ -268,16 +268,17 @@ resolutions:
   - type: resolves
     message: |
       SC4 resolves to terminate its direct liaisons with the following organisations:
-      CAM-I
-      UN/ECE
-      ISO/IEC JTC 1 SC 24
-      ISO/IEC JTC 1/SC 14
-      ISO/IEC JTC 1/SC 21/WG 3
-      ISO/IEC JTC 1/SC 21/WG 3/CSMF
-      ISO/IEC JTC 1/SC 6
-      ISO/IEC JTC 1/SC 7
-      ISO/IEC JTC 1/SC 7/WG 11
-      ISO/IEC JTC 1/WG 4
+
+      * CAM-I
+      * UN/ECE
+      * ISO/IEC JTC 1 SC 24
+      * ISO/IEC JTC 1/SC 14
+      * ISO/IEC JTC 1/SC 21/WG 3
+      * ISO/IEC JTC 1/SC 21/WG 3/CSMF
+      * ISO/IEC JTC 1/SC 6
+      * ISO/IEC JTC 1/SC 7
+      * ISO/IEC JTC 1/SC 7/WG 11
+      * ISO/IEC JTC 1/WG 4
     dates:
     - start: '2000-02-15'
       kind: effective

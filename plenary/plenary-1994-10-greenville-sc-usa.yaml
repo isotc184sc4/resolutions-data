@@ -79,7 +79,7 @@ resolutions:
       EXPRESS Language Reference Manual ISO 10303-11". Further, SC 4 confirms Dr.
       Phil Spiby as Project Leader. PMAG notes that this project was approved by PMAG
       at the Atlanta meeting.
-      
+
       In order to gain broad awareness and participation in this project, SC 4 directs the
       Project Leader to prepare a formal scope statement for the project (similar to the one
       on the New Work Item form) and a full list of requirements for the revision, to be
@@ -110,6 +110,7 @@ resolutions:
     message: |
       ISO/TC 184/SC 4 recognizes the need to promote the introduction of STEP into
       industry by providing an organizational framework that supports:
+
       * an information exchange platform for implementors of STEP regarding
         clarification of questions arising during implementation
       * evaluation of proposed solutions to problems taking into account the STEP
@@ -130,20 +131,21 @@ resolutions:
       SC 4 establishes a new working group to resolve the technical direction and related
       technical issues of SC 4 so that the results are consistent with the SC 4 vision and
       acceptable to SC 4 as a whole.
-      
+
       The objective is to define and maintain a consistent set of architectures for the
       standards within SC 4.
-      
+
       The principal deliverable of the working group is a standard or set of standards that
       document the architectures and the corresponding framework for methods.
-      
+
       Membership in this working group shall be limited. National bodies are asked to
       nominate members to the WG based on the desire to limit membership, the ability to
       carry out these terms of reference, and the need to include representatives from all
       areas of work within SC 4. It is also considered important that the members of the
       WG shall also be members of other working groups.
-      
+
       The terms of reference for the group are to:
+
       * provide technical leadership across the standards under SC 4;
       * collect, evaluate and respond to issues raised against the architectures and the
         corresponding methods;
@@ -151,8 +153,9 @@ resolutions:
         against current progress and future requirements;
       * identify and implement necessary changes and enhancements to the
         architectures.
-      
+
       Consideration shall be given to:
+
       * other appropriate standards architecture;
       * existing work in the global research and development community;
       * prior work within SC 4;
@@ -251,14 +254,14 @@ resolutions:
     message: |
       The SC 4 Secretariat shall distribute, at least six weeks prior to each SC 4 meeting, a
       report on the status of SC 4 projects. This report shall have the following attributes:
-      
+
       A summary sheet showing summary status of each project. This will include a short
       description; significant changes to a project; and, if a project is not progressing, an
       indication of the problems and/or barriers to progress.
-      
+
       Detailed project descriptions about the above problem projects. This will include
       participants' lists, and project status in ballot process.
-      
+
       The NIPDE Electronic Library project information on STEP parts and APs will be
       reviewed by P members to ascertain if its information content is proper to contain the
       information needed.

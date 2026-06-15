@@ -339,6 +339,7 @@ resolutions:
     message: |
       Noting the following technical SEDS reports as found in SC 4 N 458, for
       incorporating into the affected part of ISO 10303:
+
       * 10303-203: Reports 24, 25, and 27
     dates:
     - start: '1996-10-15'

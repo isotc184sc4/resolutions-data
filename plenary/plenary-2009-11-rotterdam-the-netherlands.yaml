@@ -92,6 +92,7 @@ resolutions:
 
       6.4.1 Tasks
       The SC 4 Implementation Forum advisory group performs the following tasks and activities:
+
       * Gathering feed back from implementers;
       * Gathering success stories;
       * Promoting business benefits;
@@ -307,6 +308,7 @@ resolutions:
   - type: thanks
     message: |
       SC 4 offers thanks to those external projects who presented their material at the Open Technical Forum:
+
       * Soonhung Han: "Data requirements from the Korean nuclear and shipbuilding industries"
     dates:
     - start: '2009-11-15'
@@ -321,6 +323,7 @@ resolutions:
   - type: appreciation
     message: |
       SC 4 expresses its appreciation to our SC 4 Liaisons and those projects who presented at the Liaison Plenary:
+
       * MoU/MG: Howard Mason
       * ISO/TC 37: Gerry Radack and Christian Galinski
       * ISO/IEC JTC 1/SC 32: Gerry Radack

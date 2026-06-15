@@ -245,6 +245,7 @@ resolutions:
   - type: thanks
     message: |
       SC 4 offers thanks to those external projects who presented their material at the Open Technical Forum:
+
       * "NWI for PDQ-S extension and quality guarantee process by the use of PDQ-S" -- Akihiko Ohtaka
       * "A Validation Technology for 3D CAD Data" -- Atsuto Soma
       * "Master Data Ontology Manager" - Peter Benson
@@ -262,6 +263,7 @@ resolutions:
   - type: appreciation
     message: |
       SC 4 expresses its appreciation to our SC 4 Liaisons and those projects who presented at the Liaison Plenary:
+
       * "Liaison Issues" -- Howard Mason
       * "ECCMA Update" -- Peter Benson
       * "CEN ELSSI-EMD" Workshop -- David Leal

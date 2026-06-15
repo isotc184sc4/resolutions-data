@@ -79,6 +79,7 @@ resolutions:
     message: |
       SC 4 requests its Committee Manager establish a Task Force on the SC 4 Common Change
       Process with the following terms of reference:
+
       * Create a Committee Specific Procedure for WG 21, WG 22, WG 23, and JWG 24
         that harmonizes the process for maintaining standards as a database and propose
         the procedure to SC 4 for consideration as a standing document
@@ -96,6 +97,7 @@ resolutions:
     message: |
       SC 4 nominates the following to the Task Force with appreciation for serving on
       this important task:
+
       * Nils Sandsmark
       * Jochen Haenisch
       * Paul van Exel
@@ -131,6 +133,7 @@ resolutions:
     message: |
       SC 4 concurs with the recommendation of ISO/TC 184/SC 4/TF 2 to extend
       the mandate of TF 2 and add to its terms of reference the following:
+
       * Build upon the ISO/TR 17999 SC 4 Reference Architecture
       * Share with other committees, subcommittees and industrial standardisation
         groups the opportunity proposed in ISO/TR 17999 to their standards
@@ -220,6 +223,7 @@ resolutions:
   - type: creates
     message: |
       ISO/TC 184/SC 4 creates a Work Group entitled WG 26 "Ontology-based interoperability" to:
+
       * Develop and maintain ISO xxxxx: "Automation systems and integration -
         Ontology-based interoperability"
       * Develop and maintain guidance for the implementation and use of the standard series
@@ -312,6 +316,7 @@ resolutions:
   - type: noting
     message: |
       Noting that:
+
       * WG 25 embodies the ISO Validation Team for Change Requests that uses the CSP
         that is already installed
       * WG 25 already started processing of the first CR on ICS (International Classification

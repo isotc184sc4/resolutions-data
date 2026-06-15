@@ -251,6 +251,7 @@ resolutions:
   - type: approves
     message: |
       SC 4 approves extending the scope of the SEDS procedures to cover:
+
       * SC 4 standing documents;
       * SC 4 technical reports
     dates:
@@ -434,6 +435,7 @@ resolutions:
       SC 4 instructs its Change management team to check all Proposals for New Work Items against timescale and resources.
 
       The following questions for check have to be considered before a proposal goes out for ballot to P-members for vote:
+
       * General scope of the standard/part
       * What other standards/parts are affected?
       * What other standards/parts have to change for this work to be successful?
@@ -507,6 +509,7 @@ resolutions:
   - type: resolves
     message: |
       In order to provide a firm foundation for the next release of SC 4 standards tentatively scheduled for 2003, SC 4 requests:
+
       * P-members to supply statements of user requirements for this timescale, taking into account the strategic plan for SC 4 and the requirements document WG 10 N 173, in writing to the Secretariat by 15 September 1998;
       * Working groups and the Quality Committee, as well as the leaders of any PWI work, to supply statements of any input and key milestones for technology and development processes, in writing to the QC Change Management Team leader by 15 September 1998. The PPC and Change Management Team are requested to make a progress report for consideration by the SC 4 meeting in Beijing.
     dates:
@@ -541,6 +544,7 @@ resolutions:
   - type: thanks
     message: |
       SC 4 wishes to thank Bernd and Ramona Wenzel and the EuroSTEP support staff including the following members for their excellent service and hospitality in facilitating the Spring 1998 SC 4 meeting in Bad Aibling:
+
       * Karl Brandt
       * Patrick Leicht
       * Malanie Mohaupt

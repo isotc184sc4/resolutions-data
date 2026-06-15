@@ -29,6 +29,7 @@ resolutions:
   - type: agrees
     message: |
       SC4 agrees to the following dates for AP 203:
+
       * 2008-03-21: target date for start of CD-TS ballot of AP 203 modules
       * 2008-03-31: target date for submission of AP 203 ed 2 to ISO for DIS ballot
       * 2008-05-23: requested date for national bodies to submit copies of their ballot comments on the AP 203 modules to the AP 203 project leader

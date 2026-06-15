@@ -21,31 +21,37 @@ resolutions:
       represent the proposed solution:
 
       Part 21:
-      ANDOR Supertype/Subtype Structures
-      * Instances based on AND will use external mapping.
-      * Other instances will use internal mapping.
-      * Entity names within the external mapping structure will be ordered alphabetically.
+
+      * ANDOR Supertype/Subtype Structures
+      ** Instances based on AND will use external mapping.
+      ** Other instances will use internal mapping.
+      ** Entity names within the external mapping structure will be ordered alphabetically.
 
       Part 41:
+
       * The Measures Schema recommended by WG 4 will be adopted.
 
       Parts 42 and 46:
+
       * Other Parts will conform with the new Measures Schema.
 
       Part 203:
+
       * Annex D of the current CD release will be removed.
       * A new informative annex will be added (Annex J).
 
       consensus:
+
       Text for the new informative annex should express the following:
-      "This annex provides an example instantiation data structure that may
+
+      * "This annex provides an example instantiation data structure that may
       help implementors understand how the Application Interpreted Model of
       Annex A might be restructured for internal implementation purposes."
-      "The data structure contained in this annex is not intended to be used as
+      * "The data structure contained in this annex is not intended to be used as
       the required schema for the clear text encoding as defined in ISO 10303-21."
 
-      AP Guidelines and Supplementary Directives:
-      * The informative annex (Annex J) as previously defined will be described as an optional annex for all APs.
+      * AP Guidelines and Supplementary Directives:
+      ** The informative annex (Annex J) as previously defined will be described as an optional annex for all APs.
     dates:
     - start: '1992-10-15'
       kind: effective

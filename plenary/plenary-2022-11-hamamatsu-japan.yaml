@@ -101,6 +101,7 @@ resolutions:
   - type: requests
     message: |
       SC 4 requests its Committee Manager modify the target date for:
+
       * Stage 20.20 (Working Draft study initiated) to 2022-11-05
       * Stage 30.00 (Committee draft registered) to 2023-03-05
       * Stage 60.60 (International Standard published) to 2023-09-01
@@ -254,6 +255,7 @@ resolutions:
     message: |
       SC 4 resolves to adjust the standards development track of the following ISO
       10303 modules to SDT 36:
+
       * ISO/AWI TS 10303-1848 (ed.1- id.81490), "Annotated 3d model data quality criteria"
       * ISO/AWI TS 10303-1849 (ed.1- id.81491), "Annotated 3d model data quality inspection result"
       * ISO/AWI TS 10303-1850 (ed.1- id.81492), "Triangulated shape data quality"
@@ -262,6 +264,7 @@ resolutions:
       * ISO/AWI TS 10303-1853 (ed.1- id.82522), "Datum and datum systems"
 
       The modules will be published according to the following schedules:
+
       * ISO 10303-1852 in SMRL v10, publication on 2023-05-31
       * ISO 10303-1848, 1849, 1850, 1851 and 1853 in SMRL v11 publication on 2023-10-15
     dates:
@@ -476,11 +479,13 @@ resolutions:
 
       Session I:
       Presenters:
+
       * Jean Brange, AFNet Services
       * Takao Senko, Honda Motor Co., Ltd.
 
       Session II:
       Presenters:
+
       * Atsuto Soma, JEITA 3D ISTEC (Elysium Co., Ltd.)
       * Hiroyuki Hiraoka, Chuo University
       * Mikitaka Hayashi, JGC Corporation, DAMA Japan
@@ -489,6 +494,7 @@ resolutions:
 
       Session III:
       Presenters:
+
       * Sun Lim, Korea Electronics Technology Institute
       * Hiroshi Nishi, LIGHTz Inc.
       * Max Ungerer, PROSTEP AG
