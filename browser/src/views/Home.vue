@@ -418,10 +418,11 @@ const filteredResolutions = computed(() => {
   
   if (searchQuery.value) {
     const q = searchQuery.value.trim()
-    const matchedIndices = search(q)
+    const matched = search(q)
     
-    if (matchedIndices && matchedIndices.size > 0) {
-      list = list.filter((_, i) => matchedIndices.has(i))
+    if (matched.length > 0) {
+      const matchedIds = new Set(matched.map(r => r.id))
+      list = list.filter(r => matchedIds.has(r.id))
     } else {
       const qLower = q.toLowerCase()
       list = list.filter(r => 
