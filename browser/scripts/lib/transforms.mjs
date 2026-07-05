@@ -1,10 +1,10 @@
 export const URN_BASE = 'urn:iso:tc:184:sc:4'
 
 const PUA_BULLET_REPLACEMENTS = [
-  [/\uf0b7/g, '•'],
-  [/\uf0be/g, '‣'],
-  [/\uf0d8/g, '▸'],
-  [/\uf020/g, ' '],
+  [//g, '•'],
+  [//g, '‣'],
+  [//g, '▸'],
+  [//g, ' '],
 ]
 
 export function normalizeSnippet(rawMessage) {
@@ -27,36 +27,46 @@ export function isAcclamation(identifier) {
   return String(identifier).includes('-acclaim-')
 }
 
-export function deriveDisplayTitle(res, acclamation) {
-  if (res.title) return res.title
-  if (acclamation && res.actions && res.actions.length > 0) return 'Acclamation'
+export function deriveDisplayTitle(loc, acclamation) {
+  if (loc.title) return loc.title
+  if (acclamation && loc.actions && loc.actions.length > 0) return 'Acclamation'
   return ''
 }
 
-export function buildResolutionRecord(res, sourceFile, metadata) {
-  const identifier = String(res.identifier)
+// Extract the first (eng) Localization from a v2.1 Decision.
+// Returns an empty object if no localizations exist.
+function primaryLocalization(decision) {
+  if (!decision.localizations || decision.localizations.length === 0) return {}
+  return decision.localizations[0]
+}
+
+export function buildResolutionRecord(decision, sourceFile, metadata) {
+  const loc = primaryLocalization(decision)
+  const idList = decision.identifier || []
+  const identifier = idList.length > 0 ? String(idList[0].number) : ''
   const acclamation = isAcclamation(identifier)
-  const datesInfo = metadata.dates || []
-  const meetingDate = datesInfo.length > 0 ? datesInfo[0].start : ''
+
+  // v2.1 metadata.date is a single date string (not an array).
+  const meetingDate = metadata.date || ''
   const year = meetingDate ? meetingDate.substring(0, 4) : ''
 
   return {
     id: identifier,
-    urn: `${URN_BASE}:resolution:${identifier}`,
-    title: deriveDisplayTitle(res, acclamation),
-    subject: res.subject || '',
+    urn: `${URN_BASE}:decision:${identifier}`,
+    title: deriveDisplayTitle(loc, acclamation),
+    subject: loc.subject || '',
     year,
-    venue: metadata.venue || '',
+    venue: '',
     source_file: sourceFile,
     meeting_urn: `${URN_BASE}:meeting:${sourceFile}`,
     source_title: metadata.title || '',
     meeting_date: meetingDate,
     is_acclamation: acclamation,
-    actions: res.actions || [],
-    considerations: res.considerations || [],
-    approvals: res.approvals || [],
-    dates: res.dates || [],
-    snippet: normalizeSnippet(res.actions && res.actions.length > 0 ? res.actions[0].message : '')
+    actions: loc.actions || [],
+    considerations: loc.considerations || [],
+    approvals: loc.approvals || [],
+    dates: decision.dates || [],
+    snippet: normalizeSnippet(loc.actions && loc.actions.length > 0 ? loc.actions[0].message : '')
   }
 }
 
@@ -70,8 +80,8 @@ export function sortResolutions(a, b) {
     const aNum = parseFloat(a.id)
     const bNum = parseFloat(b.id)
     if (!isNaN(aNum) && !isNaN(bNum)) return bNum - aNum
-    return (b.id || '').localeCompare(a.id)
+    return (b.id || '').localeCompare(b.id || '')
   }
   if (aIsAcc !== bIsAcc) return aIsAcc ? 1 : -1
-  return (a.id || '').localeCompare(b.id)
+  return (a.id || '').localeCompare(b.id || '')
 }

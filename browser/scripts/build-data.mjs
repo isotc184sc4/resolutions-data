@@ -31,13 +31,13 @@ function main() {
       continue;
     }
 
-    if (!parsed || !parsed.resolutions) continue;
+    if (!parsed || !parsed.decisions) continue;
 
     const source_file = file.replace(/\.ya?ml$/, '');
     const metadata = parsed.metadata || {};
 
-    for (const res of parsed.resolutions) {
-      allResolutions.push(buildResolutionRecord(res, source_file, metadata));
+    for (const decision of parsed.decisions) {
+      allResolutions.push(buildResolutionRecord(decision, source_file, metadata));
     }
   }
 
