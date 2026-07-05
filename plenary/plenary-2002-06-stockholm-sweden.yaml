@@ -1,438 +1,561 @@
+---
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Stockholm, Sweden, June 9, 2002 -- June 15, 2002
-  dates:
-  - start: '2002-06-09'
-    end: '2002-06-15'
-    kind: meeting
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Stockholm, Sweden,
+    June 9, 2002 -- June 15, 2002
+  date: '2002-06-09'
   source: ISO/TC 184/SC 4 Secretariat
-  venue: Stockholm, Sweden
-resolutions:
-- identifier: '530'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Approve new project leaders and editors
+decisions:
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '530'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2002-06-15'
-    kind: decision
-  actions:
-  - type: approves
-    message: |
-      SC 4 approves the following new project leaders or project editors for the associated SC 4 projects:
+  - date: '2002-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Approve new project leaders and editors
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: approves
+      date_effective:
+        date: '2002-06-15'
+        type: effective
+      message: |
+        SC 4 approves the following new project leaders or project editors for the associated SC 4 projects:
 
-      |===
-      |Project |Leader |Editor
+        |===
+        |Project |Leader |Editor
 
-      |ISO 10303-235 |Norman Swindells |
-      |ISO 10303 -- PDM Modules | |Pascal Huau
-      |===
-    dates:
-    - start: '2002-06-15'
-      kind: effective
-- identifier: '531'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Establish Category A liaison with ASAM
+        |ISO 10303-235 |Norman Swindells |
+        |ISO 10303 -- PDM Modules | |Pascal Huau
+        |===
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '531'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2002-06-15'
-    kind: decision
-  actions:
-  - type: approves
-    message: |
-      SC 4 approves a Category A liaison with the Association for Standardisation of
-      Automation and Measuring Systems (ASAM), accepts and welcomes Dr. Helmut
-      HELPENSTEIN as the liaison officer between SC 4 and ASAM for two years, and
-      requests that the SC 4 secretary confirms this liaison with the ISO Central Secretariat.
-    dates:
-    - start: '2002-06-15'
-      kind: effective
-- identifier: '532'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Change title and scope of AP239
+  - date: '2002-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Establish Category A liaison with ASAM
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: approves
+      date_effective:
+        date: '2002-06-15'
+        type: effective
+      message: |
+        SC 4 approves a Category A liaison with the Association for Standardisation of
+        Automation and Measuring Systems (ASAM), accepts and welcomes Dr. Helmut
+        HELPENSTEIN as the liaison officer between SC 4 and ASAM for two years, and
+        requests that the SC 4 secretary confirms this liaison with the ISO Central Secretariat.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '532'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2002-06-15'
-    kind: decision
-  actions:
-  - type: agrees
-    message: |
-      SC 4 agrees that the title and scope of AP239 shall be changed to read as follows:
+  - date: '2002-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Change title and scope of AP239
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: agrees
+      date_effective:
+        date: '2002-06-15'
+        type: effective
+      message: |
+        SC 4 agrees that the title and scope of AP239 shall be changed to read as follows:
 
-      Title: Application Protocol: Product life cycle support
+        Title: Application Protocol: Product life cycle support
 
-      Scope: This part of ISO 10303 will provide extension to the capabilities
-      of AP203 and AP214 (and hence the PDM Schema/Modules) to address
-      the requirements for Configuration Change Management over the full product life.
-      This part of ISO 10303 will address the information requirements needed to
-      define and deliver life cycle support to complex assets. This includes
-      specification of:
+        Scope: This part of ISO 10303 will provide extension to the capabilities
+        of AP203 and AP214 (and hence the PDM Schema/Modules) to address
+        the requirements for Configuration Change Management over the full product life.
+        This part of ISO 10303 will address the information requirements needed to
+        define and deliver life cycle support to complex assets. This includes
+        specification of:
 
-      * the identification and composition of a product design from a
-      support viewpoint (as an extension of the PDM Modules);
-      * the definition of documents and their applicability to products and
-      support activities (as an extension of the PDM Modules);
-      * the identification and composition of realized products;
-      * configuration change management activities, over the complete
-      life cycle;
-      * the properties, states and behaviour of products for life cycle
-      support;
-      * activities required to sustain product function;
-      * the resources needed to perform such activities;
-      * the planning and scheduling such activities;
-      * the capture of feedback on the performance of such activities,
-      including the resources used;
-      * the capture of feedback on the usage and condition of a realized
-      product;
-      * the definition of the support environment in terms of people,
-      organizations, skills, experience and facilities;
-      * the definition of classes of product, activities, states, people,
-      organizations and resources.
-    dates:
-    - start: '2002-06-15'
-      kind: effective
-- identifier: '533'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Remind member bodies of open leadership positions
+        * the identification and composition of a product design from a
+        support viewpoint (as an extension of the PDM Modules);
+        * the definition of documents and their applicability to products and
+        support activities (as an extension of the PDM Modules);
+        * the identification and composition of realized products;
+        * configuration change management activities, over the complete
+        life cycle;
+        * the properties, states and behaviour of products for life cycle
+        support;
+        * activities required to sustain product function;
+        * the resources needed to perform such activities;
+        * the planning and scheduling such activities;
+        * the capture of feedback on the performance of such activities,
+        including the resources used;
+        * the capture of feedback on the usage and condition of a realized
+        product;
+        * the definition of the support environment in terms of people,
+        organizations, skills, experience and facilities;
+        * the definition of classes of product, activities, states, people,
+        organizations and resources.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '533'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2002-06-15'
-    kind: decision
-  actions:
-  - type: reminds
-    message: |
-      SC 4 reminds its member bodies, that the following leadership positions are currently
-      open in the organization:
+  - date: '2002-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Remind member bodies of open leadership positions
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: reminds
+      date_effective:
+        date: '2002-06-15'
+        type: effective
+      message: |
+        SC 4 reminds its member bodies, that the following leadership positions are currently
+        open in the organization:
 
-      * QC coordinator
-      * QC deputy coordinator
-      * WG 3 deputy convenor
-      * JWG 9 deputy convenor
-      * WG 11 deputy convenor
-      * "Industrial data on the Web" task force leader
-      * "Module harmonization" task force leader
-      * WG 3/T19 "Mechanical products" team leader
-      * Test Case Guidelines Project Leader
-    dates:
-    - start: '2002-06-15'
-      kind: effective
-  - type: encourages
-    message: |
-      SC 4 respectfully urges its member bodies to submit nominations to its Secretariat
-      accordingly.
-    dates:
-    - start: '2002-06-15'
-      kind: effective
-- identifier: '534'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Disband WG 10 and reallocate its responsibilities
+        * QC coordinator
+        * QC deputy coordinator
+        * WG 3 deputy convenor
+        * JWG 9 deputy convenor
+        * WG 11 deputy convenor
+        * "Industrial data on the Web" task force leader
+        * "Module harmonization" task force leader
+        * WG 3/T19 "Mechanical products" team leader
+        * Test Case Guidelines Project Leader
+    - type: encourages
+      date_effective:
+        date: '2002-06-15'
+        type: effective
+      message: |
+        SC 4 respectfully urges its member bodies to submit nominations to its Secretariat
+        accordingly.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '534'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2002-06-15'
-    kind: decision
-  actions:
-  - type: disbands
-    message: |
-      SC 4 resolves to disband WG 10, immediately after publication of TS 18876-1 and
-      TS 18876-2.
-    dates:
-    - start: '2002-06-15'
-      kind: effective
-  - type: allocates
-    message: |
-      SC 4 resolves to share the responsibility of the Module Harmonization task force as a
-      joint activity between WG 3/JWG 9/WG 12.
-    dates:
-    - start: '2002-06-15'
-      kind: effective
-  - type: allocates
-    message: |
-      SC 4 resolves to transfer responsibility for UML interfaces with the OMG to WG 11.
-    dates:
-    - start: '2002-06-15'
-      kind: effective
-  - type: notes
-    message: |
-      SC 4 notes that further projects on architecture, such as updates to the SC 4
-      Framework project, will be handled by Ad Hoc groups.
-    dates:
-    - start: '2002-06-15'
-      kind: effective
-  - type: thanks
-    message: |
-      SC 4 expresses its recognition of the technical achievements of WG 10, and thanks all
-      the former members of WG 10.
+  - date: '2002-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Disband WG 10 and reallocate its responsibilities
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: disbands
+      date_effective:
+        date: '2002-06-15'
+        type: effective
+      message: |
+        SC 4 resolves to disband WG 10, immediately after publication of TS 18876-1 and
+        TS 18876-2.
+    - type: allocates
+      date_effective:
+        date: '2002-06-15'
+        type: effective
+      message: |
+        SC 4 resolves to share the responsibility of the Module Harmonization task force as a
+        joint activity between WG 3/JWG 9/WG 12.
+    - type: allocates
+      date_effective:
+        date: '2002-06-15'
+        type: effective
+      message: 'SC 4 resolves to transfer responsibility for UML interfaces with the
+        OMG to WG 11.
 
-      SC 4 expresses a special recognition to Matthew West for his dedication in the
-      position of acting convenor of the group.
-    dates:
-    - start: '2002-06-15'
-      kind: effective
-- identifier: '535'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Support ISO/TC 184 Business Strategy and Development task force
-  dates:
-  - start: '2002-06-15'
-    kind: decision
-  actions:
-  - type: supports
-    message: |
-      SC 4 strongly supports the objectives of the task force created by ISO/TC 184/AG.
-    dates:
-    - start: '2002-06-15'
-      kind: effective
-  - type: encourages
-    message: |
-      SC 4 member bodies and liaisons are encouraged to provide their views relative to the
-      scope of the ISO/TC 184 Business Strategy and Development task force, especially in
-      terms of:
+        '
+    - type: notes
+      date_effective:
+        date: '2002-06-15'
+        type: effective
+      message: |
+        SC 4 notes that further projects on architecture, such as updates to the SC 4
+        Framework project, will be handled by Ad Hoc groups.
+    - type: thanks
+      date_effective:
+        date: '2002-06-15'
+        type: effective
+      message: |
+        SC 4 expresses its recognition of the technical achievements of WG 10, and thanks all
+        the former members of WG 10.
 
-      * relevance of the current SC 4 work items to their industrial needs,
-      * fields of industrial data not yet covered,
-      * priorities and available expertise.
-    dates:
-    - start: '2002-06-15'
-      kind: effective
-  - type: resolves
-    message: |
-      SC 4 strongly objects to any subdivision of SC 4 without an adequate business case
-      subject to approval by the member bodies.
+        SC 4 expresses a special recognition to Matthew West for his dedication in the
+        position of acting convenor of the group.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '535'
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2002-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Support ISO/TC 184 Business Strategy and Development task force
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: supports
+      date_effective:
+        date: '2002-06-15'
+        type: effective
+      message: 'SC 4 strongly supports the objectives of the task force created by
+        ISO/TC 184/AG.
 
-      Input should be forwarded to SC 4 Chair and Secretariat, no later than end of
-      September 2002.
-    dates:
-    - start: '2002-06-15'
-      kind: effective
-- identifier: '536'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Submit NWI proposal on AP219 Inspection planning
-  dates:
-  - start: '2002-06-15'
-    kind: decision
-  actions:
-  - type: requests
-    message: |
-      SC 4 requests WG 3 to submit a NWI proposal on AP219 -- Inspection planning, no
-      later than March 2003.
-    dates:
-    - start: '2002-06-15'
-      kind: effective
-  - type: requests
-    message: |
-      SC 4 requests WG 3 to establish the necessary liaisons and co-operations in the field
-      of AP219 scope.
-    dates:
-    - start: '2002-06-15'
-      kind: effective
-- identifier: '537'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Appreciate Secretariat for new SC 4ONLINE website
-  dates:
-  - start: '2002-06-15'
-    kind: decision
-  actions:
-  - type: appreciation
-    message: |
-      SC 4 expresses its appreciation of the work done by its Secretariat on the new web
-      site, SC 4ONLINE, and specifically thanks Mr. Robert Kidwell, Mr. Joe Brazy, Mr. Ted
-      Kula, Mr. Steve Mealey, Ms. Teresa Brittingham, Mr. Mark Bryant, Mr. Bob Cox, Mr.
-      Rob Addair, and Ms. Perye Letsinger for their dedication to that task.
-    dates:
-    - start: '2002-06-15'
-      kind: effective
-  - type: encourages
-    message: |
-      SC 4 encourages its Secretariat to continue its effort in this development.
-    dates:
-    - start: '2002-06-15'
-      kind: effective
-- identifier: '538'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Transpose the IAI IFC2x Specification as an ISO PAS
-  dates:
-  - start: '2002-06-15'
-    kind: decision
-  actions:
-  - type: asks
-    message: |
-      SC 4 invites the IAI to submit the IFC2x Platform Specification, along with the final
-      version of the explanatory report, to the Secretariat for letter ballot for publication as an
-      SC 4 PAS, under the SC 4 Harvesting procedure.
-    dates:
-    - start: '2002-06-15'
-      kind: effective
-  - type: requests
-    message: |
-      SC 4 requests that a joint activity be established between its working groups 3/11/12
-      and the IAI to harmonize the IFC2x Platform Specification and existing SC 4
-      standards, prior to the 3 year mandatory review of the PAS.
-    dates:
-    - start: '2002-06-15'
-      kind: effective
-  - type: recommends
-    message: |
-      SC 4 proposes that its activity be focused within ISO/TC 184/SC 4 WG 3/T22, and
-      invites the Convenors of WG 3/11/12 to nominate appropriate representatives to
-      support this work.
-    dates:
-    - start: '2002-06-15'
-      kind: effective
-  - type: disbands
-    message: |
-      SC 4 thanks the ad hoc group for their efforts, and disbands the group.
-    dates:
-    - start: '2002-06-15'
-      kind: effective
-- identifier: '539'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Define guidelines for document availability notifications
-  dates:
-  - start: '2002-06-15'
-    kind: decision
-  actions:
-  - type: directs
-    message: |
-      SC 4 directs the Secretariat and WG convenors to comply with the TMB request for
-      following elements of document notifications sent by email, as specified in TMB
-      communiqué no. 16 May 2002.
-    dates:
-    - start: '2002-06-15'
-      kind: effective
-  - type: directs
-    message: |
-      SC 4 directs the Secretariat to publish the guidelines on SC 4ONLINE, to make any
-      necessary changes to the SC 4 Handbook, to define a text template for e-mail
-      messages, and to provide automated weekly digests of new additions to the SC
-      4ONLINE website.
-    dates:
-    - start: '2002-06-15'
-      kind: effective
-- identifier: '540'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Require document abstracts prior to ISO publication
-  dates:
-  - start: '2002-06-15'
-    kind: decision
-  actions:
-  - type: directs
-    message: |
-      SC 4 directs Project Leaders to submit to the Secretariat an abstract for each
-      document, prior to publication by ISO, to comply with the following requirements
-      defined by ISO and published on the SC 4ONLINE website.
-    dates:
-    - start: '2002-06-15'
-      kind: effective
-  - type: directs
-    message: |
-      SC 4 directs the QC to make the necessary changes to the SC 4 Supplementary
-      Directives, and any other affected documents.
-    dates:
-    - start: '2002-06-15'
-      kind: effective
-- identifier: '541'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Request revision of ISO funding mechanism for SC 4 standards
-  dates:
-  - start: '2002-06-15'
-    kind: decision
-  actions:
-  - type: resolves
-    message: |
-      It is resolved that the ISO funding mechanism for the delivery of standards produced
-      by SC 4 should be revised to be consistent with the ISO funding mechanisms for the
-      delivery of other standards that are freely available to the general public.
+        '
+    - type: encourages
+      date_effective:
+        date: '2002-06-15'
+        type: effective
+      message: |
+        SC 4 member bodies and liaisons are encouraged to provide their views relative to the
+        scope of the ISO/TC 184 Business Strategy and Development task force, especially in
+        terms of:
 
-      This resolution shall be forwarded to the ISO Central Secretariat for review and
-      consideration by the Commercial Policies Steering Group.
-    dates:
-    - start: '2002-06-15'
-      kind: effective
-- identifier: '542'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Publish AIC 522 separately and submit for DIS ballot
-  dates:
-  - start: '2002-06-15'
-    kind: decision
-  actions:
-  - type: accepts
-    message: |
-      SC 4 accepts the recommendation of the Change Management Committee to
-      separately publish AIC 522, “Machining Features”, based on the approved NWI for
-      AP 224 and to progress AIC 522 direct to DIS ballot, and instructs its Secretariat to
-      submit the necessary documents to ISO Central Secretariat.
-    dates:
-    - start: '2002-06-15'
-      kind: effective
-- identifier: 200206-acclaim-01
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Thank Eurostep, SIS, and Skogshem & Wijk
-  dates:
-  - start: '2002-06-15'
-    kind: decision
-  actions:
-  - type: thanks
-    message: |
-      SC 4 expresses its deep appreciation to Eurostep, the Swedish Institute of Standards
-      and the staff of Skogshem & Wijk for their efforts in organizing this meeting, arranging
-      the facilities, excellent food, and social events, and excellent accompanying events.
-      SC 4 also expresses its appreciation for their hospitality and outstanding support
-      before, during, and after the meeting.
+        * relevance of the current SC 4 work items to their industrial needs,
+        * fields of industrial data not yet covered,
+        * priorities and available expertise.
+    - type: resolves
+      date_effective:
+        date: '2002-06-15'
+        type: effective
+      message: |
+        SC 4 strongly objects to any subdivision of SC 4 without an adequate business case
+        subject to approval by the member bodies.
 
-      SC 4 addresses a special recognition to Helena Lindström, Magnus Nerman, Håkan
-      Kården, Gunilla Sivard, Lars Flink, and Jalle Magnusson for their hospitality,
-      outstanding support, and patience both before and during the ISO/TC 184/SC 4
-      meeting.
-    dates:
-    - start: '2002-06-15'
-      kind: decision
-- identifier: 200206-acclaim-02
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Thank SC 4 Liaisons and Plenary Presenters
+        Input should be forwarded to SC 4 Chair and Secretariat, no later than end of
+        September 2002.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '536'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2002-06-15'
-    kind: decision
-  actions:
-  - type: thanks
-    message: |
-      Appreciation to our SC 4 Liaisons. We appreciate your representation to and for
-      ISO/TC 184/SC 4.
-
-      A special thank you to the SC 4 Liaison Plenary presenters for their insightful and
-      comprehensive presentations:
-
-      |===
-      |Organization |Presenter
-
-      |ASAM |Hans Bothe
-      |PDES, Inc - next phase |Bob Kiggans
-      |VAMAS |Anna Moreno
-      |IAI - Nordic chapter |Väino Tarandi
-      |PLCS |John Dunford
-      |ProSTEP |Max Ungerer
-      |OMG |David Price
-      |===
-    dates:
-    - start: '2002-06-15'
-      kind: decision
-- identifier: 200206-acclaim-03
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Thank participants for their outstanding contributions
+  - date: '2002-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Submit NWI proposal on AP219 Inspection planning
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: requests
+      date_effective:
+        date: '2002-06-15'
+        type: effective
+      message: |
+        SC 4 requests WG 3 to submit a NWI proposal on AP219 -- Inspection planning, no
+        later than March 2003.
+    - type: requests
+      date_effective:
+        date: '2002-06-15'
+        type: effective
+      message: |
+        SC 4 requests WG 3 to establish the necessary liaisons and co-operations in the field
+        of AP219 scope.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '537'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2002-06-15'
-    kind: decision
-  actions:
-  - type: thanks
-    message: |
-      SC 4 expresses its appreciation to those who participated for their outstanding
-      contributions and professionalisms this week to the work of ISO/TC 184/SC 4.
-    dates:
-    - start: '2002-06-15'
-      kind: decision
-- identifier: 200206-acclaim-04
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Thank Tom Warren for his contribution to quality processes
+  - date: '2002-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Appreciate Secretariat for new SC 4ONLINE website
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: appreciation
+      date_effective:
+        date: '2002-06-15'
+        type: effective
+      message: |
+        SC 4 expresses its appreciation of the work done by its Secretariat on the new web
+        site, SC 4ONLINE, and specifically thanks Mr. Robert Kidwell, Mr. Joe Brazy, Mr. Ted
+        Kula, Mr. Steve Mealey, Ms. Teresa Brittingham, Mr. Mark Bryant, Mr. Bob Cox, Mr.
+        Rob Addair, and Ms. Perye Letsinger for their dedication to that task.
+    - type: encourages
+      date_effective:
+        date: '2002-06-15'
+        type: effective
+      message: 'SC 4 encourages its Secretariat to continue its effort in this development.
+
+        '
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '538'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2002-06-15'
-    kind: decision
-  actions:
-  - type: thanks
-    message: |
-      SC 4 expresses its sincere thanks to Tom Warren for his outstanding contribution to
-      the development of quality processes within ISO/TC 184/SC 4 and expresses its hope
-      that he will be successful in obtaining support for resuming his activities.
-    dates:
-    - start: '2002-06-15'
-      kind: decision
+  - date: '2002-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Transpose the IAI IFC2x Specification as an ISO PAS
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: asks
+      date_effective:
+        date: '2002-06-15'
+        type: effective
+      message: |
+        SC 4 invites the IAI to submit the IFC2x Platform Specification, along with the final
+        version of the explanatory report, to the Secretariat for letter ballot for publication as an
+        SC 4 PAS, under the SC 4 Harvesting procedure.
+    - type: requests
+      date_effective:
+        date: '2002-06-15'
+        type: effective
+      message: |
+        SC 4 requests that a joint activity be established between its working groups 3/11/12
+        and the IAI to harmonize the IFC2x Platform Specification and existing SC 4
+        standards, prior to the 3 year mandatory review of the PAS.
+    - type: recommends
+      date_effective:
+        date: '2002-06-15'
+        type: effective
+      message: |
+        SC 4 proposes that its activity be focused within ISO/TC 184/SC 4 WG 3/T22, and
+        invites the Convenors of WG 3/11/12 to nominate appropriate representatives to
+        support this work.
+    - type: disbands
+      date_effective:
+        date: '2002-06-15'
+        type: effective
+      message: 'SC 4 thanks the ad hoc group for their efforts, and disbands the group.
+
+        '
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '539'
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2002-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Define guidelines for document availability notifications
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: directs
+      date_effective:
+        date: '2002-06-15'
+        type: effective
+      message: |
+        SC 4 directs the Secretariat and WG convenors to comply with the TMB request for
+        following elements of document notifications sent by email, as specified in TMB
+        communiqué no. 16 May 2002.
+    - type: directs
+      date_effective:
+        date: '2002-06-15'
+        type: effective
+      message: |
+        SC 4 directs the Secretariat to publish the guidelines on SC 4ONLINE, to make any
+        necessary changes to the SC 4 Handbook, to define a text template for e-mail
+        messages, and to provide automated weekly digests of new additions to the SC
+        4ONLINE website.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '540'
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2002-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Require document abstracts prior to ISO publication
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: directs
+      date_effective:
+        date: '2002-06-15'
+        type: effective
+      message: |
+        SC 4 directs Project Leaders to submit to the Secretariat an abstract for each
+        document, prior to publication by ISO, to comply with the following requirements
+        defined by ISO and published on the SC 4ONLINE website.
+    - type: directs
+      date_effective:
+        date: '2002-06-15'
+        type: effective
+      message: |
+        SC 4 directs the QC to make the necessary changes to the SC 4 Supplementary
+        Directives, and any other affected documents.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '541'
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2002-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Request revision of ISO funding mechanism for SC 4 standards
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: resolves
+      date_effective:
+        date: '2002-06-15'
+        type: effective
+      message: |
+        It is resolved that the ISO funding mechanism for the delivery of standards produced
+        by SC 4 should be revised to be consistent with the ISO funding mechanisms for the
+        delivery of other standards that are freely available to the general public.
+
+        This resolution shall be forwarded to the ISO Central Secretariat for review and
+        consideration by the Commercial Policies Steering Group.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '542'
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2002-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Publish AIC 522 separately and submit for DIS ballot
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: accepts
+      date_effective:
+        date: '2002-06-15'
+        type: effective
+      message: |
+        SC 4 accepts the recommendation of the Change Management Committee to
+        separately publish AIC 522, “Machining Features”, based on the approved NWI for
+        AP 224 and to progress AIC 522 direct to DIS ballot, and instructs its Secretariat to
+        submit the necessary documents to ISO Central Secretariat.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: 200206-acclaim-01
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2002-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Thank Eurostep, SIS, and Skogshem & Wijk
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: thanks
+      date_effective:
+        date: '2002-06-15'
+        type: adoption
+      message: |
+        SC 4 expresses its deep appreciation to Eurostep, the Swedish Institute of Standards
+        and the staff of Skogshem & Wijk for their efforts in organizing this meeting, arranging
+        the facilities, excellent food, and social events, and excellent accompanying events.
+        SC 4 also expresses its appreciation for their hospitality and outstanding support
+        before, during, and after the meeting.
+
+        SC 4 addresses a special recognition to Helena Lindström, Magnus Nerman, Håkan
+        Kården, Gunilla Sivard, Lars Flink, and Jalle Magnusson for their hospitality,
+        outstanding support, and patience both before and during the ISO/TC 184/SC 4
+        meeting.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: 200206-acclaim-02
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2002-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Thank SC 4 Liaisons and Plenary Presenters
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: thanks
+      date_effective:
+        date: '2002-06-15'
+        type: adoption
+      message: |
+        Appreciation to our SC 4 Liaisons. We appreciate your representation to and for
+        ISO/TC 184/SC 4.
+
+        A special thank you to the SC 4 Liaison Plenary presenters for their insightful and
+        comprehensive presentations:
+
+        |===
+        |Organization |Presenter
+
+        |ASAM |Hans Bothe
+        |PDES, Inc - next phase |Bob Kiggans
+        |VAMAS |Anna Moreno
+        |IAI - Nordic chapter |Väino Tarandi
+        |PLCS |John Dunford
+        |ProSTEP |Max Ungerer
+        |OMG |David Price
+        |===
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: 200206-acclaim-03
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2002-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Thank participants for their outstanding contributions
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: thanks
+      date_effective:
+        date: '2002-06-15'
+        type: adoption
+      message: |
+        SC 4 expresses its appreciation to those who participated for their outstanding
+        contributions and professionalisms this week to the work of ISO/TC 184/SC 4.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: 200206-acclaim-04
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2002-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Thank Tom Warren for his contribution to quality processes
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: thanks
+      date_effective:
+        date: '2002-06-15'
+        type: adoption
+      message: |
+        SC 4 expresses its sincere thanks to Tom Warren for his outstanding contribution to
+        the development of quality processes within ISO/TC 184/SC 4 and expresses its hope
+        that he will be successful in obtaining support for resuming his activities.

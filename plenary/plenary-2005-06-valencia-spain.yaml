@@ -1,313 +1,405 @@
+---
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Valencia, Spain, June 17, 2005
-  dates:
-  - start: '2005-06-17'
-    end: '2005-06-17'
-    kind: meeting
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Valencia, Spain, June
+    17, 2005
+  date: '2005-06-17'
   source: ISO/TC 184/SC 4 Secretariat
-  venue: Valencia, Spain
-resolutions:
-- identifier: '643'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Approve project leaders and editors for ISO 10303-0111 and ISO 13584-0026 TC 1
+decisions:
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '643'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2005-06-15'
-    kind: decision
-  actions:
-  - type: approves
-    message: |
-      SC 4 approves the following new project leaders or project editors for the associated SC 4 projects:
+  - date: '2005-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Approve project leaders and editors for ISO 10303-0111 and ISO 13584-0026
+      TC 1
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: approves
+      date_effective:
+        date: '2005-06-15'
+        type: effective
+      message: |
+        SC 4 approves the following new project leaders or project editors for the associated SC 4 projects:
 
-      |===
-      |Project |Leader |Editor
+        |===
+        |Project |Leader |Editor
 
-      |ISO 10303-0111 |Michael Pratt |Michael Pratt
-      |ISO 13584-0026 TC 1 |Hiroshi Murayama |Noriko Minamino
-      |===
-    dates:
-    - start: '2005-06-15'
-      kind: effective
-- identifier: '644'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Appoint Anna Moreno as Education and Outreach Rapporteur
+        |ISO 10303-0111 |Michael Pratt |Michael Pratt
+        |ISO 13584-0026 TC 1 |Hiroshi Murayama |Noriko Minamino
+        |===
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '644'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2005-06-15'
-    kind: decision
-  actions:
-  - type: appoints
-    message: |
-      SC 4 appoints Mrs. Anna Moreno as the new SC 4 Education and Outreach Rapporteur
-      to act as the focal point for SC 4 outreach, education, and promotional activities.
-      These activities should be closely linked to International Industry STEP Centers (ISC)
-      related marketing and promotional activities.
-    dates:
-    - start: '2005-06-15'
-      kind: effective
-  considerations:
-  - type: recognizing
-    message: |
-      Recognizing the continuing need to make industry, the public, the research
-      community, and other stakeholders knowledgeable of SC 4 standards and SC 4 activities.
-    dates:
-    - start: '2005-06-15'
-      kind: effective
-- identifier: '645'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Nominate Wolfgang Wilkes as liaison to ISO/TC 172
+  - date: '2005-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Appoint Anna Moreno as Education and Outreach Rapporteur
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    considerations:
+    - type: recognizing
+      date_effective:
+        date: '2005-06-15'
+        type: effective
+      message: |
+        Recognizing the continuing need to make industry, the public, the research
+        community, and other stakeholders knowledgeable of SC 4 standards and SC 4 activities.
+    actions:
+    - type: appoints
+      date_effective:
+        date: '2005-06-15'
+        type: effective
+      message: |
+        SC 4 appoints Mrs. Anna Moreno as the new SC 4 Education and Outreach Rapporteur
+        to act as the focal point for SC 4 outreach, education, and promotional activities.
+        These activities should be closely linked to International Industry STEP Centers (ISC)
+        related marketing and promotional activities.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '645'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2005-06-15'
-    kind: decision
-  actions:
-  - type: nominates
-    message: |
-      SC 4 nominates Wolfgang Wilkes as liaison officer to ISO/TC 172 "Optics and Photonics".
-    dates:
-    - start: '2005-06-15'
-      kind: effective
-- identifier: '646'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Appoint liaison officers to ISO/TC 184/SC 5/WG 7
-  dates:
-  - start: '2005-06-15'
-    kind: decision
-  actions:
-  - type: recommends
-    message: |
-      SC 4 sees a potential need of cooperation with its projects ISO 10303-239 "Product
-      Life Cycle Support" (PLCS), ISO 15926 and the ASAM ODS PAS 22720. To avoid
-      any overlap or gaps in the development of these projects SC 4 proposes that Tim
-      King, Leif Gyllström, Magne Valen-Sendstad and Nigel Shaw be nominated as
-      experts to SC 5/WG 7 by their respective National Bodies.
-    dates:
-    - start: '2005-06-15'
-      kind: effective
-  - type: appoints
-    message: |
-      SC 4 appoints them as liaison officers to ISO/TC 184/SC 5 and invites them to
-      participate in the joint SC 1, SC 4 and SC 5 review on "Diagnostics and maintenance
-      applications integration".
-    dates:
-    - start: '2005-06-15'
-      kind: effective
-- identifier: '647'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Appoint liaison officers to ISO/TC 37
-  dates:
-  - start: '2005-06-15'
-    kind: decision
-  actions:
-  - type: appoints
-    message: |
-      SC 4 appoints Wolfgang Wilkes, Eric Sardet, Magne Valen-Sendstad, Peter Benson and
-      Gerry Radack as liaison officers to ISO/TC 37.
-    dates:
-    - start: '2005-06-15'
-      kind: effective
-  considerations:
-  - type: noting
-    message: |
-      SC 4 notes the request of ISO/TC 37 "Terminology and other language resources" for
-      nominating an additional point of contact for the SC 4 work on Classification.
-    dates:
-    - start: '2005-06-15'
-      kind: effective
-- identifier: '648'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Adopt policy for format and layout of SC 4 standards
-  dates:
-  - start: '2005-06-15'
-    kind: decision
-  actions:
-  - type: adopts
-    message: |
-      SC 4 adopts the following policy with regard to format and layout of SC 4 standards:
+  - date: '2005-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Nominate Wolfgang Wilkes as liaison to ISO/TC 172
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: nominates
+      date_effective:
+        date: '2005-06-15'
+        type: effective
+      message: 'SC 4 nominates Wolfgang Wilkes as liaison officer to ISO/TC 172 "Optics
+        and Photonics".
 
-      * Parts delivered to ISO in HTML shall follow the format and layout as given in
-      the HTML Guidelines.
-      * Parts delivered to ISO in PDF shall follow the appropriate format and layout
-      as given in the current clause 5, Format and layout of SC 4 standards, of the
-      Supplementary Directives.
-      * Parts delivered to ISO in Microsoft® Word shall be prepared with one of the
-      ISO templates for drafting standards.
+        '
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '646'
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2005-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Appoint liaison officers to ISO/TC 184/SC 5/WG 7
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: recommends
+      date_effective:
+        date: '2005-06-15'
+        type: effective
+      message: |
+        SC 4 sees a potential need of cooperation with its projects ISO 10303-239 "Product
+        Life Cycle Support" (PLCS), ISO 15926 and the ASAM ODS PAS 22720. To avoid
+        any overlap or gaps in the development of these projects SC 4 proposes that Tim
+        King, Leif Gyllström, Magne Valen-Sendstad and Nigel Shaw be nominated as
+        experts to SC 5/WG 7 by their respective National Bodies.
+    - type: appoints
+      date_effective:
+        date: '2005-06-15'
+        type: effective
+      message: |
+        SC 4 appoints them as liaison officers to ISO/TC 184/SC 5 and invites them to
+        participate in the joint SC 1, SC 4 and SC 5 review on "Diagnostics and maintenance
+        applications integration".
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '647'
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2005-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Appoint liaison officers to ISO/TC 37
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    considerations:
+    - type: noting
+      date_effective:
+        date: '2005-06-15'
+        type: effective
+      message: |
+        SC 4 notes the request of ISO/TC 37 "Terminology and other language resources" for
+        nominating an additional point of contact for the SC 4 work on Classification.
+    actions:
+    - type: appoints
+      date_effective:
+        date: '2005-06-15'
+        type: effective
+      message: |
+        SC 4 appoints Wolfgang Wilkes, Eric Sardet, Magne Valen-Sendstad, Peter Benson and
+        Gerry Radack as liaison officers to ISO/TC 37.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '648'
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2005-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Adopt policy for format and layout of SC 4 standards
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: adopts
+      date_effective:
+        date: '2005-06-15'
+        type: effective
+      message: |
+        SC 4 adopts the following policy with regard to format and layout of SC 4 standards:
 
-      This policy shall go into effect immediately.
-    dates:
-    - start: '2005-06-15'
-      kind: effective
-  - type: directs
-    message: |
-      SC 4 directs the Quality Committee to make the appropriate changes to the
-      Supplementary Directives to implement the above policy.
-    dates:
-    - start: '2005-06-15'
-      kind: effective
-- identifier: '649'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Direct liaison officers to expedite ISO/IEC JWG 1 tasks
-  dates:
-  - start: '2005-06-15'
-    kind: decision
-  actions:
-  - type: directs
-    message: |
-      SC 4 directs its nominated liaison officers and experts as shown in Resolution 611 & 627
-      to endeavor to expedite the completion of the JWG 1 tasks and report progress to
-      SC 4. The Chairman of SC 4 is asked to write to the convener of JWG 1 expressing
-      the urgency of the SC 4 requirement for completion of the JWG 1 work.
-    dates:
-    - start: '2005-06-15'
-      kind: effective
-  considerations:
-  - type: noting
-    message: |
-      SC 4 expresses its concerns at the apparent lack of progress in the work of JWG 1
-      on providing Guidance on broader exploitation of ISO 13584 and IEC 61360.
-    dates:
-    - start: '2005-06-15'
-      kind: effective
-- identifier: '650'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Request ISO CS complete URN guidance and host equivalent URLs
-  dates:
-  - start: '2005-06-15'
-    kind: decision
-  actions:
-  - type: requests
-    message: |
-      SC 4 requests ISOCS to complete the 'tcdefined' section of SC 4/N1916, including
-      guidance on the use of this section for the identification of an object within an ISO
-      standard, and circulate the resulting document to the relevant ISO/TCs for review.
-    dates:
-    - start: '2005-06-15'
-      kind: effective
-  - type: requests
-    message: |
-      SC 4 further requests ISO Central Secretariat to agree to host the equivalent URL,
-      which document SC 4/N1916 says 'should be possible', and to publish documents
-      where the following criteria are satisfied:
+        * Parts delivered to ISO in HTML shall follow the format and layout as given in
+        the HTML Guidelines.
+        * Parts delivered to ISO in PDF shall follow the appropriate format and layout
+        as given in the current clause 5, Format and layout of SC 4 standards, of the
+        Supplementary Directives.
+        * Parts delivered to ISO in Microsoft® Word shall be prepared with one of the
+        ISO templates for drafting standards.
 
-      * it has been agreed that the standard, or the object defined within the
-      standard, shall be freely available on the Web;
-      * the Technical Committee provides the document that has the URL or
-      contains the URL as an object within it.
-    dates:
-    - start: '2005-06-15'
-      kind: effective
-- identifier: '651'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Nominate JEMIMA as Registration Authority for ISO 13584-501
+        This policy shall go into effect immediately.
+    - type: directs
+      date_effective:
+        date: '2005-06-15'
+        type: effective
+      message: |
+        SC 4 directs the Quality Committee to make the appropriate changes to the
+        Supplementary Directives to implement the above policy.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '649'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2005-06-15'
-    kind: decision
-  actions:
-  - type: requests
-    message: |
-      In the absence of any specific recommendation from JWG 1, SC 4 requests its
-      secretariat to take the necessary steps with ISO to request the establishment of a
-      Registration Authority as defined in 13584 Part 501.
-    dates:
-    - start: '2005-06-15'
-      kind: effective
-  - type: nominates
-    message: |
-      SC 4 nominates the Japan Electric Measuring Instruments Manufacturers Association
-      (JEMIMA) to act as the Registration Authority. After 3 years, the way of maintaining
-      the dictionary shall be reviewed taking into account advice from JWG 1 and new
-      rules and regulations coming from ISO or IEC.
-    dates:
-    - start: '2005-06-15'
-      kind: effective
-- identifier: '652'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Invite ISO/TC 10 to discuss proposed NWI to avoid overlap
+  - date: '2005-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Direct liaison officers to expedite ISO/IEC JWG 1 tasks
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    considerations:
+    - type: noting
+      date_effective:
+        date: '2005-06-15'
+        type: effective
+      message: |
+        SC 4 expresses its concerns at the apparent lack of progress in the work of JWG 1
+        on providing Guidance on broader exploitation of ISO 13584 and IEC 61360.
+    actions:
+    - type: directs
+      date_effective:
+        date: '2005-06-15'
+        type: effective
+      message: |
+        SC 4 directs its nominated liaison officers and experts as shown in Resolution 611 & 627
+        to endeavor to expedite the completion of the JWG 1 tasks and report progress to
+        SC 4. The Chairman of SC 4 is asked to write to the convener of JWG 1 expressing
+        the urgency of the SC 4 requirement for completion of the JWG 1 work.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '650'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2005-06-15'
-    kind: decision
-  actions:
-  - type: requests
-    message: |
-      SC 4 also notes that the proposed scope of part 101 of this ISO/TC 10 multi-part
-      standard appears to have a large overlap with its ongoing and published work
-      on component libraries and reference hierarchies for the oil and gas industry.
-      In order to achieve synergy and to avoid duplicate and conflicting standards SC 4
-      invites ISO/TC 10 and ISO/IEC JWG 1 to participate in an open discussion with SC 4
-      on the technical content of the proposed standard in order to agree the necessary
-      scope of work to be undertaken in the respective committees.
-    dates:
-    - start: '2005-06-15'
-      kind: effective
-  considerations:
-  - type: noting
-    message: |
-      SC 4 notes the ISO/TC 10 proposal to create a multi-part standard for defining
-      dictionaries of properties with class reference hierarchies. This work appears to have a
-      large overlap with the published ISO 13584, ISO 15926 and IEC 61360 standard
-      series.
-    dates:
-    - start: '2005-06-15'
-      kind: effective
-- identifier: 200506-acclaim-01
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Thank SC 4 liaisons and plenary presenters
-  dates:
-  - start: '2005-06-15'
-    kind: decision
-  actions:
-  - type: thanks
-    message: |
-      Appreciation to our SC 4 Liaisons. We appreciate your representation to and for
-      ISO/TC 184/SC 4.
+  - date: '2005-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Request ISO CS complete URN guidance and host equivalent URLs
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: requests
+      date_effective:
+        date: '2005-06-15'
+        type: effective
+      message: |
+        SC 4 requests ISOCS to complete the 'tcdefined' section of SC 4/N1916, including
+        guidance on the use of this section for the identification of an object within an ISO
+        standard, and circulate the resulting document to the relevant ISO/TCs for review.
+    - type: requests
+      date_effective:
+        date: '2005-06-15'
+        type: effective
+      message: |
+        SC 4 further requests ISO Central Secretariat to agree to host the equivalent URL,
+        which document SC 4/N1916 says 'should be possible', and to publish documents
+        where the following criteria are satisfied:
 
-      A special thank you to the SC 4 Liaison Plenary presenters for their insightful and
-      comprehensive presentations:
-
-      * PDES, Inc: Bob Kiggans
-      * ProSTEP iViP: Max Ungerer
-      * ISO/TC 211: Jerry Smith
-      * USPI-NL: Dalip Sud
-      * ECCMA / NATO AC 135: Peter Benson, Steve Arnett, George Sturrock
-      * eCl@ss: Raymond Betz
-      * ISO 13399: Norman Swindells
-      * FSIG-SMART-fm: Ricardo Gonçalves
-      * R & D and Standards: Anne Lehouck
-    dates:
-    - start: '2005-06-15'
-      kind: effective
-- identifier: 200506-acclaim-02
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Thank SC 4 community and members for supporting funStep SMART-fm project
+        * it has been agreed that the standard, or the object defined within the
+        standard, shall be freely available on the Web;
+        * the Technical Committee provides the document that has the URL or
+        contains the URL as an object within it.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '651'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2005-06-15'
-    kind: decision
-  actions:
-  - type: thanks
-    message: |
-      The SMART-fm project is a funStep initiative that has been providing support for the
-      development of AP236, and evaluated by the European Commission representatives
-      during this SC 4 meeting.
-
-      FunStep would like to thank the SC 4 community for its outstanding support, and
-      specifically recognize the continuous support and special efforts provided by Mr.
-      Howard Mason, Mr. Robert Kiggans, Mr. Jerry Smith, Mr. Peter Benson and Mr. Keith
-      Hunten during the final review process in conjunction with the European Commission.
-    dates:
-    - start: '2005-06-15'
-      kind: effective
-- identifier: 200506-acclaim-03
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Thank Amparo Roca de Togores and staff for meeting organization
+  - date: '2005-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Nominate JEMIMA as Registration Authority for ISO 13584-501
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: requests
+      date_effective:
+        date: '2005-06-15'
+        type: effective
+      message: |
+        In the absence of any specific recommendation from JWG 1, SC 4 requests its
+        secretariat to take the necessary steps with ISO to request the establishment of a
+        Registration Authority as defined in 13584 Part 501.
+    - type: nominates
+      date_effective:
+        date: '2005-06-15'
+        type: effective
+      message: |
+        SC 4 nominates the Japan Electric Measuring Instruments Manufacturers Association
+        (JEMIMA) to act as the Registration Authority. After 3 years, the way of maintaining
+        the dictionary shall be reviewed taking into account advice from JWG 1 and new
+        rules and regulations coming from ISO or IEC.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '652'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2005-06-15'
-    kind: decision
-  actions:
-  - type: thanks
-    message: |
-      SC 4 expresses its particular thanks to Mrs Amparo Roca de Togores and her staff,
-      Ivan Duro, Tiago Ferreira and Michele Vavallo for their superior administrative
-      support, outstanding hospitality, both before and during the ISO/TC 184/SC 4
-      meeting. Our Special thanks to Mr. José Chaparro and Angel Dominguez, AIDIMA's
-      system administrators, and from El Corte Ingles, Maria Jesus Grijalba and Erika
-      Hvidkjaer for their excellent support and patience with the SC 4 Delegation.
-    dates:
-    - start: '2005-06-15'
-      kind: effective
+  - date: '2005-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Invite ISO/TC 10 to discuss proposed NWI to avoid overlap
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    considerations:
+    - type: noting
+      date_effective:
+        date: '2005-06-15'
+        type: effective
+      message: |
+        SC 4 notes the ISO/TC 10 proposal to create a multi-part standard for defining
+        dictionaries of properties with class reference hierarchies. This work appears to have a
+        large overlap with the published ISO 13584, ISO 15926 and IEC 61360 standard
+        series.
+    actions:
+    - type: requests
+      date_effective:
+        date: '2005-06-15'
+        type: effective
+      message: |
+        SC 4 also notes that the proposed scope of part 101 of this ISO/TC 10 multi-part
+        standard appears to have a large overlap with its ongoing and published work
+        on component libraries and reference hierarchies for the oil and gas industry.
+        In order to achieve synergy and to avoid duplicate and conflicting standards SC 4
+        invites ISO/TC 10 and ISO/IEC JWG 1 to participate in an open discussion with SC 4
+        on the technical content of the proposed standard in order to agree the necessary
+        scope of work to be undertaken in the respective committees.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: 200506-acclaim-01
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2005-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Thank SC 4 liaisons and plenary presenters
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: thanks
+      date_effective:
+        date: '2005-06-15'
+        type: effective
+      message: |
+        Appreciation to our SC 4 Liaisons. We appreciate your representation to and for
+        ISO/TC 184/SC 4.
+
+        A special thank you to the SC 4 Liaison Plenary presenters for their insightful and
+        comprehensive presentations:
+
+        * PDES, Inc: Bob Kiggans
+        * ProSTEP iViP: Max Ungerer
+        * ISO/TC 211: Jerry Smith
+        * USPI-NL: Dalip Sud
+        * ECCMA / NATO AC 135: Peter Benson, Steve Arnett, George Sturrock
+        * eCl@ss: Raymond Betz
+        * ISO 13399: Norman Swindells
+        * FSIG-SMART-fm: Ricardo Gonçalves
+        * R & D and Standards: Anne Lehouck
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: 200506-acclaim-02
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2005-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Thank SC 4 community and members for supporting funStep SMART-fm project
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: thanks
+      date_effective:
+        date: '2005-06-15'
+        type: effective
+      message: |
+        The SMART-fm project is a funStep initiative that has been providing support for the
+        development of AP236, and evaluated by the European Commission representatives
+        during this SC 4 meeting.
+
+        FunStep would like to thank the SC 4 community for its outstanding support, and
+        specifically recognize the continuous support and special efforts provided by Mr.
+        Howard Mason, Mr. Robert Kiggans, Mr. Jerry Smith, Mr. Peter Benson and Mr. Keith
+        Hunten during the final review process in conjunction with the European Commission.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: 200506-acclaim-03
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2005-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Thank Amparo Roca de Togores and staff for meeting organization
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: thanks
+      date_effective:
+        date: '2005-06-15'
+        type: effective
+      message: |
+        SC 4 expresses its particular thanks to Mrs Amparo Roca de Togores and her staff,
+        Ivan Duro, Tiago Ferreira and Michele Vavallo for their superior administrative
+        support, outstanding hospitality, both before and during the ISO/TC 184/SC 4
+        meeting. Our Special thanks to Mr. José Chaparro and Angel Dominguez, AIDIMA's
+        system administrators, and from El Corte Ingles, Maria Jesus Grijalba and Erika
+        Hvidkjaer for their excellent support and patience with the SC 4 Delegation.

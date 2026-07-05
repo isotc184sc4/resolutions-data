@@ -1,329 +1,454 @@
-# yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
+# yaml-language-server: $schema=https://raw.githubusercontent.com/edoxen/edoxen/refs/heads/main/schema/edoxen.yaml
+---
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Baltimore, United States, October 18, 2015 -- October 23, 2015
-  dates:
-  - start: '2015-10-18'
-    end: '2015-10-23'
-    kind: meeting
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Baltimore, United
+    States, October 18, 2015 -- October 23, 2015
+  date: '2015-10-18'
   source: ISO/TC 184/SC 4 Secretariat
-  venue: Baltimore, United States
-resolutions:
-- identifier: '907'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Approve new project leaders and editors for SC 4 projects
+decisions:
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '907'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2015-10-15'
-    kind: decision
-  actions:
-  - type: approves
-    message: |
-      SC4 approves the following new project leaders and/or project editors for the
-      associated SC 4 projects:
+  - date: '2015-10-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Approve new project leaders and editors for SC 4 projects
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: approves
+      date_effective:
+        date: '2015-10-15'
+        type: effective
+      message: |
+        SC4 approves the following new project leaders and/or project editors for the
+        associated SC 4 projects:
 
-      |===
-      |ISO Project # |Project Lead |Document Editor
+        |===
+        |ISO Project # |Project Lead |Document Editor
 
-      |15926-10 |Manoj Dharwadkar |Hiroshi Okada
-      |===
-    dates:
-    - start: '2015-10-15'
-      kind: effective
-- identifier: '908'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Reappoint Howard Mason as Change Management Committee Convener
+        |15926-10 |Manoj Dharwadkar |Hiroshi Okada
+        |===
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '908'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2015-10-15'
-    kind: decision
-  actions:
-  - type: appoints
-    message: |
-      SC4 appoints Mr. Howard Mason as Convener for the Change Management
-      Committee for a further three-year term, with an appreciation for his offer to serve in that
-      capacity.
-    dates:
-    - start: '2015-10-15'
-      kind: effective
-- identifier: '909'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Reappoint Paul van Exel as WG 03 Convener
+  - date: '2015-10-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Reappoint Howard Mason as Change Management Committee Convener
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: appoints
+      date_effective:
+        date: '2015-10-15'
+        type: effective
+      message: |
+        SC4 appoints Mr. Howard Mason as Convener for the Change Management
+        Committee for a further three-year term, with an appreciation for his offer to serve in that
+        capacity.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '909'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2015-10-15'
-    kind: decision
-  actions:
-  - type: appoints
-    message: |
-      SC4 appoints Paul van Exel as Convener for WG 03 "Oil, Gas, Process and Power" for
-      a further three year term, with appreciation for his offer to serve in that capacity.
-    dates:
-    - start: '2015-10-15'
-      kind: effective
-- identifier: '910'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Reappoint Keith Hunten as WG 21 Convener
+  - date: '2015-10-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Reappoint Paul van Exel as WG 03 Convener
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: appoints
+      date_effective:
+        date: '2015-10-15'
+        type: effective
+      message: |
+        SC4 appoints Paul van Exel as Convener for WG 03 "Oil, Gas, Process and Power" for
+        a further three year term, with appreciation for his offer to serve in that capacity.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '910'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2015-10-15'
-    kind: decision
-  actions:
-  - type: appoints
-    message: |
-      SC4 appoints Keith Hunten as Convener for WG 21 "SMRL Validation Team" for a
-      further three-year term, with appreciation for his offer to serve in that capacity.
-    dates:
-    - start: '2015-10-15'
-      kind: effective
-- identifier: '911'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Reappoint Jochen Haenisch as WG 21 Deputy Convener
+  - date: '2015-10-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Reappoint Keith Hunten as WG 21 Convener
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: appoints
+      date_effective:
+        date: '2015-10-15'
+        type: effective
+      message: |
+        SC4 appoints Keith Hunten as Convener for WG 21 "SMRL Validation Team" for a
+        further three-year term, with appreciation for his offer to serve in that capacity.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '911'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2015-10-15'
-    kind: decision
-  actions:
-  - type: appoints
-    message: |
-      SC4 appoints Jochen Haenisch as Deputy Convener for WG 21 "SMRL Validation
-      Team" for a further three-year term, with appreciation for his offer to serve in that
-      capacity.
-    dates:
-    - start: '2015-10-15'
-      kind: effective
-- identifier: '912'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Reappoint Nils Sandsmark as WG 22 Convener
+  - date: '2015-10-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Reappoint Jochen Haenisch as WG 21 Deputy Convener
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: appoints
+      date_effective:
+        date: '2015-10-15'
+        type: effective
+      message: |
+        SC4 appoints Jochen Haenisch as Deputy Convener for WG 21 "SMRL Validation
+        Team" for a further three-year term, with appreciation for his offer to serve in that
+        capacity.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '912'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2015-10-15'
-    kind: decision
-  actions:
-  - type: appoints
-    message: |
-      SC4 appoints Nils Sandsmark as Convener for WG 22 "Reference Data Validation
-      Team" for a further three-year term, with appreciation for his offer to serve in that
-      capacity.
-    dates:
-    - start: '2015-10-15'
-      kind: effective
-- identifier: '913'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Nominate Howard Mason for an additional term as SC 4 Chair
+  - date: '2015-10-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Reappoint Nils Sandsmark as WG 22 Convener
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: appoints
+      date_effective:
+        date: '2015-10-15'
+        type: effective
+      message: |
+        SC4 appoints Nils Sandsmark as Convener for WG 22 "Reference Data Validation
+        Team" for a further three-year term, with appreciation for his offer to serve in that
+        capacity.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '913'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2015-10-15'
-    kind: decision
-  actions:
-  - type: nominates
-    message: |
-      SC4 nominates Howard Mason for an additional two year term (January 2016 -
-      December 2017) as the Chair of ISO/TC 184 / SC 4 and instructs the Secretary to
-      forward his nomination to ISO/TC 184 within 30 days.
-    dates:
-    - start: '2015-10-15'
-      kind: effective
-- identifier: '914'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Extend standard development track for ISO 10303-57
+  - date: '2015-10-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Nominate Howard Mason for an additional term as SC 4 Chair
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: nominates
+      date_effective:
+        date: '2015-10-15'
+        type: effective
+      message: |
+        SC4 nominates Howard Mason for an additional two year term (January 2016 -
+        December 2017) as the Chair of ISO/TC 184 / SC 4 and instructs the Secretary to
+        forward his nomination to ISO/TC 184 within 30 days.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '914'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2015-10-15'
-    kind: decision
-  actions:
-  - type: requests
-    message: |
-      SC4 requests its Secretariat to change the development track of ISO 10303-57 from 36
-      months to 48 months.
-    dates:
-    - start: '2015-10-15'
-      kind: effective
-- identifier: '915'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Extend standard development track for ISO 18828-2
+  - date: '2015-10-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Extend standard development track for ISO 10303-57
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: requests
+      date_effective:
+        date: '2015-10-15'
+        type: effective
+      message: |
+        SC4 requests its Secretariat to change the development track of ISO 10303-57 from 36
+        months to 48 months.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '915'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2015-10-15'
-    kind: decision
-  actions:
-  - type: requests
-    message: |
-      SC4 requests its Secretariat to change the development track of ISO 18828-2 from 24
-      months to 36 months.
-    dates:
-    - start: '2015-10-15'
-      kind: effective
-- identifier: '916'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Terminate SC 4 Liaison with ASAM
+  - date: '2015-10-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Extend standard development track for ISO 18828-2
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: requests
+      date_effective:
+        date: '2015-10-15'
+        type: effective
+      message: |
+        SC4 requests its Secretariat to change the development track of ISO 18828-2 from 24
+        months to 36 months.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '916'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2015-10-15'
-    kind: decision
-  actions:
-  - type: requests
-    message: |
-      SC4 requests its Secretariat to terminate its liaisons with the Association for
-      Standardization of Automation and Measuring Systems (ASAM).
-    dates:
-    - start: '2015-10-15'
-      kind: effective
-- identifier: '917'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Apply 2-month ballot duration to specific NP proposals
+  - date: '2015-10-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Terminate SC 4 Liaison with ASAM
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: requests
+      date_effective:
+        date: '2015-10-15'
+        type: effective
+      message: |
+        SC4 requests its Secretariat to terminate its liaisons with the Association for
+        Standardization of Automation and Measuring Systems (ASAM).
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '917'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2015-10-15'
-    kind: decision
-  actions:
-  - type: requests
-    message: |
-      SC4 requests its Secretariat to apply the 2-month duration to the proposed NPs for:
+  - date: '2015-10-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Apply 2-month ballot duration to specific NP proposals
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: requests
+      date_effective:
+        date: '2015-10-15'
+        type: effective
+      message: |
+        SC4 requests its Secretariat to apply the 2-month duration to the proposed NPs for:
 
-      * ISO 10303 AP239 ed 3 PLCS
-      * ISO 18828-4 KPI in production planning processes
-      * ISO 8000-115 Master data: Quality identifiers
-    dates:
-    - start: '2015-10-15'
-      kind: effective
-- identifier: '918'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Solicit subject matter experts for WG 2 Parts Libraries
+        * ISO 10303 AP239 ed 3 PLCS
+        * ISO 18828-4 KPI in production planning processes
+        * ISO 8000-115 Master data: Quality identifiers
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '918'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2015-10-15'
-    kind: decision
-  actions:
-  - type: requests
-    message: |
-      SC4 requests its secretariat to ask its P- and O-Members to nominate subject matter
-      experts in the area of Part Libraries. The invitation should also be sent to ISO users of
-      the PLIB standards.
-    dates:
-    - start: '2015-10-15'
-      kind: effective
-- identifier: '919'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Establish Working Group 15 for Digital Manufacturing
+  - date: '2015-10-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Solicit subject matter experts for WG 2 Parts Libraries
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: requests
+      date_effective:
+        date: '2015-10-15'
+        type: effective
+      message: |
+        SC4 requests its secretariat to ask its P- and O-Members to nominate subject matter
+        experts in the area of Part Libraries. The invitation should also be sent to ISO users of
+        the PLIB standards.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '919'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2015-10-15'
-    kind: decision
-  actions:
-  - type: decides
-    message: |
-      SC4 decides to establish Working Group 15 "Digital manufacturing". The goal of this
-      working group is to coordinate the SC 4 internal efforts in this area with other standards
-      organizations and to observe and interact with ongoing and upcoming developments.
-    dates:
-    - start: '2015-10-15'
-      kind: effective
-- identifier: '920'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Appoint experts to Joint Task Force for product properties database
+  - date: '2015-10-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Establish Working Group 15 for Digital Manufacturing
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: decides
+      date_effective:
+        date: '2015-10-15'
+        type: effective
+      message: |
+        SC4 decides to establish Working Group 15 "Digital manufacturing". The goal of this
+        working group is to coordinate the SC 4 internal efforts in this area with other standards
+        organizations and to observe and interact with ongoing and upcoming developments.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '920'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2015-10-15'
-    kind: decision
-  actions:
-  - type: appoints
-    message: |
-      SC4 appoints the following experts to assist in the work of the Joint Task Force
-      to explore the establishment of a database for product properties and classes:
+  - date: '2015-10-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Appoint experts to Joint Task Force for product properties database
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: appoints
+      date_effective:
+        date: '2015-10-15'
+        type: effective
+      message: |
+        SC4 appoints the following experts to assist in the work of the Joint Task Force
+        to explore the establishment of a database for product properties and classes:
 
-      * Wolfgang Wilkes: ISO 13584 expert and user in other standards
-      * Norman Swindells: User of ISO 13584 in other standards
-      * Nils Sandsmark: ISO 15926 expert and user in oil and gas facility environments
-      * Nigel Shaw: ISO 10303-239 and reference data expert and user
-      * Nicolas Figay: ISO 10303-242 expert
-      * Peter Benson: ISO 22745 expert and user
-      * Nikolaus Ondracek: ISO 13584 expert and user
-      * David Leal: ISO 15926 and RDL expert
-      * Paul van Exel: ISO 15926 expert
-    dates:
-    - start: '2015-10-15'
-      kind: effective
-  - type: requests
-    message: |
-      SC4 requests its PPC to arrange a coordination meeting for the nominees to ensure a
-      consistent representation from SC 4 in this task force.
-    dates:
-    - start: '2015-10-15'
-      kind: effective
-- identifier: '921'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Approve PWI for new Edition 3 of ISO 14306 JT
+        * Wolfgang Wilkes: ISO 13584 expert and user in other standards
+        * Norman Swindells: User of ISO 13584 in other standards
+        * Nils Sandsmark: ISO 15926 expert and user in oil and gas facility environments
+        * Nigel Shaw: ISO 10303-239 and reference data expert and user
+        * Nicolas Figay: ISO 10303-242 expert
+        * Peter Benson: ISO 22745 expert and user
+        * Nikolaus Ondracek: ISO 13584 expert and user
+        * David Leal: ISO 15926 and RDL expert
+        * Paul van Exel: ISO 15926 expert
+    - type: requests
+      date_effective:
+        date: '2015-10-15'
+        type: effective
+      message: |
+        SC4 requests its PPC to arrange a coordination meeting for the nominees to ensure a
+        consistent representation from SC 4 in this task force.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '921'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2015-10-15'
-    kind: decision
-  considerations:
-  - type: noting
-    message: |
-      Noting the revised schedule for the delivery of a document for DIS ballot for edition
-      2 by the end of February 2016.
-    dates:
-    - start: '2015-10-15'
-      kind: effective
-  actions:
-  - type: approves
-    message: |
-      SC4 approves a PWI to create a new edition 3 of ISO 14306.
-    dates:
-    - start: '2015-10-15'
-      kind: effective
-  - type: asks
-    message: |
-      SC4 asks member bodies and other stakeholders such as the Global
-      Automotive Action Group to nominate experts to the project and to solicit requirements
-      to be addressed in the next edition by end March 2016.
-    dates:
-    - start: '2015-10-15'
-      kind: effective
-- identifier: 201510-acclaim-01
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Thank SC 4 Liaisons and presenters
-  dates:
-  - start: '2015-10-15'
-    kind: decision
-  actions:
-  - type: thanks
-    message: |
-      SC4 expresses its appreciation to our SC 4 Liaisons and those projects who presented
-      at the Liaison Plenary:
+  - date: '2015-10-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Approve PWI for new Edition 3 of ISO 14306 JT
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    considerations:
+    - type: noting
+      date_effective:
+        date: '2015-10-15'
+        type: effective
+      message: |
+        Noting the revised schedule for the delivery of a document for DIS ballot for edition
+        2 by the end of February 2016.
+    actions:
+    - type: approves
+      date_effective:
+        date: '2015-10-15'
+        type: effective
+      message: 'SC4 approves a PWI to create a new edition 3 of ISO 14306.
 
-      * Energistics -- Jana Schey
-      * IAIDQ Conference -- Tim King
-      * ECCMA -- Peter Benson
-      * JTC 1/SC 24 X3D -- Christophe Mouton
-      * ISO 9001:2015 -- Tor Arne Irgens
-      * TC 184 update -- Howard Mason
-    dates:
-    - start: '2015-10-15'
-      kind: effective
-- identifier: 201510-acclaim-02
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Thank Industry Day participants
+        '
+    - type: asks
+      date_effective:
+        date: '2015-10-15'
+        type: effective
+      message: |
+        SC4 asks member bodies and other stakeholders such as the Global
+        Automotive Action Group to nominate experts to the project and to solicit requirements
+        to be addressed in the next edition by end March 2016.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: 201510-acclaim-01
+  kind: resolution
+  status: decided
   dates:
-  - start: '2015-10-15'
-    kind: decision
-  actions:
-  - type: thanks
-    message: |
-      SC4 expresses its appreciation to the following individuals and organizations for their
-      participation in the 70th ISO/TC 184/SC 4 Industry Day in Baltimore, Maryland, 2015-10-21:
+  - date: '2015-10-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Thank SC 4 Liaisons and presenters
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: thanks
+      date_effective:
+        date: '2015-10-15'
+        type: effective
+      message: |
+        SC4 expresses its appreciation to our SC 4 Liaisons and those projects who presented
+        at the Liaison Plenary:
 
-      * David Odendahl, Boeing Airplane
-      * Corey Dickman, Penn State & America Makes
-      * Mikael Hedlind, Scania
-      * Max Ungerer, ProSTEP
-      * Andy Byrd, Okuma Dan Finke, Penn State
-      * Larry Maggiano, Mitutoyo
-      * Bengt Olsson, Sandvik
-      * Tom Raun, Iscar Metals
-      * Sid Venkatesh, Boeing Airplane
-    dates:
-    - start: '2015-10-15'
-      kind: effective
-- identifier: 201510-acclaim-03
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Thank hosts of the 70th SC 4 Plenary
+        * Energistics -- Jana Schey
+        * IAIDQ Conference -- Tim King
+        * ECCMA -- Peter Benson
+        * JTC 1/SC 24 X3D -- Christophe Mouton
+        * ISO 9001:2015 -- Tor Arne Irgens
+        * TC 184 update -- Howard Mason
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: 201510-acclaim-02
+  kind: resolution
+  status: decided
   dates:
-  - start: '2015-10-15'
-    kind: decision
-  actions:
-  - type: thanks
-    message: |
-      SC4 expresses its appreciation to Peter Benson, and Vicky Kondravy for hosting the
-      70th ISO/TC 184/SC 4 Plenary in Baltimore, Maryland, 2015-10-18/23.
+  - date: '2015-10-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Thank Industry Day participants
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: thanks
+      date_effective:
+        date: '2015-10-15'
+        type: effective
+      message: |
+        SC4 expresses its appreciation to the following individuals and organizations for their
+        participation in the 70th ISO/TC 184/SC 4 Industry Day in Baltimore, Maryland, 2015-10-21:
 
-      Special acknowledgement is extended to the Pier 5 Hotel, Baltimore, Maryland and its
-      staff for their seamless and attentive support.
-    dates:
-    - start: '2015-10-15'
-      kind: effective
+        * David Odendahl, Boeing Airplane
+        * Corey Dickman, Penn State & America Makes
+        * Mikael Hedlind, Scania
+        * Max Ungerer, ProSTEP
+        * Andy Byrd, Okuma Dan Finke, Penn State
+        * Larry Maggiano, Mitutoyo
+        * Bengt Olsson, Sandvik
+        * Tom Raun, Iscar Metals
+        * Sid Venkatesh, Boeing Airplane
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: 201510-acclaim-03
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2015-10-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Thank hosts of the 70th SC 4 Plenary
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: thanks
+      date_effective:
+        date: '2015-10-15'
+        type: effective
+      message: |
+        SC4 expresses its appreciation to Peter Benson, and Vicky Kondravy for hosting the
+        70th ISO/TC 184/SC 4 Plenary in Baltimore, Maryland, 2015-10-18/23.
+
+        Special acknowledgement is extended to the Pier 5 Hotel, Baltimore, Maryland and its
+        staff for their seamless and attentive support.

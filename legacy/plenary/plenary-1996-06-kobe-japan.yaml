@@ -1,0 +1,656 @@
+metadata:
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Kobe, Japan, June 9, 1996 -- June 19, 1996
+  dates:
+  - start: '1996-06-09'
+    end: '1996-06-19'
+    kind: meeting
+  source: ISO/TC 184/SC 4 Secretariat
+  venue: Kobe, Japan
+resolutions:
+- identifier: '257'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Reconfirm resolution 168 and exempt specific projects from ATS requirements
+  dates:
+  - start: '1996-06-15'
+    kind: decision
+  actions:
+  - type: confirms
+    message: |
+      SC 4 reconfirms resolution #168 but approves exempting 10303-210, 10303-224,
+      and 10303-225 from the associated abstract test suite requirements of SC 4
+      Resolution #168 for these APs’ initial DIS registration and ballot cycle
+      if before 31 July 1996:
+
+      (a) the CD ballot comments are resolved;
+
+      (b) the DIS draft is approved by integration, qualification, and editing; and
+
+      (c) the issues resolution log and draft AP for DIS registration are successfully
+      loaded on SOLIS, with a production-ready hard copy of both documents to the SC 4
+      Secretary.
+
+      Compliance to SC 4 Resolution #168 is expected if an AP project team is unable to
+      meet (a) through (c) by 31 July 1996. The requirements of abstract test suites will
+      be enforced before FDIS.
+    dates:
+    - start: '1996-06-15'
+      kind: effective
+- identifier: '258'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Process technical SEDS reports and incorporate into ISO 10303
+  dates:
+  - start: '1996-06-15'
+    kind: decision
+  considerations:
+  - type: noting
+    message: |
+      Noting the following technical SEDS reports as found in SC 4 N 441, for
+      incorporating into the affected part of ISO 10303:
+
+      * Reports 1, 3, 4, and 6
+      * 10303-42 & 10303-43: Report 5
+      * 10303-42 & 10303-203: Report 8
+      * 10303-11: Reports 13, 14, 16, 29, 31, and 33
+    dates:
+    - start: '1996-06-15'
+      kind: effective
+  actions:
+  - type: requests
+    message: |
+      SC 4 requests the SC 4 Secretariat ensure these reports are made publicly available
+      on SOLIS, and incorporated into technical corrigenda, amendments, or new editions
+      when appropriate.
+    dates:
+    - start: '1996-06-15'
+      kind: effective
+- identifier: '259'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Process editorial SEDS reports and incorporate into ISO 10303
+  dates:
+  - start: '1996-06-15'
+    kind: decision
+  considerations:
+  - type: noting
+    message: |
+      Noting the SEDS Coordinator and SC 4 Secretariat’s decision that the following
+      SEDS reports found in SC 4 N 441 are editorial in nature and can be processed
+      accordingly: SEDS Reports 2, 7, 9, 11, 38, 39, 40-43, 45, 48, 49, 67
+    dates:
+    - start: '1996-06-15'
+      kind: effective
+  actions:
+  - type: requests
+    message: |
+      SC 4 requests the SC 4 Secretariat ensure these reports are made publicly available on SOLIS, and
+      incorporated into technical corrigenda, amendments, or new editions when appropriate.
+    dates:
+    - start: '1996-06-15'
+      kind: effective
+- identifier: '260'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Accept resignations of Yuhwei Yang, Sheila Lewis, and Albert Colin
+  dates:
+  - start: '1996-06-15'
+    kind: decision
+  actions:
+  - type: accepts
+    message: |
+      SC 4 accepts with regret the resignation of Yuhwei Yang, Sheila Lewis, and Albert
+      Colin as Convener of WG 4, WG 6, and WG 8 respectively.
+    dates:
+    - start: '1996-06-15'
+      kind: effective
+- identifier: 199606-acclaim-01
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank WG Conveners for their leadership and dedication
+  dates:
+  - start: '1996-06-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      The Committee wishes to thank Yuhwei Yang, Sheila Lewis, Albert Colin, Jan van Maanen, and Nigel Shaw for
+      their leadership and personal dedication in the SC 4 standards development effort
+      over the last decade, and encourages their continuing support of the SC 4 work.
+    dates:
+    - start: '1996-06-15'
+      kind: effective
+- identifier: '261'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Approve project leaders and endorse editors as in SC 4 N439
+  dates:
+  - start: '1996-06-15'
+    kind: decision
+  actions:
+  - type: approves
+    message: |
+      SC 4 approves the list of project leaders and endorses the list of editors for the SC 4
+      work effort as found in SC 4 N439.
+    dates:
+    - start: '1996-06-15'
+      kind: effective
+- identifier: '262'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Approve 10303-225 for Draft International Standard registration
+  dates:
+  - start: '1996-06-15'
+    kind: decision
+  actions:
+  - type: approves
+    message: |
+      SC 4 approves forwarding 10303-225 for Draft International Standard registration
+      upon meeting all requirements established by the ISO Directives and other SC 4
+      resolutions.
+    dates:
+    - start: '1996-06-15'
+      kind: effective
+- identifier: '263'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Cancel project 10303-102 for ship structures due to lack of activity
+  dates:
+  - start: '1996-06-15'
+    kind: decision
+  actions:
+  - type: agrees
+    message: |
+      SC 4 agrees to cancel project #27, 10303-102, "Integrated application resources: Ship
+      structures" due to lack of activity.
+    dates:
+    - start: '1996-06-15'
+      kind: effective
+- identifier: '264'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Cancel project 10303-516 for mechanical design context
+  dates:
+  - start: '1996-06-15'
+    kind: decision
+  actions:
+  - type: agrees
+    message: |
+      SC 4 agrees to cancel project #132, 10303-516, "Application interpreted construct:
+      Mechanical design context" as recommended by NWI/CD ballot comments.
+    dates:
+    - start: '1996-06-15'
+      kind: effective
+- identifier: '265'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Approve publication of 10303-12 as a Technical Report Type II
+  dates:
+  - start: '1996-06-15'
+    kind: decision
+  actions:
+  - type: approves
+    message: |
+      SC 4 approves the publication of 10303-12 as a Technical Report Type II and
+      requests the SC 4 Secretariat take appropriate action for its publication and
+      dissemination.
+    dates:
+    - start: '1996-06-15'
+      kind: effective
+- identifier: 199606-acclaim-02
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Recognize and support efforts of STEP implementors
+  dates:
+  - start: '1996-06-15'
+    kind: decision
+  actions:
+  - type: recognises
+    message: |
+      SC 4 recognises and supports the efforts of the STEP implementors to collaborate on
+      implementation issues, and encourages the implementors to continue to hold meetings
+      in parallel to SC 4 Working Group meetings.
+    dates:
+    - start: '1996-06-15'
+      kind: effective
+- identifier: '267'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Require electronic format for ballot comments and SC 4 correspondence
+  dates:
+  - start: '1996-06-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      SC 4 requires that, unless a P-member expressly requests in writing an exemption
+      from the SC 4 Secretary, all ballot comments shall be provided in, at minimum, ASCII
+      format along with a backup hard copy. Distribution by the SC 4 Secretariat of ballot
+      comments and general SC 4 correspondence shall be by 3.5" disk, providing the
+      original format, PostScript, and ASCII files for each SC 4 document.
+    dates:
+    - start: '1996-06-15'
+      kind: effective
+- identifier: '268'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Accept guidelines for SC 4 meeting fees as found in SC 4 N438
+  dates:
+  - start: '1996-06-15'
+    kind: decision
+  actions:
+  - type: accepts
+    message: |
+      SC 4 accepts ISO/TC 184/SC 4 N438 as the prescribed guidelines when assessing
+      fees for SC 4-related meetings, and requests the SC 4 Secretary forward these
+      guidelines to ISO for the Secretary-General's approval as required by ISO Technical
+      Management Board resolution 39/1995.
+    dates:
+    - start: '1996-06-15'
+      kind: effective
+- identifier: '269'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Approve changes to the SC 4 Organisation Handbook
+  dates:
+  - start: '1996-06-15'
+    kind: decision
+  actions:
+  - type: approves
+    message: |
+      SC 4 approves the changes to the SC 4 Organisation Handbook, SC 4 N445, and
+      requests the SC 4 Secretariat take appropriate action to publish and disseminate the
+      revised Handbook. Any further changes to the Handbook will be undertaken using the
+      procedures in Section 5.11 of the Handbook.
+    dates:
+    - start: '1996-06-15'
+      kind: effective
+- identifier: '270'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Establish Change Management Advisory function
+  dates:
+  - start: '1996-06-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: |
+      SC 4 resolves to establish a Change Management Advisory function.
+    dates:
+    - start: '1996-06-15'
+      kind: effective
+  - type: requests
+    message: |
+      SC 4 further requests the SC 4 Chairman to work with the PPC to present appropriate
+      changes to the SC 4 handbook to reflect the task of the Change Management Advisory
+      function for Handbook ratification at the next SC 4 meeting.
+    dates:
+    - start: '1996-06-15'
+      kind: effective
+- identifier: '271'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Publish methods documents as SC 4 standing documents
+  dates:
+  - start: '1996-06-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: |
+      SC 4 methods documents from SC 4 working groups and committees will be
+      published as SC 4 standing documents which will provide methods and procedures
+      for SC 4 to carry out its standards development more effectively within SC 4.
+
+      Copies of the proposed Standing Document will be circulated for ballot to P-members
+      for a three month ballot. Approval of the proposed document shall be based on the
+      procedures for a Committee Draft Document.
+
+      Any comments provided with a yes vote will be considered for making improvements
+      to the document, but the vote will be considered as in favor of making the document
+      operative as an SC 4 Standing Document. Any no vote must be accompanied by specific comments.
+
+      Changes to standing documents will be recommended by the working group or
+      committee responsible. Changes will be made by providing a new version of the page
+      containing the changes to the SC 4 Secretary for approval at the next SC 4 meeting.
+
+      Each Standing Document shall contain an annex Revision History Table indicating the
+      Section or page change and the date accepted by SC 4 and a list of those SC 4 parts
+      expressly exempt from the revision as approved.
+    dates:
+    - start: '1996-06-15'
+      kind: effective
+- identifier: '272'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Establish new Working Group 12 for SC 4 Common Resources
+  dates:
+  - start: '1996-06-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: |
+      SC 4 resolves to establish a new Working Group 12, SC 4 Common Resources.
+      Responsibility for the Application Interpreted Constructs is assigned to this working
+      Group. The Secretariat shall act as the Convener of this Working Group until
+      nominations for convener can be solicited from the P-members and a selection by the
+      Chair and Secretariat ratified by SC 4.
+
+      The nominated convener will prepare a proposal for the next SC 4 meeting to identify
+      which other existing SC 4 Projects should be transferred to the new working group
+      along with the timetable for such transfer. This proposal should recognize that
+      resources for many of the common resources are currently involved in developing
+      specific application protocols. The proposal should identify resources that will be available for work on the
+      common resources and identify needed resources so that a call for experts can be initiated.
+
+      The task of this Working Group will be:
+      - Provide for the extension of existing common resources
+      - Ensure dynamic consistency between resource types
+      - When authorized by SC 4, create or enhance specific resources based on the requirements of:
+        (a) All SC 4 Standards
+        (b) Integration requirements
+        (c) Requirements established by WG 10
+        (d) Requirements established by the Quality Committee
+      - Propose new work items for completion in the area of common resources to SC 4
+      - Establish Liaison with other standards activities working on information models useful as common resources for SC 4.
+    dates:
+    - start: '1996-06-15'
+      kind: effective
+- identifier: '273'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Appoint Jean-Jacques Michel as convener of WG 8
+  dates:
+  - start: '1996-06-15'
+    kind: decision
+  actions:
+  - type: appoints
+    message: |
+      SC 4 appoints Mr. Jean-Jacques Michel as convener of WG 8, Manufacturing
+      Management Data.
+    dates:
+    - start: '1996-06-15'
+      kind: effective
+- identifier: '274'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Appoint Allison Barnard Feeney as Convener of Quality Committee
+  dates:
+  - start: '1996-06-15'
+    kind: decision
+  actions:
+  - type: appoints
+    message: |
+      SC 4 appoints Allison Barnard Feeney as Convener of the Quality Committee.
+    dates:
+    - start: '1996-06-15'
+      kind: effective
+- identifier: '275'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Appoint Christophe Viel as Convener of WG 11
+  dates:
+  - start: '1996-06-15'
+    kind: decision
+  actions:
+  - type: appoints
+    message: |
+      SC 4 appoints Christophe Viel as Convener of WG 11, "EXPRESS Language,
+      Implementation Methods, and Conformance Methods".
+    dates:
+    - start: '1996-06-15'
+      kind: effective
+- identifier: '276'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Appoint David Price as Deputy Convener of WG 11 and create ad-hoc group
+  dates:
+  - start: '1996-06-15'
+    kind: decision
+  actions:
+  - type: appoints
+    message: |
+      SC 4 appoints David Price as Deputy Convener of WG 11, "EXPRESS Language,
+      Implementation Methods, and Conformance Methods".
+    dates:
+    - start: '1996-06-15'
+      kind: effective
+  - type: directs
+    message: |
+      SC 4 directs WG 11 to create an ad-hoc group to investigate the technical changes
+      to parts 10303-11, 12, 21, and any other 10303 parts to allow the use of multi-language
+      character sets, and to prepare new work item proposals to address this requirement.
+    dates:
+    - start: '1996-06-15'
+      kind: effective
+  - type: nominates
+    message: |
+      SC 4 nominates Neal Laurance to lead that group.
+    dates:
+    - start: '1996-06-15'
+      kind: effective
+- identifier: '278'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Require Abstract Test Suites to be advanced as Type 2 Technical Reports
+  dates:
+  - start: '1996-06-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: |
+      The development of ATS is of the utmost importance in accelerating the availability of
+      high quality commercial AP implementations. So that information and experience of
+      ATS usage in practice may be gathered, SC 4 resolution #168 is superseded by
+      requiring that all Abstract Test Suites be advanced as Type 2 Technical Reports.
+
+      Before an Application Protocol can be registered as an FDIS, the corresponding ATS
+      must have started its ballot as a Type 2 Technical Report.
+    dates:
+    - start: '1996-06-15'
+      kind: effective
+  - type: requests
+    message: |
+      The SC 4 Secretary and Chair are asked to identify the responsible projects within
+      SC 4 and task them to establish the metrics for determining when the ATS Technical
+      Report is adequate.
+    dates:
+    - start: '1996-06-15'
+      kind: effective
+- identifier: '279'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Recommend internet capability for all P-members and A-liaisons
+  dates:
+  - start: '1996-06-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: |
+      SC 4 strongly recommends that all P-members and A-liaisons have internet capability
+      to send and receive ISO/TC 184/SC 4 documents by 1997-06-01.
+    dates:
+    - start: '1996-06-15'
+      kind: effective
+- identifier: '280'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Appoint JWG 9 Convener as participating liaison to IEC/TC 93
+  dates:
+  - start: '1996-06-15'
+    kind: decision
+  actions:
+  - type: appoints
+    message: |
+      SC 4 appoints the JWG 9 Convener, Shaun Devlin, as a participating liaison to IEC/TC 93.
+    dates:
+    - start: '1996-06-15'
+      kind: effective
+- identifier: '281'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Request IEC/TC 93 to designate a liaison on electronic design automation
+  dates:
+  - start: '1996-06-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      ISO/TC 184/SC 4 requests IEC/TC 93 to designate a liaison on electronic design
+      automation to JWG 9 who can participate in the planning and technical meetings of JWG 9.
+    dates:
+    - start: '1996-06-15'
+      kind: effective
+- identifier: '282'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Accept request for a Category A liaison from NATO
+  dates:
+  - start: '1996-06-15'
+    kind: decision
+  actions:
+  - type: accepts
+    message: |
+      SC 4 accepts the request for an A-liaison from NATO and requests its
+      Secretariat to assist the NATO CALS Office to establish the liaison through the
+      normal procedures.
+    dates:
+    - start: '1996-06-15'
+      kind: effective
+- identifier: '283'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Nominate delegates for workshop on information models
+  dates:
+  - start: '1996-06-15'
+    kind: decision
+  actions:
+  - type: nominates
+    message: |
+      SC 4 recognises the importance of the planned workshop on standards for the use
+      of models that define the data and processes of information, and nominates the
+      following delegates:
+      - Guy Pierra to represent WG 2
+      - Julian Fowler to represent WG 10
+      - Phil Spiby to represent WG 11, using the invitation to SC 4
+    dates:
+    - start: '1996-06-15'
+      kind: effective
+- identifier: '284'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Support Harmonisation Group with IEC on electrotechnical product data
+  dates:
+  - start: '1996-06-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: |
+      SC 4:
+      - welcomes the efforts by the Advisory Committee on Electronics and Telecommunications (ACET) to coordinate relevant activities across IEC
+      - recognises the strong industrial demand for integration between standards relating to mechanical and electrotechnical product model data
+      - emphasises the need for a joint ISO/IEC approach to this issue, drawing attention to the previous SC 4 resolutions on the topic (Resolutions 138, 140 - October 1992)
+      - expresses its willingness to contribute to the proposed Harmonisation Group, and nominates Shaun Devlin (Convener of JWG 9) as the principal point of contact for SC 4
+      - encourages the ISO TMB to recognise the Design Automation Harmonisation Group (DAHG) activity as a joint ISO/IEC activity.
+    dates:
+    - start: '1996-06-15'
+      kind: effective
+- identifier: '285'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Invite nominations and establish liaisons with various committees
+  dates:
+  - start: '1996-06-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      SC 4 requests its secretariat to circulate a letter to P-members inviting nominations
+      for each of the following liaisons:
+      JTC 1/SC 21/WG 3, JTC 1/SC 21/WG 7, JTC 1/SC 21/WG 11, JTC 1/SC 24, ISO/TC 29,
+      ISO/TC 176, ISO/TC 213, Joint ISO-IEC-UN/ECE Coordination Committee on EDI.
+    dates:
+    - start: '1996-06-15'
+      kind: effective
+  - type: requests
+    message: |
+      SC 4 requests its Secretariat to establish the corresponding liaisons where they do
+      not already exist.
+    dates:
+    - start: '1996-06-15'
+      kind: effective
+- identifier: '286'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Define publication rules for Application Interpreted Constructs
+  dates:
+  - start: '1996-06-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: |
+      SC 4 resolves that
+      - an AIC shall be published as a separate part (500-series document)
+      - APs shall reference AICs only as a normative reference
+      - AICs shall be at the same or advanced voting status as an AP in which it is being
+        used at the time of the AP's DIS or FDIS ballot
+    dates:
+    - start: '1996-06-15'
+      kind: effective
+  - type: resolves
+    message: |
+      SC 4 authorises exemption for 10303-202 and 10303-207, recognising the current
+      ballot status of these documents.
+    dates:
+    - start: '1996-06-15'
+      kind: effective
+- identifier: '287'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Direct WG 10 to investigate the use of fully attributed EXPRESS ARMs
+  dates:
+  - start: '1996-06-15'
+    kind: decision
+  actions:
+  - type: directs
+    message: |
+      SC 4 directs WG 10 to investigate the use of fully attributed EXPRESS ARMs and
+      report to SC 4 at its next meeting.
+    dates:
+    - start: '1996-06-15'
+      kind: effective
+- identifier: '288'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Authorize preparatory work on an EXPRESS mapping language
+  dates:
+  - start: '1996-06-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: |
+      SC 4 authorises preparatory (Stage 0) work on an EXPRESS mapping language and
+      assigns Martin Hardwick as project leader.
+    dates:
+    - start: '1996-06-15'
+      kind: effective
+- identifier: 199606-acclaim-03
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank the Japan STEP Promotion Center for hosting the meetings
+  dates:
+  - start: '1996-06-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 wishes to thank the Japan STEP Promotion Center and Japan Information
+      Processing Development Center for their gracious hospitality in hosting this week's SC 4
+      Working Group and SC 4 meetings. Particular recognition for their dedicated
+      support goes to Chie Kouchi, Junko Ito, Mina Miake, and Michiyo Kuwahara.
+    dates:
+    - start: '1996-06-15'
+      kind: effective
+- identifier: '289'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Approve new project leaders and editors for SC 4 projects
+  dates:
+  - start: '1996-06-15'
+    kind: decision
+  actions:
+  - type: approves
+    message: |
+      SC 4 approves the following new project leaders and/or project editors for the
+      associated SC 4 projects:
+
+      |===
+      |ISO Project |Project Lead |Document Editor
+
+      |10303-45 |Joseph Carpenter |Robert Swindells
+      |10303-47 |Bill Anderson |Bill Anderson
+      |10303-202 |Linas Polikaitis |Kevin Freund
+      |10303-205 |Jon Owen |Jon Owen
+      |10303-207 |Charles Cederman |
+      |10303-215 |Peter Lazo |John Kendall
+      |10303-221 |Jeroen Kingma |David Leal
+      |10303-222 |Floyd Ganus |Floyd Ganus
+      |10303-223 |Ching-Yang Wang |
+      |10303-229 |Ching-Yang Wang |
+      |10303-232 |Glen Ziolko |
+      |10303-305 |Jon Owen |Jon Owen
+      |10303-318 |Yuanxie Janke-Zhao |
+      |10303-323 |Gerald Radack |Ching-Yang Wang
+      |10303-329 |Ching-Wang Yang |
+      |10303-332 |Glen Ziolko |
+      |13584-102 |Robert Schuler |
+      |14959 |Michael Pratt |Dick Wittenoom
+      |===
+    dates:
+    - start: '1996-06-15'
+      kind: effective

@@ -1,0 +1,10 @@
+🔍 Validating 1 file(s)...
+  plenary-2003-06-stuttgart-germany.yaml... ❌ INVALID
+    Schema Validation Errors:
+      plenary/plenary-2003-06-stuttgart-germany.yaml:9:1: value '' is not one of: [] at `/resolutions/9/actions/1/type`
+      plenary/plenary-2003-06-stuttgart-germany.yaml:9:1: value '' is not one of: [] at `/resolutions/11/actions/1/type`
+
+📊 Validation Summary:
+  Valid files: 0
+  Invalid files: 1
+  Success rate: 0.0%

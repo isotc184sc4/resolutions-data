@@ -1,284 +1,421 @@
+---
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Toulouse, France, June 30, 2006
-  dates:
-  - start: '2006-06-30'
-    end: '2006-06-30'
-    kind: meeting
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Toulouse, France,
+    June 30, 2006
+  date: '2006-06-30'
   source: ISO/TC 184/SC 4 Secretariat
-  venue: Toulouse, France
-resolutions:
-- identifier: '681'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Approval of Project Leaders and Project Editors for SC 4 Projects
+decisions:
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '681'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2006-06-15'
-    kind: decision
-  actions:
-  - type: approves
-    message: |
-      SC 4 approves the following new project leaders or project editors for the associated SC 4 projects:
+  - date: '2006-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Approval of Project Leaders and Project Editors for SC 4 Projects
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: approves
+      date_effective:
+        date: '2006-06-15'
+        type: effective
+      message: |
+        SC 4 approves the following new project leaders or project editors for the associated SC 4 projects:
 
-      |===
-      |Project |Leader |Editor
+        |===
+        |Project |Leader |Editor
 
-      |ISO 10303-0214ed3 |Joselito Henriques |
-      |ISO 10303-58 |Tore Hartvigsen |
-      |===
-    dates:
-    - start: '2006-06-15'
-      kind: effective
-
-- identifier: '682'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Reappointment of SC 4 Chair
+        |ISO 10303-0214ed3 |Joselito Henriques |
+        |ISO 10303-58 |Tore Hartvigsen |
+        |===
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '682'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2006-06-15'
-    kind: decision
-  actions:
-  - type: endorses
-    message: |
-      SC 4 endorses the nomination by the United States of Howard Mason for an additional three year term (January 2007-December 2009) as the Chair of ISO/TC 184 / SC 4 and instructs the Secretary to forward his nomination to ISO/TC 184 within 30 days.
-    dates:
-    - start: '2006-06-15'
-      kind: effective
+  - date: '2006-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Reappointment of SC 4 Chair
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: endorses
+      date_effective:
+        date: '2006-06-15'
+        type: effective
+      message: 'SC 4 endorses the nomination by the United States of Howard Mason
+        for an additional three year term (January 2007-December 2009) as the Chair
+        of ISO/TC 184 / SC 4 and instructs the Secretary to forward his nomination
+        to ISO/TC 184 within 30 days.
 
-- identifier: '683'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Appoint Convener of WG 13 on Industrial Data Quality
+        '
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '683'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2006-06-15'
-    kind: decision
-  actions:
-  - type: appoints
-    message: |
-      SC 4 appoints Dr. Tim King as the Convener of ISO/TC 184/SC 4/WG 13 for a three year term.
-    dates:
-    - start: '2006-06-15'
-      kind: effective
+  - date: '2006-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Appoint Convener of WG 13 on Industrial Data Quality
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: appoints
+      date_effective:
+        date: '2006-06-15'
+        type: effective
+      message: 'SC 4 appoints Dr. Tim King as the Convener of ISO/TC 184/SC 4/WG 13
+        for a three year term.
 
-- identifier: '684'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Request first meeting of WG 13
+        '
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '684'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2006-06-15'
-    kind: decision
-  actions:
-  - type: requests
-    message: |
-      SC 4 requests WG 13 to hold its first meeting no later than the next meeting of SC 4 (October 2006) in Hershey, PA, USA and asks the convener to give at this meeting a status report to SC 4 on its work programme based on Resolution 676.
-    dates:
-    - start: '2006-06-15'
-      kind: effective
+  - date: '2006-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Request first meeting of WG 13
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: requests
+      date_effective:
+        date: '2006-06-15'
+        type: effective
+      message: 'SC 4 requests WG 13 to hold its first meeting no later than the next
+        meeting of SC 4 (October 2006) in Hershey, PA, USA and asks the convener to
+        give at this meeting a status report to SC 4 on its work programme based on
+        Resolution 676.
 
-- identifier: '685'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Withdraw and revise NP Ballot on AP 241
+        '
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '685'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2006-06-15'
-    kind: decision
-  actions:
-  - type: withdraws
-    message: |
-      SC 4 withdraws the existing NWI on AP 241 (SC 4 N 2038).
-    dates:
-    - start: '2006-06-15'
-      kind: effective
-  - type: requests
-    message: |
-      SC 4 requests the SC 4/WG 3/T22 and the IAI to prepare a revised NWI for a new NWI ballot. The revision of the document and the revised change management form shall be sent to the SC 4 secretariat for circulation no later than 2006-08-31. The NWI should include details of the work partition between IAI and SC 4.
-    dates:
-    - start: '2006-06-15'
-      kind: effective
+  - date: '2006-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Withdraw and revise NP Ballot on AP 241
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: withdraws
+      date_effective:
+        date: '2006-06-15'
+        type: effective
+      message: 'SC 4 withdraws the existing NWI on AP 241 (SC 4 N 2038).
 
-- identifier: '686'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Reappointment of WG 2 Deputy Convener and module ballot requirement
+        '
+    - type: requests
+      date_effective:
+        date: '2006-06-15'
+        type: effective
+      message: 'SC 4 requests the SC 4/WG 3/T22 and the IAI to prepare a revised NWI
+        for a new NWI ballot. The revision of the document and the revised change
+        management form shall be sent to the SC 4 secretariat for circulation no later
+        than 2006-08-31. The NWI should include details of the work partition between
+        IAI and SC 4.
+
+        '
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '686'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2006-06-15'
-    kind: decision
-  considerations:
-  - type: noting
-    message: |
-      SC 4 appreciates and accepts the offer of Prof. Guy Pierra to serve as Deputy Convener of WG 2.
-    dates:
-    - start: '2006-06-15'
-      kind: effective
-  actions:
-  - type: approves
-    message: |
-      SC 4 approves the nomination of Prof. Guy Pierra to serve for an additional three year term.
-    dates:
-    - start: '2006-06-15'
-      kind: effective
-  - type: requests
-    message: |
-      SC 4 requires that SC 4 modules normatively referenced by modular STEP Application Protocols (APs) shall complete their Committee Draft Technical Specification (CD-TS) ballot prior to the AP completing its Draft International Standard (DIS) ballot. Modules need not be published by ISO to be normatively referenced. This Resolution clarifies and extends Resolutions 557 and 342.
-    dates:
-    - start: '2006-06-15'
-      kind: effective
+  - date: '2006-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Reappointment of WG 2 Deputy Convener and module ballot requirement
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    considerations:
+    - type: noting
+      date_effective:
+        date: '2006-06-15'
+        type: effective
+      message: 'SC 4 appreciates and accepts the offer of Prof. Guy Pierra to serve
+        as Deputy Convener of WG 2.
 
-- identifier: '688'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Amends resolution 674 regarding cooperation with ISO/IEC JTC 1/SC 31 on AIDC
+        '
+    actions:
+    - type: approves
+      date_effective:
+        date: '2006-06-15'
+        type: effective
+      message: 'SC 4 approves the nomination of Prof. Guy Pierra to serve for an additional
+        three year term.
+
+        '
+    - type: requests
+      date_effective:
+        date: '2006-06-15'
+        type: effective
+      message: 'SC 4 requires that SC 4 modules normatively referenced by modular
+        STEP Application Protocols (APs) shall complete their Committee Draft Technical
+        Specification (CD-TS) ballot prior to the AP completing its Draft International
+        Standard (DIS) ballot. Modules need not be published by ISO to be normatively
+        referenced. This Resolution clarifies and extends Resolutions 557 and 342.
+
+        '
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '688'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2006-06-15'
-    kind: decision
-  considerations:
-  - type: recognizing
-    message: |
-      SC 4 recognizes that formal liaison arrangements with SC 31 may need to be implemented at some future date.
-    dates:
-    - start: '2006-06-15'
-      kind: effective
-  actions:
-  - type: replaces
-    message: |
-      SC 4 replaces the first paragraph of resolution 674 with the following:
+  - date: '2006-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Amends resolution 674 regarding cooperation with ISO/IEC JTC 1/SC 31 on
+      AIDC
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    considerations:
+    - type: recognizing
+      date_effective:
+        date: '2006-06-15'
+        type: effective
+      message: 'SC 4 recognizes that formal liaison arrangements with SC 31 may need
+        to be implemented at some future date.
 
-      "SC 4 expresses its interest in taking responsibility for Industrial Data application standards for all automatic identification data capture (AIDC) technologies (not limited to radio frequency identification [RFID]), in cooperation with ISO/IEC JTC 1/SC 31."
-    dates:
-    - start: '2006-06-15'
-      kind: effective
-  - type: agrees
-    message: |
-      SC 4 agrees to extend the ad hoc group until SC 31 and ISO/TC 184 and its SC 4 define and agree the scope of the work required within their respective committees, and jointly prepare and agree any necessary New Work Item Proposals for consideration by national bodies.
-    dates:
-    - start: '2006-06-15'
-      kind: effective
-  - type: requests
-    message: |
-      SC 4 requests its delegation to provide a written report within two weeks of each physical meeting, and an oral report at each SC 4 meeting.
+        '
+    actions:
+    - type: replaces
+      date_effective:
+        date: '2006-06-15'
+        type: effective
+      message: |
+        SC 4 replaces the first paragraph of resolution 674 with the following:
 
-      Note: Resolution amends RESOLUTION 674 (Vico Equense, Italy - March 2006).
-    dates:
-    - start: '2006-06-15'
-      kind: effective
+        "SC 4 expresses its interest in taking responsibility for Industrial Data application standards for all automatic identification data capture (AIDC) technologies (not limited to radio frequency identification [RFID]), in cooperation with ISO/IEC JTC 1/SC 31."
+    - type: agrees
+      date_effective:
+        date: '2006-06-15'
+        type: effective
+      message: 'SC 4 agrees to extend the ad hoc group until SC 31 and ISO/TC 184
+        and its SC 4 define and agree the scope of the work required within their
+        respective committees, and jointly prepare and agree any necessary New Work
+        Item Proposals for consideration by national bodies.
 
-- identifier: '689'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Request liaison statement to ISO/IEC JTC 1/SC 7 on Systems Engineering
+        '
+    - type: requests
+      date_effective:
+        date: '2006-06-15'
+        type: effective
+      message: |
+        SC 4 requests its delegation to provide a written report within two weeks of each physical meeting, and an oral report at each SC 4 meeting.
+
+        Note: Resolution amends RESOLUTION 674 (Vico Equense, Italy - March 2006).
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '689'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2006-06-15'
-    kind: decision
-  considerations:
-  - type: noting
-    message: |
-      SC 4 notes the NWI on Systems Engineering from ISO/IEC JTC 1/SC 7. (N3513, N3521, N3529)
-    dates:
-    - start: '2006-06-15'
-      kind: effective
-  actions:
-  - type: requests
-    message: |
-      SC 4 requests its WG 3/T8 to prepare a liaison statement to SC 7 drawing their attention to the scope of the current work on Systems Engineering with a view to avoiding duplicated or inconsistent effort. If a liaison is required, SC 4 authorizes its Secretariat to initiate the liaison.
-    dates:
-    - start: '2006-06-15'
-      kind: effective
+  - date: '2006-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Request liaison statement to ISO/IEC JTC 1/SC 7 on Systems Engineering
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    considerations:
+    - type: noting
+      date_effective:
+        date: '2006-06-15'
+        type: effective
+      message: 'SC 4 notes the NWI on Systems Engineering from ISO/IEC JTC 1/SC 7.
+        (N3513, N3521, N3529)
 
-- identifier: '690'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Change of title for ISO 22745
+        '
+    actions:
+    - type: requests
+      date_effective:
+        date: '2006-06-15'
+        type: effective
+      message: 'SC 4 requests its WG 3/T8 to prepare a liaison statement to SC 7 drawing
+        their attention to the scope of the current work on Systems Engineering with
+        a view to avoiding duplicated or inconsistent effort. If a liaison is required,
+        SC 4 authorizes its Secretariat to initiate the liaison.
+
+        '
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '690'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2006-06-15'
-    kind: decision
-  actions:
-  - type: resolves
-    message: |
-      SC 4 resolves to change the title of ISO 22745 to: "Open technical dictionaries and their application to catalogues".
-    dates:
-    - start: '2006-06-15'
-      kind: effective
+  - date: '2006-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Change of title for ISO 22745
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: resolves
+      date_effective:
+        date: '2006-06-15'
+        type: effective
+      message: 'SC 4 resolves to change the title of ISO 22745 to: "Open technical
+        dictionaries and their application to catalogues".
 
-- identifier: 200606-acclaim-01
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Thank SC 4 Liaisons and presenters
+        '
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: 200606-acclaim-01
+  kind: resolution
+  status: decided
   dates:
-  - start: '2006-06-15'
-    kind: decision
-  actions:
-  - type: thanks
-    message: |
-      SC 4 appreciates our SC 4 Liaisons for their representation to and for ISO/TC 184/SC 4.
+  - date: '2006-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Thank SC 4 Liaisons and presenters
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: thanks
+      date_effective:
+        date: '2006-06-15'
+        type: effective
+      message: |
+        SC 4 appreciates our SC 4 Liaisons for their representation to and for ISO/TC 184/SC 4.
 
-      A special thank you to the SC 4 Liaison Plenary presenters for their insightful and comprehensive presentations:
+        A special thank you to the SC 4 Liaison Plenary presenters for their insightful and comprehensive presentations:
 
-      |===
-      |Organization |Presenter
+        |===
+        |Organization |Presenter
 
-      |OMG |David Price
-      |ISO/TC 29/WG 34 |Norman Swindells
-      |ECCMA/NATO AC/135 |Steve Arnett
-      |IAI |Thomas Liebich
-      |ISO/TC 29 WG 34 |Jonas Nordstrom
-      |ISO/IEC JTC 1/SC 32 |Gerry Radack
-      |ISO/TC 37 |Gerry Radack
-      |ASD (LOTAR) |Jean-Yves Delaunay
-      |===
+        |OMG |David Price
+        |ISO/TC 29/WG 34 |Norman Swindells
+        |ECCMA/NATO AC/135 |Steve Arnett
+        |IAI |Thomas Liebich
+        |ISO/TC 29 WG 34 |Jonas Nordstrom
+        |ISO/IEC JTC 1/SC 32 |Gerry Radack
+        |ISO/TC 37 |Gerry Radack
+        |ASD (LOTAR) |Jean-Yves Delaunay
+        |===
 
-      We also offer thanks to those external projects who presented their material at the meeting.
+        We also offer thanks to those external projects who presented their material at the meeting.
 
-      |===
-      |Project |Presenter
+        |===
+        |Project |Presenter
 
-      |eCl@ss -- PFI- ORCHID |Raymond Betz
-      |PROMISE |Dimitris Kiritsis
-      |===
-    dates:
-    - start: '2006-06-15'
-      kind: effective
-
-- identifier: 200606-acclaim-02
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Thank Alain Brail and speakers for industry day
+        |eCl@ss -- PFI- ORCHID |Raymond Betz
+        |PROMISE |Dimitris Kiritsis
+        |===
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: 200606-acclaim-02
+  kind: resolution
+  status: decided
   dates:
-  - start: '2006-06-15'
-    kind: decision
-  actions:
-  - type: thanks
-    message: |
-      SC 4 expresses its thanks to Alain Brail for organizing a most productive industry day on the future of STEP for manufacturing, and to all the speakers who contributed to the event, which has produced a wide range of information and guidance on future standards development activities.
-    dates:
-    - start: '2006-06-15'
-      kind: effective
+  - date: '2006-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Thank Alain Brail and speakers for industry day
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: thanks
+      date_effective:
+        date: '2006-06-15'
+        type: effective
+      message: 'SC 4 expresses its thanks to Alain Brail for organizing a most productive
+        industry day on the future of STEP for manufacturing, and to all the speakers
+        who contributed to the event, which has produced a wide range of information
+        and guidance on future standards development activities.
 
-- identifier: 200606-acclaim-03
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Thank Airbus for sponsorship and social event
+        '
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: 200606-acclaim-03
+  kind: resolution
+  status: decided
   dates:
-  - start: '2006-06-15'
-    kind: decision
-  actions:
-  - type: thanks
-    message: |
-      SC 4 expresses its thanks to Airbus for its sponsorship and the memorable social event, particularly for the efforts of Antoine Scotto d’Appollonia, Francesco Sperandio, Jean-Bernard Hentz and Jean-Yves Delaunay and Alain Brail.
-    dates:
-    - start: '2006-06-15'
-      kind: effective
+  - date: '2006-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Thank Airbus for sponsorship and social event
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: thanks
+      date_effective:
+        date: '2006-06-15'
+        type: effective
+      message: 'SC 4 expresses its thanks to Airbus for its sponsorship and the memorable
+        social event, particularly for the efforts of Antoine Scotto d’Appollonia,
+        Francesco Sperandio, Jean-Bernard Hentz and Jean-Yves Delaunay and Alain Brail.
 
-- identifier: 200606-acclaim-04
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Thank Paul Sabatier University for machining demonstration
+        '
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: 200606-acclaim-04
+  kind: resolution
+  status: decided
   dates:
-  - start: '2006-06-15'
-    kind: decision
-  actions:
-  - type: thanks
-    message: |
-      SC 4 expresses its thanks to Paul Sabatier University, Pierre Lagarrigue and Michele Grimal for preparing and hosting the machining demonstration.
-    dates:
-    - start: '2006-06-15'
-      kind: effective
+  - date: '2006-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Thank Paul Sabatier University for machining demonstration
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: thanks
+      date_effective:
+        date: '2006-06-15'
+        type: effective
+      message: 'SC 4 expresses its thanks to Paul Sabatier University, Pierre Lagarrigue
+        and Michele Grimal for preparing and hosting the machining demonstration.
 
-- identifier: 200606-acclaim-05
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Thank administrative staff and AFNOR for meeting support
+        '
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: 200606-acclaim-05
+  kind: resolution
+  status: decided
   dates:
-  - start: '2006-06-15'
-    kind: decision
-  actions:
-  - type: thanks
-    message: |
-      SC 4 expresses its particular thanks to Christine Hermetet-Filez and her staff, Delphine Michel and Marie-France (CTA Events), Isabelle Issanchou and Jerome (Mercure Atria), Benoit and Cyrile (LCD Vision) and Martine Dégardin (AFNOR) for their superior administrative support, outstanding hospitality, both before and during the ISO/TC 184/SC 4 meeting.
-    dates:
-    - start: '2006-06-15'
-      kind: effective
+  - date: '2006-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Thank administrative staff and AFNOR for meeting support
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: thanks
+      date_effective:
+        date: '2006-06-15'
+        type: effective
+      message: 'SC 4 expresses its particular thanks to Christine Hermetet-Filez and
+        her staff, Delphine Michel and Marie-France (CTA Events), Isabelle Issanchou
+        and Jerome (Mercure Atria), Benoit and Cyrile (LCD Vision) and Martine Dégardin
+        (AFNOR) for their superior administrative support, outstanding hospitality,
+        both before and during the ISO/TC 184/SC 4 meeting.
+
+        '

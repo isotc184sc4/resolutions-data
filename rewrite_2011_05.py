@@ -1,0 +1,296 @@
+import yaml
+
+content = """metadata:
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Portland, Oregon, United States, May 22, 2011 -- May 27, 2011
+  dates:
+  - start: '2011-05-22'
+    end: '2011-05-27'
+    kind: meeting
+  source: ISO/TC 184/SC 4 Secretariat
+  venue: Portland, Oregon, United States
+resolutions:
+- identifier: '816'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Approve new project leaders and editors for SC 4 projects
+  dates:
+  - start: '2011-05-15'
+    kind: decision
+  actions:
+  - type: approves
+    message: |
+      SC 4 approves the following new project leaders or project editors for the
+      associated SC 4 projects:
+
+      |===
+      |Project |Leader |Editor
+
+      |15926-11 |Leo van Ruijven |
+      |15926-6 |Magne Valen-Sendstad |David Leal
+      |10303-242 |Darla Nettles |
+      |===
+    dates:
+    - start: '2011-05-15'
+      kind: effective
+- identifier: '817'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Reappoint David Loffredo as WG 11 Convener for a three-year term
+  dates:
+  - start: '2011-05-15'
+    kind: decision
+  actions:
+  - type: accepts
+    message: |
+      SC 4 appreciates and accepts the offer of David Loffredo to serve as
+      Convener of WG 11.
+    dates:
+    - start: '2011-05-15'
+      kind: effective
+  - type: approves
+    message: |
+      SC 4 approves the nomination of David Loffredo to serve for an additional
+      three year term.
+    dates:
+    - start: '2011-05-15'
+      kind: effective
+- identifier: '818'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Terminate inactive direct liaisons with EMSA and EPISTLE
+  dates:
+  - start: '2011-05-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: |
+      SC 4 resolves to terminate its direct liaisons with the following
+      organizations:
+
+      * Marine e-Business Standards Association (EMSA)
+      * European Process Industries Step Technical Liaison Executive (EPISTLE)
+    dates:
+    - start: '2011-05-15'
+      kind: effective
+  considerations:
+  - type: noting
+    message: |
+      Noting that a number of its liaisons are inactive, due to evolving
+      requirements and changes in other organizations.
+    dates:
+    - start: '2011-05-15'
+      kind: effective
+- identifier: '819'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Appoint Dr. Max Ungerer as liaison officer to SASIG
+  dates:
+  - start: '2011-05-15'
+    kind: decision
+  actions:
+  - type: welcomes
+    message: |
+      SC 4 welcomes the offer of Dr. Max Ungerer to act as liaison officer to
+      the Strategic Automotive product data Standards Industry Group (SASIG).
+    dates:
+    - start: '2011-05-15'
+      kind: effective
+  - type: appoints
+    message: |
+      SC 4 appoints Dr. Max Ungerer as liaison officer to SASIG.
+    dates:
+    - start: '2011-05-15'
+      kind: effective
+- identifier: '820'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Accept Jana Schey as liaison officer from Energistics
+  dates:
+  - start: '2011-05-15'
+    kind: decision
+  actions:
+  - type: accepts
+    message: |
+      SC 4 accepts and welcomes Jana Schey as liaison officer from Energistics
+      to SC 4.
+    dates:
+    - start: '2011-05-15'
+      kind: effective
+- identifier: '821'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Change title and applicability of ISO 8000-150 and renumber to Part 50
+  dates:
+  - start: '2011-05-15'
+    kind: decision
+  actions:
+  - type: decides
+    message: |
+      SC 4 decides to change the title of ISO 8000-150 to "Data Quality - Part
+      50: Quality management framework", change the part number to 50, and no
+      longer restrict the applicability of the standard to only master data.
+    dates:
+    - start: '2011-05-15'
+      kind: effective
+  - type: directs
+    message: |
+      SC 4 directs the project team to implement this change to the document
+      following completion of the CD ballot.
+    dates:
+    - start: '2011-05-15'
+      kind: effective
+- identifier: '822'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Update Standing Documents to refer to Annex SK
+  dates:
+  - start: '2011-05-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      SC 4 requests its Secretariat to update the Standing Documents to refer to
+      Annex SK at the next revision. Meanwhile they will continue to reference
+      the Annex ST available at the time they were approved.
+    dates:
+    - start: '2011-05-15'
+      kind: effective
+  considerations:
+  - type: noting
+    message: |
+      Noting the new ISO Supplement.
+    dates:
+    - start: '2011-05-15'
+      kind: effective
+- identifier: '823'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Require NP ballot for Change Requests creating or significantly changing APs
+  dates:
+  - start: '2011-05-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      SC 4 requests its Secretariat to ensure that any Change Request resulting
+      in the creation of a new Application Protocol or AP module, or a new
+      edition of an existing Application Protocol or AP module containing
+      significant change is submitted for an NP ballot, even if the component
+      modules and resources in the Change Request are approved under the normal
+      Annex ST procedure.
+    dates:
+    - start: '2011-05-15'
+      kind: effective
+- identifier: '824'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Circulate call for nominations for WG 3 Convener
+  dates:
+  - start: '2011-05-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      SC 4 requests its Secretariat to circulate a call to P-members for
+      nominations for the post of WG 3 Convener.
+    dates:
+    - start: '2011-05-15'
+      kind: effective
+- identifier: 201105-acclaim-01
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank Oscar Rocha for his service as liaison to SASIG
+  dates:
+  - start: '2011-05-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 thanks Oscar Rocha for his outstanding effort as the SC 4 liaison to
+      SASIG since 2003.
+    dates:
+    - start: '2011-05-15'
+      kind: effective
+- identifier: 201105-acclaim-02
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank Alan Doniger for his service as liaison from Energistics
+  dates:
+  - start: '2011-05-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 thanks Alan Doniger for his efforts as the Energistics (formerly
+      POSC) liaison representative to SC 4.
+    dates:
+    - start: '2011-05-15'
+      kind: effective
+- identifier: 201105-acclaim-03
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank Open Technical Forum presenters
+  dates:
+  - start: '2011-05-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 offers thanks to those external projects who presented their material
+      at the Open Technical Forum:
+
+      * "Open Simulation Data Management" -- Jochen Haenisch -- Jotne/EPM
+      * "Use of AP 210 ed2 as an engineering data integration standard for design
+        verification, based on industrial experience at Rockwell Collins" -- Lothar
+        Klein (reading Tom Thurman's slides)
+    dates:
+    - start: '2011-05-15'
+      kind: effective
+- identifier: 201105-acclaim-04
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank SC 4 Liaisons and projects who presented at the Liaison Plenary
+  dates:
+  - start: '2011-05-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 expresses its appreciation to our SC 4 Liaisons and those projects
+      who presented at the Liaison Plenary:
+
+      * Energistics -- Jana Schey
+      * UPDM -- Len Levine
+      * ProSTEP -- JT -- Steven Vettermann
+      * BuildingSMART -- Øivind Rooth
+      * Natural Real Property Identifier (NRPI) -- Gerry Radack
+      * MoU/MG and other liaisons -- Howard Mason
+
+      We appreciate your representation to and for ISO TC 184/SC 4.
+    dates:
+    - start: '2011-05-15'
+      kind: effective
+- identifier: 201105-acclaim-05
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank Linda Kresl and speakers for Industry Day
+  dates:
+  - start: '2011-05-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 expresses its appreciation to Linda Kresl for her organization of the
+      Industry Day, and to the speakers for attending and presenting on matters
+      of interest to the SC 4 community.
+    dates:
+    - start: '2011-05-15'
+      kind: effective
+- identifier: 201105-acclaim-06
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank hosts and staff for the 61st Plenary meetings in Portland
+  dates:
+  - start: '2011-05-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 expresses its appreciation to Melissa Scheib, and Kristen Wolf for
+      their hosting and support of the 61st ISO TC 184/SC 4 Plenary meetings at
+      the Crowne Plaza Hotel in Portland, Oregon.
+
+      Special acknowledgement is extended to the Portland Crowne Plaza Hotel and
+      its staff for their seamless and attentive support.
+    dates:
+    - start: '2011-05-15'
+      kind: effective
+"""
+
+with open('/Users/mulgogi/src/isotc184sc4/resolutions/plenary/plenary-2011-05-portland-oregon-usa.yaml', 'w') as f:
+    f.write(content)
