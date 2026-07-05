@@ -1,0 +1,297 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
+metadata:
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Tokyo, Japan, November 29, 1988 -- December 9, 1988
+  dates:
+  - start: '1988-11-29'
+    end: '1988-12-09'
+    kind: meeting
+  source: ISO/TC 184/SC 4 Secretariat
+  venue: Tokyo, Japan
+resolutions:
+- identifier: '29'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Approve registration of STEP as Draft Proposal (DP)
+  dates:
+  - start: '1988-12-15'
+    kind: decision
+  actions:
+  - type: approves
+    message: |
+      SC 4 approves the registration of STEP as an ISO Draft Proposal (DP) in accordance
+      with ISO Directives Section 6.4.1.1. The DP comprises the following WG 1
+      documents:
+      
+      * N279 (Physical File Structure)
+      * N280 (Mapping from EXPRESS to Physical File Structure)
+      * N283 (Introduction, Scope and Definitions)
+      * N285 (Test Methods)
+      * N287 (EXPRESS)
+      * N284 (IPIM) with the exception of the user-defined-entity (Chapter 4.4.1.13)
+    dates:
+    - start: '1988-12-15'
+      kind: effective
+  - type: directs
+    message: |
+      SC 4 directs its secretariat to circulate the DP for letter ballot according to ISO
+      Directives Section 6.4.1.3 and 6.4.1.4. The ballot shall include voting on each clause
+      and each section of Clause 4 of the DP. This letter ballot shall be open for three
+      months from the date of circulation (6.4.2.1).
+      
+      In addition to the DP, circulation shall include for information and commenting:
+      
+      * N286 (Classification Methods)
+      * N288 (Annex D)
+      * N289 (Annex E)
+    dates:
+    - start: '1988-12-15'
+      kind: effective
+  - type: directs
+    message: |
+      SC 4 also directs WG 1 to produce:
+      
+      * A list of essential open issues related to the DP
+      * Guidelines for the requested comments, including a separate vote on the document(s) as described above.
+      
+      These are to be circulated with and referenced in the DP to assist the review by the
+      appropriate bodies.
+    dates:
+    - start: '1988-12-15'
+      kind: effective
+- identifier: '30'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Establish an editing committee for the STEP Draft Proposal
+  dates:
+  - start: '1988-12-15'
+    kind: decision
+  actions:
+  - type: establishes
+    message: |
+      SC 4 establishes an editing committee to finalize the text of the Draft Proposal for
+      submission as a Draft International Standard and maintain configuration control so that
+      all future changes be documented and approved.
+      
+      Each P-member is invited to nominate one representative to the SC 4 secretariat
+      by January 31, 1989.
+      
+      The Editing Committee reports directly to the SC 4. Its tasks comprise:
+      
+      * collecting and registering issues on the STEP DP
+      * collecting of comments
+      * assessing of comments as technical, editorial or irrelevant
+      * passing technical issues and comments to WG 1 for technical solution
+      * incorporating updates produced by WG 1
+      * editorial improvement of the standard
+      * conformance of the standard to ISO Directives and Drafting Rules.
+      
+      All changes introduced by the Editing Committee must be approved by WG 1.
+    dates:
+    - start: '1988-12-15'
+      kind: effective
+- identifier: '31'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Appoint Curtis Parks as Chairman of the Editing Committee
+  dates:
+  - start: '1988-12-15'
+    kind: decision
+  actions:
+  - type: appoints
+    message: |
+      SC 4 appoints Curtis Parks of NIST, USA to serve in the capacity of Chairman of the
+      Editing Committee until that committee has convened and established their own
+      chairman. The Chairman shall convene the Editing Committee no later than the next
+      WG 1 meeting.
+    dates:
+    - start: '1988-12-15'
+      kind: effective
+- identifier: '32'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Direct WG 1 to consider logical subdivision of STEP
+  dates:
+  - start: '1988-12-15'
+    kind: decision
+  considerations:
+  - type: recognizing
+    message: |
+      SC 4 recognizes that multiple implementation technologies exist
+    dates:
+    - start: '1988-12-15'
+      kind: effective
+  actions:
+  - type: directs
+    message: |
+      SC 4 directs WG 1 to consider a logical subdivision of the STEP standard into an open
+      set of consistent standards.
+      
+      STEP shall be based on one single, complete, implementation-independent Product
+      Information Model, which shall be the Master Record of the integrated topical and
+      application information models.
+    dates:
+    - start: '1988-12-15'
+      kind: effective
+  - type: directs
+    message: |
+      SC 4 directs WG 1 to identify and harmonize support for those
+      technologies.
+      
+      Additional work plans to develop implementation-specific extensions must be
+      approved by SC 4.
+    dates:
+    - start: '1988-12-15'
+      kind: effective
+- identifier: '34'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Form application profiles as separate parts of STEP
+  dates:
+  - start: '1988-12-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: |
+      SC 4 resolves that application profiles of STEP shall form separate parts of the STEP
+      standard, in order to provide a basis for conformance testing.
+    dates:
+    - start: '1988-12-15'
+      kind: effective
+- identifier: '35'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Direct WG 1 to seek approval before initiating new models
+  dates:
+  - start: '1988-12-15'
+    kind: decision
+  actions:
+  - type: directs
+    message: |
+      SC 4 directs WG 1 to obtain SC 4 approval for the initiation of activities regarding the
+      development of new topical and application models for STEP.
+    dates:
+    - start: '1988-12-15'
+      kind: effective
+- identifier: '36'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Direct WG 1 to develop motion and kinematics topical model
+  dates:
+  - start: '1988-12-15'
+    kind: decision
+  actions:
+  - type: directs
+    message: |
+      SC 4 directs WG 1 to develop a topical model that deals with aspects of motion and
+      kinematics as is required for the representation of products for which these aspects
+      are essential (mechanisms, industrial robots, and others) as well as for the
+      representation of assembly and disassembly operations.
+    dates:
+    - start: '1988-12-15'
+      kind: effective
+- identifier: '37'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Direct WG 1 to develop product life cycle support model
+  dates:
+  - start: '1988-12-15'
+    kind: decision
+  actions:
+  - type: directs
+    message: |
+      SC 4 directs WG 1 to develop a topical model that deals with aspects of product life
+      cycle support. This model shall be added to the STEP Information Model.
+    dates:
+    - start: '1988-12-15'
+      kind: effective
+- identifier: '38'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Direct WG 1 to develop material properties topical model
+  dates:
+  - start: '1988-12-15'
+    kind: decision
+  actions:
+  - type: directs
+    message: |
+      SC 4 directs WG 1 to develop a topical model that deals with aspects of material
+      properties with relationship to design, testing, and analysis of products, which shall be
+      added to the STEP Information Model.
+    dates:
+    - start: '1988-12-15'
+      kind: effective
+- identifier: '39'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Direct WG 1 to study CAD Standard Parts initiatives
+  dates:
+  - start: '1988-12-15'
+    kind: decision
+  actions:
+  - type: directs
+    message: |
+      SC 4 directs WG 1 to undertake a study of all existing initiatives relating to the use of
+      CAD Standard Parts and to recommend any action required for international
+      harmonisation and/or standardization.
+    dates:
+    - start: '1988-12-15'
+      kind: effective
+- identifier: '40'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Encourage implementation and validation of STEP DP
+  dates:
+  - start: '1988-12-15'
+    kind: decision
+  actions:
+  - type: encourages
+    message: |
+      SC 4 asks its member bodies and liaisons to encourage implementation and
+      validation of the STEP Draft Proposal or parts of it as soon as majority approval has
+      been gained. This encouragement is to be directed to industries, universities,
+      research organisations and organisations or projects that are funded explicitly for
+      work related to STEP such as the US PDES Inc., the US NIST PDES Testbed, the
+      European project CADEX, the German KCIM project and others. The member bodies
+      are encouraged to identify these activities to the secretariat for purposes of
+      harmonisation.
+    dates:
+    - start: '1988-12-15'
+      kind: effective
+- identifier: '41'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Direct secretariat to establish stronger liaisons
+  dates:
+  - start: '1988-12-15'
+    kind: decision
+  actions:
+  - type: directs
+    message: |
+      SC 4 directs the secretariat to establish stronger liaisons with other international
+      bodies, especially the appropriate bodies in the areas of AEC, FEM and
+      Electrical/Electronics. Member bodies shall identify to the secretariat potential
+      liaisons.
+      
+      Furthermore, SC 4 directs the secretariat to prepare a package of technical
+      documents with cover letters and send them to liaison organisations to encourage
+      more active communication. Relevant papers for this package are to be sent to the
+      secretariat.
+    dates:
+    - start: '1988-12-15'
+      kind: effective
+- identifier: '42'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Direct WG 1 to develop plan for future STEP development
+  dates:
+  - start: '1988-12-15'
+    kind: decision
+  actions:
+  - type: directs
+    message: |
+      SC 4 directs that WG 1 develop a plan for the future development of STEP. The
+      working plan is to be approved by SC 4 before October 1989 by mail ballot.
+    dates:
+    - start: '1988-12-15'
+      kind: effective
+- identifier: 198812-acclaim-01
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank Japan as host nation for the meeting
+  dates:
+  - start: '1988-12-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 and WG 1 would like to record a vote of thanks to Japan as host nation for the
+      excellent facilities and support for the November 1988 meeting.
+    dates:
+    - start: '1988-12-15'
+      kind: effective

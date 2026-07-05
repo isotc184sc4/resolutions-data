@@ -1,0 +1,287 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
+metadata:
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Rotterdam, Netherlands, January 25, 1988 -- February 4, 1988
+  dates:
+  - start: '1988-01-25'
+    end: '1988-02-04'
+    kind: meeting
+  source: ISO/TC 184/SC 4 Secretariat
+  venue: Rotterdam, Netherlands
+resolutions:
+- identifier: '13'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Approve the agenda for the Rotterdam meeting
+  dates:
+  - start: '1988-01-15'
+    kind: decision
+  actions:
+  - type: approves
+    message: |
+      To approve the agenda for the Rotterdam meeting as amended.
+    dates:
+    - start: '1988-01-15'
+      kind: effective
+- identifier: '14'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Agree to meet at least annually to monitor STEP progress
+  dates:
+  - start: '1988-01-15'
+    kind: decision
+  actions:
+  - type: agrees
+    message: |
+      SC 4 agrees to meet at intervals of not more than one year, to allow national
+      standards organizations and ISO management to formally monitor progress in STEP
+      development.
+    dates:
+    - start: '1988-01-15'
+      kind: effective
+- identifier: '15'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Define organization and method of operation by April 1988
+  dates:
+  - start: '1988-01-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: |
+      SC 4 will define, by April 1988, an efficient organization and method of operation, based
+      on working groups and an agreed project plan, which will report to SC 4 every quarter
+      to clearly demonstrate progress against that plan.
+    dates:
+    - start: '1988-01-15'
+      kind: effective
+- identifier: '16'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Define and endorse STEP workplan by April 1988
+  dates:
+  - start: '1988-01-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: |
+      SC 4 will define and endorse, by 1 April 1988, a realistic workplan for STEP
+      development, showing major milestones and taking into account existing material,
+      available man hours, contributors qualifications and ISO procedures and to have this
+      available to SC 4 members.
+    dates:
+    - start: '1988-01-15'
+      kind: effective
+- identifier: '17'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Reaffirm technical objectives of the STEP project
+  dates:
+  - start: '1988-01-15'
+    kind: decision
+  actions:
+  - type: confirms
+    message: |
+      SC 4 reaffirms the technical objectives of the STEP project as stated in resolutions 2
+      and 9 (of SC 4). The STEP standard and its implementation shall feature:
+      
+      * wider scope than existing national standards
+      * improved performance over existing standards
+      * structured application-oriented sets of entities and topical models
+      * unambiguous definitions
+      * modular structure
+      * upward compatibility between versions
+    dates:
+    - start: '1988-01-15'
+      kind: effective
+- identifier: '18'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Circulate WG 1 reference documents for comment
+  dates:
+  - start: '1988-01-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      SC 4 asks its secretariat to circulate for comments to the national bodies the following
+      reference documents of WG 1 prepared at the January 1988 meeting:
+      
+      * Document 0.0 - Project Plan
+      * Document 0.1 - Preliminary Design
+      * Document 0.2 - Work Plan Status
+      * Document 9.0 - Requirements for STEP
+      
+      These documents will be distributed before the end of February and comments should
+      be received within two months.
+    dates:
+    - start: '1988-01-15'
+      kind: effective
+- identifier: '19'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Circulate initial parts of STEP Version 1.0 for comment
+  dates:
+  - start: '1988-01-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      SC 4 asks its secretariat to circulate for comments of the national bodies the following
+      parts of STEP Version 1.0 as a minimum set:
+      
+      * Document 4.1.1 - EXPRESS
+      * Document 4.2.1 - Physical File Format 
+      * Document 4.2.2 - Mapping
+      * Document 4.1.2.1 - Geometry and Topology
+      
+      These documents will be distributed after the next meeting of WG 1 in March 1988 to
+      serve as a basis for a draft proposal. Comments should be received within two
+      months. After this period, these documents should be forwarded to the Central
+      Secretariat for registration as a DP and for ballot by SC 4 at their next meeting. Other
+      documents considered by WG 1 to be ready for review may be distributed at the
+      same time.
+    dates:
+    - start: '1988-01-15'
+      kind: effective
+- identifier: '20'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Direct WG 1 to produce software implementation framework
+  dates:
+  - start: '1988-01-15'
+    kind: decision
+  actions:
+  - type: directs
+    message: |
+      SC 4 directs WG 1 to produce a framework for software implementation, including
+      implementation subsets, such as in VDAIS and application subsets, together with
+      testing and validation procedures in parallel with each component of the standard
+      submitted for approval.
+    dates:
+    - start: '1988-01-15'
+      kind: effective
+- identifier: '21'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Provide data migration methods from existing national standards
+  dates:
+  - start: '1988-01-15'
+    kind: decision
+  actions:
+  - type: agrees
+    message: |
+      SC 4 agrees that implementation of the STEP standard shall provide a method for
+      migrating data from existing national standards such as IGES, SET and VDA-FS to
+      the new standard, and directs WG 1 to establish the guidelines for the necessary
+      tools and procedures to receive this data.
+    dates:
+    - start: '1988-01-15'
+      kind: effective
+- identifier: '22'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Welcome contribution of PDES cooperative to STEP
+  dates:
+  - start: '1988-01-15'
+    kind: decision
+  actions:
+  - type: welcomes
+    message: |
+      SC 4 wishes to formally recognize and welcome the potential contribution that can be
+      made by the proposed PDES cooperative in accelerating the development and
+      implementation of STEP.
+    dates:
+    - start: '1988-01-15'
+      kind: effective
+  - type: notes
+    message: |
+      SC 4 considers that it is essential to establish a working relationship with the
+      cooperative when it is launched, similar to that which has already been achieved
+      with the ESPRIT CAD*I, French SET and German VDA projects.
+    dates:
+    - start: '1988-01-15'
+      kind: effective
+- identifier: 198801-acclaim-01
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank and nominate Bradford M. Smith for second term
+  dates:
+  - start: '1988-01-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 thanks Mr. Bradford M. Smith for his work as chairman of SC 4 and proposes to
+      nominate Mr. Smith for a second three-year term.
+    dates:
+    - start: '1988-01-15'
+      kind: effective
+- identifier: '24'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Direct WG 1 to complete Presentation and Drafting documents
+  dates:
+  - start: '1988-01-15'
+    kind: decision
+  actions:
+  - type: directs
+    message: |
+      SC 4 directs WG 1 to concentrate its effort to complete Presentation and Drafting
+      documents (according to the ISO drafting standards) so it will be available to be
+      included in the Draft Proposal of STEP Version 1 for adoption at the SC 4 meeting
+      scheduled for 2 December 1988 in Tokyo.
+    dates:
+    - start: '1988-01-15'
+      kind: effective
+- identifier: '25'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Confirm STEP standard will be defined using EXPRESS language
+  dates:
+  - start: '1988-01-15'
+    kind: decision
+  actions:
+  - type: confirms
+    message: |
+      SC 4 confirms that the STEP standard will be defined using the EXPRESS language.
+    dates:
+    - start: '1988-01-15'
+      kind: effective
+- identifier: '26'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Direct WG 1 to maintain Open/Resolved Issues list
+  dates:
+  - start: '1988-01-15'
+    kind: decision
+  actions:
+  - type: directs
+    message: |
+      SC 4 directs WG 1 to maintain a list of "Open/Resolved Issues", distributed prior to
+      each WG 1 meeting, as a basis of preparation and subsequent discussion by the
+      experts.
+    dates:
+    - start: '1988-01-15'
+      kind: effective
+- identifier: '27'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Recommend ISO assist in coordinating related standards work
+  dates:
+  - start: '1988-01-15'
+    kind: decision
+  considerations:
+  - type: noting
+    message: |
+      As standards developments must be based on technical excellence and use of the
+      limited world wide expertise available,
+    dates:
+    - start: '1988-01-15'
+      kind: effective
+  actions:
+  - type: recommends
+    message: |
+      SC 4 recommends that ISO assist in obtaining
+      cooperation and coordination within related standards work such as in the
+      electrical/electronic area with EDIF, STEP and VHDL.
+    dates:
+    - start: '1988-01-15'
+      kind: effective
+- identifier: '28'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Accept offer of liaison with SC 24
+  dates:
+  - start: '1988-01-15'
+    kind: decision
+  actions:
+  - type: accepts
+    message: |
+      SC 4 wishes to accept the offer of a liaison with SC 24.
+    dates:
+    - start: '1988-01-15'
+      kind: effective

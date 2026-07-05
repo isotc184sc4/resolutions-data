@@ -1,636 +1,837 @@
+---
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Bordeaux, France, June 23, 2000 -- June 30, 2000
-  dates:
-  - start: '2000-06-23'
-    end: '2000-06-30'
-    kind: meeting
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Bordeaux, France,
+    June 23, 2000 -- June 30, 2000
+  date: '2000-06-23'
   source: ISO/TC 184/SC 4 Secretariat
-  venue: Bordeaux, France
-resolutions:
-- identifier: '456'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Approve project leaders and editors for ISO 10303 projects
+decisions:
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '456'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2000-06-15'
-    kind: decision
-  actions:
-  - type: approves
-    message: |
-      SC4 approves the following new project leaders or project editors for the associated SC4 projects:
+  - date: '2000-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Approve project leaders and editors for ISO 10303 projects
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: approves
+      date_effective:
+        date: '2000-06-15'
+        type: effective
+      message: |
+        SC4 approves the following new project leaders or project editors for the associated SC4 projects:
 
-      |===
-      |Project |Project Leader |Project Editor
+        |===
+        |Project |Project Leader |Project Editor
 
-      |ISO 10303-24 |David Loffredo |
-      |ISO 10303-214 |Ullrich Pfeifer |
-      |ISO 10303-215 |Len Slovensky |
-      |ISO 10303-216 |Len Slovensky |
-      |ISO 10303-227ed1 |Robin Rodenhauser |
-      |ISO 10303-227ed2 |Mark Palmer |Burt Gischner
-      |ISO 10303-332 |Jim Clark |Jim Clark
-      |===
-    dates:
-    - start: '2000-06-15'
-      kind: effective
-- identifier: '457'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Mandate ISO 8601 date format conformance for all SC 4 documents
+        |ISO 10303-24 |David Loffredo |
+        |ISO 10303-214 |Ullrich Pfeifer |
+        |ISO 10303-215 |Len Slovensky |
+        |ISO 10303-216 |Len Slovensky |
+        |ISO 10303-227ed1 |Robin Rodenhauser |
+        |ISO 10303-227ed2 |Mark Palmer |Burt Gischner
+        |ISO 10303-332 |Jim Clark |Jim Clark
+        |===
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '457'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2000-06-15'
-    kind: decision
-  actions:
-  - type: resolves
-    message: |
-      SC4 resolves that all SC4-related documents, standards, and announcements shall
-      conform to ISO 8601 (Data elements and interchange formats -- Information
-      interchange -- Representation of dates and times). In particular, all calendar dates
-      shall be in the form yyyy-mm-dd, utilizing the four-digit date, as prescribed in
-      clause 5.2.1.1 of ISO 8601. Thus, the date February 29, 2000 would be represented
-      as 2000-02-29.
-    dates:
-    - start: '2000-06-15'
-      kind: effective
-  - type: directs
-    message: |
-      SC4 directs the Quality Committee to add ISO 8601 conformance to the appropriate
-      standing documents (including the "Supplementary Directives for the Drafting and
-      Presentation of ISO 10303") and to the checklists for approval of SC4 documents.
-      SC4 directs the Quality Committee to revise the Supplementary Directives, wherever
-      applicable, to reflect this date policy.
+  - date: '2000-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Mandate ISO 8601 date format conformance for all SC 4 documents
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: resolves
+      date_effective:
+        date: '2000-06-15'
+        type: effective
+      message: |
+        SC4 resolves that all SC4-related documents, standards, and announcements shall
+        conform to ISO 8601 (Data elements and interchange formats -- Information
+        interchange -- Representation of dates and times). In particular, all calendar dates
+        shall be in the form yyyy-mm-dd, utilizing the four-digit date, as prescribed in
+        clause 5.2.1.1 of ISO 8601. Thus, the date February 29, 2000 would be represented
+        as 2000-02-29.
+    - type: directs
+      date_effective:
+        date: '2000-06-15'
+        type: effective
+      message: |
+        SC4 directs the Quality Committee to add ISO 8601 conformance to the appropriate
+        standing documents (including the "Supplementary Directives for the Drafting and
+        Presentation of ISO 10303") and to the checklists for approval of SC4 documents.
+        SC4 directs the Quality Committee to revise the Supplementary Directives, wherever
+        applicable, to reflect this date policy.
 
-      This requirement shall be effective immediately, and shall be binding on all SC4-
-      related standards, documents, and announcements, regardless of whether it is
-      documented in an approved standing document or checklist.
+        This requirement shall be effective immediately, and shall be binding on all SC4-
+        related standards, documents, and announcements, regardless of whether it is
+        documented in an approved standing document or checklist.
 
-      It is the responsibility of each person within SC4 who produces a document to comply
-      with this resolution. Project leaders, conveners, the SC4 secretariat, and SC4
-      management are directed to withhold signoff and publication of any documents that do
-      not conform to the requirements stated in this resolution. The Quality Committee shall
-      incorporate checks of compliance into its audit program.
-    dates:
-    - start: '2000-06-15'
-      kind: effective
-- identifier: '458'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Modify AP Guidelines to reflect mapping table specification changes
+        It is the responsibility of each person within SC4 who produces a document to comply
+        with this resolution. Project leaders, conveners, the SC4 secretariat, and SC4
+        management are directed to withhold signoff and publication of any documents that do
+        not conform to the requirements stated in this resolution. The Quality Committee shall
+        incorporate checks of compliance into its audit program.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '458'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2000-06-15'
-    kind: decision
-  actions:
-  - type: directs
-    message: |
-      SC4 directs the Quality Committee to modify Guidelines for the development and
-      approval of STEP application protocols to reflect the changes in the specification of
-      mapping tables as documented in SC4 N1048.
-    dates:
-    - start: '2000-06-15'
-      kind: effective
-- identifier: '459'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Establish process for adopting appropriate external specifications
+  - date: '2000-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Modify AP Guidelines to reflect mapping table specification changes
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: directs
+      date_effective:
+        date: '2000-06-15'
+        type: effective
+      message: |
+        SC4 directs the Quality Committee to modify Guidelines for the development and
+        approval of STEP application protocols to reflect the changes in the specification of
+        mapping tables as documented in SC4 N1048.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '459'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2000-06-15'
-    kind: decision
-  actions:
-  - type: requests
-    message: |
-      SC4 requests the Secretariat to establish a process for adopting the appropriate
-      specifications from outside ISO and IEC. These specifications shall be related to the
-      ISO/TC 184/SC 4 scope and should be potential candidates for ISO accreditation.
-      The Secretariat is requested to submit a proposal for approval by SC4 for the process
-      and the criteria to be applied to such specifications.
-    dates:
-    - start: '2000-06-15'
-      kind: effective
-- identifier: '460'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Create Joint Working Group with ISO/TC 184/SC 5
+  - date: '2000-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Establish process for adopting appropriate external specifications
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: requests
+      date_effective:
+        date: '2000-06-15'
+        type: effective
+      message: |
+        SC4 requests the Secretariat to establish a process for adopting the appropriate
+        specifications from outside ISO and IEC. These specifications shall be related to the
+        ISO/TC 184/SC 4 scope and should be potential candidates for ISO accreditation.
+        The Secretariat is requested to submit a proposal for approval by SC4 for the process
+        and the criteria to be applied to such specifications.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '460'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2000-06-15'
-    kind: decision
-  considerations:
-  - type: noting
-    message: |
-      According to its previous resolution #412 at the Lillehammer meeting, and taking into
-      account SC 5 KYOTO meeting resolution #346.
-  actions:
-  - type: endorses
-    message: |
-      SC4 endorses the proposal itemized below concerning the creation of a Joint working
-      group with SC 5.
+  - date: '2000-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Create Joint Working Group with ISO/TC 184/SC 5
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    considerations:
+    - type: noting
+      date_effective:
+        date: '2000-06-15'
+        type: adoption
+      message: |
+        According to its previous resolution #412 at the Lillehammer meeting, and taking into
+        account SC 5 KYOTO meeting resolution #346.
+    actions:
+    - type: endorses
+      date_effective:
+        date: '2000-06-15'
+        type: effective
+      message: |
+        SC4 endorses the proposal itemized below concerning the creation of a Joint working
+        group with SC 5.
 
-      * The SC4/WG 8 shall be transformed into a new Joint working group (JWG 8 -
-        Manufacturing Process and Management Information) between SC4 and SC 5 with
-        an enlarged scope to take into account the standardization work on PSL, as well as
-        its existing work program.
-      * The JWG 8 shall be placed under SC4 for administrative purposes.
-      * The convenor of SC4/WG 8, Jean-Jacques Michel, shall be the convenor of the JWG 8.
-      * The JWG 8 shall ideally meet four times a year in conjunction with meetings of SC4 and
-        SC 5 or their WGs.
-      * The scope for the JWG 8 shall be as follows: To enable the interchange of
-        information needed to specify a manufacturing process in terms of a standardized
-        representation of data, to exclude products and parts data, that express the
-        information exchanged, shared or archived within, or between, industrial plants.
-      * Process Specification Language (PSL) standardization work, currently existing as a
-        PWI (project 18629) of the SC4 program of work, shall be one of the projects of the
-        JWG 8 and is envisioned to lead to a new standard or multi-part standard. The scope
-        of the PSL standardization work is the semantic based interchange of a
-        manufacturing process description between different applications.
-      * PSL work in this JWG 8 shall be conducted by a project team. Michael Gruninger
-        (SC 5/WG 1 and SC4/WG 8 expert, University of Toronto and NIST) shall be the project
-        leader, David Shorter (SC 5/WG 1 expert, IT-FOCUS) shall be deputy project leader, and
-        Anne-Françoise Cutting-Decelle (SC4/WG 8 expert, University of Savoie) shall be
-        the project editor.
-    dates:
-    - start: '2000-06-15'
-      kind: effective
-- identifier: '461'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Re-appoint Greg Paul as convener of WG 12
+        * The SC4/WG 8 shall be transformed into a new Joint working group (JWG 8 -
+          Manufacturing Process and Management Information) between SC4 and SC 5 with
+          an enlarged scope to take into account the standardization work on PSL, as well as
+          its existing work program.
+        * The JWG 8 shall be placed under SC4 for administrative purposes.
+        * The convenor of SC4/WG 8, Jean-Jacques Michel, shall be the convenor of the JWG 8.
+        * The JWG 8 shall ideally meet four times a year in conjunction with meetings of SC4 and
+          SC 5 or their WGs.
+        * The scope for the JWG 8 shall be as follows: To enable the interchange of
+          information needed to specify a manufacturing process in terms of a standardized
+          representation of data, to exclude products and parts data, that express the
+          information exchanged, shared or archived within, or between, industrial plants.
+        * Process Specification Language (PSL) standardization work, currently existing as a
+          PWI (project 18629) of the SC4 program of work, shall be one of the projects of the
+          JWG 8 and is envisioned to lead to a new standard or multi-part standard. The scope
+          of the PSL standardization work is the semantic based interchange of a
+          manufacturing process description between different applications.
+        * PSL work in this JWG 8 shall be conducted by a project team. Michael Gruninger
+          (SC 5/WG 1 and SC4/WG 8 expert, University of Toronto and NIST) shall be the project
+          leader, David Shorter (SC 5/WG 1 expert, IT-FOCUS) shall be deputy project leader, and
+          Anne-Françoise Cutting-Decelle (SC4/WG 8 expert, University of Savoie) shall be
+          the project editor.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '461'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2000-06-15'
-    kind: decision
-  actions:
-  - type: appoints
-    message: |
-      SC4 re-appoints Greg Paul as convener of WG 12 for a further 3-year term.
-    dates:
-    - start: '2000-06-15'
-      kind: effective
-- identifier: '462'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Create STEP Modules Harmonization Team in WG 10
-  dates:
-  - start: '2000-06-15'
-    kind: decision
-  actions:
-  - type: resolves
-    message: |
-      A new team is proposed under WG 10 (with the expectation that it will move to the
-      appropriate WG as STEP Modularization is adopted as a mainstream practice) called
-      the "STEP Modules Harmonization Team" with the following responsibilities:
+  - date: '2000-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Re-appoint Greg Paul as convener of WG 12
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: appoints
+      date_effective:
+        date: '2000-06-15'
+        type: effective
+      message: 'SC4 re-appoints Greg Paul as convener of WG 12 for a further 3-year
+        term.
 
-      * identify commonality across existing and proposed STEP APs, based on industry requirements
-      * facilitate the exploitation of commonality through the development and use of modules
-      * support the development and standardization of modularized or extended application
-        protocols, application modules and extensions and common resources by teams working
-        in WG 3, JWG 9, and WG 12
+        '
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '462'
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2000-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Create STEP Modules Harmonization Team in WG 10
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: resolves
+      date_effective:
+        date: '2000-06-15'
+        type: effective
+      message: |
+        A new team is proposed under WG 10 (with the expectation that it will move to the
+        appropriate WG as STEP Modularization is adopted as a mainstream practice) called
+        the "STEP Modules Harmonization Team" with the following responsibilities:
 
-      The STEP Modules Harmonization team will perform the following tasks:
+        * identify commonality across existing and proposed STEP APs, based on industry requirements
+        * facilitate the exploitation of commonality through the development and use of modules
+        * support the development and standardization of modularized or extended application
+          protocols, application modules and extensions and common resources by teams working
+          in WG 3, JWG 9, and WG 12
 
-      * facilitate harmonization workshops (typically 2-4 per year)
-      * build and maintain knowledge of the full scope of AP development within SC4
-      * create and maintain tools such as a catalogue of modules (covering those in
-        development as well as published modules), usage by APs and other modules,
-        UoF repository, module repository, etc.
-      * maintain an issues log for development and use of modules, and work with other
-        teams to resolve issues
-      * report to SC4 on the level of harmonization achieved within and between specific
-        module suites
-      * as requested by module/AP development teams, to act as a neutral third party, or
-        arbitrator, in making technical decisions when disputes arise between and within
-        the development teams
-    dates:
-    - start: '2000-06-15'
-      kind: effective
-  - type: requests
-    message: |
-      SC4 requests nominations to this team from P-members and A-liaisons, to fulfil the
-      following roles:
+        The STEP Modules Harmonization team will perform the following tasks:
 
-      * Team leader
-      * Industry/application/domain expert
-      * Information requirements analysis expert
-      * Interpretation/interoperability expert
-      * Harmonization infrastructure developer
-    dates:
-    - start: '2000-06-15'
-      kind: effective
-  - type: resolves
-    message: |
-      SC4 resolves to establish this team prior to the next meeting in Charleston, and
-      directs them to commence work upon completion of the necessary guidelines by the
-      PWI Project (see resolution 374).
-    dates:
-    - start: '2000-06-15'
-      kind: effective
-  - type: directs
-    message: |
-      SC4 directs the PWI to complete the guidelines and submit them for standing document
-      ballot no later than 2000-10-30.
-    dates:
-    - start: '2000-06-15'
-      kind: effective
-- identifier: '463'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Approve nomination of A. Bezos as liaison officer with ISO/TC 184/SC 5
-  dates:
-  - start: '2000-06-15'
-    kind: decision
-  considerations:
-  - type: noting
-    message: |
-      According to the need of liaison reinforcement between ISO/TC 184/SC 4 and
-      ISO/TC 184/SC 5.
-  actions:
-  - type: approves
-    message: |
-      SC4 approves the nomination of A. Bezos of ISO/TC 184/SC 4 as liaison officer with
-      ISO/TC 184/SC 5.
-    dates:
-    - start: '2000-06-15'
-      kind: effective
-- identifier: '464'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Approve A-liaison with funStep Interest Group
-  dates:
-  - start: '2000-06-15'
-    kind: decision
-  actions:
-  - type: approves
-    message: |
-      ISO/TC 184/SC 4 approves the A-liaison with funStep Interest Group (FSIG), and
-      appoints Mr. Ricardo Gonçalves (UNINOVA-Portugal) and Mr. Miguel Borras (AIDIMA --
-      Spain) as the liaison officers, and requests the SC4 secretary to confirm this liaison
-      with the ISO Central Secretariat.
-    dates:
-    - start: '2000-06-15'
-      kind: effective
-- identifier: '465'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Change title of ISO 15926
-  dates:
-  - start: '2000-06-15'
-    kind: decision
-  actions:
-  - type: approves
-    message: |
-      SC4 approves a change of name of ISO 15926 from "Integration of life-cycle data for
-      oil and gas production facilities" to "Integration of life-cycle data for process plants
-      including oil and gas production facilities".
-    dates:
-    - start: '2000-06-15'
-      kind: effective
-  - type: directs
-    message: |
-      SC4 directs its Secretariat to update its database and web-pages to show this change
-      of name, and to ensure that this is coordinated with the ISO Central Secretariat's records.
-    dates:
-    - start: '2000-06-15'
-      kind: effective
-- identifier: '466'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Approve V. Srinivasan as two-way liaison officer with ISO/TC 213
-  dates:
-  - start: '2000-06-15'
-    kind: decision
-  considerations:
-  - type: noting
-    message: |
-      According to the need of liaison reinforcement between ISO/TC 184/SC 4 and ISO/TC 213.
-  actions:
-  - type: approves
-    message: |
-      SC4 approves the nomination of V. Srinivasan of ISO/TC 184 as two-way liaison
-      officer with ISO/TC 213.
-    dates:
-    - start: '2000-06-15'
-      kind: effective
-- identifier: '467'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Process ISO 10303-28 as a Technical Specification
-  dates:
-  - start: '2000-06-15'
-    kind: decision
-  actions:
-  - type: confirms
-    message: |
-      SC4 confirms the decision of the Part 28 Project to process ISO 10303-28 as
-      a Technical Specification, instead of as a Committee Draft as specified in the
-      NWI Proposal. This TS is expected to be revised as necessary to accommodate
-      new developments.
-    dates:
-    - start: '2000-06-15'
-      kind: effective
-- identifier: '468'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Split EXPRESS to OMG XMI binding into new Part 25
-  dates:
-  - start: '2000-06-15'
-    kind: decision
-  actions:
-  - type: resolves
-    message: |
-      SC4 resolves that the development of a mapping of EXPRESS into the physical
-      meta-model of UML enabling OMG XMI use shall be removed from Part 28 and
-      published as a new part and as a Draft Technical Specification ISO 10303-25
-      EXPRESS to OMG XMI binding.
-    dates:
-    - start: '2000-06-15'
-      kind: effective
-  - type: directs
-    message: |
-      SC4 directs the new Part 25 and Part 28 technical development teams to continue
-      coordination efforts as appropriate.
-    dates:
-    - start: '2000-06-15'
-      kind: effective
-  - type: resolves
-    message: |
-      SC4 names Peter Bergström as the Part 25 Project Leader and names David Price
-      as Project Editor.
-    dates:
-    - start: '2000-06-15'
-      kind: effective
-  - type: directs
-    message: |
-      SC4 directs the Secretariat to update the URL containing the titles of all ISO 10303
-      parts to reflect this change.
-    dates:
-    - start: '2000-06-15'
-      kind: effective
-- identifier: '469'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Update policy for development and publication of test cases and abstract test suites
-  dates:
-  - start: '2000-06-15'
-    kind: decision
-  actions:
-  - type: resolves
-    message: |
-      SC4 cancels its resolutions #168, #169, #257, and #278 and establishes the following
-      policy for development and publication of test cases and abstract test suites.
-    dates:
-    - start: '2000-06-15'
-      kind: effective
-  - type: resolves
-    message: |
-      SC4 requires that all projects develop appropriate test cases to validate the draft
-      specifications during their development, and to deliver such test cases with the CD
-      and DIS, or DTS. For Parts that have already been registered as DIS, such test cases
-      should be made available at the earliest opportunity.
+        * facilitate harmonization workshops (typically 2-4 per year)
+        * build and maintain knowledge of the full scope of AP development within SC4
+        * create and maintain tools such as a catalogue of modules (covering those in
+          development as well as published modules), usage by APs and other modules,
+          UoF repository, module repository, etc.
+        * maintain an issues log for development and use of modules, and work with other
+          teams to resolve issues
+        * report to SC4 on the level of harmonization achieved within and between specific
+          module suites
+        * as requested by module/AP development teams, to act as a neutral third party, or
+          arbitrator, in making technical decisions when disputes arise between and within
+          the development teams
+    - type: requests
+      date_effective:
+        date: '2000-06-15'
+        type: effective
+      message: |
+        SC4 requests nominations to this team from P-members and A-liaisons, to fulfil the
+        following roles:
 
-      Test cases shall be developed on the basis of usage scenarios and sample data
-      reflecting the priorities of industry users. The industry priority for test cases should be
-      reviewed by the appropriate Implementor's Forums, International Certification Boards,
-      and/or industrial liaison organizations. The test cases shall be published as SC4
-      documents that are freely available on the SC4 Web site. The test cases may be
-      included in an AP Usage Guide, in a recommended practices document, or in a
-      separate document. Test cases for APs should be in a form suitable for use as a basis
-      for an Abstract Test Suite.
-    dates:
-    - start: '2000-06-15'
-      kind: effective
-  - type: directs
-    message: |
-      SC4 directs project leaders and working group convenors to assess the availability of
-      suitable test cases as part of the pre CD and DIS ballot approval process, and also
-      directs the Quality Committee to update the quality checklists accordingly.
-    dates:
-    - start: '2000-06-15'
-      kind: effective
-  - type: directs
-    message: |
-      SC4 directs the convenors of WG 3 and JWG 9 to identify all abstract test suite parts
-      that are under active development for publication as Technical Specifications, and
-      thereby produce a list of ISO 10303-3xx parts that can be cancelled due to lack of
-      activity.
-    dates:
-    - start: '2000-06-15'
-      kind: effective
-  - type: directs
-    message: |
-      SC4 directs the Convenors and the QC Coordinator to establish an ad hoc task group
-      to develop simple guidelines for the documentation of these test cases, taking into
-      account the existing ATS Guidelines. The ad hoc task group shall distribute the draft
-      test case guidelines before the 2000-10 SC4 meeting and conduct a review meeting at
-      the 2000-10 meeting.
-    dates:
-    - start: '2000-06-15'
-      kind: effective
-  - type: requests
-    message: |
-      SC4 requests its AP projects to consider the industrial requirement for developing
-      Abstract Test Suites, in order to facilitate conformance testing.
-      The industry priority for Abstract Test Suites should be reviewed by the appropriate
-      Implementor's Forums, International Certification Boards, and/or industrial liaison
-      organizations.
-      Abstract Test Suites may be based on test cases published by the AP projects as
-      part of their development process.
-      Abstract Test Suites shall be published as Technical Specifications.
-    dates:
-    - start: '2000-06-15'
-      kind: effective
-- identifier: '470'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Extend liaison with ISO/TC 29/WG 34 and nominate Norman Swindells
+        * Team leader
+        * Industry/application/domain expert
+        * Information requirements analysis expert
+        * Interpretation/interoperability expert
+        * Harmonization infrastructure developer
+    - type: resolves
+      date_effective:
+        date: '2000-06-15'
+        type: effective
+      message: |
+        SC4 resolves to establish this team prior to the next meeting in Charleston, and
+        directs them to commence work upon completion of the necessary guidelines by the
+        PWI Project (see resolution 374).
+    - type: directs
+      date_effective:
+        date: '2000-06-15'
+        type: effective
+      message: |
+        SC4 directs the PWI to complete the guidelines and submit them for standing document
+        ballot no later than 2000-10-30.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '463'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2000-06-15'
-    kind: decision
-  actions:
-  - type: resolves
-    message: |
-      SC4 extends its existing liaison between SC4/WG 2 and ISO/TC 29/WG 34 to cover
-      all SC4 activities.
-    dates:
-    - start: '2000-06-15'
-      kind: effective
-  - type: nominates
-    message: |
-      SC4 nominates Norman Swindells as its liaison officer, and welcomes the nomination
-      of a liaison from ISO/TC 29/WG 34.
-    dates:
-    - start: '2000-06-15'
-      kind: effective
-- identifier: '471'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Extend liaison with ISO/TC 10 and nominate Alain Bezos
+  - date: '2000-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Approve nomination of A. Bezos as liaison officer with ISO/TC 184/SC 5
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    considerations:
+    - type: noting
+      date_effective:
+        date: '2000-06-15'
+        type: adoption
+      message: |
+        According to the need of liaison reinforcement between ISO/TC 184/SC 4 and
+        ISO/TC 184/SC 5.
+    actions:
+    - type: approves
+      date_effective:
+        date: '2000-06-15'
+        type: effective
+      message: |
+        SC4 approves the nomination of A. Bezos of ISO/TC 184/SC 4 as liaison officer with
+        ISO/TC 184/SC 5.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '464'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2000-06-15'
-    kind: decision
-  actions:
-  - type: resolves
-    message: |
-      SC4 extends its existing liaison between SC4 and ISO/TC 10/SC 1 to cover all
-      ISO/TC 10 activities related to the scope of SC4.
-    dates:
-    - start: '2000-06-15'
-      kind: effective
-  - type: nominates
-    message: |
-      SC4 nominates Alain Bezos as its liaison officer, and welcomes the nomination of a
-      liaison from ISO/TC 10.
-    dates:
-    - start: '2000-06-15'
-      kind: effective
-- identifier: '472'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Remove Parts 26, 213, 313, 223, and 323 from Release 2
+  - date: '2000-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Approve A-liaison with funStep Interest Group
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: approves
+      date_effective:
+        date: '2000-06-15'
+        type: effective
+      message: |
+        ISO/TC 184/SC 4 approves the A-liaison with funStep Interest Group (FSIG), and
+        appoints Mr. Ricardo Gonçalves (UNINOVA-Portugal) and Mr. Miguel Borras (AIDIMA --
+        Spain) as the liaison officers, and requests the SC4 secretary to confirm this liaison
+        with the ISO Central Secretariat.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '465'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2000-06-15'
-    kind: decision
-  actions:
-  - type: decides
-    message: |
-      SC4 decides to remove Parts 26, 213 and 313, and 223 and 323 from the list of
-      parts planned for Release 2 of ISO 10303.
-    dates:
-    - start: '2000-06-15'
-      kind: effective
-- identifier: '473'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Endorse Howard Mason for position of Chair of SC 4
+  - date: '2000-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Change title of ISO 15926
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: approves
+      date_effective:
+        date: '2000-06-15'
+        type: effective
+      message: |
+        SC4 approves a change of name of ISO 15926 from "Integration of life-cycle data for
+        oil and gas production facilities" to "Integration of life-cycle data for process plants
+        including oil and gas production facilities".
+    - type: directs
+      date_effective:
+        date: '2000-06-15'
+        type: effective
+      message: |
+        SC4 directs its Secretariat to update its database and web-pages to show this change
+        of name, and to ensure that this is coordinated with the ISO Central Secretariat's records.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '466'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2000-06-15'
-    kind: decision
-  actions:
-  - type: endorses
-    message: |
-      SC4 endorses the nomination by the United States of Howard Mason for the position
-      of Chair of ISO/TC 184/SC 4.
-    dates:
-    - start: '2000-06-15'
-      kind: effective
-- identifier: 200006-acclaim-01
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Thank Dick Wandmacher for his leadership as SC 4 Chairman
-  dates:
-  - start: '2000-06-15'
-    kind: decision
-  actions:
-  - type: thanks
-    message: |
-      SC4 expresses its appreciation to its former Chairman, Mr. Dick Wandmacher, for his
-      leadership, patience, un-tiring dedication and brilliant leadership.
-    dates:
-    - start: '2000-06-15'
-      kind: decision
-- identifier: 200006-acclaim-02
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Thank Christine Hermetet-Filez and AFNOR staff for their support
-  dates:
-  - start: '2000-06-15'
-    kind: decision
-  actions:
-  - type: thanks
-    message: |
-      SC4 expresses its deep appreciation to Christine HERMETET-FILEZ, AFNOR,
-      ISO/TC 184 Secretary, for her outstanding support both before and during the
-      meeting; and for her positive and responsive attitude. We especially appreciate her
-      welcoming remarks, expressions of support for SC4, her patience, hospitality.
+  - date: '2000-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Approve V. Srinivasan as two-way liaison officer with ISO/TC 213
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    considerations:
+    - type: noting
+      date_effective:
+        date: '2000-06-15'
+        type: adoption
+      message: 'According to the need of liaison reinforcement between ISO/TC 184/SC
+        4 and ISO/TC 213.
 
-      We address a special recognition to Emmanuelle Taulet and Isabelle Chrétien from
-      BEC and to the hostesses, Beatrice, Lida and Marjorie, for their hospitality and
-      outstanding support both before and during the ISO/TC 184/SC 4 meeting.
-    dates:
-    - start: '2000-06-15'
-      kind: decision
-- identifier: 200006-acclaim-03
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Thank AFNOR and its representatives for hosting the Bordeaux meeting
+        '
+    actions:
+    - type: approves
+      date_effective:
+        date: '2000-06-15'
+        type: effective
+      message: |
+        SC4 approves the nomination of V. Srinivasan of ISO/TC 184 as two-way liaison
+        officer with ISO/TC 213.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '467'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2000-06-15'
-    kind: decision
-  actions:
-  - type: thanks
-    message: |
-      SC4 expresses its appreciation to its meeting host, AFNOR, for the excellent meeting
-      facilities, good food, as well as the wonderful Outstanding Social Event on Tuesday
-      evening. SC4 also expresses its appreciation for their hospitality and outstanding
-      support both before and during the meeting.
+  - date: '2000-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Process ISO 10303-28 as a Technical Specification
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: confirms
+      date_effective:
+        date: '2000-06-15'
+        type: effective
+      message: |
+        SC4 confirms the decision of the Part 28 Project to process ISO 10303-28 as
+        a Technical Specification, instead of as a Committee Draft as specified in the
+        NWI Proposal. This TS is expected to be revised as necessary to accommodate
+        new developments.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '468'
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2000-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Split EXPRESS to OMG XMI binding into new Part 25
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: resolves
+      date_effective:
+        date: '2000-06-15'
+        type: effective
+      message: |
+        SC4 resolves that the development of a mapping of EXPRESS into the physical
+        meta-model of UML enabling OMG XMI use shall be removed from Part 28 and
+        published as a new part and as a Draft Technical Specification ISO 10303-25
+        EXPRESS to OMG XMI binding.
+    - type: directs
+      date_effective:
+        date: '2000-06-15'
+        type: effective
+      message: |
+        SC4 directs the new Part 25 and Part 28 technical development teams to continue
+        coordination efforts as appropriate.
+    - type: resolves
+      date_effective:
+        date: '2000-06-15'
+        type: effective
+      message: |
+        SC4 names Peter Bergström as the Part 25 Project Leader and names David Price
+        as Project Editor.
+    - type: directs
+      date_effective:
+        date: '2000-06-15'
+        type: effective
+      message: |
+        SC4 directs the Secretariat to update the URL containing the titles of all ISO 10303
+        parts to reflect this change.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '469'
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2000-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Update policy for development and publication of test cases and abstract
+      test suites
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: resolves
+      date_effective:
+        date: '2000-06-15'
+        type: effective
+      message: |
+        SC4 cancels its resolutions #168, #169, #257, and #278 and establishes the following
+        policy for development and publication of test cases and abstract test suites.
+    - type: resolves
+      date_effective:
+        date: '2000-06-15'
+        type: effective
+      message: |
+        SC4 requires that all projects develop appropriate test cases to validate the draft
+        specifications during their development, and to deliver such test cases with the CD
+        and DIS, or DTS. For Parts that have already been registered as DIS, such test cases
+        should be made available at the earliest opportunity.
 
-      We especially thank AFNOR representatives: Alain Durand, Deputy manager general
-      and Pascal Poupet, Head of ICT Department, for taking the time to participate and
-      share some pleasant moment with the SC4 activities.
-    dates:
-    - start: '2000-06-15'
-      kind: decision
-- identifier: 200006-acclaim-04
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Thank Sophie Clivio for her participation and guidance
+        Test cases shall be developed on the basis of usage scenarios and sample data
+        reflecting the priorities of industry users. The industry priority for test cases should be
+        reviewed by the appropriate Implementor's Forums, International Certification Boards,
+        and/or industrial liaison organizations. The test cases shall be published as SC4
+        documents that are freely available on the SC4 Web site. The test cases may be
+        included in an AP Usage Guide, in a recommended practices document, or in a
+        separate document. Test cases for APs should be in a form suitable for use as a basis
+        for an Abstract Test Suite.
+    - type: directs
+      date_effective:
+        date: '2000-06-15'
+        type: effective
+      message: |
+        SC4 directs project leaders and working group convenors to assess the availability of
+        suitable test cases as part of the pre CD and DIS ballot approval process, and also
+        directs the Quality Committee to update the quality checklists accordingly.
+    - type: directs
+      date_effective:
+        date: '2000-06-15'
+        type: effective
+      message: |
+        SC4 directs the convenors of WG 3 and JWG 9 to identify all abstract test suite parts
+        that are under active development for publication as Technical Specifications, and
+        thereby produce a list of ISO 10303-3xx parts that can be cancelled due to lack of
+        activity.
+    - type: directs
+      date_effective:
+        date: '2000-06-15'
+        type: effective
+      message: |
+        SC4 directs the Convenors and the QC Coordinator to establish an ad hoc task group
+        to develop simple guidelines for the documentation of these test cases, taking into
+        account the existing ATS Guidelines. The ad hoc task group shall distribute the draft
+        test case guidelines before the 2000-10 SC4 meeting and conduct a review meeting at
+        the 2000-10 meeting.
+    - type: requests
+      date_effective:
+        date: '2000-06-15'
+        type: effective
+      message: |
+        SC4 requests its AP projects to consider the industrial requirement for developing
+        Abstract Test Suites, in order to facilitate conformance testing.
+        The industry priority for Abstract Test Suites should be reviewed by the appropriate
+        Implementor's Forums, International Certification Boards, and/or industrial liaison
+        organizations.
+        Abstract Test Suites may be based on test cases published by the AP projects as
+        part of their development process.
+        Abstract Test Suites shall be published as Technical Specifications.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '470'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2000-06-15'
-    kind: decision
-  actions:
-  - type: thanks
-    message: |
-      SC4 expresses its appreciation to Sophie Clivio for taking time from her busy schedule
-      to participate in our meeting and for her valuable guidance and support for the SC4 work.
-    dates:
-    - start: '2000-06-15'
-      kind: decision
-- identifier: 200006-acclaim-05
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Thank Jacques Pons for his participation and welcome remarks
+  - date: '2000-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Extend liaison with ISO/TC 29/WG 34 and nominate Norman Swindells
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: resolves
+      date_effective:
+        date: '2000-06-15'
+        type: effective
+      message: |
+        SC4 extends its existing liaison between SC4/WG 2 and ISO/TC 29/WG 34 to cover
+        all SC4 activities.
+    - type: nominates
+      date_effective:
+        date: '2000-06-15'
+        type: effective
+      message: |
+        SC4 nominates Norman Swindells as its liaison officer, and welcomes the nomination
+        of a liaison from ISO/TC 29/WG 34.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '471'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2000-06-15'
-    kind: decision
-  actions:
-  - type: thanks
-    message: |
-      SC4 expresses its appreciation to Jacques Pons for taking time from his busy
-      schedule to participate in our meetings and for offering kind words during the
-      welcome party.
-    dates:
-    - start: '2000-06-15'
-      kind: decision
-- identifier: 200006-acclaim-06
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Thank Rob Anderson and Howard Mason for database cleanup progress
+  - date: '2000-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Extend liaison with ISO/TC 10 and nominate Alain Bezos
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: resolves
+      date_effective:
+        date: '2000-06-15'
+        type: effective
+      message: |
+        SC4 extends its existing liaison between SC4 and ISO/TC 10/SC 1 to cover all
+        ISO/TC 10 activities related to the scope of SC4.
+    - type: nominates
+      date_effective:
+        date: '2000-06-15'
+        type: effective
+      message: |
+        SC4 nominates Alain Bezos as its liaison officer, and welcomes the nomination of a
+        liaison from ISO/TC 10.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '472'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2000-06-15'
-    kind: decision
-  actions:
-  - type: thanks
-    message: |
-      SC4 expresses its appreciation to Rob Anderson BSI and Howard Mason BAE
-      Systems for the tremendous progress achieved they have achieved in the database
-      cleanup. Their efforts in support of the clean-up, verification, and validation of the SC4
-      database is a significant and major contribution that is key to the successful operation
-      of SC4 and maintaining valid data for all members of SC4.
-    dates:
-    - start: '2000-06-15'
-      kind: decision
-- identifier: 200006-acclaim-07
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Thank Greg Paul for his management of WG 12
+  - date: '2000-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Remove Parts 26, 213, 313, 223, and 323 from Release 2
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: decides
+      date_effective:
+        date: '2000-06-15'
+        type: effective
+      message: |
+        SC4 decides to remove Parts 26, 213 and 313, and 223 and 323 from the list of
+        parts planned for Release 2 of ISO 10303.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '473'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2000-06-15'
-    kind: decision
-  actions:
-  - type: thanks
-    message: |
-      SC4 wishes to express its appreciation to Greg Paul for his dedicated effort, attention
-      to details, superb management of the organization and work of WG 12. He is also
-      commended for his support of other related SC4 activities.
-    dates:
-    - start: '2000-06-15'
-      kind: decision
-- identifier: 200006-acclaim-08
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Thank Gaylen Rinaudot for her service as SOLIS administrator
+  - date: '2000-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Endorse Howard Mason for position of Chair of SC 4
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: endorses
+      date_effective:
+        date: '2000-06-15'
+        type: effective
+      message: |
+        SC4 endorses the nomination by the United States of Howard Mason for the position
+        of Chair of ISO/TC 184/SC 4.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: 200006-acclaim-01
+  kind: resolution
+  status: decided
   dates:
-  - start: '2000-06-15'
-    kind: decision
-  actions:
-  - type: thanks
-    message: |
-      SC4 wishes to expressed its appreciation to Gaylen Rinaudot for her years of
-      service as the SOLIS administrator and for SC4.
-    dates:
-    - start: '2000-06-15'
-      kind: decision
-- identifier: 200006-acclaim-09
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Thank Tom Warren for his service as Acting Chair of SC 4
+  - date: '2000-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Thank Dick Wandmacher for his leadership as SC 4 Chairman
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: thanks
+      date_effective:
+        date: '2000-06-15'
+        type: adoption
+      message: |
+        SC4 expresses its appreciation to its former Chairman, Mr. Dick Wandmacher, for his
+        leadership, patience, un-tiring dedication and brilliant leadership.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: 200006-acclaim-02
+  kind: resolution
+  status: decided
   dates:
-  - start: '2000-06-15'
-    kind: decision
-  actions:
-  - type: thanks
-    message: |
-      SC4 express its appreciation for Tom Warren for his service as the Acting Chair of
-      ISO/TC 184/SC 4.
-    dates:
-    - start: '2000-06-15'
-      kind: decision
+  - date: '2000-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Thank Christine Hermetet-Filez and AFNOR staff for their support
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: thanks
+      date_effective:
+        date: '2000-06-15'
+        type: adoption
+      message: |
+        SC4 expresses its deep appreciation to Christine HERMETET-FILEZ, AFNOR,
+        ISO/TC 184 Secretary, for her outstanding support both before and during the
+        meeting; and for her positive and responsive attitude. We especially appreciate her
+        welcoming remarks, expressions of support for SC4, her patience, hospitality.
+
+        We address a special recognition to Emmanuelle Taulet and Isabelle Chrétien from
+        BEC and to the hostesses, Beatrice, Lida and Marjorie, for their hospitality and
+        outstanding support both before and during the ISO/TC 184/SC 4 meeting.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: 200006-acclaim-03
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2000-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Thank AFNOR and its representatives for hosting the Bordeaux meeting
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: thanks
+      date_effective:
+        date: '2000-06-15'
+        type: adoption
+      message: |
+        SC4 expresses its appreciation to its meeting host, AFNOR, for the excellent meeting
+        facilities, good food, as well as the wonderful Outstanding Social Event on Tuesday
+        evening. SC4 also expresses its appreciation for their hospitality and outstanding
+        support both before and during the meeting.
+
+        We especially thank AFNOR representatives: Alain Durand, Deputy manager general
+        and Pascal Poupet, Head of ICT Department, for taking the time to participate and
+        share some pleasant moment with the SC4 activities.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: 200006-acclaim-04
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2000-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Thank Sophie Clivio for her participation and guidance
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: thanks
+      date_effective:
+        date: '2000-06-15'
+        type: adoption
+      message: |
+        SC4 expresses its appreciation to Sophie Clivio for taking time from her busy schedule
+        to participate in our meeting and for her valuable guidance and support for the SC4 work.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: 200006-acclaim-05
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2000-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Thank Jacques Pons for his participation and welcome remarks
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: thanks
+      date_effective:
+        date: '2000-06-15'
+        type: adoption
+      message: |
+        SC4 expresses its appreciation to Jacques Pons for taking time from his busy
+        schedule to participate in our meetings and for offering kind words during the
+        welcome party.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: 200006-acclaim-06
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2000-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Thank Rob Anderson and Howard Mason for database cleanup progress
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: thanks
+      date_effective:
+        date: '2000-06-15'
+        type: adoption
+      message: |
+        SC4 expresses its appreciation to Rob Anderson BSI and Howard Mason BAE
+        Systems for the tremendous progress achieved they have achieved in the database
+        cleanup. Their efforts in support of the clean-up, verification, and validation of the SC4
+        database is a significant and major contribution that is key to the successful operation
+        of SC4 and maintaining valid data for all members of SC4.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: 200006-acclaim-07
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2000-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Thank Greg Paul for his management of WG 12
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: thanks
+      date_effective:
+        date: '2000-06-15'
+        type: adoption
+      message: |
+        SC4 wishes to express its appreciation to Greg Paul for his dedicated effort, attention
+        to details, superb management of the organization and work of WG 12. He is also
+        commended for his support of other related SC4 activities.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: 200006-acclaim-08
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2000-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Thank Gaylen Rinaudot for her service as SOLIS administrator
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: thanks
+      date_effective:
+        date: '2000-06-15'
+        type: adoption
+      message: |
+        SC4 wishes to expressed its appreciation to Gaylen Rinaudot for her years of
+        service as the SOLIS administrator and for SC4.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: 200006-acclaim-09
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2000-06-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Thank Tom Warren for his service as Acting Chair of SC 4
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: thanks
+      date_effective:
+        date: '2000-06-15'
+        type: adoption
+      message: |
+        SC4 express its appreciation for Tom Warren for his service as the Acting Chair of
+        ISO/TC 184/SC 4.

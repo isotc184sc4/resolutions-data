@@ -1,0 +1,684 @@
+metadata:
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Virtual, May 4, 2026 -- May 15, 2026
+  dates:
+  - start: '2026-05-04'
+    end: '2026-05-15'
+    kind: meeting
+  source: ISO/TC 184/SC 4 Secretariat
+  venue: Virtual
+resolutions:
+- identifier: '1180'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Launch ISO/NP 18136-2 ballot
+  dates:
+  - start: '2026-05-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      SC4 requests its Committee Manager to apply the 8-week ballot duration to
+      the following NP ballots and coordinate with the appropriate committees in
+      joint work:
+
+      |===
+      |Project |Approval
+
+      |ISO/NP 18136-2: Automation systems and integration -- Nuclear
+      digital ecosystem -- Part 2: Vocabulary
+      |☒
+
+      |===
+
+    dates:
+    - start: '2026-05-15'
+      kind: effective
+- identifier: '1181'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Assignment of liaison representatives to ISO/TC 12
+  dates:
+  - start: '2026-05-15'
+    kind: decision
+  actions:
+  - type: appoints
+    message: |
+      SC4 appoints Mr. Robert Swindells, Mr. Yoshiaki Sonoda, and Mr. Ronald Tse
+      as liaison representatives from ISO/TC 184/SC 4 to ISO/TC 12 for a
+      three-year term (2026-2029), with appreciation for their willingness to
+      serve in this capacity.
+    dates:
+    - start: '2026-05-15'
+      kind: effective
+  considerations:
+  - type: noting
+    message: |
+      Noting the utilization of quantities and units in industrial data and the
+      increasing involvement of SC4 in developing standards for industrial data
+      with recognition that ISO/TC 12 -- Quantities and units has expertise in
+      this domain
+    dates:
+    - start: '2026-05-15'
+      kind: effective
+- identifier: '1182'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Assignment of liaison representatives to ISO/TC 37
+  dates:
+  - start: '2026-05-15'
+    kind: decision
+  actions:
+  - type: appoints
+    message: |
+      SC4 appoints Dr. LIU Peng, Mr. Hiroshi Murayama, Ms Hayley Thompson, Mr.
+      Yves Keraron, Mr. Christophe Mouton, and Mr. Peter Eales as liaison
+      representatives from ISO/TC 184/SC 4 to ISO/TC 37 for a three- year term
+      (2026-2029), with appreciation for their willingness to serve in this
+      capacity.
+    dates:
+    - start: '2026-05-15'
+      kind: effective
+  considerations:
+  - type: noting
+    message: |
+      Noting the increasing involvement of SC4 in vocabularies including ISO
+      15926-100, ISO 23726-2, and ISO/NP 18136-2 with recognition that ISO/TC 37
+      -- Language and terminology has expertise in this domain
+    dates:
+    - start: '2026-05-15'
+      kind: effective
+- identifier: '1183'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Appointment of liaison representatives to ISO/IEC JTC 5
+  dates:
+  - start: '2026-05-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      SC4 requests its Committee Manager to establish the liaison from ISO/TC
+      184/SC 4 to ISO/IEC JTC 5 and appoints Mr. Christophe Mouton, Mr. Peter
+      Benson, Ms Hayley Thompson, Mr. Yoshiaki Sonoda, Mr. Jean Brangé, Mr.
+      Hiroshi Murayama, Mr. Erik Molin, Mr. Peter Eales, and Mr. Zhang Wei Qun
+      (Kevin) as new liaison representatives for a three-year term [2026-2029],
+      with appreciation for their willingness to serve in this capacity.
+    dates:
+    - start: '2026-05-15'
+      kind: effective
+  considerations:
+  - type: noting
+    message: |
+      Noting the formation of ISO/IEC JTC 5 -- Digital product passport and the
+      relevance of the topic to standards developed in SC4
+    dates:
+    - start: '2026-05-15'
+      kind: effective
+- identifier: '1184'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Appointment of liaison representatives to ISO/TC 154
+  dates:
+  - start: '2026-05-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      SC 4 requests its Committee Manager to extend the liaison from ISO/TC
+      184/SC 4 to ISO/TC 154, and appoints Mr. Christophe Mouton, Mr. Peter
+      Benson, Ms Hayley Thompson, Mr. Yoshiaki Sonoda, Mr. Yves Keraron, and Mr.
+      Zhang Wei Qun, (Kevin) as new liaison representatives for a three-year
+      term [2026-2029], with appreciation for their willingness to serve in this
+      capacity.
+    dates:
+    - start: '2026-05-15'
+      kind: effective
+  considerations:
+    - type: recognizing
+      message: |
+        Recognizing:
+
+        * that ISO/TC 154 is developing ISO/NP 26087 Processes and data in
+        carbon market monitoring reporting verification (MRV) -- Data quality
+        assessment, which introduces structured methods for evaluating
+        completeness, timeliness, traceability, accuracy, and comparability of
+        MRV data, as described in ISO/TC 154 N 1641 and N 1642;
+
+        * that these concepts align closely with the data quality principles,
+        vocabularies, and industrial data frameworks maintained by ISO/TC 184/SC
+        4;
+
+        * that WG 13 has expressed strong interest in contributing expertise to
+        ensure consistency and interoperability between SC 4 data quality
+        standards and the MRV data quality methodologies under development;
+      dates:
+      - start: '2026-05-15'
+        kind: effective
+
+- identifier: '1185'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Appointment of liaison representatives to ISO/TC 85
+  dates:
+  - start: '2026-05-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      SC4 requests its Committee Manager to appoint Mr. Youngsoo, Jung, Mr. Yves
+      Keraron, and Mr. ZHANG Wei Qun, Kevin as an additional Liaison
+      Representative from ISO/TC 184/SC 4 to ISO/TC 85 (Nuclear energy, nuclear
+      technologies, and radiological protection) for a three year term
+      (2026-2029) with appreciation to serve in this capacity.
+    dates:
+    - start: '2026-05-15'
+      kind: effective
+  considerations:
+  - type: noting
+    message: |
+      Noting that ISO 18136-11 is in current development and benefits from a
+      robust relationship to ISO/TC 85
+    dates:
+    - start: '2026-05-15'
+      kind: effective
+- identifier: '1186'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Move ISO/AWI 10303-59 ed5 directly to DIS ballot, skip CD ballot
+  dates:
+  - start: '2026-05-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: |
+      SC4 resolves to skip the CD ballot (stage 30.0) and move directly to a DIS
+      ballot (stage 40.0), with the DIS ballot to be initiated no later than
+      2026-07-31.
+    dates:
+    - start: '2026-05-15'
+      kind: effective
+  - type: instructs
+    message: |
+      SC4 instructs WG 12 to prepare the necessary documents for submission and
+      requests its Committee Manager to make the submission through the normal
+      procedures.
+    dates:
+    - start: '2026-05-15'
+      kind: effective
+  considerations:
+  - type: recalling
+    message: |
+      Recalling Annex SS of the ISO/IEC Directives Part 1 and noting the
+      consensus found in WG 12 regarding the maturity of ISO/AWI 10303-59 ed5 to
+      be at DIS level.
+    dates:
+    - start: '2026-05-15'
+      kind: effective
+- identifier: '1187'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Move ISO/AWI 10303-62 ed5 directly to DIS ballot, skip CD ballot
+  dates:
+  - start: '2026-05-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: |
+      SC4 resolves to skip the CD ballot (stage 30.0) and move directly to a DIS
+      ballot (stage 40.0), with the DIS ballot to be initiated no later than
+      2026-07-31
+    dates:
+    - start: '2026-05-15'
+      kind: effective
+  - type: instructs
+    message: |
+      SC4 instructs WG 12 to prepare the necessary documents for submission and
+      requests its Committee Manager to make the submission through the normal
+      procedures.
+    dates:
+    - start: '2026-05-15'
+      kind: effective
+  considerations:
+  - type: recalling
+    message: |
+      Recalling Annex SS of the ISO/IEC Directives Part 1 and noting the
+      consensus found in WG 12 regarding the maturity of ISO/AWI 10303-62 ed5 to
+      be at DIS level.
+    dates:
+    - start: '2026-05-15'
+      kind: effective
+- identifier: '1188'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Launch ISO/NP 26379 as a new project despite less than five experts nominated in the NP ballot
+  dates:
+  - start: '2026-05-15'
+    kind: decision
+  actions:
+  - type: recognizes
+    message: |
+      recognizes that the mandatory requirement of five expert nominations has
+      not been satisfied; and
+    dates:
+    - start: '2026-05-15'
+      kind: effective
+  - type: notes
+    message: |
+      notes the reconsideration by DIN to nominate an expert and confirm the
+      inclusion of the NP into their work program.
+    dates:
+    - start: '2026-05-15'
+      kind: effective
+  - type: resolves
+    message: |
+      Resolves to launch ISO/NP 26379, 3D Shape Descriptor for Digital Twin with
+      the following terms of reference:
+
+      * Prof. Soonhung Han as Project Leader; and
+      * Mr. Tarique Hasan Khan as Project Editor,
+
+      with appreciation for their willingness to serve in these capacities.
+    dates:
+    - start: '2026-05-15'
+      kind: effective
+  - type: resolves
+    message: |
+      SC4 further recognizes the following experts who have volunteered to
+      participate in the project:
+
+      * Mr. Trevor Coulson
+      * Mr. Jayendra Ganguli
+      * Dr. Matthias Grau
+      * Mr. Christophe Mouton
+      * Mr. Astuto Soma
+      * Mr. Hyman Duan
+      * Mr. Chiho Noh
+      * Mr. Tahir Abbas Jauhar
+      * Mr. Jaein Lee
+    dates:
+    - start: '2026-05-15'
+      kind: effective
+  - type: asks
+    message: SC4 invites additional member bodies to nominate experts to participate in the projects.
+    dates:
+    - start: '2026-05-15'
+      kind: effective
+  considerations:
+  - type: noting
+    message: |
+      Noting results of the NP ballot for ISO/NP 26379 taken on 2026-01-29 where
+      a 2/3 majority of voting P-members approved the proposal with no
+      disapprove votes and two P-members nominated experts combined with the
+      subsequent Committee Internal Ballot taken on 2026-03-24 that garnished an
+      additional two P-members to nominate experts,
+- identifier: '1189'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Launch ISO/NP 15926-6 ed2 as a PWI
+  dates:
+  - start: '2026-05-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      SC4 requests its Committee Manager to launch ISO 15926-6 ed2 as a
+      Preliminary Work Item in the ISO OSD with the following terms of
+      reference:
+
+      * Project Leader: Yoshiaki Sonoda
+      * Project Editor: Hiroshi Seki
+      * Quality Committee Representative: Hiroshi Murayama as QC role
+
+      * Nominated experts
+
+      ** JP, Mr. Yoshiaki Sonoda,
+      ** JP, Mr. Hiroshi Seki,
+      ** JP, Mr. Yoshinari Hori,
+      ** JP, Mr. Kazuo Sueyoshi,
+      ** JP, Mr. Masahiko Tomi,
+      ** NL, Mr. Paul van Exel,
+      ** NL, Mr. Onno Paap,
+      ** CN, Mr. Zhang, Wei Qun,
+      ** CN, Mr. Sun, Yi,
+      ** GB, Mr. Jonathan Eyre,
+      ** FR: Mr. Christophe Mouton,
+      ** FR: Mr. Yves Keraron,
+      ** US, Mr. Ronald Tse, and
+
+      Invites member bodies not listed to nominate experts to the project.
+    dates:
+    - start: '2026-05-15'
+      kind: effective
+  considerations:
+  - type: noting
+    message: |
+      Noting that a revision to ISO 15926-6 ed2 is required by industry, that
+      the resources are available, and that there is ample support from NSB’s.
+    dates:
+    - start: '2026-05-15'
+      kind: effective
+- identifier: '1190'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Launch ISO/NP 18136-11 as a PWI
+  dates:
+  - start: '2026-05-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      SC4 requests its Committee Manager to launch ISO 18136-11 in the ISO OSD
+      as a Preliminary Work Item with the following terms of reference:
+
+      * Project Leader: Mr. Youngsoo Jung
+      * Project Editor: Mr. Yunsub Lee
+
+      * Nominated experts
+
+      ** TC 85: (Mr. Jim Herrold)
+      ** AFNOR: France (Mr. Christophe Mouton, Mr. Yves Keraron)
+      ** ANSI: US (Mr. Alan Johnston)
+      ** BIS: India (Mr. Amit Thakur, Mr. Kundan Giri)
+      ** JISC: Japan (Mr. Yoshiaki Sonoda, Mr. Hiroshi Seki)
+      ** KATS: Korea (Mr. Youngsoo Jung, Mr. Yunsub Lee)
+      ** NEN: Netherlands (Mr. Paul van Exel, Mr. Leo van Ruijven)
+      ** SAC: China (Mr. ZHANG, Wei Qun, Mr. LIU, Xu Jia, Mr. SUN, Yi , Mr. QIN,
+      Qiang)
+
+      Invites member bodies not listed to nominate experts to the project.
+    dates:
+    - start: '2026-05-15'
+      kind: effective
+  considerations:
+  - type: noting
+    message: |
+      Noting that ISO 18136-11 is required by industry to establish the
+      standards for configuration management of nuclear ecosystem data, that the
+      resources are available, and that there is ample support from NSB’s.
+    dates:
+    - start: '2026-05-15'
+      kind: effective
+- identifier: '1191'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Launch SC 4 standing document "ISO 15926/ISO 18136 maintenance of terms" as 8-week CIB
+  dates:
+  - start: '2026-05-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      SC4 requests its Committee Manager circulate an 8-week Committee Internal
+      Ballot (CIB) the draft SC4 standing document:
+
+      * “Procedure for the alignment and maintenance of terms in the ISO 15926
+      and ISO 18136 series” for comment.
+    dates:
+    - start: '2026-05-15'
+      kind: effective
+  - type: resolves
+    message: |
+      SC4 further requests WG 3 to review the comments received and to submit a
+      revised draft, together with proposed dispositions, to SC4 for further
+      consideration as a standing document of SC4.
+    dates:
+    - start: '2026-05-15'
+      kind: effective
+  considerations:
+  - type: noting
+    message: |
+      Noting the opportunity to manage vocabulary in a common way within the
+      Working Group 3 body of experts for ISO 15926 and ISO 18136.
+    dates:
+    - start: '2026-05-15'
+      kind: effective
+- identifier: '1192'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Confirm retention of ISO/TS 10303-17:2022 after systematic review
+  dates:
+  - start: '2026-05-15'
+    kind: decision
+  actions:
+  - type: notes
+    message: |
+      SC4 notes that the Systematic Review ballot for ISO/TS 10303-17:2022
+      indicated that a simple majority of the P-members of the committee propose
+      confirmation.  Furthermore, the results of the ballot indicates
+      adoption/use in Denmark, Japan, Finland and Norway, which together with
+      ongoing ISO 10303-242 development activity in France and Germany
+      demonstrate that the document is used internationally and has been adopted
+      with or without change or is used in at least five countries.
+    dates:
+    - start: '2026-05-15'
+      kind: effective
+  - type: resolves
+    message: |
+      SC4 concludes that this document meets the criteria for retention after
+      systematic review and shall be made available in its existing form
+    dates:
+    - start: '2026-05-15'
+      kind: effective
+  - type: requests
+    message: |
+      SC4 requests its Committee Manager disposition the SRR results accordingly
+      and notify ISO/CS of the Committee’s decision.
+    dates:
+    - start: '2026-05-15'
+      kind: effective
+- identifier: '1193'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Launch ISO/NP 10303-15 revision as a new project
+  dates:
+  - start: '2026-05-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      SC4 requests its Committee Manager to coordinate with ISO/CS and initiate
+      the revision of ISO 10303-15, as a New Project on SDT 18 track with the
+      following terms of reference:
+
+      Proposed date for first meeting: 2026-05-21
+
+      Dates for key milestones:
+
+      * Circulation of 1st Working Draft (if any) to experts: 2026-05-07
+      * Committee Draft Consultation (if any): 2026-06-15
+      * DTS submission: 2026-09-15
+      * Publication: 2027-01-15
+
+      Identifies SDG Goal 9 with the following rationale:
+
+      * The ISO 10303 standard in total is identified against Goal 9 and this
+      part in included in that series, and
+
+      * To enable the interoperability between industry and IT architectures in
+      industrial data applications
+    dates:
+    - start: '2026-05-15'
+      kind: effective
+  - type: allocates
+    message: |
+      SC4 allocates the project to WG 11 and appoints Mr. Kevin Le Tutour as
+      Project Leader with nominations of the following experts to participate
+      and welcome additional experts to participate in the project:
+
+      * AFNOR: Mr. Frédéric Darré, Mr. Pierre Duchier, Mr. Erwan Livolant, Mr.
+      Kevin Le Tutour
+      * DIN: Mr. Guillaume Hirel, Mr. Max Ungerer
+      * BSI: Mr. Phil Spiby, Mr. Robert Swindells
+      * ANSI: Mr. Patrick Walsh, Mr. Stuart Galt, Mr. Tom Thurman
+      * SIS: Mr. Mikael Hedlind
+
+      Utilize the ISO OSD with a document provided by WG 11 that will replace
+      the edition currently in publication.
+    dates:
+    - start: '2026-05-15'
+      kind: effective
+  considerations:
+  - type: noting
+    message: |
+      Noting the proposal from WG 11 for creating edition 3 of ISO 10303-15 to
+      incorporate capability enhancements from industry requirements identified
+      in ISO JIRA TCSC410303-2756
+    dates:
+    - start: '2026-05-15'
+      kind: effective
+- identifier: '1194'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Launch ISO/NP 8000-60 ed2 revision as new project
+  dates:
+  - start: '2026-05-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      SC4 requests its Committee Manager to Register with ISO/CS ISO/AWI TS
+      8000-60 edition 2 with the following terms of reference:
+
+      * Incorporate the new scope to include parts 65 and 66 from the ISO 8000 series,
+      * Development stage 20 with a standard development track (SDT) of 36 months,
+
+      * Target dates:
+      ** Circulation of 1st Working Draft: 2026-12-14
+      ** Committee Draft consultation: 2027-03-01
+      ** DIS submission: 2027-12-13
+      ** Publication: 2029-05-31
+
+      * Allocates the work to WG 13 with Christophe Mouton as Project Leader, Prof.
+      Changsoo Lee as Project Co-Leader, and Ms Hayley Thompson as Project Editor
+
+      * ISO/TS 8000-60 supports the UN Sustainable Development Goal 9 (Industry,
+      Innovation and Infrastructure) by providing concepts for implementing, assessing
+      and improving data quality management in various industrial sectors.
+
+      * Register the following list of NSBs with their nominated representatives as active
+      participants in the revision:
+
+      ** USA: Mr. Peter Benson
+      ** Norway: Mr. Tor Arne Irgens,
+      ** Korea: Mr. Sungjoon LIM
+      ** South Africa: Dr. Salomon De Jager
+
+      * Provide OSD access to enable WG 13 to prepare the Working Draft using the
+      previous edition as a basis.
+    dates:
+    - start: '2026-05-15'
+      kind: effective
+  considerations:
+  - type: noting
+    message: 'Noting the ballot results of the Systematic Review for ISO/SRR TS 8000-60 taken on
+      2025-12-02 and the recommendation by WG 13'
+    dates:
+    - start: '2026-05-15'
+      kind: effective
+- identifier: '1195'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Advance ISO/PWI 13584-26 ed2 to stage 20
+  dates:
+  - start: '2026-05-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: |
+      SC4 resolves to advance ISO/PWI 13584-26 ed2 to stage 20 with the
+      following terms of reference:
+
+      * Development Stage 20 (NP) with a standard development track (SDT) of 24
+      months,
+
+      * Target dates:
+
+      ** Circulation of 1st Working Draft: 2026-10-09
+      ** Committee Draft consultation: 2026-12-12
+      ** DIS submission: 2027-05-31
+      ** Publication: 2027-12-11
+
+      * ISO 13584-26 supports the UN Sustainable Development Goal 9 (Industry,
+      Innovation and Infrastructure) by ensuring efficient use of data in industrial settings
+      in concert with the larger part of the ISO 13584 series.
+
+      * ISO 13584-26 supports the UN Sustainable Development Goal 12 (Responsible
+      Consumption and Production) by properly identifying data, its meaning and
+      ensuring the responsible use of that data in industrial settings.
+
+      * Allocates the work to JWG 24 with Mr. Hiroshi Murayama as Project Leader,
+
+      * Nominate the following experts:
+
+      ** AFNOR: Mr. Christophe Mouton, Mr. Yves Keraron,
+      ** ANSI: Mr. Ronald Tse,
+      ** DIN: Mr. Gernot Rossi,
+      ** JISC: Mr. Yoshiaki Sonoda
+      ** KATS: Prof. Soonhung Han
+      ** SABS: Dr. Salomon De Jager
+
+      * Provide OSD access using the existing document to enable JWG 24 to prepare
+      the Working Draft, and
+
+      * Requests member bodies nominate experts to the project’s work.
+    dates:
+    - start: '2026-05-15'
+      kind: effective
+  considerations:
+  - type: noting
+    message: 'Noting the work of JWG 24 in the refinement of ISO/PWI 13584-26 ed2 by the project team'
+    dates:
+    - start: '2026-05-15'
+      kind: effective
+- identifier: 202605-acclaim-01
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank Dana Tripp for her service as Committee Manager
+  dates:
+  - start: '2026-05-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC4 recognizes Dana Tripp for her role as Committee Manager for the past
+      several years and for the significant contribution to the management of
+      the Committee and wishes her the best in her next endeavours.
+    dates:
+    - start: '2026-05-15'
+      kind: decision
+- identifier: 202605-acclaim-02
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank Leslie Garnett and Step Tools, Inc. for their anticipated role as Committee Manager
+  dates:
+  - start: '2026-05-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC4 welcomes Leslie Garnett and Step Tools, Inc. to the anticipated role
+      of Committee Manager and for the enthusiastic engagement in the
+      Committee’s work while the approval process concludes with ANSI.
+    dates:
+    - start: '2026-05-15'
+      kind: decision
+- identifier: 202605-acclaim-03
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank committee members and liaison representatives for their contributions
+  dates:
+  - start: '2026-05-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      P Member and Liaison reports are an important part of progressing the
+      standardization of industrial data. SC4 recognizes and appreciates the
+      contributions of the following:
+
+      * Mr. Yiqung Yang, China
+      * Mr. Christoph Mouton, France, Web3D, ISO/JTC 1/SC 24, ISO/TC 10, IEC/TC 3, ISO/TC 85
+      * Ms. Hayley Thompson, ECCMA
+      * Mr. Paul van Exel, USPI
+      * Mr. Stuart Galt, ISO/TC 171/SC 2
+    dates:
+    - start: '2026-05-15'
+      kind: decision
+- identifier: 202605-acclaim-04
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank the Committee for their flexibility and patience in the move to a virtual meeting
+  dates:
+  - start: '2026-05-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC4 recognizes the members of the Committee for their flexibility and
+      patience in the move from a hybrid in-person meeting to fully virtual. SC4
+      recognizes the Convenors, Project Leaders, and experts for adapting to the
+      new format and timeline with meetings held ahead of the Plenary to support
+      the Plenary’s goals.
+    dates:
+    - start: '2026-05-15'
+      kind: decision

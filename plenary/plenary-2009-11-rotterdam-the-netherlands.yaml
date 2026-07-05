@@ -1,366 +1,565 @@
+---
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Rotterdam, Netherlands, November 8, 2009 -- November 13, 2009
-  dates:
-  - start: '2009-11-08'
-    end: '2009-11-13'
-    kind: meeting
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Rotterdam, Netherlands,
+    November 8, 2009 -- November 13, 2009
+  date: '2009-11-08'
   source: ISO/TC 184/SC 4 Secretariat
-  venue: Rotterdam, Netherlands
-resolutions:
-- identifier: '787'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Re-appoint Howard Mason as SC 4 Chair
+decisions:
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '787'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2009-11-15'
-    kind: decision
-  actions:
-  - type: endorses
-    message: |
-      SC 4 endorses the nomination by the United States of Howard Mason for an additional three year term as the Chair of ISO TC 184 /SC 4 and instructs the Secretary to forward his nomination to ISO TC 184 within 30 days.
-    dates:
-    - start: '2009-11-15'
-      kind: effective
-- identifier: '788'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Re-appoint Guy Pierra as Deputy Convenor of WG 2
-  dates:
-  - start: '2009-11-15'
-    kind: decision
-  actions:
-  - type: approves
-    message: |
-      SC 4 approves Guy Pierra to serve as Deputy Convenor of its Working Group 2 for an additional period of three years.
-    dates:
-    - start: '2009-11-15'
-      kind: effective
-  - type: thanks
-    message: |
-      SC 4 expresses its special recognition and thanks for his exceptional dedication and service for the past three years in the position of Deputy Convenor.
-    dates:
-    - start: '2009-11-15'
-      kind: effective
-- identifier: '789'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Appoint Jean Brangé as SC 4 liaison to ISO/TC 211
-  dates:
-  - start: '2009-11-15'
-    kind: decision
-  actions:
-  - type: thanks
-    message: |
-      SC 4 thanks Mr. Jerry Smith for his work as liaison from SC 4 to ISO/TC 211 Geographic information/Geomatics.
-    dates:
-    - start: '2009-11-15'
-      kind: effective
-  - type: appoints
-    message: |
-      SC 4 thanks Mr. Jean Brangé's offer to act as liaison from SC 4 to ISO/TC 211 and appoints him to serve in that capacity.
-    dates:
-    - start: '2009-11-15'
-      kind: effective
-- identifier: '790'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Establish informal liaison with CEN/ISSS Workshop ELSSI-EMD
-  dates:
-  - start: '2009-11-15'
-    kind: decision
-  actions:
-  - type: accepts
-    message: |
-      SC 4 accepts the request from CEN/ISSS Workshop ELSSI-EMD to establish an informal liaison and appoints Anna Moreno as the liaison officer from SC 4 to CEN/ISSS Workshop ELSSI-EMD.
-    dates:
-    - start: '2009-11-15'
-      kind: effective
-  - type: welcomes
-    message: |
-      SC 4 welcomes David Leal as liaison officer from CEN/ISSS Workshop ELSSI-EMD to SC 4.
-    dates:
-    - start: '2009-11-15'
-      kind: effective
-- identifier: '791'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Update SC 4 Organization Handbook for Education and Outreach Rapporteur
-  dates:
-  - start: '2009-11-15'
-    kind: decision
-  actions:
-  - type: resolves
-    message: |
-      SC 4 resolves to change SC 4 Organization Handbook Clause 6.4 to read:
+  - date: '2009-11-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Re-appoint Howard Mason as SC 4 Chair
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: endorses
+      date_effective:
+        date: '2009-11-15'
+        type: effective
+      message: 'SC 4 endorses the nomination by the United States of Howard Mason
+        for an additional three year term as the Chair of ISO TC 184 /SC 4 and instructs
+        the Secretary to forward his nomination to ISO TC 184 within 30 days.
 
-      6.4 SC 4 Implementation Forum advisory group
+        '
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '788'
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2009-11-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Re-appoint Guy Pierra as Deputy Convenor of WG 2
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: approves
+      date_effective:
+        date: '2009-11-15'
+        type: effective
+      message: 'SC 4 approves Guy Pierra to serve as Deputy Convenor of its Working
+        Group 2 for an additional period of three years.
 
-      6.4.1 Tasks
-      The SC 4 Implementation Forum advisory group performs the following tasks and activities:
+        '
+    - type: thanks
+      date_effective:
+        date: '2009-11-15'
+        type: effective
+      message: 'SC 4 expresses its special recognition and thanks for his exceptional
+        dedication and service for the past three years in the position of Deputy
+        Convenor.
 
-      * Gathering feed back from implementers;
-      * Gathering success stories;
-      * Promoting business benefits;
-      * Promoting awareness of capabilities;
-      * Facilitating implementations;
-      ** Testing models and Testing procedures;
-      * Seeking resources for sustainment;
-      * Providing education and outreach.
+        '
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '789'
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2009-11-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Appoint Jean Brangé as SC 4 liaison to ISO/TC 211
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: thanks
+      date_effective:
+        date: '2009-11-15'
+        type: effective
+      message: 'SC 4 thanks Mr. Jerry Smith for his work as liaison from SC 4 to ISO/TC
+        211 Geographic information/Geomatics.
 
-      It incorporates the activities of the former Committee for Education and Outreach, which has been disbanded.
+        '
+    - type: appoints
+      date_effective:
+        date: '2009-11-15'
+        type: effective
+      message: 'SC 4 thanks Mr. Jean Brangé''s offer to act as liaison from SC 4 to
+        ISO/TC 211 and appoints him to serve in that capacity.
 
-      6.4.2 Membership
-      The P-members, O-Members and A-liaisons of SC 4 nominate the members of the SC 4 Implementation Forum advisory group.
+        '
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '790'
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2009-11-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Establish informal liaison with CEN/ISSS Workshop ELSSI-EMD
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: accepts
+      date_effective:
+        date: '2009-11-15'
+        type: effective
+      message: 'SC 4 accepts the request from CEN/ISSS Workshop ELSSI-EMD to establish
+        an informal liaison and appoints Anna Moreno as the liaison officer from SC
+        4 to CEN/ISSS Workshop ELSSI-EMD.
 
-      The SC 4 secretariat maintains a list of members of the SC 4 Implementation Forum (names and addresses, organization affiliation, fax, phone and e-mail).
-    dates:
-    - start: '2009-11-15'
-      kind: effective
-- identifier: '792'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Update SC 4 Organization Handbook for New SEDS Process
-  dates:
-  - start: '2009-11-15'
-    kind: decision
-  actions:
-  - type: requests
-    message: |
-      SC 4 requests its Secretariat to update the SC 4 Organization Handbook (SC 4 N 2411) to reflect the changes specified in document SC 4 N 2520, "Changes to SC 4 Handbook for New SEDS Process (2009-11-12)" by Dr. Gerry Radack.
-    dates:
-    - start: '2009-11-15'
-      kind: effective
-- identifier: '793'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Create ISO 8000-2 as vocabulary part for ISO 8000 series
-  dates:
-  - start: '2009-11-15'
-    kind: decision
-  actions:
-  - type: decides
-    message: |
-      SC 4 decides to create ISO 8000-2 as a vocabulary part for the entire ISO 8000 series, through the merger of vocabulary from parts 1 “Overview” and 102 “Master data: Exchange of characteristic data: Vocabulary”.
-    dates:
-    - start: '2009-11-15'
-      kind: effective
-  - type: requests
-    message: |
-      SC 4 requests WG 13 to provide the Secretariat with a draft for FDIS balloting, and directs the Secretariat to submit this part to ISO/CS for FDIS ballot as soon as the document is available.
-    dates:
-    - start: '2009-11-15'
-      kind: effective
-  - type: decides
-    message: |
-      SC 4 decides that the normative version of all vocabulary used by the ISO 8000 series shall be in part 2, and replicated where the terms are used in individual parts.
-    dates:
-    - start: '2009-11-15'
-      kind: effective
-- identifier: '794'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Advance ISO 8000 parts to IS ballot
-  dates:
-  - start: '2009-11-15'
-    kind: decision
-  actions:
-  - type: approves
-    message: |
-      SC 4 approves the submission of ISO/TS 8000 parts 100 “Overview”, 120 “Provenance”, 130 “Accuracy”, and 140 “Completeness” for ballot as International Standards.
-    dates:
-    - start: '2009-11-15'
-      kind: effective
-  - type: directs
-    message: |
-      SC 4 directs the project teams to provide the Secretariat with drafts for DIS balloting as soon as possible, and directs the Secretariat to submit these parts to ISO/CS for DIS ballot.
-    dates:
-    - start: '2009-11-15'
-      kind: effective
-- identifier: '795'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Create ISO 29002-2 as vocabulary part for ISO 29002 series
-  dates:
-  - start: '2009-11-15'
-    kind: decision
-  actions:
-  - type: decides
-    message: |
-      SC 4 decides to create 29002-2 as a vocabulary part for the entire 29002 series through merger of vocabulary from the TS versions of ISO 29002 parts 4, 5, 6, 10, 20, and 31.
-    dates:
-    - start: '2009-11-15'
-      kind: effective
-  - type: directs
-    message: |
-      SC 4 directs the project team to provide the Secretariat with a draft for DIS balloting as soon as possible, and directs the Secretariat to submit this part to ISO/CS for DIS ballot.
-    dates:
-    - start: '2009-11-15'
-      kind: effective
-  - type: decides
-    message: |
-      SC 4 decides that the normative version of all vocabulary used by the ISO 29002 series shall be in part 2, and replicated where the terms are used in individual parts.
-    dates:
-    - start: '2009-11-15'
-      kind: effective
-- identifier: '796'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Extend target date for ISO/TS 10303-26
-  dates:
-  - start: '2009-11-15'
-    kind: decision
-  actions:
-  - type: requests
-    message: |
-      SC 4 requests its Secretariat to inform ISO/CS that the target date for the submission of ISO/TS 10303-26 “Implementation methods: Binary representation of EXPRESS-driven data” for publication is extended to 2010-06-30, and that this part should not be automatically cancelled as a recovery plan is in place.
-    dates:
-    - start: '2009-11-15'
-      kind: effective
-  - type: resolves
-    message: |
-      SC 4 will review progress on this part during its next meeting in May 2010.
-    dates:
-    - start: '2009-11-15'
-      kind: effective
-- identifier: '797'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Offer participation in ISO/NP 20140 via JWG 8
-  dates:
-  - start: '2009-11-15'
-    kind: decision
-  actions:
-  - type: decides
-    message: |
-      SC 4 decides to offer its participation to SC 5 via JWG 8 after the NP is accepted.
-    dates:
-    - start: '2009-11-15'
-      kind: effective
-  considerations:
-  - type: noting
-    message: |
-      Noting the ISO/NP 20140 “Environmental and energy efficiency evaluation method for manufacturing systems” within ISO/TC 184/SC 5, and that based on its work items, ISO/TC 184/SC 4-SC 5/JWG 8 is interested to participate in that project.
-    dates:
-    - start: '2009-11-15'
-      kind: effective
-- identifier: '798'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Include integrated resources in STEP Modules Library
-  dates:
-  - start: '2009-11-15'
-    kind: decision
-  actions:
-  - type: approves
-    message: |
-      SC 4 approves the inclusion of all ISO 10303 integrated resources, including application interpreted constructs, and of ISO 13584-20 “Logical model of expressions” into the STEP Modules Library.
-    dates:
-    - start: '2009-11-15'
-      kind: effective
-  - type: instructs
-    message: |
-      SC 4 instructs the SC 4 secretariat to update the SC 4 standing document “Procedures for the maintenance of ISO/TS 10303-1000” correspondingly and to add that changes to ISO 10303 integrated resources and ISO 13584-20 shall pass a WG 12 integration review before a STEP Module Library change request process is initiated.
-    dates:
-    - start: '2009-11-15'
-      kind: effective
-- identifier: '800'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Manage ISO 15926 Reference Data Library as a database
-  dates:
-  - start: '2009-11-15'
-    kind: decision
-  actions:
-  - type: resolves
-    message: |
-      SC 4 resolves to manage the ISO 15926 Reference Data Library (RDL) using the ISO Annex ST procedures for the management of standards as databases, as customized in the SC 4 standing document “Procedure for the maintenance of ISO/TC 184/SC 4 reference data”.
-    dates:
-    - start: '2009-11-15'
-      kind: effective
-  - type: requests
-    message: |
-      SC 4 requests the WG 3/T 25 ISO 15926 part 3 and 4 projects to nominate one member each to the maintenance team.
-    dates:
-    - start: '2009-11-15'
-      kind: effective
-  - type: requests
-    message: |
-      SC 4 requests its Secretariat to invite P-members, Category A liaisons, internal liaisons, and the WG 3 convener to nominate additional experts, as needed under the agreed procedure.
-    dates:
-    - start: '2009-11-15'
-      kind: effective
-  - type: requests
-    message: |
-      SC 4 requests its Secretariat to invite all P-members, Category A liaisons and internal liaisons to appoint one member each to the validation team.
-    dates:
-    - start: '2009-11-15'
-      kind: effective
-  - type: requests
-    message: |
-      SC 4 requests its Secretariat to:
+        '
+    - type: welcomes
+      date_effective:
+        date: '2009-11-15'
+        type: effective
+      message: 'SC 4 welcomes David Leal as liaison officer from CEN/ISSS Workshop
+        ELSSI-EMD to SC 4.
 
-      * Forward to ISO for publication an initial version of the RDL consisting of all ISO 15926 reference data that have already been published formally or have been successfully balloted as ready for publication (ISO/TS 15926-3, -4 and am1).
-      * Request that ISO publish the RDL on standards.iso.org under the same access conditions as the existing electronic inserts on the SC 4 site.
-      * Ask ISO to add references in the ISO Catalogue entries for ISO 15926 parts 3 and 4 referring to the RDL.
-    dates:
-    - start: '2009-11-15'
-      kind: effective
-  - type: approves
-    message: |
-      SC 4 approves a minor revision to create new editions of ISO 15926 parts 3 and 4 that point to the reference data online, rather than including the reference data as electronic attachments.
-    dates:
-    - start: '2009-11-15'
-      kind: effective
-- identifier: 200911-acclaim-01
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Thank Open Technical Forum presenter Soonhung Han
+        '
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '791'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2009-11-15'
-    kind: decision
-  actions:
-  - type: thanks
-    message: |
-      SC 4 offers thanks to those external projects who presented their material at the Open Technical Forum:
+  - date: '2009-11-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Update SC 4 Organization Handbook for Education and Outreach Rapporteur
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: resolves
+      date_effective:
+        date: '2009-11-15'
+        type: effective
+      message: |
+        SC 4 resolves to change SC 4 Organization Handbook Clause 6.4 to read:
 
-      * Soonhung Han: "Data requirements from the Korean nuclear and shipbuilding industries"
-    dates:
-    - start: '2009-11-15'
-      kind: effective
-- identifier: 200911-acclaim-02
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Appreciate SC 4 Liaisons and presenters
+        6.4 SC 4 Implementation Forum advisory group
+
+        6.4.1 Tasks
+        The SC 4 Implementation Forum advisory group performs the following tasks and activities:
+
+        * Gathering feed back from implementers;
+        * Gathering success stories;
+        * Promoting business benefits;
+        * Promoting awareness of capabilities;
+        * Facilitating implementations;
+        ** Testing models and Testing procedures;
+        * Seeking resources for sustainment;
+        * Providing education and outreach.
+
+        It incorporates the activities of the former Committee for Education and Outreach, which has been disbanded.
+
+        6.4.2 Membership
+        The P-members, O-Members and A-liaisons of SC 4 nominate the members of the SC 4 Implementation Forum advisory group.
+
+        The SC 4 secretariat maintains a list of members of the SC 4 Implementation Forum (names and addresses, organization affiliation, fax, phone and e-mail).
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '792'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2009-11-15'
-    kind: decision
-  actions:
-  - type: appreciation
-    message: |
-      SC 4 expresses its appreciation to our SC 4 Liaisons and those projects who presented at the Liaison Plenary:
+  - date: '2009-11-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Update SC 4 Organization Handbook for New SEDS Process
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: requests
+      date_effective:
+        date: '2009-11-15'
+        type: effective
+      message: 'SC 4 requests its Secretariat to update the SC 4 Organization Handbook
+        (SC 4 N 2411) to reflect the changes specified in document SC 4 N 2520, "Changes
+        to SC 4 Handbook for New SEDS Process (2009-11-12)" by Dr. Gerry Radack.
 
-      * MoU/MG: Howard Mason
-      * ISO/TC 37: Gerry Radack and Christian Galinski
-      * ISO/IEC JTC 1/SC 32: Gerry Radack
-      * ISO/TC 213: Vijay Srinivasan
-      * CEN WS/ELSSI-EMD: David Leal
-      * FIATECH activities on ISO 15926: Robin Benjamins
-      * OMG Activities Report: David Price
-
-      We appreciate your representation to and for ISO TC 184/SC 4.
-    dates:
-    - start: '2009-11-15'
-      kind: effective
-- identifier: 200911-acclaim-03
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Thank Implementation Forum organizers
+        '
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '793'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2009-11-15'
-    kind: decision
-  actions:
-  - type: appreciation
-    message: |
-      SC 4 expresses its appreciation to the Implementation Forum organizers, Paul van Exel and Anna Moreno, for their efforts in organizing the excellent event, speakers and venue.
-    dates:
-    - start: '2009-11-15'
-      kind: effective
-- identifier: 200911-acclaim-04
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Thank hosts and organizers of the 58th Plenary
-  dates:
-  - start: '2009-11-15'
-    kind: decision
-  actions:
-  - type: appreciation
-    message: |
-      SC 4 expresses its appreciation to Paul van Exel, Stichting USPI-NL, and his team for their hosting and support of the 58th ISO TC 184/SC 4 Plenary meetings at the Erasmus University Conference Center in Rotterdam, Netherlands. We especially commend Mr Paul van Exel for an excellent venue and outstanding service to the SC 4 community. A special acknowledgement is extended to Ms. Suzanne Eijkemans, logistics coordination, Elsevier Congressen and to Antoinette Schipper, Elsevier Congressen, hostess for the week.
+  - date: '2009-11-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Create ISO 8000-2 as vocabulary part for ISO 8000 series
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: decides
+      date_effective:
+        date: '2009-11-15'
+        type: effective
+      message: 'SC 4 decides to create ISO 8000-2 as a vocabulary part for the entire
+        ISO 8000 series, through the merger of vocabulary from parts 1 “Overview”
+        and 102 “Master data: Exchange of characteristic data: Vocabulary”.
 
-      Special acknowledgement is extended to the Erasmus University Conference Center and its staff for their seamless and attentive support.
-    dates:
-    - start: '2009-11-15'
-      kind: effective
+        '
+    - type: requests
+      date_effective:
+        date: '2009-11-15'
+        type: effective
+      message: 'SC 4 requests WG 13 to provide the Secretariat with a draft for FDIS
+        balloting, and directs the Secretariat to submit this part to ISO/CS for FDIS
+        ballot as soon as the document is available.
+
+        '
+    - type: decides
+      date_effective:
+        date: '2009-11-15'
+        type: effective
+      message: 'SC 4 decides that the normative version of all vocabulary used by
+        the ISO 8000 series shall be in part 2, and replicated where the terms are
+        used in individual parts.
+
+        '
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '794'
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2009-11-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Advance ISO 8000 parts to IS ballot
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: approves
+      date_effective:
+        date: '2009-11-15'
+        type: effective
+      message: 'SC 4 approves the submission of ISO/TS 8000 parts 100 “Overview”,
+        120 “Provenance”, 130 “Accuracy”, and 140 “Completeness” for ballot as International
+        Standards.
+
+        '
+    - type: directs
+      date_effective:
+        date: '2009-11-15'
+        type: effective
+      message: 'SC 4 directs the project teams to provide the Secretariat with drafts
+        for DIS balloting as soon as possible, and directs the Secretariat to submit
+        these parts to ISO/CS for DIS ballot.
+
+        '
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '795'
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2009-11-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Create ISO 29002-2 as vocabulary part for ISO 29002 series
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: decides
+      date_effective:
+        date: '2009-11-15'
+        type: effective
+      message: 'SC 4 decides to create 29002-2 as a vocabulary part for the entire
+        29002 series through merger of vocabulary from the TS versions of ISO 29002
+        parts 4, 5, 6, 10, 20, and 31.
+
+        '
+    - type: directs
+      date_effective:
+        date: '2009-11-15'
+        type: effective
+      message: 'SC 4 directs the project team to provide the Secretariat with a draft
+        for DIS balloting as soon as possible, and directs the Secretariat to submit
+        this part to ISO/CS for DIS ballot.
+
+        '
+    - type: decides
+      date_effective:
+        date: '2009-11-15'
+        type: effective
+      message: 'SC 4 decides that the normative version of all vocabulary used by
+        the ISO 29002 series shall be in part 2, and replicated where the terms are
+        used in individual parts.
+
+        '
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '796'
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2009-11-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Extend target date for ISO/TS 10303-26
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: requests
+      date_effective:
+        date: '2009-11-15'
+        type: effective
+      message: 'SC 4 requests its Secretariat to inform ISO/CS that the target date
+        for the submission of ISO/TS 10303-26 “Implementation methods: Binary representation
+        of EXPRESS-driven data” for publication is extended to 2010-06-30, and that
+        this part should not be automatically cancelled as a recovery plan is in place.
+
+        '
+    - type: resolves
+      date_effective:
+        date: '2009-11-15'
+        type: effective
+      message: 'SC 4 will review progress on this part during its next meeting in
+        May 2010.
+
+        '
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '797'
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2009-11-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Offer participation in ISO/NP 20140 via JWG 8
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    considerations:
+    - type: noting
+      date_effective:
+        date: '2009-11-15'
+        type: effective
+      message: 'Noting the ISO/NP 20140 “Environmental and energy efficiency evaluation
+        method for manufacturing systems” within ISO/TC 184/SC 5, and that based on
+        its work items, ISO/TC 184/SC 4-SC 5/JWG 8 is interested to participate in
+        that project.
+
+        '
+    actions:
+    - type: decides
+      date_effective:
+        date: '2009-11-15'
+        type: effective
+      message: 'SC 4 decides to offer its participation to SC 5 via JWG 8 after the
+        NP is accepted.
+
+        '
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '798'
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2009-11-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Include integrated resources in STEP Modules Library
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: approves
+      date_effective:
+        date: '2009-11-15'
+        type: effective
+      message: 'SC 4 approves the inclusion of all ISO 10303 integrated resources,
+        including application interpreted constructs, and of ISO 13584-20 “Logical
+        model of expressions” into the STEP Modules Library.
+
+        '
+    - type: instructs
+      date_effective:
+        date: '2009-11-15'
+        type: effective
+      message: 'SC 4 instructs the SC 4 secretariat to update the SC 4 standing document
+        “Procedures for the maintenance of ISO/TS 10303-1000” correspondingly and
+        to add that changes to ISO 10303 integrated resources and ISO 13584-20 shall
+        pass a WG 12 integration review before a STEP Module Library change request
+        process is initiated.
+
+        '
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '800'
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2009-11-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Manage ISO 15926 Reference Data Library as a database
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: resolves
+      date_effective:
+        date: '2009-11-15'
+        type: effective
+      message: 'SC 4 resolves to manage the ISO 15926 Reference Data Library (RDL)
+        using the ISO Annex ST procedures for the management of standards as databases,
+        as customized in the SC 4 standing document “Procedure for the maintenance
+        of ISO/TC 184/SC 4 reference data”.
+
+        '
+    - type: requests
+      date_effective:
+        date: '2009-11-15'
+        type: effective
+      message: 'SC 4 requests the WG 3/T 25 ISO 15926 part 3 and 4 projects to nominate
+        one member each to the maintenance team.
+
+        '
+    - type: requests
+      date_effective:
+        date: '2009-11-15'
+        type: effective
+      message: 'SC 4 requests its Secretariat to invite P-members, Category A liaisons,
+        internal liaisons, and the WG 3 convener to nominate additional experts, as
+        needed under the agreed procedure.
+
+        '
+    - type: requests
+      date_effective:
+        date: '2009-11-15'
+        type: effective
+      message: 'SC 4 requests its Secretariat to invite all P-members, Category A
+        liaisons and internal liaisons to appoint one member each to the validation
+        team.
+
+        '
+    - type: requests
+      date_effective:
+        date: '2009-11-15'
+        type: effective
+      message: |
+        SC 4 requests its Secretariat to:
+
+        * Forward to ISO for publication an initial version of the RDL consisting of all ISO 15926 reference data that have already been published formally or have been successfully balloted as ready for publication (ISO/TS 15926-3, -4 and am1).
+        * Request that ISO publish the RDL on standards.iso.org under the same access conditions as the existing electronic inserts on the SC 4 site.
+        * Ask ISO to add references in the ISO Catalogue entries for ISO 15926 parts 3 and 4 referring to the RDL.
+    - type: approves
+      date_effective:
+        date: '2009-11-15'
+        type: effective
+      message: 'SC 4 approves a minor revision to create new editions of ISO 15926
+        parts 3 and 4 that point to the reference data online, rather than including
+        the reference data as electronic attachments.
+
+        '
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: 200911-acclaim-01
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2009-11-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Thank Open Technical Forum presenter Soonhung Han
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: thanks
+      date_effective:
+        date: '2009-11-15'
+        type: effective
+      message: |
+        SC 4 offers thanks to those external projects who presented their material at the Open Technical Forum:
+
+        * Soonhung Han: "Data requirements from the Korean nuclear and shipbuilding industries"
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: 200911-acclaim-02
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2009-11-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Appreciate SC 4 Liaisons and presenters
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: appreciation
+      date_effective:
+        date: '2009-11-15'
+        type: effective
+      message: |
+        SC 4 expresses its appreciation to our SC 4 Liaisons and those projects who presented at the Liaison Plenary:
+
+        * MoU/MG: Howard Mason
+        * ISO/TC 37: Gerry Radack and Christian Galinski
+        * ISO/IEC JTC 1/SC 32: Gerry Radack
+        * ISO/TC 213: Vijay Srinivasan
+        * CEN WS/ELSSI-EMD: David Leal
+        * FIATECH activities on ISO 15926: Robin Benjamins
+        * OMG Activities Report: David Price
+
+        We appreciate your representation to and for ISO TC 184/SC 4.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: 200911-acclaim-03
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2009-11-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Thank Implementation Forum organizers
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: appreciation
+      date_effective:
+        date: '2009-11-15'
+        type: effective
+      message: 'SC 4 expresses its appreciation to the Implementation Forum organizers,
+        Paul van Exel and Anna Moreno, for their efforts in organizing the excellent
+        event, speakers and venue.
+
+        '
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: 200911-acclaim-04
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2009-11-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Thank hosts and organizers of the 58th Plenary
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: appreciation
+      date_effective:
+        date: '2009-11-15'
+        type: effective
+      message: |
+        SC 4 expresses its appreciation to Paul van Exel, Stichting USPI-NL, and his team for their hosting and support of the 58th ISO TC 184/SC 4 Plenary meetings at the Erasmus University Conference Center in Rotterdam, Netherlands. We especially commend Mr Paul van Exel for an excellent venue and outstanding service to the SC 4 community. A special acknowledgement is extended to Ms. Suzanne Eijkemans, logistics coordination, Elsevier Congressen and to Antoinette Schipper, Elsevier Congressen, hostess for the week.
+
+        Special acknowledgement is extended to the Erasmus University Conference Center and its staff for their seamless and attentive support.

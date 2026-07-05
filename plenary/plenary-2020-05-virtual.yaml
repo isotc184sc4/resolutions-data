@@ -1,494 +1,640 @@
-# yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
+# yaml-language-server: $schema=https://raw.githubusercontent.com/edoxen/edoxen/refs/heads/main/schema/edoxen.yaml
+---
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Virtual, May 3, 2020 -- May 8, 2020
-  dates:
-  - start: '2020-05-03'
-    end: '2020-05-08'
-    kind: meeting
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Virtual, May 3, 2020
+    -- May 8, 2020
+  date: '2020-05-03'
   source: ISO/TC 184/SC 4 Secretariat
-  venue: Virtual
-resolutions:
-- identifier: '1037'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Approve Project Leaders and Editors for SC 4 Projects
+decisions:
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '1037'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2020-05-15'
-    kind: decision
-  actions:
-  - type: approves
-    message: |
-      SC 4 approves the following Project Leaders and Project Editors for the
-      associated Projects:
-      
-      |===
-      |Project |Working Group |Project Leader/Editor
-      
-      |ISO/AWI 17506 |JWG16 |Project leader: Neil TREVETT ntrevett@nvidia.com; Project Editor: Hwanyong LEE hwanyong.lee@gmail.com
-      |===
-    dates:
-    - start: '2020-05-15'
-      kind: effective
-- identifier: '1038'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Apply 8-week ballot duration to NP ballots
+  - date: '2020-05-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Approve Project Leaders and Editors for SC 4 Projects
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: approves
+      date_effective:
+        date: '2020-05-15'
+        type: effective
+      message: |
+        SC 4 approves the following Project Leaders and Project Editors for the
+        associated Projects:
+
+        |===
+        |Project |Working Group |Project Leader/Editor
+
+        |ISO/AWI 17506 |JWG16 |Project leader: Neil TREVETT ntrevett@nvidia.com; Project Editor: Hwanyong LEE hwanyong.lee@gmail.com
+        |===
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '1038'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2020-05-15'
-    kind: decision
-  actions:
-  - type: requests
-    message: |
-      SC 4 requests its Committee Manager to apply the 8-week ballot duration to
-      the following NP ballots:
-      
-      |===
-      |Project |Approval
-      
-      |NP ISO 10303-18 |☒
-      |NP ISO 10303-2 |☒
-      |NP ISO 8000-117 |☒
-      |===
-    dates:
-    - start: '2020-05-15'
-      kind: effective
-- identifier: '1039'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Appoint Nils Sandsmark as WG 3 Deputy Convenor
+  - date: '2020-05-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Apply 8-week ballot duration to NP ballots
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: requests
+      date_effective:
+        date: '2020-05-15'
+        type: effective
+      message: |
+        SC 4 requests its Committee Manager to apply the 8-week ballot duration to
+        the following NP ballots:
+
+        |===
+        |Project |Approval
+
+        |NP ISO 10303-18 |☒
+        |NP ISO 10303-2 |☒
+        |NP ISO 8000-117 |☒
+        |===
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '1039'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2020-05-15'
-    kind: decision
-  actions:
-  - type: appoints
-    message: |
-      SC 4 appoints Nils Sandsmark as the Deputy Convenor for WG 3 for a
-      three-year term, with appreciation for his offer to serve in that capacity.
-    dates:
-    - start: '2020-05-15'
-      kind: effective
-- identifier: '1040'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Appoint Anne Dourgnon as WG 13 Deputy Convenor
+  - date: '2020-05-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Appoint Nils Sandsmark as WG 3 Deputy Convenor
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: appoints
+      date_effective:
+        date: '2020-05-15'
+        type: effective
+      message: |
+        SC 4 appoints Nils Sandsmark as the Deputy Convenor for WG 3 for a
+        three-year term, with appreciation for his offer to serve in that capacity.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '1040'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2020-05-15'
-    kind: decision
-  actions:
-  - type: appoints
-    message: |
-      SC 4 appoints Anne Dourgnon as the Deputy Convenor for WG 13 for a
-      three-year term, with appreciation for her offer to serve in that capacity.
-    dates:
-    - start: '2020-05-15'
-      kind: effective
-- identifier: '1041'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Appoint Dave Loffredo as WG 11 Convenor
+  - date: '2020-05-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Appoint Anne Dourgnon as WG 13 Deputy Convenor
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: appoints
+      date_effective:
+        date: '2020-05-15'
+        type: effective
+      message: |
+        SC 4 appoints Anne Dourgnon as the Deputy Convenor for WG 13 for a
+        three-year term, with appreciation for her offer to serve in that capacity.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '1041'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2020-05-15'
-    kind: decision
-  actions:
-  - type: appoints
-    message: |
-      SC 4 appoints Dave Loffredo as Convenor for WG 11 for a three-year term,
-      with appreciation for his offer to serve in that capacity.
-    dates:
-    - start: '2020-05-15'
-      kind: effective
-- identifier: '1042'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Extend term of AHG 1 and request final report
+  - date: '2020-05-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Appoint Dave Loffredo as WG 11 Convenor
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: appoints
+      date_effective:
+        date: '2020-05-15'
+        type: effective
+      message: |
+        SC 4 appoints Dave Loffredo as Convenor for WG 11 for a three-year term,
+        with appreciation for his offer to serve in that capacity.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '1042'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2020-05-15'
-    kind: decision
-  actions:
-  - type: requests
-    message: |
-      SC 4 extends the term of the AHG 1 and requests its final report at the 80th
-      Plenary meeting of SC 4. AHG 1 is requested to provide a plan for the further
-      work itemized in the introduction to this resolution.
-    dates:
-    - start: '2020-05-15'
-      kind: effective
-  considerations:
-  - type: noting
-    message: |
-      Noting the progress made by AHG 1 "Core industrial data set of terms" and
-      the further work needed
-    dates:
-    - start: '2020-05-15'
-      kind: effective
-- identifier: '1043'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Extend term of AHG 2 Nuclear Digital Ecosystem Specification
+  - date: '2020-05-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Extend term of AHG 1 and request final report
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    considerations:
+    - type: noting
+      date_effective:
+        date: '2020-05-15'
+        type: effective
+      message: |
+        Noting the progress made by AHG 1 "Core industrial data set of terms" and
+        the further work needed
+    actions:
+    - type: requests
+      date_effective:
+        date: '2020-05-15'
+        type: effective
+      message: |
+        SC 4 extends the term of the AHG 1 and requests its final report at the 80th
+        Plenary meeting of SC 4. AHG 1 is requested to provide a plan for the further
+        work itemized in the introduction to this resolution.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '1043'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2020-05-15'
-    kind: decision
-  actions:
-  - type: decides
-    message: |
-      SC 4 extends the term for AHG 2 to the next meeting where a final report
-      will be provided.
-    dates:
-    - start: '2020-05-15'
-      kind: effective
-  considerations:
-  - type: noting
-    message: |
-      Noting the progress made by AHG 2 "Nuclear Digital Ecosystem Specification"
-      and the additional work needed to develop recommendations for inclusion in
-      their final report,
-    dates:
-    - start: '2020-05-15'
-      kind: effective
-- identifier: '1044'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Deprecate SC4N0535 and SC4N1290 as standing documents
+  - date: '2020-05-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Extend term of AHG 2 Nuclear Digital Ecosystem Specification
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    considerations:
+    - type: noting
+      date_effective:
+        date: '2020-05-15'
+        type: effective
+      message: |
+        Noting the progress made by AHG 2 "Nuclear Digital Ecosystem Specification"
+        and the additional work needed to develop recommendations for inclusion in
+        their final report,
+    actions:
+    - type: decides
+      date_effective:
+        date: '2020-05-15'
+        type: effective
+      message: |
+        SC 4 extends the term for AHG 2 to the next meeting where a final report
+        will be provided.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '1044'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2020-05-15'
-    kind: decision
-  actions:
-  - type: instructs
-    message: |
-      SC 4 concurs with the recommendation to deprecate SC4N0535 and SC4N1290 as
-      standing documents of SC 4 and instructs the PPC to update the SC 4 Handbook
-      accordingly. Further, SC 4 instructs its Committee Manager to remove the
-      named documents from the standing documents folder in eCommittees.
-    dates:
-    - start: '2020-05-15'
-      kind: effective
-  considerations:
-  - type: noting
-    message: |
-      Noting the work performed by ISO/TC 184/SC 4/PPC during its February meeting
-      to perform a comprehensive review of existing SC 4 standing documents for
-      purpose, relevance, and alignment to SC 4 operations
-    dates:
-    - start: '2020-05-15'
-      kind: effective
-- identifier: '1045'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Create Task Force for SC 4 Reference Model for Industrial Data
+  - date: '2020-05-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Deprecate SC4N0535 and SC4N1290 as standing documents
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    considerations:
+    - type: noting
+      date_effective:
+        date: '2020-05-15'
+        type: effective
+      message: |
+        Noting the work performed by ISO/TC 184/SC 4/PPC during its February meeting
+        to perform a comprehensive review of existing SC 4 standing documents for
+        purpose, relevance, and alignment to SC 4 operations
+    actions:
+    - type: instructs
+      date_effective:
+        date: '2020-05-15'
+        type: effective
+      message: |
+        SC 4 concurs with the recommendation to deprecate SC4N0535 and SC4N1290 as
+        standing documents of SC 4 and instructs the PPC to update the SC 4 Handbook
+        accordingly. Further, SC 4 instructs its Committee Manager to remove the
+        named documents from the standing documents folder in eCommittees.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '1045'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2020-05-15'
-    kind: decision
-  actions:
-  - type: creates
-    message: |
-      SC 4 creates a Task Force titled "SC 4 Reference Model for Industrial Data"
-      with the following term of reference to define and publish a reference model
-      for SC 4 that builds upon the work of IDIOM, STEP extended architecture and
-      the on-going activities on ontologies:
-      
-      1. Build upon the work of IDIOM, STEP extended architecture and the on-going
-      activities on ontologies, such as ISO 15926, ISO 13584, ISO 22745,
-      ISO 29002 and others;
-      
-      2. Coordinate with other affected groups in SC4 on plan elements;
-      
-      3. Provide periodic status reports to SC 4/PPC;
-      
-      4. Deliver a reference model using model based computer interpretable
-      technologies;
-      
-      5. Publish human readable guide (technical report) to the use of the
-      reference model.
-      
-      The task force is requested to liaise with the "Core terms" work being
-      carried out by AHG 1 and with the work on an ontology for geometry and
-      topology being carried out by WG 12/T 1.
-    dates:
-    - start: '2020-05-15'
-      kind: effective
-  - type: nominates
-    message: |
-      SC 4 nominates Jean Brangé and David Leal to lead the Task Force and appoints
-      the following experts to the Task Force:
-      
-      * Nils Sandsmark
-      * Tor Arne Irgens
-      * Allison Barnard Feeney
-      * Paul van Exel
-      * Mario Tucci
-      * Ben Urick
-      * Ronald Tse
-      * Tom Thurman
-      * Yves Keraron
-      
-      In addition, SC 4 requests nominations from member bodies and relevant
-      liaisons to participate in the Task Force.
-    dates:
-    - start: '2020-05-15'
-      kind: effective
-- identifier: '1046'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Organize meeting on digital handover for nuclear power plants
+  - date: '2020-05-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Create Task Force for SC 4 Reference Model for Industrial Data
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: creates
+      date_effective:
+        date: '2020-05-15'
+        type: effective
+      message: |
+        SC 4 creates a Task Force titled "SC 4 Reference Model for Industrial Data"
+        with the following term of reference to define and publish a reference model
+        for SC 4 that builds upon the work of IDIOM, STEP extended architecture and
+        the on-going activities on ontologies:
+
+        1. Build upon the work of IDIOM, STEP extended architecture and the on-going
+        activities on ontologies, such as ISO 15926, ISO 13584, ISO 22745,
+        ISO 29002 and others;
+
+        2. Coordinate with other affected groups in SC4 on plan elements;
+
+        3. Provide periodic status reports to SC 4/PPC;
+
+        4. Deliver a reference model using model based computer interpretable
+        technologies;
+
+        5. Publish human readable guide (technical report) to the use of the
+        reference model.
+
+        The task force is requested to liaise with the "Core terms" work being
+        carried out by AHG 1 and with the work on an ontology for geometry and
+        topology being carried out by WG 12/T 1.
+    - type: nominates
+      date_effective:
+        date: '2020-05-15'
+        type: effective
+      message: |
+        SC 4 nominates Jean Brangé and David Leal to lead the Task Force and appoints
+        the following experts to the Task Force:
+
+        * Nils Sandsmark
+        * Tor Arne Irgens
+        * Allison Barnard Feeney
+        * Paul van Exel
+        * Mario Tucci
+        * Ben Urick
+        * Ronald Tse
+        * Tom Thurman
+        * Yves Keraron
+
+        In addition, SC 4 requests nominations from member bodies and relevant
+        liaisons to participate in the Task Force.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '1046'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2020-05-15'
-    kind: decision
-  actions:
-  - type: requests
-    message: |
-      SC 4 requests SC 4 Chair and Committee Manager to organize a meeting with
-      ISO/TC 184, ISO/TC 184/SC 4, ISO/TC 184/SC 4/AG 2, ISO/TC 184/SC 4/AHG 2,
-      ISO/TC 85/SC 6, and ISO/TC 184/WG 6 chairs, committee and workgroup
-      conveners and AHG 2 experts to discuss potential collaboration between the
-      parties for identifying a collaboration model and recommendation for the
-      appropriate TC for "digital handover of engineering data for nuclear power
-      plant".
-    dates:
-    - start: '2020-05-15'
-      kind: effective
-  - type: instructs
-    message: |
-      SC 4 instructs its Committee Manager to schedule the meeting before the
-      80th Plenary.
-    dates:
-    - start: '2020-05-15'
-      kind: effective
-  considerations:
-  - type: noting
-    message: |
-      Noting the comments and recommendations from AHG 2 on the content and how to
-      collaborate on developing the project "digital handover of engineering data
-      for nuclear power plant"
-    dates:
-    - start: '2020-05-15'
-      kind: effective
-- identifier: '1047'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Launch ISO 15926-4 ed.3 on 24-month track
+  - date: '2020-05-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Organize meeting on digital handover for nuclear power plants
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    considerations:
+    - type: noting
+      date_effective:
+        date: '2020-05-15'
+        type: effective
+      message: |
+        Noting the comments and recommendations from AHG 2 on the content and how to
+        collaborate on developing the project "digital handover of engineering data
+        for nuclear power plant"
+    actions:
+    - type: requests
+      date_effective:
+        date: '2020-05-15'
+        type: effective
+      message: |
+        SC 4 requests SC 4 Chair and Committee Manager to organize a meeting with
+        ISO/TC 184, ISO/TC 184/SC 4, ISO/TC 184/SC 4/AG 2, ISO/TC 184/SC 4/AHG 2,
+        ISO/TC 85/SC 6, and ISO/TC 184/WG 6 chairs, committee and workgroup
+        conveners and AHG 2 experts to discuss potential collaboration between the
+        parties for identifying a collaboration model and recommendation for the
+        appropriate TC for "digital handover of engineering data for nuclear power
+        plant".
+    - type: instructs
+      date_effective:
+        date: '2020-05-15'
+        type: effective
+      message: |
+        SC 4 instructs its Committee Manager to schedule the meeting before the
+        80th Plenary.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '1047'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2020-05-15'
-    kind: decision
-  actions:
-  - type: instructs
-    message: |
-      SC 4 instructs its Committee Manager to launch edition 3 using the SDT 24
-      track and names Onno Paap as Project Leader and allocates the work to WG 3
-      with the following terms of reference:
-      
-      * Update ISO 15926-4 ed.3 as presented to the Change Board during the 79th
-      Plenary of SC 4 on 05 May 2020
-      
-      * Update the electronic inserts to ISO/NP 15926-4 ed.3 per SC4N2591,
-      SC4N2984, and SC4N2986 standing documents,
-      
-      * Request national bodies to nominate their representatives and deputies to
-      the Validation Team (VT) as noted in SC4N2541, and
-      
-      * To keep a register of the VT members for the practice of sending out
-      notifications to vote and other administrative items.
-    dates:
-    - start: '2020-05-15'
-      kind: effective
-  considerations:
-  - type: noting
-    message: |
-      Noting that new updates to ISO 15926-4 is needed and there is no change in
-      scope to the standard, the objective of the resolution is to deliver
-      ISO 15926-4 ed.3 building on the experience as gathered in the POSC Caesar
-      Association (PCA) data base with improvements on the following points:
-      
-      1. Consistent naming and definitions
-      2. Reference to other RDIs in text definition
-      3. Reference to source
-      4. Improve specialization and classification according results of the
-      TopClass structure task force.
-      5. Rules for use of entity types inanimate_physical_object and
-      functional_object
-      
-      The ISO 15926-4 ed.3 document will reflect the changes made and will be in
-      line with the electronic inserts update of ISO 15926-4e2. It will contain a
-      time plan in line with the incremental steps that will be taken.
-    dates:
-    - start: '2020-05-15'
-      kind: effective
-- identifier: '1048'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Apply 24-month development track to ISO 10303-17
+  - date: '2020-05-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Launch ISO 15926-4 ed.3 on 24-month track
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    considerations:
+    - type: noting
+      date_effective:
+        date: '2020-05-15'
+        type: effective
+      message: |
+        Noting that new updates to ISO 15926-4 is needed and there is no change in
+        scope to the standard, the objective of the resolution is to deliver
+        ISO 15926-4 ed.3 building on the experience as gathered in the POSC Caesar
+        Association (PCA) data base with improvements on the following points:
+
+        1. Consistent naming and definitions
+        2. Reference to other RDIs in text definition
+        3. Reference to source
+        4. Improve specialization and classification according results of the
+        TopClass structure task force.
+        5. Rules for use of entity types inanimate_physical_object and
+        functional_object
+
+        The ISO 15926-4 ed.3 document will reflect the changes made and will be in
+        line with the electronic inserts update of ISO 15926-4e2. It will contain a
+        time plan in line with the incremental steps that will be taken.
+    actions:
+    - type: instructs
+      date_effective:
+        date: '2020-05-15'
+        type: effective
+      message: |
+        SC 4 instructs its Committee Manager to launch edition 3 using the SDT 24
+        track and names Onno Paap as Project Leader and allocates the work to WG 3
+        with the following terms of reference:
+
+        * Update ISO 15926-4 ed.3 as presented to the Change Board during the 79th
+        Plenary of SC 4 on 05 May 2020
+
+        * Update the electronic inserts to ISO/NP 15926-4 ed.3 per SC4N2591,
+        SC4N2984, and SC4N2986 standing documents,
+
+        * Request national bodies to nominate their representatives and deputies to
+        the Validation Team (VT) as noted in SC4N2541, and
+
+        * To keep a register of the VT members for the practice of sending out
+        notifications to vote and other administrative items.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '1048'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2020-05-15'
-    kind: decision
-  actions:
-  - type: requests
-    message: |
-      SC 4 requests its Committee Manager to apply the 24-month development track
-      to the ISO 10303-17 project.
-    dates:
-    - start: '2020-05-15'
-      kind: effective
-  considerations:
-  - type: noting
-    message: |
-      Noting the progress of the project team and the updated project plan to
-      circulate a CD/TS ballot and resolve comments, changing the project to a
-      24-month schedule will give the team sufficient time to finish ballot
-      preparation, circulate the CD/TS ballot, resolve comments and publish
-    dates:
-    - start: '2020-05-15'
-      kind: effective
-- identifier: '1049'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Request 9-month extension for ISO 10303-243 from ISO TMB
+  - date: '2020-05-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Apply 24-month development track to ISO 10303-17
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    considerations:
+    - type: noting
+      date_effective:
+        date: '2020-05-15'
+        type: effective
+      message: |
+        Noting the progress of the project team and the updated project plan to
+        circulate a CD/TS ballot and resolve comments, changing the project to a
+        24-month schedule will give the team sufficient time to finish ballot
+        preparation, circulate the CD/TS ballot, resolve comments and publish
+    actions:
+    - type: requests
+      date_effective:
+        date: '2020-05-15'
+        type: effective
+      message: |
+        SC 4 requests its Committee Manager to apply the 24-month development track
+        to the ISO 10303-17 project.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '1049'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2020-05-15'
-    kind: decision
-  actions:
-  - type: requests
-    message: |
-      SC 4 requests the ISO TMB to grant a 9 month extension to ISO 10303-243
-      allowing the project team additional time to complete necessary coordination
-      using virtual working arrangements dictated by restrictions in meeting due
-      to COVID-19.
-    dates:
-    - start: '2020-05-15'
-      kind: effective
-- identifier: '1050'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Notify ISO CS of errors in ISO 10303-242 ed2
+  - date: '2020-05-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Request 9-month extension for ISO 10303-243 from ISO TMB
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: requests
+      date_effective:
+        date: '2020-05-15'
+        type: effective
+      message: |
+        SC 4 requests the ISO TMB to grant a 9 month extension to ISO 10303-243
+        allowing the project team additional time to complete necessary coordination
+        using virtual working arrangements dictated by restrictions in meeting due
+        to COVID-19.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '1050'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2020-05-15'
-    kind: decision
-  actions:
-  - type: instructs
-    message: |
-      SC 4 instructs the Convenor of WG12 to coordinate a correction to the AP242
-      edition 2 with the project leader, and instructs its Committee Manager to
-      notify ISO CS of the errors and seek guidance per the directives on next
-      steps.
-    dates:
-    - start: '2020-05-15'
-      kind: effective
-  considerations:
-  - type: noting
-    message: |
-      Noting the release of ISO 10303-242 ed2 with errors
-    dates:
-    - start: '2020-05-15'
-      kind: effective
-- identifier: '1051'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Request 9-month extension for ISO 10303-238 ed2
+  - date: '2020-05-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Notify ISO CS of errors in ISO 10303-242 ed2
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    considerations:
+    - type: noting
+      date_effective:
+        date: '2020-05-15'
+        type: effective
+      message: 'Noting the release of ISO 10303-242 ed2 with errors
+
+        '
+    actions:
+    - type: instructs
+      date_effective:
+        date: '2020-05-15'
+        type: effective
+      message: |
+        SC 4 instructs the Convenor of WG12 to coordinate a correction to the AP242
+        edition 2 with the project leader, and instructs its Committee Manager to
+        notify ISO CS of the errors and seek guidance per the directives on next
+        steps.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '1051'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2020-05-15'
-    kind: decision
-  actions:
-  - type: requests
-    message: |
-      SC 4 requests the ISO TMB to grant a nine month extension for Edition 2 of
-      AP238 to enable complete industry testing and validation of the model
-      produced by the DIS ballot comment resolution during the COVID-19 crisis.
-    dates:
-    - start: '2020-05-15'
-      kind: effective
-  considerations:
-  - type: noting
-    message: |
-      Noting the successful DIS ballot and the comments from members bodies that
-      indicate an improvement can be achieved before publication
-    dates:
-    - start: '2020-05-15'
-      kind: effective
-- identifier: 202005-acclaim-01
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Thank SC 4 Liaisons for reports to 79th Plenary
+  - date: '2020-05-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Request 9-month extension for ISO 10303-238 ed2
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    considerations:
+    - type: noting
+      date_effective:
+        date: '2020-05-15'
+        type: effective
+      message: |
+        Noting the successful DIS ballot and the comments from members bodies that
+        indicate an improvement can be achieved before publication
+    actions:
+    - type: requests
+      date_effective:
+        date: '2020-05-15'
+        type: effective
+      message: |
+        SC 4 requests the ISO TMB to grant a nine month extension for Edition 2 of
+        AP238 to enable complete industry testing and validation of the model
+        produced by the DIS ballot comment resolution during the COVID-19 crisis.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: 202005-acclaim-01
+  kind: resolution
+  status: decided
   dates:
-  - start: '2020-05-15'
-    kind: decision
-  actions:
-  - type: thanks
-    message: |
-      SC 4 expresses its appreciation to our SC 4 Liaisons and reports provided
-      to the 79th Plenary:
-      
-      * ISO/TC 10, Richard Lindqvist (written)
-      * ISO/TC 37, written
-      * ISO/TC 37/SC 3, Dr. Detlef Reineke (written)
-      * ISO/TC 171/SC 2, Phil Sprier (to JWG 16)
-      * ISO/TC 171/SC 2, Leonard Rosenthal (written)
-      * ISO/TC 172/SC 1, Jochen Haenisch (written)
-      * ISO/IEC JTC 1/SC 24, Christophe Mouton
-      * ISO/IEC JTC 1/AG 11, Sangkeun Yoo
-      * IEC/SC 3D, Yoshiaki Sonda
-      * Khronos Group, Neil Trevett
-      * Small Business Standards, Jochen Haenisch
-      * Web3D Consortium, Vince Marchetti
-    dates:
-    - start: '2020-05-15'
-      kind: effective
-- identifier: 202005-acclaim-02
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Thank Melissa Harvey and ISO Web team for website
+  - date: '2020-05-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Thank SC 4 Liaisons for reports to 79th Plenary
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: thanks
+      date_effective:
+        date: '2020-05-15'
+        type: effective
+      message: |
+        SC 4 expresses its appreciation to our SC 4 Liaisons and reports provided
+        to the 79th Plenary:
+
+        * ISO/TC 10, Richard Lindqvist (written)
+        * ISO/TC 37, written
+        * ISO/TC 37/SC 3, Dr. Detlef Reineke (written)
+        * ISO/TC 171/SC 2, Phil Sprier (to JWG 16)
+        * ISO/TC 171/SC 2, Leonard Rosenthal (written)
+        * ISO/TC 172/SC 1, Jochen Haenisch (written)
+        * ISO/IEC JTC 1/SC 24, Christophe Mouton
+        * ISO/IEC JTC 1/AG 11, Sangkeun Yoo
+        * IEC/SC 3D, Yoshiaki Sonda
+        * Khronos Group, Neil Trevett
+        * Small Business Standards, Jochen Haenisch
+        * Web3D Consortium, Vince Marchetti
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: 202005-acclaim-02
+  kind: resolution
+  status: decided
   dates:
-  - start: '2020-05-15'
-    kind: decision
-  actions:
-  - type: thanks
-    message: |
-      SC 4 expresses its appreciation to Melissa Harvey and the ISO Web team for
-      standing up the ISO/TC 184/SC 4 website and populating the site with initial
-      content.
-    dates:
-    - start: '2020-05-15'
-      kind: effective
-- identifier: 202005-acclaim-03
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Thank JWG 16 for evaluating Microsoft Teams
+  - date: '2020-05-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Thank Melissa Harvey and ISO Web team for website
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: thanks
+      date_effective:
+        date: '2020-05-15'
+        type: effective
+      message: |
+        SC 4 expresses its appreciation to Melissa Harvey and the ISO Web team for
+        standing up the ISO/TC 184/SC 4 website and populating the site with initial
+        content.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: 202005-acclaim-03
+  kind: resolution
+  status: decided
   dates:
-  - start: '2020-05-15'
-    kind: decision
-  actions:
-  - type: thanks
-    message: |
-      SC 4 expresses its appreciation to Soonhung Han, Christophe Mouton and JWG 16
-      experts for experimenting with Microsoft Teams and providing valuable
-      feedback on the utility of the application for virtual standards work.
-    dates:
-    - start: '2020-05-15'
-      kind: effective
-- identifier: 202005-acclaim-04
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Thank WG 13/23 for evaluating digital tools
+  - date: '2020-05-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Thank JWG 16 for evaluating Microsoft Teams
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: thanks
+      date_effective:
+        date: '2020-05-15'
+        type: effective
+      message: |
+        SC 4 expresses its appreciation to Soonhung Han, Christophe Mouton and JWG 16
+        experts for experimenting with Microsoft Teams and providing valuable
+        feedback on the utility of the application for virtual standards work.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: 202005-acclaim-04
+  kind: resolution
+  status: decided
   dates:
-  - start: '2020-05-15'
-    kind: decision
-  actions:
-  - type: thanks
-    message: |
-      SC 4 expresses its appreciation to Tim King and WG 13/23 for utilizing a
-      full complement of digital tools for standards development and providing
-      valuable feedback to SC 4 on their experiences.
-    dates:
-    - start: '2020-05-15'
-      kind: effective
-- identifier: 202005-acclaim-05
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Thank Brian Stanton for 15 years as Editorial Program Manager
+  - date: '2020-05-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Thank WG 13/23 for evaluating digital tools
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: thanks
+      date_effective:
+        date: '2020-05-15'
+        type: effective
+      message: |
+        SC 4 expresses its appreciation to Tim King and WG 13/23 for utilizing a
+        full complement of digital tools for standards development and providing
+        valuable feedback to SC 4 on their experiences.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: 202005-acclaim-05
+  kind: resolution
+  status: decided
   dates:
-  - start: '2020-05-15'
-    kind: decision
-  actions:
-  - type: thanks
-    message: |
-      SC 4 expresses its profound thanks to Brian Stanton for 15 years of service
-      as ISO/TC 184/SC 4's Editorial Program Manager and his countless
-      contributions to the quality output of SC 4 standards and innovation in
-      supporting our industry requirements. SC 4 wishes Brian the best in his
-      continuing role as ISO Editorial Team Leader.
-    dates:
-    - start: '2020-05-15'
-      kind: effective
-- identifier: 202005-acclaim-06
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Thank experts and leaders for virtual plenary success
+  - date: '2020-05-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Thank Brian Stanton for 15 years as Editorial Program Manager
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: thanks
+      date_effective:
+        date: '2020-05-15'
+        type: effective
+      message: |
+        SC 4 expresses its profound thanks to Brian Stanton for 15 years of service
+        as ISO/TC 184/SC 4's Editorial Program Manager and his countless
+        contributions to the quality output of SC 4 standards and innovation in
+        supporting our industry requirements. SC 4 wishes Brian the best in his
+        continuing role as ISO Editorial Team Leader.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: 202005-acclaim-06
+  kind: resolution
+  status: decided
   dates:
-  - start: '2020-05-15'
-    kind: decision
-  actions:
-  - type: thanks
-    message: |
-      SC 4 expresses its sincere appreciation to all the experts, delegates, and
-      leaders for executing a completely virtual plenary meeting successfully while
-      undergoing numerous challenges during this extraordinary time for
-      stakeholders worldwide.
-    dates:
-    - start: '2020-05-15'
-      kind: effective
+  - date: '2020-05-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Thank experts and leaders for virtual plenary success
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: thanks
+      date_effective:
+        date: '2020-05-15'
+        type: effective
+      message: |
+        SC 4 expresses its sincere appreciation to all the experts, delegates, and
+        leaders for executing a completely virtual plenary meeting successfully while
+        undergoing numerous challenges during this extraordinary time for
+        stakeholders worldwide.

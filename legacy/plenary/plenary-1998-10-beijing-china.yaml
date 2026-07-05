@@ -1,0 +1,218 @@
+metadata:
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Beijing, China, October 3, 1998 -- October 13, 1998
+  dates:
+  - start: '1998-10-03'
+    end: '1998-10-13'
+    kind: meeting
+  source: ISO/TC 184/SC 4 Secretariat
+  venue: Beijing, China
+resolutions:
+- identifier: '379'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Approve new project leaders and project editors
+  dates:
+  - start: '1998-10-15'
+    kind: decision
+  actions:
+  - type: approves
+    message: |
+      SC 4 approves the following new project leaders or project editors for the associated SC 4 projects:
+
+      |===
+      | ISO Project # | Project Lead | Document Editor
+
+      | ISO 10303-43e2 | Julian Fowler | Julian Fowler
+      | ISO 10303-209 | Adnan Yucel |
+      | ISO 10303-224 | Len Slovensky | Len Slovensky
+      | ISO 10303-314 | Manfred Fischer | Manfred Fischer
+      | ISO 10303-324 | Len Slovensky | Len Slovensky
+      | ISO 10303-504 | Bill Anderson |
+      | ISO 10303-505 | Bill Anderson |
+      | ISO 10303-506 | Bill Anderson |
+      | ISO 10303-507 | Jochen Haenisch |
+      | ISO 10303-508 | Jochen Haenisch |
+      | ISO 10303-509 | Jochen Haenisch |
+      | ISO 10303-517 | Martin Philipp |
+      | ISO 10303-519 | Martin Philipp |
+      | ISO 10303-520 | Martin Philipp |
+      | ISO 13584-1 | Ekkehard Zwicker | Robert Schuler
+      | ISO 13584-10 | Ekkehard Zwicker |
+      | ISO 13584-24 | Eric Sardet |
+      | ISO 13584-26 | Gerry Radack | Gerry Radack
+      | ISO 13584-31 | Gerd Ehinger | Ben Kassel
+      |===
+    dates:
+    - start: '1998-10-15'
+      kind: effective
+- identifier: '380'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Request ability to maintain previous editions of SC 4 standard parts
+  dates:
+  - start: '1998-10-15'
+    kind: decision
+  actions:
+  - type: agrees
+    message: |
+      SC 4 agrees that the ability to maintain a previous edition of a part when a new edition is published may be useful in managing the evolution of SC 4 Standards.
+    dates:
+    - start: '1998-10-15'
+      kind: effective
+  - type: agrees
+    message: |
+      SC 4 further agrees that the decision to exercise this ability should be made on a part-by-part basis.
+    dates:
+    - start: '1998-10-15'
+      kind: effective
+  - type: requests
+    message: |
+      SC 4 requests its Secretariat to request a waiver from ISO Central Secretariat which would enable the ability to retain up to two editions of a part, to inquire as to what guidelines should apply, and to present an appropriate procedure for ratification at the next SC 4 meeting.
+    dates:
+    - start: '1998-10-15'
+      kind: effective
+- identifier: '381'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Approve appointment of Matthew West as Deputy Convener of WG 10
+  dates:
+  - start: '1998-10-15'
+    kind: decision
+  actions:
+  - type: approves
+    message: |
+      SC 4 approves the appointment of Matthew West as Deputy Convener of ISO/TC 184/SC 4/WG 10.
+    dates:
+    - start: '1998-10-15'
+      kind: effective
+- identifier: '382'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Establish active two-way liaison with NAFEMS
+  dates:
+  - start: '1998-10-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      SC 4 requests an active two-way liaison with NAFEMS, and requests the SC 4 Secretary to confirm this liaison with the ISO Central Secretariat.
+    dates:
+    - start: '1998-10-15'
+      kind: effective
+  - type: approves
+    message: |
+      SC 4 approves David Leal as the person to liaise with NAFEMS on SC 4's behalf.
+    dates:
+    - start: '1998-10-15'
+      kind: effective
+- identifier: '383'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Establish JWG 14 with ISO/TC 8/SC 10 for Ship Operational Logs
+  dates:
+  - start: '1998-10-15'
+    kind: decision
+  considerations:
+  - type: noting
+    message: |
+      Noting the approval of the NWI "Ship Operational Logs, Records, and Messages" as ISO 10303-234.
+    dates:
+    - start: '1998-10-15'
+      kind: effective
+  - type: recognizing
+    message: |
+      Recognizing that the information requirements are derived in part from the scope of ISO/TC 8/SC 10, Ships and Marine Technology/Computer Applications.
+    dates:
+    - start: '1998-10-15'
+      kind: effective
+  actions:
+  - type: approves
+    message: |
+      SC 4 approves the creation of a joint working group (JWG) between ISO/TC 8/SC 10 and ISO/TC 184/SC 4.
+
+      The scope of the JWG shall be the development of Application Protocol ISO 10303-234 including documentation that supports the usage of this AP.
+
+      In order to ensure a development in accordance with the STEP procedures for Application Protocols and harmonisation with the current ship APs the joint working group shall be placed as JWG 14, "Ship Operational Logs", under ISO/TC 184/SC 4. To draw maximum benefit from the expertise of ISO/TC 8/SC 10, SC 4 encourages the active participation of ISO/TC 8/SC 10 experts in the JWG. The JWG shall collaborate closely with ISO/TC 184/SC 4/WG 3/T23 Ships, ISO/TC 8/WG 6, Maritime Navigation and Radio Communication Equipment and Systems / Digital Interfaces for Navigational Equipment within a Ship, and IEC/TC 18, Electrical Installations of Ships and of mobile and fixed Offshore Units.
+    dates:
+    - start: '1998-10-15'
+      kind: effective
+- identifier: '384'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Disband WG 6 and transfer residual work to WG 11
+  dates:
+  - start: '1998-10-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: |
+      SC 4 resolves to disband its working group 6, noting that any residual work is transferred to WG 11.
+    dates:
+    - start: '1998-10-15'
+      kind: effective
+- identifier: '385'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Distribute capability definition for 2003 release and request comments
+  dates:
+  - start: '1998-10-15'
+    kind: decision
+  considerations:
+  - type: following
+    message: |
+      Further to Resolution 376.
+    dates:
+    - start: '1998-10-15'
+      kind: effective
+  actions:
+  - type: requests
+    message: |
+      SC 4 requests its Secretariat to distribute the attached outline capability definition for the April 2003 release of SC 4 standards (SC 4 N776) to P and O-members and liaisons, with an invitation to provide written comments by the end of 1998, and further to nominate experts for an ad hoc meeting to refine the definition, to be held during the January 1999 meeting of SC 4.
+    dates:
+    - start: '1998-10-15'
+      kind: effective
+- identifier: '386'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Announce meeting on collaborative use of geometry with ISO/TC 211
+  dates:
+  - start: '1998-10-15'
+    kind: decision
+  considerations:
+  - type: noting
+    message: |
+      Noting that ISO/TC 184/SC 4 is pleased to see that ISO/TC 211 is ready to harmonize its geometry representation with the one published in ISO 10303-42 and ISO 10303-43, as indicated by ISO/TC 211 Resolution 78.
+    dates:
+    - start: '1998-10-15'
+      kind: effective
+  actions:
+  - type: instructs
+    message: |
+      ISO/TC 184/SC 4 instructs its secretariat to announce a meeting on collaborative use of geometry between ISO 10303-42/43 and ISO 15046-7/11, to be held 1999-02-01/05 in the USA.
+    dates:
+    - start: '1998-10-15'
+      kind: effective
+  - type: encourages
+    message: |
+      ISO/TC 184/SC 4 encourages all its working groups and projects and requests especially the Shape Representation project in its WG 12 and the Building and Construction Team in its WG 3 to participate in this meeting.
+    dates:
+    - start: '1998-10-15'
+      kind: effective
+- identifier: '387'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Approve WG 8 request for re-initialization of time schedule for MANDATE
+  dates:
+  - start: '1998-10-15'
+    kind: decision
+  actions:
+  - type: approves
+    message: |
+      SC 4 approves the WG 8 request for a re-initialization of its time schedule for MANDATE based on the proposal of the WG 8 September 1998 slippage report (ISO/TC 184/SC 4/WG 8 N190) and the ISO directives.
+    dates:
+    - start: '1998-10-15'
+      kind: effective
+- identifier: '388'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank Chinese hosts for the SC 4 meeting in Beijing
+  dates:
+  - start: '1998-10-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 wishes to thank the China State Bureau of Quality and Technical Supervision, the China Standardization and Information Classifying and Coding Institute, the China STEP Center, and Mr. Ping Wang and his staff for their great hospitality, graciousness, and high quality of service in hosting the SC 4/WGs Meeting in Beijing, China, 1998-10-05/09.
+    dates:
+    - start: '1998-10-15'
+      kind: effective

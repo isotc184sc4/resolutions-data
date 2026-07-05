@@ -1,0 +1,392 @@
+metadata:
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Sandvika, Norway, May 7, 2017 -- May 12, 2017
+  dates:
+  - start: '2017-05-07'
+    end: '2017-05-12'
+    kind: meeting
+  source: ISO/TC 184/SC 4 Secretariat
+  venue: Sandvika, Norway
+resolutions:
+- identifier: '940'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Reappoint WG 11 Convenor
+  dates:
+  - start: '2017-05-15'
+    kind: decision
+  actions:
+  - type: appoints
+    message: |
+      SC 4 appoints David Loffredo as Convener for the WG 11 “Implementation Methods
+      and Conformance Methods” for a further three year term, with appreciation for this offer
+      to serve in that capacity.
+    dates:
+    - start: '2017-05-15'
+      kind: effective
+- identifier: '941'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Reappoint WG 03 Deputy Convenor
+  dates:
+  - start: '2017-05-15'
+    kind: decision
+  actions:
+  - type: appoints
+    message: |
+      SC 4 appoints Nils Sandsmark as Deputy Convener for the WG 03 “Oil, Gas, Process
+      and Power” for a further three year term, with appreciation for this offer to serve in that
+      capacity.
+    dates:
+    - start: '2017-05-15'
+      kind: effective
+- identifier: '942'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Appoint Liaison Officer to TC 171 and TC 171/SC 2
+  dates:
+  - start: '2017-05-15'
+    kind: decision
+  actions:
+  - type: appoints
+    message: |
+      SC 4 appoints Kenny Swope as liaison officer to TC 171 “Document management
+      applications” and its SC 2 “Document file formats, EDMS systems and authenticity of
+      information” for a three year term, with appreciation for this offer to serve in that
+      capacity.
+    dates:
+    - start: '2017-05-15'
+      kind: effective
+- identifier: '943'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Establish Liaison with Web3D Consortium
+  dates:
+  - start: '2017-05-15'
+    kind: decision
+  actions:
+  - type: asks
+    message: |
+      SC 4 recognizes the request of the Web 3D Consortium to become a liaison and asks
+      its Secretariat to initiate a liaison to this organization.
+    dates:
+    - start: '2017-05-15'
+      kind: effective
+  - type: nominates
+    message: |
+      SC 4 nominates Prof. Soonhung HAN as the liaison officer from SC 4 to the Web3D
+      Consortium.
+    dates:
+    - start: '2017-05-15'
+      kind: effective
+- identifier: '944'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Move ISO 10303-239 to Enlarged Timeframe
+  dates:
+  - start: '2017-05-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      SC 4 requests its Secretariat to apply the enlarged 48 month timeframe to the ISO
+      10303-239 Edition 3 project, with a DIS limit date of 2019-01-22.
+    dates:
+    - start: '2017-05-15'
+      kind: effective
+- identifier: '945'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Move ISO 15926-10 to Enlarged Timeframe
+  dates:
+  - start: '2017-05-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      SC 4 requests its Secretariat to apply the enlarged 48 month timeframe to the ISO
+      15926-10 project, with a DIS limit date of 2018-03-19.
+    dates:
+    - start: '2017-05-15'
+      kind: effective
+- identifier: '946'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Establish Ballot Duration of the New Work Item Proposal for ISO 18828-1
+  dates:
+  - start: '2017-05-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      SC 4 requests its Secretariat to apply the 8 week ballot duration to the NP for ISO
+      18828-1 on Standardized procedures for production systems engineering -- Overview.
+    dates:
+    - start: '2017-05-15'
+      kind: effective
+- identifier: '947'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Establish Ballot Duration of the New Work Item Proposal for ISO 8000-65
+  dates:
+  - start: '2017-05-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      SC 4 requests its Secretariat to apply the 8 week ballot duration to the NP for ISO 8000-65
+      on Data quality - Process measurement questionnaire.
+    dates:
+    - start: '2017-05-15'
+      kind: effective
+- identifier: '948'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Approve Minor Revision to ISO/TS 15926-4
+  dates:
+  - start: '2017-05-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      SC 4 requests WG 3 to prepare a new edition of ISO/TS 15926-4 with corrected URL
+      links and incorporating Amendment 1.
+    dates:
+    - start: '2017-05-15'
+      kind: effective
+  - type: requests
+    message: |
+      SC 4 requests its Secretariat to submit the resulting document to ISO CS for FDIS ballot
+      under the minor revision procedure.
+    dates:
+    - start: '2017-05-15'
+      kind: effective
+- identifier: '949'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Close PWI Project ISO 14306 Edition 3
+  dates:
+  - start: '2017-05-15'
+    kind: decision
+  actions:
+  - type: decides
+    message: |
+      SC 4 closes the PWI project on ISO 14306 Edition 3.
+    dates:
+    - start: '2017-05-15'
+      kind: effective
+  - type: requests
+    message: |
+      SC 4 requests its Secretariat to circulate the resulting draft NP to WG12 for a four week
+      final review. When completed, SC4 requests its Secretariat to circulate to National
+      Bodies for ballot with an 8 week period.
+    dates:
+    - start: '2017-05-15'
+      kind: effective
+- identifier: '950'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Propose Joint Activity with JTC 1/SC 24
+  dates:
+  - start: '2017-05-15'
+    kind: decision
+  actions:
+  - type: asks
+    message: |
+      SC 4 notes the proposal for a NP and asks its Secretariat to request that the proposed
+      NP be addressed through a JWG between JTC 1/SC 24 and TC 184/SC 4.
+    dates:
+    - start: '2017-05-15'
+      kind: effective
+- identifier: '951'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Create ISO 15926-9 PWI for Facade Implementation
+  dates:
+  - start: '2017-05-15'
+    kind: decision
+  actions:
+  - type: approves
+    message: |
+      SC 4 approves a PWI to create the NWI for a new part ISO 15926-9 within WG 3, to
+      identify methods for the exchange and integration of information between companies
+      cooperating in the plant engineering supply chain through implementation of “facades”,
+      for delivery at the Jeju meeting.
+    dates:
+    - start: '2017-05-15'
+      kind: effective
+  - type: appoints
+    message: |
+      SC 4 appoints Peter Paul Pruijn as Project Leader and invites member bodies to
+      nominate experts to the project.
+    dates:
+    - start: '2017-05-15'
+      kind: effective
+- identifier: '952'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Create preliminary work item for schematics
+  dates:
+  - start: '2017-05-15'
+    kind: decision
+  actions:
+  - type: approves
+    message: |
+      SC 4 approves the creation of a PWI to define an approach to schematics that will be
+      applied across ISO TC 184/SC 4 for delivery at the spring 2018 meeting and invites
+      member bodies to nominate experts to the project.
+    dates:
+    - start: '2017-05-15'
+      kind: effective
+- identifier: '953'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Create PWI for Isogeometric Analysis and concise representation
+  dates:
+  - start: '2017-05-15'
+    kind: decision
+  actions:
+  - type: approves
+    message: |
+      SC 4 approves the creation of a PWI for Isogeometric Analysis and concise
+      representation of analysis results and test data with delivery at the spring 2018 meeting
+      and invites member bodies to nominate experts to the project.
+    dates:
+    - start: '2017-05-15'
+      kind: effective
+- identifier: '954'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Support DPPC Task Force Recommendations
+  dates:
+  - start: '2017-05-15'
+    kind: decision
+  actions:
+  - type: supports
+    message: |
+      SC 4 offers to support the further development of the requirements for the future DPPC
+      as well as the proposed JWG to maintain the DPPC.
+    dates:
+    - start: '2017-05-15'
+      kind: effective
+  considerations:
+  - type: noting
+    message: |
+      Noting the report of the ISO/IEC DPPC Task Force
+    dates:
+    - start: '2017-05-15'
+      kind: effective
+  - type: recognizing
+    message: |
+      Recognizing many potential use cases for consuming the content of the proposed
+      future DPPC across multiple industry sectors, which will require various digital forms for
+      extracting the content, including but not limited, to tables of values, OWL and CAD
+      models
+    dates:
+    - start: '2017-05-15'
+      kind: effective
+  - type: considering
+    message: |
+      Considering that it is vitally important to provide tools to facilitate the conversion of
+      all product characteristics in current standards into digital form for incorporation into the
+      proposed DPPC
+    dates:
+    - start: '2017-05-15'
+      kind: effective
+  - type: noting
+    message: |
+      Noting the clear requirement to link the product properties to its existing product
+      definition models, including shape representation, functionality and engineering
+      properties
+    dates:
+    - start: '2017-05-15'
+      kind: effective
+- identifier: '955'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Appoint WG 13 Deputy Convenor
+  dates:
+  - start: '2017-05-15'
+    kind: decision
+  actions:
+  - type: appoints
+    message: |
+      SC 4 appoints Anne Dourgnon as Convener for the WG 13 “Industrial Data Quality” for
+      a three year term, with appreciation for this offer to serve in that capacity and thanks to
+      Jean BRANGE’ for his service.
+    dates:
+    - start: '2017-05-15'
+      kind: effective
+- identifier: 201705-acclaim-01
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank SC 4 Liaisons and presenters
+  dates:
+  - start: '2017-05-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 expresses its appreciation to our SC 4 Liaisons and the presentations that were
+      provided:
+
+      * ISO/IEC JTC1/SC 24 -- Christophe Mouton
+      * ISO/TC 171/SC 2 -- Kenny Swope
+      * ISO/TC 307 -- Jean Brange
+    dates:
+    - start: '2017-05-15'
+      kind: effective
+- identifier: 201705-acclaim-02
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank Open Technical Forum participants
+  dates:
+  - start: '2017-05-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 expresses its appreciation to the following individuals and organizations for their
+      participation in the 73rd ISO/TC 184/SC 4 Open Technical Forum in Oslo, Norway
+      2017-05-08:
+
+      * ISO/TC 184/SC 5 -- Charlotta Johnsson (Chair-elect)
+      * Adrian Murton -- MoSSEC
+      * Howard Mason -- BAE Systems
+      * Jean-Yves Delaunay -- Airbus Group
+      * Mark Williams -- The Boeing Company
+      * Nicolas Figay -- Airbus Group
+    dates:
+    - start: '2017-05-15'
+      kind: effective
+- identifier: 201705-acclaim-03
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank Industry Day participants
+  dates:
+  - start: '2017-05-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 expresses its appreciation to the following individuals and organizations for their
+      participation in the 73rd ISO/TC 184/SC 4 Industry Day in Oslo, Norway 2017-05-10:
+
+      * Jacob Mehus (CEO, Standards Norway)
+      * Jochen Haenisch (Jotne)
+      * Remi Lanza (NTNU/Jotne)
+      * Ole Fretheim (Norwegian Defence Research Establishment, FFI)
+      * Tor Dokken, Dr. Heidi Dahl (SINTEF)
+      * Mats Mareng Weum (OSL/T2, Aas-Jakobsen)
+      * Piotr Dabrowski, St. Olav Hospital
+      * Vic G. Samuel, IOGP- ISSC (Chevron)
+      * Anders Thostrup, USPI (Shell)
+      * Alan Johnston (MIMOSA)
+      * Robert Skaar (Statoil)
+      * Anders Gjerver (Aibel)
+      * Johan Wilhelm Klüwer (DNV GL)
+      * Jann Kåre Slettebakk (Aker Solutions)
+      * Dr. Timothy M. King (Babcock International)
+      * Dr. Salomon de Jager (Pilog)
+      * Dr. Boomann Choung (Department of Government 3.0, National Information Agency)
+    dates:
+    - start: '2017-05-15'
+      kind: effective
+- identifier: 201705-acclaim-04
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank Standards Norway for hosting the Plenary
+  dates:
+  - start: '2017-05-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 expresses its appreciation to Standards Norway for hosting the 73rd ISO/TC
+      184/SC 4 Plenary in Oslo, Norway 2017-05-07/12. Special thanks to Knut Aune –
+      Standards Norway, Tor Arne Irgens -- MtiK, Nils Sandsmark -- POSC Caesar, and
+      Jochen Haenisch -- Jotne for co-organizing the event. Special acknowledgement is
+      extended to the Thon Hotel Oslofjord and its staff for their seamless and attentive
+      support throughout the week.
+    dates:
+    - start: '2017-05-15'
+      kind: effective

@@ -1,0 +1,253 @@
+import yaml
+
+yaml_content_3 = """metadata:
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Hershey, United States, October 22, 2006 -- October 27, 2006
+  dates:
+  - start: '2006-10-22'
+    end: '2006-10-27'
+    kind: meeting
+  source: ISO/TC 184/SC 4 Secretariat
+  venue: Hershey, United States
+resolutions:
+- identifier: '692'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Appointment of Quality Committee deputy coordinator
+  dates:
+  - start: '2006-10-15'
+    kind: decision
+  considerations:
+  - type: noting
+    message: |
+      SC 4 appreciates and accepts the offer of Dr. Junfeng Zhan to serve as Quality Committee deputy coordinator.
+    dates:
+    - start: '2006-10-15'
+      kind: effective
+  actions:
+  - type: approves
+    message: |
+      SC 4 approves the nomination of Dr. Junfeng Zhan to serve for a three year term.
+    dates:
+    - start: '2006-10-15'
+      kind: effective
+
+- identifier: '693'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Appoint co-leaders for ad hoc Group Industrial Data on the Web
+  dates:
+  - start: '2006-10-15'
+    kind: decision
+  considerations:
+  - type: noting
+    message: |
+      SC 4 appreciates and accepts the offer of David Leal and David Price to serve as co-leaders of the ad hoc group for Industrial Data on the Web (IDW).
+    dates:
+    - start: '2006-10-15'
+      kind: effective
+  actions:
+  - type: approves
+    message: |
+      SC 4 approves the nomination of David Leal and David Price to serve as co-leaders of the ad hoc group for Industrial Data on the Web, and requests them to produce an updated workplan by the next meeting.
+    dates:
+    - start: '2006-10-15'
+      kind: effective
+  - type: acknowledges
+    message: |
+      SC 4 expresses its utmost appreciation to Jim U’Ren for his enthusiastic work in leading the SC 4 ad hoc Group for Industrial Data on the Web and wishes him well in his new endeavours.
+    dates:
+    - start: '2006-10-15'
+      kind: effective
+
+- identifier: '694'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Propose Category A liaison with the American Society for Quality
+  dates:
+  - start: '2006-10-15'
+    kind: decision
+  actions:
+  - type: recommends
+    message: |
+      SC 4 proposes a Category A liaison with the American Society for Quality (ASQ).
+    dates:
+    - start: '2006-10-15'
+      kind: effective
+  - type: requests
+    message: |
+      SC 4 requests that the SC 4 secretary confirm this liaison with the ISO Central Secretariat.
+    dates:
+    - start: '2006-10-15'
+      kind: effective
+  - type: asks
+    message: |
+      SC 4 invites the American Society for Quality (ASQ) to make a reciprocal nomination, and to invite any of its constituent bodies with activities within the scope of SC 4 to establish liaison arrangements.
+    dates:
+    - start: '2006-10-15'
+      kind: effective
+  - type: requests
+    message: |
+      The SC 4 Secretary is also requested to solicit liaison officer nominations from the ISO/TC 184/SC 4 P-members.
+    dates:
+    - start: '2006-10-15'
+      kind: effective
+
+- identifier: '695'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Nominate liaison officer to Marine e-Business Standards Association
+  dates:
+  - start: '2006-10-15'
+    kind: decision
+  actions:
+  - type: nominates
+    message: |
+      SC 4 nominates Nils Sandsmark as liaison officer to the Marine e-Business Standards Association (EMSA).
+    dates:
+    - start: '2006-10-15'
+      kind: effective
+  - type: acknowledges
+    message: |
+      SC 4 expresses its appreciation for the work of John Kendall as the previous liaison officer.
+    dates:
+    - start: '2006-10-15'
+      kind: effective
+
+- identifier: '696'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Propose Category A liaison with IAIDQ
+  dates:
+  - start: '2006-10-15'
+    kind: decision
+  actions:
+  - type: recommends
+    message: |
+      SC 4 proposes a Category A liaison with the International Association for Information and Data Quality (IAIDQ).
+    dates:
+    - start: '2006-10-15'
+      kind: effective
+  - type: requests
+    message: |
+      SC 4 requests that the SC 4 secretary confirm this liaison with the ISO Central Secretariat.
+    dates:
+    - start: '2006-10-15'
+      kind: effective
+  - type: asks
+    message: |
+      SC 4 invites the International Association for Information and Data Quality (IAIDQ) to make a reciprocal nomination, and to invite any of its constituent bodies with activities within the scope of SC 4 to establish liaison arrangements.
+    dates:
+    - start: '2006-10-15'
+      kind: effective
+
+- identifier: '697'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Nominate Hiroshi Murayama as liaison officer to IEC/TC 3
+  dates:
+  - start: '2006-10-15'
+    kind: decision
+  actions:
+  - type: nominates
+    message: |
+      SC 4 nominates Hiroshi Murayama as liaison officer to IEC/TC 3 "Information structures, documentation and graphical symbols".
+    dates:
+    - start: '2006-10-15'
+      kind: effective
+
+- identifier: '698'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Nominate David Price as liaison officer to Object Management Group
+  dates:
+  - start: '2006-10-15'
+    kind: decision
+  actions:
+  - type: nominates
+    message: |
+      SC 4 nominates David Price as an additional liaison officer to the Object Management Group (OMG).
+    dates:
+    - start: '2006-10-15'
+      kind: effective
+
+- identifier: '699'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Appreciation for Sophie Clivio
+  dates:
+  - start: '2006-10-15'
+    kind: decision
+  actions:
+  - type: acknowledges
+    message: |
+      SC 4 expresses its appreciation and gratitude to Ms Sophie Clivio for all her support of the work of SC 4 over the last decade, and wishes her well in her new role in ISO.
+    dates:
+    - start: '2006-10-15'
+      kind: effective
+
+- identifier: 200610-acclaim-01
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank SC 4 Liaisons and Plenary presenters
+  dates:
+  - start: '2006-10-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 appreciates our SC 4 Liaisons for their representation to and for ISO/TC 184/SC 4.
+
+      A special thank you to the SC 4 Liaison Plenary presenters for their insightful and comprehensive presentations:
+
+      |===
+      |Organization |Presenter
+
+      |PDES, Inc |Bob Kiggans
+      |PDES, Inc |Jack Harris
+      |NIST |Steve Ray
+      |Naval Surface Warfare Center |Jim Mays
+      |Renault |Oscar Rocha
+      |OLF |Thore Langeland
+      |Sandvik Coromant |Jonas Nordström
+      |DLIS |Steve Arnett
+      |===
+    dates:
+    - start: '2006-10-15'
+      kind: effective
+
+- identifier: 200610-acclaim-02
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank Peter Benson and staff for meeting support
+  dates:
+  - start: '2006-10-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 expresses its particular thanks to Peter Benson and his staff, Yvette Thomas, Dan King, Amber Davis and Melissa Schieb for their superior administrative support, outstanding hospitality, both before and during the ISO/TC 184/SC 4 meeting. Well done.
+    dates:
+    - start: '2006-10-15'
+      kind: effective
+
+- identifier: 200610-acclaim-03
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank ECCMA and PiLog for sponsorship and social event
+  dates:
+  - start: '2006-10-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 expresses its thanks to ECCMA and PiLog for its sponsorship and the memorable social event, particularly for the efforts of Mr. Ed Seguine, Vice President of Research and Development and Quality Assurance for the Guittard Chocolate Company. His presentation, overview and instruction of the correct etiquette while tasting chocolate will long be remembered.
+    dates:
+    - start: '2006-10-15'
+      kind: effective
+
+- identifier: 200610-acclaim-04
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank Ted Maloy and The Hotel Hershey staff
+  dates:
+  - start: '2006-10-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 wishes to give its unanimous thanks to Mr. Ted Maloy, The Hotel Hershey Conference Planning Manager and staff for their efforts in organizing this meeting, arranging the facilities and excellent food. Their considerable efforts created a very memorable event.
+    dates:
+    - start: '2006-10-15'
+      kind: effective
+"""
+with open("/Users/mulgogi/src/isotc184sc4/resolutions/plenary/plenary-2006-10-hershey-pa-usa.yaml", "w") as f:
+    f.write(yaml_content_3)
+print("Written 2006-10")

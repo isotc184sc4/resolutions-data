@@ -1,0 +1,555 @@
+import yaml
+
+content = """metadata:
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Little Rock, United States, May 18, 2025 -- May 23, 2025
+  dates:
+  - start: '2025-05-18'
+    end: '2025-05-23'
+    kind: meeting
+  source: ISO/TC 184/SC 4 Secretariat
+  venue: Little Rock, United States
+resolutions:
+- identifier: '1152'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Approve Project Leaders and Project Editors for SC 4 Projects
+  dates:
+  - start: '2025-05-15'
+    kind: decision
+  actions:
+  - type: approves
+    message: |
+      SC 4 Approves the following Project Leaders and Project Editors for the listed Projects:
+
+      |===
+      |Project |Working Group |Project Leader/Editor
+
+      |ISO 15926-100 Industrial automation systems and integration — Integration of life-cycle data for process plants including oil and gas production facilities — Part 100: Vocabulary |WG 3 |XU Kai Cheng (replacing Wang Zhi Qiang as Co-Project Leader)
+      |===
+    dates:
+    - start: '2025-05-15'
+      kind: effective
+- identifier: '1153'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Set 8-week ballot duration for new work item proposals
+  dates:
+  - start: '2025-05-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      SC 4 requests its Committee Manager to apply the 8-week ballot duration to the
+      following NP ballots and coordinate with the appropriate committees in joint work:
+
+      |===
+      |Project |Approval
+
+      |ISO/NP 10303-1 Industrial automation systems and integration — Product data representation and exchange — Part 1: Overview and fundamental principles
+      |☒
+      |===
+    dates:
+    - start: '2025-05-15'
+      kind: effective
+- identifier: '1154'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Appoint Convenors and Deputy Convenors for SC 4
+  dates:
+  - start: '2025-05-15'
+    kind: decision
+  actions:
+  - type: appoints
+    message: |
+      SC 4 appoints the following Convenors and Deputy Convenors for a three-year term, with appreciation to serve in this capacity:
+
+      |===
+      |WG |Role |Appointment
+
+      |TF 3 |Deputy Convenor |Jean Brangé
+      |TF 3 |Deputy Convenor |Véronique Dubillot
+      |===
+    dates:
+    - start: '2025-05-15'
+      kind: effective
+  considerations:
+  - type: noting
+    message: |
+      Noting that continuity of operations and management of work is an important consideration to the successful operation of advisory groups
+    dates:
+    - start: '2025-05-15'
+      kind: effective
+- identifier: '1155'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Appoint Convenors for WG 13 and WG 23
+  dates:
+  - start: '2025-05-15'
+    kind: decision
+  actions:
+  - type: recognizes
+    message: |
+      SC 4 recognizes the extended absence of the Convenor for WG 13 and WG 23 and appoints the current Deputy Convenor (Anne-Marie Mougeolle for WG 13 and Hayley Thompson for WG 23) from each Working Group to the role of Convenor to serve out the remainder of the term, currently through November 2027.
+    dates:
+    - start: '2025-05-15'
+      kind: effective
+  - type: welcomes
+    message: |
+      SC 4 welcomes nominations for the next four weeks from member bodies for the role of Deputy Convenor for both WG 13 and WG 23.
+
+      Further, SC 4 recognizes the significant contributions of Tim King for his leadership and contribution over the years to the development of SC 4 standards and for setting the strong foundation for the ISO 8000 series of standards.
+    dates:
+    - start: '2025-05-15'
+      kind: effective
+  considerations:
+  - type: noting
+    message: |
+      Noting that the role of Convenor in a Working Group is critical to continuity of operations and management of work and requires sustained engagement with experts, project leaders, and the committee
+    dates:
+    - start: '2025-05-15'
+      kind: effective
+- identifier: '1156'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Disband AhG 3 on UUID management for industrial data
+  dates:
+  - start: '2025-05-15'
+    kind: decision
+  actions:
+  - type: accepts
+    message: |
+      SC 4 accepts the report and its recommendations, thanks the AhG for its efforts and disbands AhG 3.
+    dates:
+    - start: '2025-05-15'
+      kind: effective
+  considerations:
+  - type: noting
+    message: |
+      Noting the final report of AhG 3 -- UUID management for industrial data and the recommendation to follow current experiments through to their conclusion
+    dates:
+    - start: '2025-05-15'
+      kind: effective
+- identifier: '1157'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Establish Study Group 1 on Industrial data and digital twin
+  dates:
+  - start: '2025-05-15'
+    kind: decision
+  actions:
+  - type: establishes
+    message: |
+      SC 4 establishes Study Group 1 -- Industrial data and digital twin with the following terms of reference:
+
+      * Examine the current implementations of digital twin in SC4 standards and related organizations inside and outside ISO, notably ISO/TC 184, ISO/TC 184/SC 5, IEC/TC 65,
+      * Develop pros and cons to each proposal put forward from JWG 16 and any developed internal to the study group,
+      * Recommend one of the proposals to SC4 with a draft implementation plan including timing,
+      * Report to SC4 at each plenary meeting the status of the study group until the group is disbanded, and
+      * Provide its final report to SC4 on or before June 2026.
+
+      SC4 names Kenneth Swope, Convenor, Soonhung Han, Deputy Convenor and Martin Hardwick, Deputy Convenor, with appreciation to serve in that capacity, recognizes the following experts:
+
+      * Hiroshi Murayama,
+      * Hyman Duan,
+      * Sangkeun Yoo,
+      * Gordon Shao,
+      * Bengt Olsson,
+      * Paul van Exel,
+      * Mario Tucci,
+      * Benjamin Martinez,
+      * Richard Merkel,
+      * Anne-Francoise Cutting-Decelle, and
+      * Christophe Mouton,
+
+      who have volunteered to participate and invites member bodies to nominate experts to participate in the group’s work.
+    dates:
+    - start: '2025-05-15'
+      kind: effective
+  considerations:
+  - type: noting
+    message: |
+      Noting the proposal from JWG 16 regarding the situation ISO/TC 184/SC 4 finds with the current implementation of digital twin as a technical concept into the scope of industrial data, and the existing activities of ISO/TC 184/AG 2 and IEC/ISO JTC 1/SC 41 -- Internet of Things and Digital Twin
+    dates:
+    - start: '2025-05-15'
+      kind: effective
+- identifier: '1158'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Establish a Category C Liaison from ALICIA Project to WG 15
+  dates:
+  - start: '2025-05-15'
+    kind: decision
+  actions:
+  - type: welcomes
+    message: |
+      SC4 concurs with the request and welcomes the ALICIA project as a Category C Liaison to WG 15.
+    dates:
+    - start: '2025-05-15'
+      kind: effective
+  considerations:
+  - type: noting
+    message: |
+      Noting the application of the ALICIA project, a EU funded Horizon Europe activity, to ISO in support of Category C Liaison status to ISO/TC 184/SC 4/WG 15
+    dates:
+    - start: '2025-05-15'
+      kind: effective
+  - type: recognizing
+    message: |
+      Recognizing the opportunity to collaborate with the technical experts in the project regarding digital twin for manufacturing
+    dates:
+    - start: '2025-05-15'
+      kind: effective
+- identifier: '1159'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Establish a Category C Liaison from ALICIA Project to WG 26
+  dates:
+  - start: '2025-05-15'
+    kind: decision
+  actions:
+  - type: welcomes
+    message: |
+      SC4 concurs with the request and welcomes the ALICIA project as a Category C Liaison to WG 26.
+    dates:
+    - start: '2025-05-15'
+      kind: effective
+  considerations:
+  - type: noting
+    message: |
+      Noting the application of the ALICIA project, a EU funded Horizon Europe project, to ISO in support of Category C Liaison status to ISO/TC 184/SC 4/WG 26
+    dates:
+    - start: '2025-05-15'
+      kind: effective
+  - type: recognizing
+    message: |
+      Recognizing the opportunity to collaborate with the technical experts in the project regarding ontology-based interoperability
+    dates:
+    - start: '2025-05-15'
+      kind: effective
+- identifier: '1160'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Establish a Category A Liaison with POSC Caesar Association
+  dates:
+  - start: '2025-05-15'
+    kind: decision
+  actions:
+  - type: accepts
+    message: |
+      Recognizing the contribution POSC Caesar Association is making to SC4, the committee accepts the request from the POSC Caesar Association to establish a two-way Category A liaison, request its Committee Manager to confirm their eligibility with ISO CS, and appoints Lars D. Berthinussen to serve as liaison representative for a three-year term [2025-2028], with appreciation for his offer to serve in that capacity.
+    dates:
+    - start: '2025-05-15'
+      kind: effective
+- identifier: '1161'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Establish a Maintenance Agency for ISO 23726 Ontology based interoperability
+  dates:
+  - start: '2025-05-15'
+    kind: decision
+  actions:
+  - type: recommends
+    message: |
+      SC4 recommends establishing a maintenance agency (MA) for ISO 23726-3 and ISO 23726-100 ontologies with scope, duties, and operations defined in the terms of reference documented in WG 26/N 78.
+    dates:
+    - start: '2025-05-15'
+      kind: effective
+  - type: appoints
+    message: |
+      SC4 appoints POSC Caesar Association represented by managing director Lars D. Berthinussen to serve as the secretariate for the MA.
+    dates:
+    - start: '2025-05-15'
+      kind: effective
+  - type: requests
+    message: |
+      SC4 requests its Committee Manager send the terms of reference for the MA and the proposed assignment to ISO/CS for consideration by the TMB for approval of the MA.
+    dates:
+    - start: '2025-05-15'
+      kind: effective
+  considerations:
+  - type: noting
+    message: |
+      Noting the preparatory work conducted by WG 26
+    dates:
+    - start: '2025-05-15'
+      kind: effective
+- identifier: '1162'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Revise Schedule for ISO 23726-3 IDO for an exceptional 9-month extension
+  dates:
+  - start: '2025-05-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      SC4 requests its Committee Manager submit the project limit date extension request to ISO/CS with the following target and limit dates:
+
+      * Stage 40 Target date: 2025-09-13
+      * Stage 40 Limit date: 2026-07-13
+      * Stage 60 Target date: 2026-09-13
+      * Stage 60 Limit date: 2027-07-13.
+    dates:
+    - start: '2025-05-15'
+      kind: effective
+  considerations:
+  - type: noting
+    message: |
+      Noting the progress on ISO 23726-3, the unplanned work of establishing a Maintenance Agency for the same, and the commitment of the project development team
+    dates:
+    - start: '2025-05-15'
+      kind: effective
+- identifier: '1163'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Change ISO/AWI 23726-2 schedule from SDT 24 to SDT 36
+  dates:
+  - start: '2025-05-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      SC4 requests its Committee Manager to coordinate with ISO/CS and move the ISO/AWI 23726-2 project from SDT 24 to SDT 36 with the following target dates for each stage:
+
+      * 30.00 Committee draft (CD) registered: 2026-01-20
+      * 40.00 DIS registered: 2026-06-20
+      * 60.60 International standard published: 2027-06-20.
+    dates:
+    - start: '2025-05-15'
+      kind: effective
+  considerations:
+  - type: noting
+    message: |
+      Noting the progress on ISO/AWI 23726-2 and the commitment of the project development team to resolve all the received comments
+    dates:
+    - start: '2025-05-15'
+      kind: effective
+- identifier: '1164'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Change ISO/AWI 15926-4 ed4 schedule from SDT 18 to SDT 24
+  dates:
+  - start: '2025-05-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      SC 4 requests its Committee Manager to coordinate with ISO/CS and move the ISO/AWI TS 15926-4 ed4, ISO PID:90901 project from SDT 18 to SDT 24 with the following target dates for each stage:
+
+      * Committee Draft ballot: 2025-09-01
+      * DTS submission: 2026-04-01
+      * Publication: 2026-07-01
+    dates:
+    - start: '2025-05-15'
+      kind: effective
+  considerations:
+  - type: noting
+    message: |
+      Noting the progress on ISO/AWI TS 15926-4 ed4 and the commitment of the project development team to resolve the current resource constraints
+    dates:
+    - start: '2025-05-15'
+      kind: effective
+- identifier: '1165'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Launch revision to ISO 8000-2 ed 6
+  dates:
+  - start: '2025-05-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      SC4 requests its Committee Manager coordinate with ISO/CS and launch edition 6 using the SDT 18 track, nominates Hayley Thompson as Project Leader, and allocates the work to WG 23 with the following terms of reference:
+
+      Update ISO 8000-2 ed 6 as presented to the Change Board during the 89th Plenary of SC4 on 20 May 2025 with the following schedule milestones:
+
+      * DIS submission: 2025-08-22
+      * Publication: 2026-05-22
+
+      Nominate the following experts and welcome additional experts to participate in the project:
+
+      * Changsoo Lee (KATS),
+      * ZHANG Wei Qun, Kevin (SAC),
+      * Julian Schwarzenbach (BSI),
+      * Anne-Marie Mougeolle (AFNOR), and
+      * Peter Benson (ANSI).
+    dates:
+    - start: '2025-05-15'
+      kind: effective
+  considerations:
+  - type: noting
+    message: |
+      Noting that a new update to ISO 8000-2 ed 6 is needed and there is no change in scope to the standard
+    dates:
+    - start: '2025-05-15'
+      kind: effective
+- identifier: '1166'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Convert ISO/CD TR 17999 to a PAS
+  dates:
+  - start: '2025-05-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      SC4 requests its Committee Manager to launch ISO/PAS 17999 -- Automation systems and integration — Reference model for industrial data standards with SDT 18 track and at stage 50.00 utilizing the existing ISO/DTR 17999 as content.
+    dates:
+    - start: '2025-05-15'
+      kind: effective
+  - type: nominates
+    message: |
+      SC4 nominates David Leal as project leader with appreciation to serve in that capacity.
+    dates:
+    - start: '2025-05-15'
+      kind: effective
+  considerations:
+  - type: noting
+    message: |
+      Noting the report from SC 4/TF 2, the current balloted and approved DTR 17999, the recommendation of the ISO Technical Editor and the consensus of the PPC
+    dates:
+    - start: '2025-05-15'
+      kind: effective
+- identifier: '1167'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Call for contributions for ISO/PWI TR 25272
+  dates:
+  - start: '2025-05-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      SC4 requests its Committee Manager launch a CIB to share this call to the committee and committees in liaison.
+    dates:
+    - start: '2025-05-15'
+      kind: effective
+  - type: encourages
+    message: |
+      SC4 also encourages convenors, team leaders, and liaisons representatives to consider submitting contributions (requirements, use-cases, and examples) to JWG 16 co-convenors and secretary before 1 October 2025.
+    dates:
+    - start: '2025-05-15'
+      kind: effective
+  considerations:
+  - type: noting
+    message: |
+      Noting the need to collect contributions from ISO/TC 184/SC 4, ISO/IEC JTC 1/SC 24 and ISO/TC 171/SC 2 for supporting future developments in the scope of visualization for industrial data
+    dates:
+    - start: '2025-05-15'
+      kind: effective
+- identifier: '1168'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Launch a PWI for ISO 13584-26 ed2
+  dates:
+  - start: '2025-05-15'
+    kind: decision
+  actions:
+  - type: decides
+    message: |
+      SC4 resolves to initiate a project to update ISO 13584-26 ed2 to develop a New Work Item Proposal (NP) at the next plenary in October 2025 with the following terms of reference:
+
+      * Register a Preliminary Work Item ISO/PWI 13584-26 Industrial automation systems and integration — Parts library — Part 26: Logical resource: Information supplier identification
+      * Allocates the work to ISO/TC 184/SC 4/JWG 24,
+      * Nominates Hiroshi Murayama as the project leader,
+      * Nominates Jean-Charles LECLERC, Yves KERARON experts and Yoshiaki Sonoda, and
+      * Invites member bodies to nominate additional experts to the project.
+    dates:
+    - start: '2025-05-15'
+      kind: effective
+  considerations:
+  - type: noting
+    message: |
+      Noting the proposal from JWG 24
+    dates:
+    - start: '2025-05-15'
+      kind: effective
+- identifier: 202505-acclaim-01
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank the staff of University of Arkansas, Little Rock
+  dates:
+  - start: '2025-05-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 expresses its sincere appreciation to the staff of University of Arkansas, Little
+      Rock for their contributions in hosting the 89th ISO/TC 184/SC 4 Plenary in Little Rock,
+      Arkansas, USA:
+
+      * Professor John Talburt, and Department of Computer and Information Sciences, University of Arkansas at Little Rock, for the initial offer to host our plenary and to coordinate locally,
+      * Professor Jeffrey B. Connelly, Interim Dean of the Donaghey College of Science, Technology, Engineering, and Mathematics for the welcoming message on Monday,
+      * Professor Tansel Karabacak, Incoming Dean of the Donaghey College of Science, Technology, Engineering, and Mathematics for the welcoming message for Industry Day, and
+      * Javon Fells, Dean's office staff member who helped behind the scenes with the room reservations, floor plans, auditorium keys, and other details.
+    dates:
+    - start: '2025-05-15'
+      kind: decision
+- identifier: 202505-acclaim-02
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank IT assistance from Information Quality Graduate Students
+  dates:
+  - start: '2025-05-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 expresses its sincere appreciation to the following Information Quality Graduate
+      Students of University of Arkansas, Little Rock for their assistance and IT expertise:
+
+      * Rudra Pratap Mukherjee
+      * Hendrika Maclean
+      * Harshitha Kancheti
+      * Fumiko Kobayashi
+      * Serajum Munira
+      * Samuel Sackey
+    dates:
+    - start: '2025-05-15'
+      kind: decision
+- identifier: 202505-acclaim-03
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank presenters at the Open Technical Forum
+  dates:
+  - start: '2025-05-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 expresses its sincere appreciation to all presenters at the Open Technical Forum
+      on Monday evening:
+
+      * Paul van Exel
+      * Jean Brange
+      * Anne-Marie Mougeolle
+      * Hayley Thompson
+      * Soonhung Han
+      * Pål Rylandsholm
+    dates:
+    - start: '2025-05-15'
+      kind: decision
+- identifier: 202505-acclaim-04
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank participants of the Smart Manufacturing Next Steps meeting
+  dates:
+  - start: '2025-05-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 expresses its sincere appreciation to Benjamin Martinez and all members of TC
+      184/AhG 4 for their participation and collaboration during the Smart Manufacturing Next
+      Steps meeting:
+
+      * Baba Takenori
+      * Fumihiko Kimura
+      * Youichi Nonaka
+      * Ulf Carlsson
+      * Yiqin Wang
+      * Richard Martin
+    dates:
+    - start: '2025-05-15'
+      kind: decision
+- identifier: 202505-acclaim-05
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank Industry Day Organizers and Presenters
+  dates:
+  - start: '2025-05-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 expresses its sincere appreciation to the following Industry Day Organizers and
+      Presenters:
+
+      * Peter Benson
+      * Hayley Thompson
+      * Kenny Swope
+      * Professor John Talburt
+    dates:
+    - start: '2025-05-15'
+      kind: decision
+"""
+with open("/Users/mulgogi/src/isotc184sc4/resolutions/plenary/plenary-2025-05-little-rock-arkansas-usa.yaml", "w") as f:
+    f.write(content)

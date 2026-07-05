@@ -1,489 +1,598 @@
+---
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Miami, United States, November 11, 2012 -- November 16, 2012
-  dates:
-  - start: '2012-11-11'
-    end: '2012-11-16'
-    kind: meeting
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Miami, United States,
+    November 11, 2012 -- November 16, 2012
+  date: '2012-11-11'
   source: ISO/TC 184/SC 4 Secretariat
-  venue: Miami, United States
-resolutions:
-- identifier: '840'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Approve new project leaders and editors for SC 4 projects
+decisions:
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '840'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2012-11-15'
-    kind: decision
-  actions:
-  - type: approves
-    message: |
-      SC 4 approves the following new project leaders or project editors for the
-      associated SC 4 projects.
-    dates:
-    - start: '2012-11-15'
-      kind: effective
-- identifier: '841'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Establish liaison with ISO/TC 261 and appoint Dr. Martin Hardwick
+  - date: '2012-11-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Approve new project leaders and editors for SC 4 projects
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: approves
+      date_effective:
+        date: '2012-11-15'
+        type: effective
+      message: |
+        SC 4 approves the following new project leaders or project editors for the
+        associated SC 4 projects.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '841'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2012-11-15'
-    kind: decision
-  actions:
-  - type: requests
-    message: |
-      SC 4 requests its Secretariat to establish a Category A Liaison with
-      ISO/TC 261 covering activities related to Geometry and information
-      exchange which fall in the scope of SC 4.
-    dates:
-    - start: '2012-11-15'
-      kind: effective
-  - type: appoints
-    message: |
-      SC 4 appoints Dr. Martin Hardwick as the Liaison Officer from SC 4 to
-      ISO/TC 261.
-    dates:
-    - start: '2012-11-15'
-      kind: effective
-- identifier: '842'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Revise scope of WG 12 and transfer teams from WG 3
+  - date: '2012-11-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Establish liaison with ISO/TC 261 and appoint Dr. Martin Hardwick
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: requests
+      date_effective:
+        date: '2012-11-15'
+        type: effective
+      message: |
+        SC 4 requests its Secretariat to establish a Category A Liaison with
+        ISO/TC 261 covering activities related to Geometry and information
+        exchange which fall in the scope of SC 4.
+    - type: appoints
+      date_effective:
+        date: '2012-11-15'
+        type: effective
+      message: |
+        SC 4 appoints Dr. Martin Hardwick as the Liaison Officer from SC 4 to
+        ISO/TC 261.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '842'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2012-11-15'
-    kind: decision
-  actions:
-  - type: resolves
-    message: |
-      SC 4 revises the title and scope of WG 12 to:
+  - date: '2012-11-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Revise scope of WG 12 and transfer teams from WG 3
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: resolves
+      date_effective:
+        date: '2012-11-15'
+        type: effective
+      message: |
+        SC 4 revises the title and scope of WG 12 to:
 
-      Title: STEP Product Modeling and Resources
+        Title: STEP Product Modeling and Resources
 
-      Scope:
+        Scope:
 
-      * Develop and maintain ISO 10303 (STEP) application protocols (APs)
-      * Develop and maintain the information models in the STEP Module and
-        Resource Library (SMRL) to support the APs, together with other common
-        resources for SC 4
-      * Develop and maintain guidance for the use of STEP APs
-      * Develop and maintain standards for 3D visualization of product models
-      * Establish liaison with other standards activities working on information
-        models useful as common resources for SC 4
-    dates:
-    - start: '2012-11-15'
-      kind: effective
-  - type: resolves
-    message: |
-      SC 4 transfers the following teams and their work from WG 3 to WG 12:
+        * Develop and maintain ISO 10303 (STEP) application protocols (APs)
+        * Develop and maintain the information models in the STEP Module and
+          Resource Library (SMRL) to support the APs, together with other common
+          resources for SC 4
+        * Develop and maintain guidance for the use of STEP APs
+        * Develop and maintain standards for 3D visualization of product models
+        * Establish liaison with other standards activities working on information
+          models useful as common resources for SC 4
+    - type: resolves
+      date_effective:
+        date: '2012-11-15'
+        type: effective
+      message: |
+        SC 4 transfers the following teams and their work from WG 3 to WG 12:
 
-      * T1 Shape Representation
-      * T4 Materials
-      * T8 Product Life Cycle
-      * T9 Engineering Analysis
-      * T10 Electrical/Electronics
-      * T19 Mechanical Products
-      * T22 Building and Construction
-      * T24 Manufacturing
+        * T1 Shape Representation
+        * T4 Materials
+        * T8 Product Life Cycle
+        * T9 Engineering Analysis
+        * T10 Electrical/Electronics
+        * T19 Mechanical Products
+        * T22 Building and Construction
+        * T24 Manufacturing
 
-      Existing WG 12 teams such as Parametrics remain unchanged.
-    dates:
-    - start: '2012-11-15'
-      kind: effective
-  - type: requests
-    message: |
-      SC 4 requests WG 12 to utilize WG 21 to execute the tasks necessary to
-      maintain the SMRL.
-    dates:
-    - start: '2012-11-15'
-      kind: effective
-  - type: requests
-    message: |
-      SC 4 requests WG 12 to utilize WG 22 to execute the tasks necessary to
-      maintain reference data.
-    dates:
-    - start: '2012-11-15'
-      kind: effective
-  - type: asks
-    message: |
-      SC 4 asks member bodies to nominate additional experts for the new scope
-      of WG 12.
-    dates:
-    - start: '2012-11-15'
-      kind: effective
-- identifier: '843'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Revise scope of WG 3 and reappoint Paul van Exel as Convener
+        Existing WG 12 teams such as Parametrics remain unchanged.
+    - type: requests
+      date_effective:
+        date: '2012-11-15'
+        type: effective
+      message: |
+        SC 4 requests WG 12 to utilize WG 21 to execute the tasks necessary to
+        maintain the SMRL.
+    - type: requests
+      date_effective:
+        date: '2012-11-15'
+        type: effective
+      message: |
+        SC 4 requests WG 12 to utilize WG 22 to execute the tasks necessary to
+        maintain reference data.
+    - type: asks
+      date_effective:
+        date: '2012-11-15'
+        type: effective
+      message: |
+        SC 4 asks member bodies to nominate additional experts for the new scope
+        of WG 12.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '843'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2012-11-15'
-    kind: decision
-  actions:
-  - type: resolves
-    message: |
-      SC 4 revises the title and scope of WG 3 to:
+  - date: '2012-11-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Revise scope of WG 3 and reappoint Paul van Exel as Convener
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: resolves
+      date_effective:
+        date: '2012-11-15'
+        type: effective
+      message: |
+        SC 4 revises the title and scope of WG 3 to:
 
-      Title: Oil, Gas, Process and Power
+        Title: Oil, Gas, Process and Power
 
-      Scope:
+        Scope:
 
-      * Develop and maintain ISO 15926
-      * Develop and maintain guidance for the implementation and use of ISO 15926
-      * Establish liaison with other standards activities working on relevant
-        information models and reference data
-    dates:
-    - start: '2012-11-15'
-      kind: effective
-  - type: appoints
-    message: |
-      SC 4 appoints Paul van Exel as Convener of WG 3 for a three-year term.
-    dates:
-    - start: '2012-11-15'
-      kind: effective
-  - type: resolves
-    message: |
-      SC 4 transfers the work of WG 3/T25 "Oil, Gas, Process and Power" to WG 3.
-    dates:
-    - start: '2012-11-15'
-      kind: effective
-  - type: requests
-    message: |
-      SC 4 requests WG 3 to utilize WG 22 to execute the tasks necessary to
-      maintain the ISO 15926 reference data.
-    dates:
-    - start: '2012-11-15'
-      kind: effective
-  - type: asks
-    message: |
-      SC 4 asks member bodies to nominate additional experts for the new scope
-      of WG 3.
-    dates:
-    - start: '2012-11-15'
-      kind: effective
-- identifier: '844'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Revise scope of WG 2 and transfer ISO 22745 and 29002
+        * Develop and maintain ISO 15926
+        * Develop and maintain guidance for the implementation and use of ISO 15926
+        * Establish liaison with other standards activities working on relevant
+          information models and reference data
+    - type: appoints
+      date_effective:
+        date: '2012-11-15'
+        type: effective
+      message: 'SC 4 appoints Paul van Exel as Convener of WG 3 for a three-year term.
+
+        '
+    - type: resolves
+      date_effective:
+        date: '2012-11-15'
+        type: effective
+      message: 'SC 4 transfers the work of WG 3/T25 "Oil, Gas, Process and Power"
+        to WG 3.
+
+        '
+    - type: requests
+      date_effective:
+        date: '2012-11-15'
+        type: effective
+      message: |
+        SC 4 requests WG 3 to utilize WG 22 to execute the tasks necessary to
+        maintain the ISO 15926 reference data.
+    - type: asks
+      date_effective:
+        date: '2012-11-15'
+        type: effective
+      message: |
+        SC 4 asks member bodies to nominate additional experts for the new scope
+        of WG 3.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '844'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2012-11-15'
-    kind: decision
-  actions:
-  - type: resolves
-    message: |
-      SC 4 revises the title and scope of WG 2 to:
+  - date: '2012-11-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Revise scope of WG 2 and transfer ISO 22745 and 29002
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: resolves
+      date_effective:
+        date: '2012-11-15'
+        type: effective
+      message: |
+        SC 4 revises the title and scope of WG 2 to:
 
-      Title: Product characteristics and libraries
+        Title: Product characteristics and libraries
 
-      Scope:
+        Scope:
 
-      * Develop and maintain International Standards for defining and
-        exchanging product characteristics, based on open dictionaries
-      * Develop and maintain International Standards for defining and
-        exchanging product libraries based on product characteristics
-      * Develop guidance for the implementation and use of the standards
-      * Establish liaisons with other standards groups that require services for
-        the representation of product libraries and characteristics
+        * Develop and maintain International Standards for defining and
+          exchanging product characteristics, based on open dictionaries
+        * Develop and maintain International Standards for defining and
+          exchanging product libraries based on product characteristics
+        * Develop guidance for the implementation and use of the standards
+        * Establish liaisons with other standards groups that require services for
+          the representation of product libraries and characteristics
 
-      The scope excludes reference data libraries.
-    dates:
-    - start: '2012-11-15'
-      kind: effective
-  - type: resolves
-    message: |
-      SC 4 transfers work on ISO 22745 and 29002 to WG 2, and invites WG 2 to
-      consider the establishment of teams focused on each standard.
-    dates:
-    - start: '2012-11-15'
-      kind: effective
-  - type: asks
-    message: |
-      SC 4 asks member bodies to nominate additional experts for the new scope
-      of WG 2.
-    dates:
-    - start: '2012-11-15'
-      kind: effective
-- identifier: '845'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Revise scope of WG 11 for implementation and conformance methods
+        The scope excludes reference data libraries.
+    - type: resolves
+      date_effective:
+        date: '2012-11-15'
+        type: effective
+      message: |
+        SC 4 transfers work on ISO 22745 and 29002 to WG 2, and invites WG 2 to
+        consider the establishment of teams focused on each standard.
+    - type: asks
+      date_effective:
+        date: '2012-11-15'
+        type: effective
+      message: |
+        SC 4 asks member bodies to nominate additional experts for the new scope
+        of WG 2.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '845'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2012-11-15'
-    kind: decision
-  actions:
-  - type: resolves
-    message: |
-      SC 4 revises the title and scope of WG 11 to:
+  - date: '2012-11-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Revise scope of WG 11 for implementation and conformance methods
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: resolves
+      date_effective:
+        date: '2012-11-15'
+        type: effective
+      message: |
+        SC 4 revises the title and scope of WG 11 to:
 
-      Title: Implementation and conformance methods
+        Title: Implementation and conformance methods
 
-      Scope:
+        Scope:
 
-      * Develop and maintain International Standards describing EXPRESS and
-        its extensions.
-      * Develop and maintain International Standards for conveying
-        information described by EXPRESS schemas and methodologies for
-        determining conformance to these standards
-      * Develop and maintain International Standards and guidance for conveying
-        information defined in EXPRESS schemas using other representation
-        forms
-      * Develop and maintain International Standards for the implementation of
-        other SC 4 standards
-    dates:
-    - start: '2012-11-15'
-      kind: effective
-  - type: asks
-    message: |
-      SC 4 asks member bodies to nominate additional experts for the new scope
-      of WG 11.
-    dates:
-    - start: '2012-11-15'
-      kind: effective
-- identifier: '846'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Create WG 21 SMRL Validation Team and appoint Keith Hunten
+        * Develop and maintain International Standards describing EXPRESS and
+          its extensions.
+        * Develop and maintain International Standards for conveying
+          information described by EXPRESS schemas and methodologies for
+          determining conformance to these standards
+        * Develop and maintain International Standards and guidance for conveying
+          information defined in EXPRESS schemas using other representation
+          forms
+        * Develop and maintain International Standards for the implementation of
+          other SC 4 standards
+    - type: asks
+      date_effective:
+        date: '2012-11-15'
+        type: effective
+      message: |
+        SC 4 asks member bodies to nominate additional experts for the new scope
+        of WG 11.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '846'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2012-11-15'
-    kind: decision
-  actions:
-  - type: creates
-    message: |
-      SC 4 creates WG 21 "SMRL Validation Team" to execute the tasks required
-      for managing the STEP Module and Resource Library under ISO Directives
-      Annex SK in accordance with SC4N2617 "Procedure for the maintenance of the
-      STEP Module and Resource Library" or subsequent revisions.
-    dates:
-    - start: '2012-11-15'
-      kind: effective
-  - type: requests
-    message: |
-      SC 4 requests WG 21 to work in close cooperation with WG 12 to support
-      their requirements for maintenance of the SMRL.
-    dates:
-    - start: '2012-11-15'
-      kind: effective
-  - type: asks
-    message: |
-      SC 4 asks member bodies to ensure that nominated experts for the Validation
-      Team are registered in the Global Directory as members of both SC 4/WG 21
-      and SC 4/WG 12, and that experts participating in the Maintenance Team are
-      registered as observers.
-    dates:
-    - start: '2012-11-15'
-      kind: effective
-  - type: appoints
-    message: |
-      SC 4 appoints Keith Hunten as Convenor of the group for a three-year term.
-    dates:
-    - start: '2012-11-15'
-      kind: effective
-- identifier: '847'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Create WG 22 Reference Data Validation Team and appoint Nils Sandsmark
-  dates:
-  - start: '2012-11-15'
-    kind: decision
-  actions:
-  - type: creates
-    message: |
-      SC 4 creates WG 22 "Reference Data Validation Team" to execute the tasks
-      required for managing SC 4 reference data from ISO 15926 and other
-      standards under ISO Directives Annex SK in accordance with SC4N2591
-      "Procedure for the maintenance of ISO/TC 184/SC 4 reference data" or
-      subsequent revisions.
-    dates:
-    - start: '2012-11-15'
-      kind: effective
-  - type: requests
-    message: |
-      SC 4 requests WG 22 to work in close cooperation with WG 3 and WG 12 to
-      meet the needs of the ISO 15926 and STEP development and implementation
-      communities, and to establish liaisons with other groups responsible for
-      reference data that can be used by SC 4.
-    dates:
-    - start: '2012-11-15'
-      kind: effective
-  - type: asks
-    message: |
-      SC 4 asks member bodies to ensure that nominated experts for the Validation
-      Team are registered in the Global Directory as members of SC 4/WG 22, and
-      also WG 3 and WG 12 as appropriate, and that experts participating in the
-      Maintenance Team are registered as observers.
-    dates:
-    - start: '2012-11-15'
-      kind: effective
-  - type: appoints
-    message: |
-      SC 4 appoints Nils Sandsmark as Convenor of the group for a three-year
-      term.
-    dates:
-    - start: '2012-11-15'
-      kind: effective
-- identifier: '848'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Create WG 23 Vocabulary Validation Team and appoint Dr Gerald Radack
-  dates:
-  - start: '2012-11-15'
-    kind: decision
-  actions:
-  - type: creates
-    message: |
-      SC 4 creates WG 23 "Vocabulary Validation Team" to execute the tasks
-      required for managing SC 4 vocabularies of terms and definitions from
-      ISO 8000 and other standards under ISO Directives Annex SK in accordance
-      with SC4N2612 "Procedure for the Maintenance of Vocabulary Standards" or
-      subsequent revisions.
-    dates:
-    - start: '2012-11-15'
-      kind: effective
-  - type: requests
-    message: |
-      SC 4 requests WG 23 to work in close cooperation with WG 13 and WG 2 to
-      meet the needs of the ISO 8000 and ISO 22745 development communities.
-    dates:
-    - start: '2012-11-15'
-      kind: effective
-  - type: asks
-    message: |
-      SC 4 asks member bodies to ensure that nominated experts for the Validation
-      Team are registered in the Global Directory as members of SC 4/WG 23 and
-      also WG 2 (for ISO 22745) or WG 13 (for ISO 8000), and that experts
-      participating in the Maintenance Team are registered as observers.
-    dates:
-    - start: '2012-11-15'
-      kind: effective
-  - type: appoints
-    message: |
-      SC 4 appoints Dr Gerald Radack as Convenor of the group for a three-year
-      term.
-    dates:
-    - start: '2012-11-15'
-      kind: effective
-- identifier: '849'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Transfer ISO 16739 to ISO/TC 59/SC 13 and establish JWG
-  dates:
-  - start: '2012-11-15'
-    kind: decision
-  actions:
-  - type: requests
-    message: |
-      SC 4 requests participation in the development of the document to be
-      created by TC 59 to facilitate the collaboration between SC 4, TC 59/SC 13
-      and buildingSMART, in order to establish the necessary operational
-      procedures.
-    dates:
-    - start: '2012-11-15'
-      kind: effective
-  - type: asks
-    message: |
-      SC 4 asks its PPC, WG 11 and WG 12 to consider the appointment of some of
-      its members as participants of the development activity.
-    dates:
-    - start: '2012-11-15'
-      kind: effective
-  - type: agrees
-    message: |
-      SC 4 agrees to establish a Joint Working Group with ISO/TC 59/SC 13 for
-      the maintenance of ISO 16739 and development of related standards, with
-      appropriate liaison with buildingSMART.
-    dates:
-    - start: '2012-11-15'
-      kind: effective
-  - type: requests
-    message: |
-      SC 4 requests a report from the joint working group at the Paris meeting.
-    dates:
-    - start: '2012-11-15'
-      kind: effective
-  considerations:
-  - type: noting
-    message: |
-      Noting TC 59 Resolution 327 (Tokyo 12) regarding the transfer of
-      responsibility for ISO 16739 from ISO/TC 184/SC 4 to ISO/TC 59/SC 13.
-    dates:
-    - start: '2012-11-15'
-      kind: effective
-- identifier: '850'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Appoint Jean Brangé as liaison officer to ProSTEP iViP
-  dates:
-  - start: '2012-11-15'
-    kind: decision
-  actions:
-  - type: welcomes
-    message: |
-      SC 4 welcomes the offer of Jean Brangé to act as a liaison officer to
-      ProSTEP iViP.
-    dates:
-    - start: '2012-11-15'
-      kind: effective
-  - type: appoints
-    message: |
-      SC 4 appoints Jean Brangé as liaison officer to ProSTEP iViP's JT
-      Implementor Forum, and its joint meetings together with the JT Workflow
-      Forum.
-    dates:
-    - start: '2012-11-15'
-      kind: effective
-- identifier: '851'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Endorse Howard Mason for reappointment as SC 4 Chair
-  dates:
-  - start: '2012-11-15'
-    kind: decision
-  actions:
-  - type: endorses
-    message: |
-      SC 4 endorses the nomination by the Secretariat of Howard Mason for an
-      additional three year term as the Chair of ISO/TC 184/SC 4 and instructs
-      the Secretary to forward his nomination to ISO TC 184 within 30 days.
-    dates:
-    - start: '2012-11-15'
-      kind: effective
-- identifier: 201211-acclaim-01
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Thank Dr Tim King for leading the Forum
-  dates:
-  - start: '2012-11-15'
-    kind: decision
-  actions:
-  - type: thanks
-    message: |
-      SC 4 offers thanks to Dr Tim King for leading the Forum on "Explaining the
-      Business Benefits of SC 4 Standards" and to the SC 4 experts who
-      contributed to a successful session.
-    dates:
-    - start: '2012-11-15'
-      kind: effective
-- identifier: 201211-acclaim-02
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Thank SC 4 Liaisons and projects at Liaison Plenary
-  dates:
-  - start: '2012-11-15'
-    kind: decision
-  actions:
-  - type: thanks
-    message: |
-      SC 4 expresses appreciation to our SC 4 Liaisons and those projects who
-      presented at the Liaison Plenary:
+  - date: '2012-11-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Create WG 21 SMRL Validation Team and appoint Keith Hunten
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: creates
+      date_effective:
+        date: '2012-11-15'
+        type: effective
+      message: |
+        SC 4 creates WG 21 "SMRL Validation Team" to execute the tasks required
+        for managing the STEP Module and Resource Library under ISO Directives
+        Annex SK in accordance with SC4N2617 "Procedure for the maintenance of the
+        STEP Module and Resource Library" or subsequent revisions.
+    - type: requests
+      date_effective:
+        date: '2012-11-15'
+        type: effective
+      message: |
+        SC 4 requests WG 21 to work in close cooperation with WG 12 to support
+        their requirements for maintenance of the SMRL.
+    - type: asks
+      date_effective:
+        date: '2012-11-15'
+        type: effective
+      message: |
+        SC 4 asks member bodies to ensure that nominated experts for the Validation
+        Team are registered in the Global Directory as members of both SC 4/WG 21
+        and SC 4/WG 12, and that experts participating in the Maintenance Team are
+        registered as observers.
+    - type: appoints
+      date_effective:
+        date: '2012-11-15'
+        type: effective
+      message: 'SC 4 appoints Keith Hunten as Convenor of the group for a three-year
+        term.
 
-      * MOU/MG Report -- Howard Mason
-      * X3D -- Soonhung Han
-      * The Oil and Gas Interoperability (OGI) Project -- David Leal
-      * Liaison Issues -- Howard Mason
-
-      We appreciate your representation to and for ISO/TC 184/SC 4.
-    dates:
-    - start: '2012-11-15'
-      kind: effective
-- identifier: 201211-acclaim-03
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Thank hosts and staff for 64th Plenary meetings in Miami
+        '
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '847'
+  kind: resolution
+  status: decided
   dates:
-  - start: '2012-11-15'
-    kind: decision
-  actions:
-  - type: thanks
-    message: |
-      SC 4 expresses its appreciation to Melissa Hildebrand and Krysten Wolf for
-      their hosting and support of the 64th ISO/TC 184/SC 4 Plenary meetings at
-      the Embassy Suites Hotel in Miami, Florida.
+  - date: '2012-11-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Create WG 22 Reference Data Validation Team and appoint Nils Sandsmark
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: creates
+      date_effective:
+        date: '2012-11-15'
+        type: effective
+      message: |
+        SC 4 creates WG 22 "Reference Data Validation Team" to execute the tasks
+        required for managing SC 4 reference data from ISO 15926 and other
+        standards under ISO Directives Annex SK in accordance with SC4N2591
+        "Procedure for the maintenance of ISO/TC 184/SC 4 reference data" or
+        subsequent revisions.
+    - type: requests
+      date_effective:
+        date: '2012-11-15'
+        type: effective
+      message: |
+        SC 4 requests WG 22 to work in close cooperation with WG 3 and WG 12 to
+        meet the needs of the ISO 15926 and STEP development and implementation
+        communities, and to establish liaisons with other groups responsible for
+        reference data that can be used by SC 4.
+    - type: asks
+      date_effective:
+        date: '2012-11-15'
+        type: effective
+      message: |
+        SC 4 asks member bodies to ensure that nominated experts for the Validation
+        Team are registered in the Global Directory as members of SC 4/WG 22, and
+        also WG 3 and WG 12 as appropriate, and that experts participating in the
+        Maintenance Team are registered as observers.
+    - type: appoints
+      date_effective:
+        date: '2012-11-15'
+        type: effective
+      message: |
+        SC 4 appoints Nils Sandsmark as Convenor of the group for a three-year
+        term.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '848'
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2012-11-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Create WG 23 Vocabulary Validation Team and appoint Dr Gerald Radack
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: creates
+      date_effective:
+        date: '2012-11-15'
+        type: effective
+      message: |
+        SC 4 creates WG 23 "Vocabulary Validation Team" to execute the tasks
+        required for managing SC 4 vocabularies of terms and definitions from
+        ISO 8000 and other standards under ISO Directives Annex SK in accordance
+        with SC4N2612 "Procedure for the Maintenance of Vocabulary Standards" or
+        subsequent revisions.
+    - type: requests
+      date_effective:
+        date: '2012-11-15'
+        type: effective
+      message: |
+        SC 4 requests WG 23 to work in close cooperation with WG 13 and WG 2 to
+        meet the needs of the ISO 8000 and ISO 22745 development communities.
+    - type: asks
+      date_effective:
+        date: '2012-11-15'
+        type: effective
+      message: |
+        SC 4 asks member bodies to ensure that nominated experts for the Validation
+        Team are registered in the Global Directory as members of SC 4/WG 23 and
+        also WG 2 (for ISO 22745) or WG 13 (for ISO 8000), and that experts
+        participating in the Maintenance Team are registered as observers.
+    - type: appoints
+      date_effective:
+        date: '2012-11-15'
+        type: effective
+      message: |
+        SC 4 appoints Dr Gerald Radack as Convenor of the group for a three-year
+        term.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '849'
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2012-11-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Transfer ISO 16739 to ISO/TC 59/SC 13 and establish JWG
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    considerations:
+    - type: noting
+      date_effective:
+        date: '2012-11-15'
+        type: effective
+      message: |
+        Noting TC 59 Resolution 327 (Tokyo 12) regarding the transfer of
+        responsibility for ISO 16739 from ISO/TC 184/SC 4 to ISO/TC 59/SC 13.
+    actions:
+    - type: requests
+      date_effective:
+        date: '2012-11-15'
+        type: effective
+      message: |
+        SC 4 requests participation in the development of the document to be
+        created by TC 59 to facilitate the collaboration between SC 4, TC 59/SC 13
+        and buildingSMART, in order to establish the necessary operational
+        procedures.
+    - type: asks
+      date_effective:
+        date: '2012-11-15'
+        type: effective
+      message: |
+        SC 4 asks its PPC, WG 11 and WG 12 to consider the appointment of some of
+        its members as participants of the development activity.
+    - type: agrees
+      date_effective:
+        date: '2012-11-15'
+        type: effective
+      message: |
+        SC 4 agrees to establish a Joint Working Group with ISO/TC 59/SC 13 for
+        the maintenance of ISO 16739 and development of related standards, with
+        appropriate liaison with buildingSMART.
+    - type: requests
+      date_effective:
+        date: '2012-11-15'
+        type: effective
+      message: 'SC 4 requests a report from the joint working group at the Paris meeting.
 
-      Special acknowledgement is extended to the Miami Embassy Suites Hotel and
-      its staff for their seamless and attentive support.
-    dates:
-    - start: '2012-11-15'
-      kind: effective
+        '
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '850'
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2012-11-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Appoint Jean Brangé as liaison officer to ProSTEP iViP
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: welcomes
+      date_effective:
+        date: '2012-11-15'
+        type: effective
+      message: |
+        SC 4 welcomes the offer of Jean Brangé to act as a liaison officer to
+        ProSTEP iViP.
+    - type: appoints
+      date_effective:
+        date: '2012-11-15'
+        type: effective
+      message: |
+        SC 4 appoints Jean Brangé as liaison officer to ProSTEP iViP's JT
+        Implementor Forum, and its joint meetings together with the JT Workflow
+        Forum.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '851'
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2012-11-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Endorse Howard Mason for reappointment as SC 4 Chair
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: endorses
+      date_effective:
+        date: '2012-11-15'
+        type: effective
+      message: |
+        SC 4 endorses the nomination by the Secretariat of Howard Mason for an
+        additional three year term as the Chair of ISO/TC 184/SC 4 and instructs
+        the Secretary to forward his nomination to ISO TC 184 within 30 days.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: 201211-acclaim-01
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2012-11-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Thank Dr Tim King for leading the Forum
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: thanks
+      date_effective:
+        date: '2012-11-15'
+        type: effective
+      message: |
+        SC 4 offers thanks to Dr Tim King for leading the Forum on "Explaining the
+        Business Benefits of SC 4 Standards" and to the SC 4 experts who
+        contributed to a successful session.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: 201211-acclaim-02
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2012-11-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Thank SC 4 Liaisons and projects at Liaison Plenary
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: thanks
+      date_effective:
+        date: '2012-11-15'
+        type: effective
+      message: |
+        SC 4 expresses appreciation to our SC 4 Liaisons and those projects who
+        presented at the Liaison Plenary:
+
+        * MOU/MG Report -- Howard Mason
+        * X3D -- Soonhung Han
+        * The Oil and Gas Interoperability (OGI) Project -- David Leal
+        * Liaison Issues -- Howard Mason
+
+        We appreciate your representation to and for ISO/TC 184/SC 4.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: 201211-acclaim-03
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2012-11-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Thank hosts and staff for 64th Plenary meetings in Miami
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: thanks
+      date_effective:
+        date: '2012-11-15'
+        type: effective
+      message: |
+        SC 4 expresses its appreciation to Melissa Hildebrand and Krysten Wolf for
+        their hosting and support of the 64th ISO/TC 184/SC 4 Plenary meetings at
+        the Embassy Suites Hotel in Miami, Florida.
+
+        Special acknowledgement is extended to the Miami Embassy Suites Hotel and
+        its staff for their seamless and attentive support.

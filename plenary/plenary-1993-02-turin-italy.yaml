@@ -1,145 +1,195 @@
+---
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Turin, Italy, February 26, 1993 -- March 8, 1993
-  dates:
-  - start: '1993-02-26'
-    end: '1993-03-08'
-    kind: meeting
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Turin, Italy, February
+    26, 1993 -- March 8, 1993
+  date: '1993-02-26'
   source: ISO/TC 184/SC 4 Secretariat
-  venue: Turin, Italy
-resolutions:
-- identifier: '161'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Request Secretariat to register ISO 10303 Parts 1, 21, 41-44, 101, and 203 as DIS
+decisions:
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '161'
+  kind: resolution
+  status: decided
   dates:
-  - start: '1993-02-15'
-    kind: decision
-  actions:
-  - type: requests
-    message: |
-      SC 4 requests its Secretariat to register Parts 1, 21, 41, 42, 43, 44, 101 and 203 of
-      ISO 10303 as Draft International Standards, following the incorporation of outstanding
-      changes agreed at the Turin meeting.
-    dates:
-    - start: '1993-02-15'
-      kind: effective
-- identifier: '162'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Request Secretariat to conditionally register ISO 10303 Part 46 as DIS
+  - date: '1993-02-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Request Secretariat to register ISO 10303 Parts 1, 21, 41-44, 101, and
+      203 as DIS
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: requests
+      date_effective:
+        date: '1993-02-15'
+        type: effective
+      message: |
+        SC 4 requests its Secretariat to register Parts 1, 21, 41, 42, 43, 44, 101 and 203 of
+        ISO 10303 as Draft International Standards, following the incorporation of outstanding
+        changes agreed at the Turin meeting.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '162'
+  kind: resolution
+  status: decided
   dates:
-  - start: '1993-02-15'
-    kind: decision
-  actions:
-  - type: requests
-    message: |
-      SC 4 requests its Secretariat to register Part 46 of ISO 10303 as a Draft International
-      Standard, subject to the following conditions being satisfied by the Project Leader:
+  - date: '1993-02-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Request Secretariat to conditionally register ISO 10303 Part 46 as DIS
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: requests
+      date_effective:
+        date: '1993-02-15'
+        type: effective
+      message: |
+        SC 4 requests its Secretariat to register Part 46 of ISO 10303 as a Draft International
+        Standard, subject to the following conditions being satisfied by the Project Leader:
 
-      a. The resolution of all outstanding issues from the second CD ballot with regard
-         to Integration, Qualification and Draughting are documented in the issues log
-         and circulated to member bodies.
-      b. The results of these resolutions are incorporated in Part 46.
-      c. The processes of Qualification and Editing are completed and the
-         results incorporated in Part 46.
-      d. The groups responsible for Qualification, Integration and Editing and the Project
-         Leader shall sign off the final version of the document.
+        a. The resolution of all outstanding issues from the second CD ballot with regard
+           to Integration, Qualification and Draughting are documented in the issues log
+           and circulated to member bodies.
+        b. The results of these resolutions are incorporated in Part 46.
+        c. The processes of Qualification and Editing are completed and the
+           results incorporated in Part 46.
+        d. The groups responsible for Qualification, Integration and Editing and the Project
+           Leader shall sign off the final version of the document.
 
-      Member bodies will confirm that Part 46 (WG 3 N218) successfully resolves all
-      outstanding ballot issues by the end of March 1993.
+        Member bodies will confirm that Part 46 (WG 3 N218) successfully resolves all
+        outstanding ballot issues by the end of March 1993.
 
-      The SC 4 Secretariat is authorized to assume that lack of response may be interpreted as confirmation.
+        The SC 4 Secretariat is authorized to assume that lack of response may be interpreted as confirmation.
 
-      An electronic form of the document shall accompany the circulation.
-    dates:
-    - start: '1993-02-15'
-      kind: effective
-- identifier: '163'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Request Secretariat to conditionally register ISO 10303 Part 201 as DIS
+        An electronic form of the document shall accompany the circulation.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '163'
+  kind: resolution
+  status: decided
   dates:
-  - start: '1993-02-15'
-    kind: decision
-  actions:
-  - type: requests
-    message: |
-      SC 4 requests its Secretariat to register Part 201 of ISO 10303 as a Draft
-      International Standard, subject to the following conditions being satisfied by the
-      Project Leader:
+  - date: '1993-02-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Request Secretariat to conditionally register ISO 10303 Part 201 as DIS
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: requests
+      date_effective:
+        date: '1993-02-15'
+        type: effective
+      message: |
+        SC 4 requests its Secretariat to register Part 201 of ISO 10303 as a Draft
+        International Standard, subject to the following conditions being satisfied by the
+        Project Leader:
 
-      a. The resolution of all outstanding issues from the second CD ballot
-         are documented in the issues log and circulated to member bodies.
-      b. The results of these resolutions are incorporated in Part 201.
-      c. The processes of Qualification, Integration and Editing are completed and
-         the results incorporated in Part 201.
-      d. The groups responsible for Qualification, Integration and Editing and the
-         Project Leader shall sign off the final version of the document.
+        a. The resolution of all outstanding issues from the second CD ballot
+           are documented in the issues log and circulated to member bodies.
+        b. The results of these resolutions are incorporated in Part 201.
+        c. The processes of Qualification, Integration and Editing are completed and
+           the results incorporated in Part 201.
+        d. The groups responsible for Qualification, Integration and Editing and the
+           Project Leader shall sign off the final version of the document.
 
-      Member bodies will confirm that the final version of Part 201 successfully resolves all
-      outstanding ballot issues within one month of circulation by the SC 4 Secretariat.
+        Member bodies will confirm that the final version of Part 201 successfully resolves all
+        outstanding ballot issues within one month of circulation by the SC 4 Secretariat.
 
-      The SC 4 Secretariat is authorized to assume that lack of response may be
-      interpreted as confirmation.
+        The SC 4 Secretariat is authorized to assume that lack of response may be
+        interpreted as confirmation.
 
-      An electronic form of the document shall accompany the circulation.
-    dates:
-    - start: '1993-02-15'
-      kind: effective
-- identifier: '164'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Recognize John Rumble and Initial Release team for their dedication
+        An electronic form of the document shall accompany the circulation.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '164'
+  kind: resolution
+  status: decided
   dates:
-  - start: '1993-02-15'
-    kind: decision
-  actions:
-  - type: recognizes
-    message: |
-      SC 4 recognizes John Rumble and his Initial Release team for their extraordinary
-      dedication and contribution to the success of STEP.
-    dates:
-    - start: '1993-02-15'
-      kind: effective
-- identifier: '165'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Require Project Leaders to confirm processing results meet project requirements
+  - date: '1993-02-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Recognize John Rumble and Initial Release team for their dedication
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: recognizes
+      date_effective:
+        date: '1993-02-15'
+        type: effective
+      message: |
+        SC 4 recognizes John Rumble and his Initial Release team for their extraordinary
+        dedication and contribution to the success of STEP.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '165'
+  kind: resolution
+  status: decided
   dates:
-  - start: '1993-02-15'
-    kind: decision
-  actions:
-  - type: resolves
-    message: |
-      SC 4 resolves that, for all Part documents, the Project Leader shall confirm that the
-      result of Qualification/Editing/Integration still meets the requirements of the project.
-    dates:
-    - start: '1993-02-15'
-      kind: effective
-- identifier: '166'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Approve the start of five Application Protocol projects
+  - date: '1993-02-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Require Project Leaders to confirm processing results meet project requirements
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: resolves
+      date_effective:
+        date: '1993-02-15'
+        type: effective
+      message: |
+        SC 4 resolves that, for all Part documents, the Project Leader shall confirm that the
+        result of Qualification/Editing/Integration still meets the requirements of the project.
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '166'
+  kind: resolution
+  status: decided
   dates:
-  - start: '1993-02-15'
-    kind: decision
-  actions:
-  - type: approves
-    message: |
-      SC 4 approves the start of the following Application Protocol projects:
+  - date: '1993-02-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Approve the start of five Application Protocol projects
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: approves
+      date_effective:
+        date: '1993-02-15'
+        type: effective
+      message: |
+        SC 4 approves the start of the following Application Protocol projects:
 
-      * 10303-215 Ship Arrangement
-      * 10303-216 Ship Moulded Forms
-      * 10303-217 Ship Piping
-      * Ship Structures
-      * Dimensional Inspection Process Planning
-    dates:
-    - start: '1993-02-15'
-      kind: effective
-- identifier: '167'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Thank UNINFO and their staff for hosting and supporting the meeting
+        * 10303-215 Ship Arrangement
+        * 10303-216 Ship Moulded Forms
+        * 10303-217 Ship Piping
+        * Ship Structures
+        * Dimensional Inspection Process Planning
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '167'
+  kind: resolution
+  status: decided
   dates:
-  - start: '1993-02-15'
-    kind: decision
-  actions:
-  - type: thanks
-    message: |
-      SC 4 thanks UNINFO and their staff for hosting and supporting the meeting.
-    dates:
-    - start: '1993-02-15'
-      kind: effective
+  - date: '1993-02-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Thank UNINFO and their staff for hosting and supporting the meeting
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: thanks
+      date_effective:
+        date: '1993-02-15'
+        type: effective
+      message: 'SC 4 thanks UNINFO and their staff for hosting and supporting the
+        meeting.
+
+        '

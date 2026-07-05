@@ -1,0 +1,487 @@
+import yaml
+
+content = """metadata:
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Stavanger, Norway, October 18, 2024 -- October 25, 2024
+  dates:
+  - start: '2024-10-18'
+    end: '2024-10-25'
+    kind: meeting
+  source: ISO/TC 184/SC 4 Secretariat
+  venue: Stavanger, Norway
+resolutions:
+- identifier: '1142'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Set 8-week ballot duration for new work item proposals
+  dates:
+  - start: '2024-10-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      SC 4 requests its Committee Manager to apply the 8-week ballot duration to the
+      following NP ballots and coordinate with the appropriate committees in joint work:
+
+      |===
+      |Project |Approval
+
+      |ISO/NP 23726-2 Industrial automation systems and integration -- Ontology based interoperability -- Part 2: Vocabulary
+      |☒
+
+      |ISO/NP 23726-100 Industrial automation systems and integration -- Ontology based interoperability - Part 100: Schedule data ontology
+      |☒
+
+      |ISO/NP 8000-200 Data quality — Part 200: Transaction data: Quality of transaction data
+      |☒
+      |===
+    dates:
+    - start: '2024-10-15'
+      kind: effective
+- identifier: '1143'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Appoint Convenors and Deputy Convenors for SC 4
+  dates:
+  - start: '2024-10-15'
+    kind: decision
+  actions:
+  - type: appoints
+    message: |
+      SC 4 appoints the following Convenors and Deputy Convenors for a three-year term, with appreciation to serve in this capacity:
+
+      |===
+      |WG |Role |Appointment
+
+      |WG 3 |Convenor |Paul van Exel
+      |WG 12 |Deputy Convenor |Melissa Harvey
+      |WG 15 |Convenor |Martin Hardwick
+      |WG 15 |Deputy Convenor |Bengt Olsson
+      |WG 21 |Deputy Convenor |Melissa Harvey
+      |WG 22 |Convenor |Nils Sandsmark
+      |WG 22 |Deputy Convenor |Paul van Exel
+      |===
+    dates:
+    - start: '2024-10-15'
+      kind: effective
+  considerations:
+  - type: noting
+    message: |
+      Noting that continuity of operations and management of work is an important consideration to the successful operation of advisory groups
+    dates:
+    - start: '2024-10-15'
+      kind: effective
+- identifier: '1144'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Reconfirm Deputy Convenor special responsibilities for WG 13 and WG 23
+  dates:
+  - start: '2024-10-15'
+    kind: decision
+  actions:
+  - type: confirms
+    message: |
+      ISO/TC 184/SC 4 recognizes the role of a Deputy Convenor to support the Convenor in the completion of his/her tasks when the Convenor is temporarily unavailable to do so. Though not necessary to have a resolution from a procedural perspective to enact this function of the Deputy Convenor, ISO/TC 184/SC 4 nonetheless reconfirms this Deputy Convenor role and approves the following Deputy Convenors to serve in this capacity until further notice:
+
+      |===
+      |Working Group |Role |Name
+
+      |ISO/TC 184/SC 4/WG 13 |Deputy Convenor |Mougeolle, Anne-Marie
+      |ISO/TC 184/SC 4/WG 23 |Deputy Convenor |Thompson, Hayley
+      |===
+    dates:
+    - start: '2024-10-15'
+      kind: effective
+  considerations:
+  - type: noting
+    message: |
+      Noting that continuity of operations and management of work is an important consideration to the successful operation of working groups
+    dates:
+    - start: '2024-10-15'
+      kind: effective
+- identifier: '1145'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Establish a liaison from ISO/TC 184/SC 4 to ISO/TC 258
+  dates:
+  - start: '2024-10-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      SC 4 requests its Committee Manager establish a liaison from SC4 to ISO/TC 258 and
+      appoints Lillian Hella to serve as liaison representative for a three-year term [2024 - 2027], with appreciation for her offer to serve in that capacity.
+    dates:
+    - start: '2024-10-15'
+      kind: effective
+  considerations:
+  - type: recognizing
+    message: |
+      Recognizing that the development of ontology standards is best served by access to domain experts for the terminology and vocabulary of the subject domain and the proposal to develop schedule data ontology is before SC4, and necessary domain expertise exists within ISO/TC 258: Project, program and portfolio management
+    dates:
+    - start: '2024-10-15'
+      kind: effective
+- identifier: '1146'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Establish a liaison from ISO/TC 184/SC 4 to ISO/TC 10 and IEC/TC 3
+  dates:
+  - start: '2024-10-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      SC 4 requests its Committee Manager to establish a liaison from SC4 to ISO/TC 10 and to IEC/TC 3 and appoints Christophe Mouton, Yves Keraron, Hiroshi Murayama, Arild Waaler, Hayley Thompson, and Yoshiaki Sonoda as liaison representatives for a three-year term [2024 - 2027], with appreciation for their offer to serve in that capacity.
+    dates:
+    - start: '2024-10-15'
+      kind: effective
+  considerations:
+  - type: noting
+    message: |
+      Noting the need to collaborate with ISO/TC 10, and with IEC/TC 3
+    dates:
+    - start: '2024-10-15'
+      kind: effective
+- identifier: '1147'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Launch NP for ISO/TS 15926-4 ed4
+  dates:
+  - start: '2024-10-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      SC 4 requests its Committee Manager to coordinate with ISO/CS and
+      launch edition 4 using the SDT 18 track, names Onno Paap as Project Leader, and
+      allocates the work to WG 3 with the following terms of reference:
+
+      * Update ISO/TS 15926-4 to ed.4 as presented to the Change Board during the 88th Plenary of SC4 on 22 Oct 2024 with the following schedule milestones:
+      ** Proposed date for first meeting: 2024-11-21
+      ** Circulation of 1st Working Draft (if any) to experts: 2024-11-07
+      ** Committee Draft ballot (if any): 2025-05-07
+      ** DIS submission: 2025-11-07
+      ** Publication: 2026-05-07
+
+      * Update the electronic inserts to ISO/TS 15926-4 ed.4 per SC4N2591, SC4N2984, and SC4N2986 standing documents,
+      * Request national bodies to nominate their representatives and deputies to the Validation Team (VT) as noted in SC4N2541, and
+      * To keep a register of the VT members for the practice of sending out notifications to vote and other administrative items.
+    dates:
+    - start: '2024-10-15'
+      kind: effective
+  considerations:
+  - type: noting
+    message: |
+      Noting that a new update to ISO/TS 15926-4 is needed and there is no change in scope to the standard
+    dates:
+    - start: '2024-10-15'
+      kind: effective
+- identifier: '1148'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Launch PWI for ISO 10303-242 ed5 and nominate experts
+  dates:
+  - start: '2024-10-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      SC 4 requests its Committee Manager to coordinate with ISO/CS and initiate the revision of ISO 10303-242 ed4 as a Preliminary Work Item with an expected submission of NP ballot on or before 2025-10-15.
+    dates:
+    - start: '2024-10-15'
+      kind: effective
+  - type: allocates
+    message: |
+      SC 4 allocates the project to WG 12 and appoints Jean Brangé as project leader with nominations of the following experts to participate:
+
+      * AFNOR: Frédéric Darré, Véronique Dubillot, Pierre Duchier, Jacques Heinisch
+      * ANSI: Rosemary Astheimer, Allison Barnard Feeney, Keith Hunten, Ben Urick, Stuart Galt, Melissa Harvey, Michelle Drummond, Brian Bentrim, Benjamin Standfield, John Van Horn, Pat Walsh, Tom Thurman
+      * BSI: Robert Swindells
+      * DIN: Bernd Feldvoss, Guillaume Hirel, Lothar Klein, Max Ungerer
+      * JISC: Hiroyuki Hiraoka, Fumiki Tanaka, Atsuto Soma
+      * SAC: Hyman Duan
+      * SIS: Mikael Hedlind, Bengt Olsson, Magnus Lundgren, Torbjörn Holm
+      * SN: Nils Sandsmark
+
+      Further, due to the special nature of ISO 10303-242 SC 4 requests ISO to grant a waiver on the mandatory use of the ISO Online Standards Development platform for this project.
+    dates:
+    - start: '2024-10-15'
+      kind: effective
+  considerations:
+  - type: noting
+    message: |
+      Noting the proposal from WG 12 for creating edition 5 of ISO 10303-242 to incorporate additional capabilities from industry requirements
+    dates:
+    - start: '2024-10-15'
+      kind: effective
+- identifier: '1149'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Launch a PWI for ISO 23726-1
+  dates:
+  - start: '2024-10-15'
+    kind: decision
+  actions:
+  - type: decides
+    message: |
+      ISO/TC 184/SC 4 decides to initiate a project which will develop a New Work Item Proposal (NP) by October 2025 with the following terms of reference:
+
+      * Register a Preliminary Work Item ISO/PWI 23726-1 Overview and fundamental principles,
+      * Allocate the work to ISO/TC 184/SC 4/WG 26,
+      * Nominate Melinda Hodkiewicz as the project leader, and
+      * Invites member bodies to nominate additional experts to the project.
+    dates:
+    - start: '2024-10-15'
+      kind: effective
+  considerations:
+  - type: noting
+    message: |
+      Noting the proposal from WG 26
+    dates:
+    - start: '2024-10-15'
+      kind: effective
+- identifier: '1150'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Revise schedule for ISO/AWI TR 8000-320
+  dates:
+  - start: '2024-10-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      SC 4 requests its Committee Manager to coordinate with ISO/CS and move the ISO/AWI TR 8000-320 ed.1, ISO.PID:88287 project from SDT 18 to SDT 36 with the following target dates for each stage:
+
+      * Committee Draft: 2025-03-31
+      * Draft Technical Report: 2025-08-31
+      * Publication date: 2025-12-31
+    dates:
+    - start: '2024-10-15'
+      kind: effective
+  - type: requests
+    message: |
+      SC 4 requests national bodies to nominate additional experts to the project.
+    dates:
+    - start: '2024-10-15'
+      kind: effective
+  considerations:
+  - type: noting
+    message: |
+      Noting the progress on ISO/AWI TR 8000-320 ed1 and the commitment of the project development team to resolve the current resource constraints
+    dates:
+    - start: '2024-10-15'
+      kind: effective
+- identifier: '1151'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Revise schedule for ISO/CD 10303-238 ed4
+  dates:
+  - start: '2024-10-15'
+    kind: decision
+  actions:
+  - type: resolves
+    message: |
+      SC 4 resolves to modify the target dates for the project as follows:
+
+      * Enquiry stage (DIS): 2025-12-30
+      * Publication stage: 2026-12-30
+    dates:
+    - start: '2024-10-15'
+      kind: effective
+  considerations:
+  - type: noting
+    message: |
+      Noting the action taken at the 87th Plenary meeting of ISO/TC 184 SC/4 to place ISO/CD 10303-238 ed4 on hold to execute round robin testing of capabilities prior to incorporation
+    dates:
+    - start: '2024-10-15'
+      kind: effective
+- identifier: 202410-acclaim-01
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank Jochen Haenisch for his service as deputy convenor of WG 12
+  dates:
+  - start: '2024-10-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 expresses its sincere appreciation to Jochen Haenisch for many years of
+      dedicated service and leadership as the deputy convenor of ISO/TC 184/SC 4/WG 12.
+      SC 4 wishes all the best to Jochen in his next journey and future endeavors.
+    dates:
+    - start: '2024-10-15'
+      kind: decision
+- identifier: 202410-acclaim-02
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank sponsors of the 88th Plenary in Stavanger
+  dates:
+  - start: '2024-10-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 expresses its appreciation to the following organizations for their contributions in
+      sponsoring 88th ISO/TC 184/SC 4 Plenary in Stavanger Norway. Those contributions
+      include meeting room facilities for our working groups, daily refreshments in the
+      business center, the welcome reception on Sunday, and the social event on Wednesday:
+
+      * Equinor
+      * Aker BP
+      * DNV
+      * Standards Norway
+    dates:
+    - start: '2024-10-15'
+      kind: decision
+- identifier: 202410-acclaim-03
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank the organizers and hosts of the 88th Plenary
+  dates:
+  - start: '2024-10-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      Special acknowledgement is extended to the following individuals for organizing and
+      hosting the 88th ISO/TC 184/SC 4 Plenary in Stavanger, Norway from 2024-10-21 to 2024-10-25:
+
+      * Inghild Kaarstad, Standards Norway
+      * Knut Aune, Standards Norway
+      * Nils Sandsmark, Standards Norway
+      * Heljar Ballo, Equinor
+    dates:
+    - start: '2024-10-15'
+      kind: decision
+- identifier: 202410-acclaim-04
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank the staff of Scandic Stavanger Forus Hotel
+  dates:
+  - start: '2024-10-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 expresses its appreciation to all the staff at the Scandic Stavanger Forus Hotel, for
+      their seamless and attentive support throughout the week while hosting the PPC
+      meeting, the QC Workshop, the Welcome Reception and the Open Technical Forum.
+    dates:
+    - start: '2024-10-15'
+      kind: decision
+- identifier: 202410-acclaim-05
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank Véronique Dubillot for leading the Quality Committee Workshop
+  dates:
+  - start: '2024-10-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 expresses its appreciation to Véronique Dubillot for leading the Quality Committee
+      Workshop on Friday and engaging our members with quizzes and activities all week.
+      Her dedication contributes to the improvement of standards development within SC 4.
+    dates:
+    - start: '2024-10-15'
+      kind: decision
+- identifier: 202410-acclaim-06
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank Jean Brangé for leading the Open Technical Forum
+  dates:
+  - start: '2024-10-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 expresses its appreciation to Jean Brangé for leading and presenting at the Open
+      Technical Forum on Monday evening to facilitate the discussion on the ISO 10303 Roadmap.
+    dates:
+    - start: '2024-10-15'
+      kind: decision
+- identifier: 202410-acclaim-07
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank Nils Sandsmark for organizing the cross-coordination meeting
+  dates:
+  - start: '2024-10-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 expresses its appreciation to Nils Sandsmark for organizing and facilitating the
+      multi-group cross-coordination meeting held on 2024-10-22 and to the participants who
+      provided technical content to the betterment of SC 4 level harmonization.
+    dates:
+    - start: '2024-10-15'
+      kind: decision
+- identifier: 202410-acclaim-08
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank contributors and presenters at Industry Day
+  dates:
+  - start: '2024-10-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 expresses its appreciation to the following individuals for contributing and
+      presenting at Industry Day on Wednesday. The delegation from Sweden is very grateful
+      for the well managed Industry Day.
+
+      * Heljar Ballo, Equinor
+      * Kenneth Swope, Boeing
+      * Per Erik Bøe Hansen, Equinor
+      * Åse Lunde, SN
+      * Roberta Gerasymchuk, ISO
+      * Anders Gierver, Aibel
+      * Jerker Delsing, LTU Univ Luleå
+      * Heiner Temmen, DEXPI
+      * Jean-Charles Leclerc, Total Energies
+      * Heljar Ballo, Equinor, Chair ILAP
+      * Thor Kvamsdal, Sintef
+      * Marius Slagsvold, Step Solutions
+      * Maja Brandt, Siemens
+      * Helge Schiøtt, AkerBP
+      * Espen Schulze, Cobuilder
+      * Svein Harald Olsen, Statnett
+      * Karl Johan Pedersen, DNV
+      * Yong-Kwan Lee, KSTEP
+    dates:
+    - start: '2024-10-15'
+      kind: decision
+- identifier: 202410-acclaim-09
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank Norsk Oljemuseum and Bølgen & Moi
+  dates:
+  - start: '2024-10-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 expresses its appreciation to the staff at Norsk Oljemuseum for the informative
+      tour and the staff at Bølgen & Moi for a great dining experience during our Social Event
+      on Wednesday evening.
+    dates:
+    - start: '2024-10-15'
+      kind: decision
+- identifier: 202410-acclaim-10
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank SC 4 Liaisons for their reports at the 88th Plenary
+  dates:
+  - start: '2024-10-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 expresses its appreciation to all our SC 4 Liaisons who provided reports at the
+      88th Plenary:
+
+      * ISO/IEC JTC 1/SC 24
+      * ISO/TC 85
+      * ISO/TC 171/SC 2
+      * Web 3D Consortium
+      * The Khronos Group
+      * ECCMA
+    dates:
+    - start: '2024-10-15'
+      kind: decision
+- identifier: 202410-acclaim-11
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank all experts, delegates, and leaders for a successful hybrid plenary
+  dates:
+  - start: '2024-10-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 expresses its sincere appreciation to all the experts, delegates, and leaders for
+      successfully executing our hybrid plenary meeting in Stavanger, Norway.
+    dates:
+    - start: '2024-10-15'
+      kind: decision
+"""
+with open("/Users/mulgogi/src/isotc184sc4/resolutions/plenary/plenary-2024-10-stavanger-norway.yaml", "w") as f:
+    f.write(content)

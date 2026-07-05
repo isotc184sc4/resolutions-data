@@ -1,225 +1,356 @@
+---
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Florence, Italy, October 19, 1997 -- October 29, 1997
-  dates:
-  - start: '1997-10-19'
-    end: '1997-10-29'
-    kind: meeting
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Florence, Italy, October
+    19, 1997 -- October 29, 1997
+  date: '1997-10-19'
   source: ISO/TC 184/SC 4 Secretariat
-  venue: Florence, Italy
-resolutions:
-- identifier: '339'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Approve new project leaders and project editors
+decisions:
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '339'
+  kind: resolution
+  status: decided
   dates:
-  - start: '1997-10-15'
-    kind: decision
-  actions:
-  - type: approves
-    message: |
-      SC4 approves the following new project leaders or project editors for the associated SC4 projects:
+  - date: '1997-10-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Approve new project leaders and project editors
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: approves
+      date_effective:
+        date: '1997-10-15'
+        type: effective
+      message: |
+        SC4 approves the following new project leaders or project editors for the associated SC4 projects:
 
-      |===
-      |ISO Project |Project Lead |Document Editor
+        |===
+        |ISO Project |Project Lead |Document Editor
 
-      |PWI 10303-220/320 |John DeLoof |
-      |10303-24 |David Price |David Price
-      |10303-207 |Prajakta Ketkar |Prajakta Ketkar
-      |10303-221 |Theo Arntz |
-      |10303-223/323 |Somendra Singh |
-      |10303-229/329 |Somendra Singh |
-      |10303-317 |Burt Gischner |Burt Gischner
-      |10303-518 |Jochen Haenisch |Jochen Haenisch
-      |===
-    dates:
-    - start: '1997-10-15'
-      kind: effective
-- identifier: '340'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Thank Neal Laurance and endorse Meinolf Groepper as liaison to SC5
+        |PWI 10303-220/320 |John DeLoof |
+        |10303-24 |David Price |David Price
+        |10303-207 |Prajakta Ketkar |Prajakta Ketkar
+        |10303-221 |Theo Arntz |
+        |10303-223/323 |Somendra Singh |
+        |10303-229/329 |Somendra Singh |
+        |10303-317 |Burt Gischner |Burt Gischner
+        |10303-518 |Jochen Haenisch |Jochen Haenisch
+        |===
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '340'
+  kind: resolution
+  status: decided
   dates:
-  - start: '1997-10-15'
-    kind: decision
-  actions:
-  - type: thanks
-    message: |
-      SC4 wishes to thank Mr. Neal Laurance for his liaison role with ISO/TC 184/SC 5.
-    dates:
-    - start: '1997-10-15'
-      kind: effective
-  - type: endorses
-    message: |
-      SC4 endorses SC5's liaison representative, Mr. Meinolf Groepper, as a joint active liaison between SC5 and SC4.
-    dates:
-    - start: '1997-10-15'
-      kind: effective
-- identifier: '341'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Cancel Resolution 319 due to lack of leadership and activity
-  dates:
-  - start: '1997-10-15'
-    kind: decision
-  actions:
-  - type: resolves
-    message: |
-      SC4 cancels Resolution 319 due to lack of leadership and activity on these preliminary work items.
-    dates:
-    - start: '1997-10-15'
-      kind: effective
-- identifier: '342'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Define normative reference registration requirements for DIS and FDIS
-  dates:
-  - start: '1997-10-15'
-    kind: decision
-  actions:
-  - type: resolves
-    message: |
-      SC4 requires that by the time a part is being registered as a Draft International Standard (DIS) its associated normative references shall also be registered at least as Draft International Standards.
+  - date: '1997-10-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Thank Neal Laurance and endorse Meinolf Groepper as liaison to SC5
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: thanks
+      date_effective:
+        date: '1997-10-15'
+        type: effective
+      message: 'SC4 wishes to thank Mr. Neal Laurance for his liaison role with ISO/TC
+        184/SC 5.
 
-      By the time a part is being registered as a Final Draft International Standard (FDIS) its normative references shall be at least registered as Draft International Standards (DIS).
-    dates:
-    - start: '1997-10-15'
-      kind: effective
-- identifier: '343'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Approve Michael Endres as Deputy Convener of WG 12
+        '
+    - type: endorses
+      date_effective:
+        date: '1997-10-15'
+        type: effective
+      message: 'SC4 endorses SC5''s liaison representative, Mr. Meinolf Groepper,
+        as a joint active liaison between SC5 and SC4.
+
+        '
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '341'
+  kind: resolution
+  status: decided
   dates:
-  - start: '1997-10-15'
-    kind: decision
-  actions:
-  - type: approves
-    message: |
-      SC4 approves Michael Endres as Deputy Convener of WG 12, SC4 Common Resources.
-    dates:
-    - start: '1997-10-15'
-      kind: effective
-- identifier: '344'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Thank Shaun Devlin for his service as Convener of JWG 9
+  - date: '1997-10-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Cancel Resolution 319 due to lack of leadership and activity
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: resolves
+      date_effective:
+        date: '1997-10-15'
+        type: effective
+      message: 'SC4 cancels Resolution 319 due to lack of leadership and activity
+        on these preliminary work items.
+
+        '
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '342'
+  kind: resolution
+  status: decided
   dates:
-  - start: '1997-10-15'
-    kind: decision
-  actions:
-  - type: thanks
-    message: |
-      SC4 wishes to thank Shaun Devlin for his service to SC4 as Convener of JWG 9, ISO/IEC Electrical/Electronics Applications.
-    dates:
-    - start: '1997-10-15'
-      kind: effective
-- identifier: '345'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Thank Julian Fowler for his service as Convener of WG 10
+  - date: '1997-10-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Define normative reference registration requirements for DIS and FDIS
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: resolves
+      date_effective:
+        date: '1997-10-15'
+        type: effective
+      message: |
+        SC4 requires that by the time a part is being registered as a Draft International Standard (DIS) its associated normative references shall also be registered at least as Draft International Standards.
+
+        By the time a part is being registered as a Final Draft International Standard (FDIS) its normative references shall be at least registered as Draft International Standards (DIS).
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '343'
+  kind: resolution
+  status: decided
   dates:
-  - start: '1997-10-15'
-    kind: decision
-  actions:
-  - type: thanks
-    message: |
-      SC4 wishes to thank Julian Fowler for his service to SC4 as Convener of WG 10, Technical Architecture.
-    dates:
-    - start: '1997-10-15'
-      kind: effective
-- identifier: '346'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Approve Julian Fowler as Deputy Convener of the Quality Committee
+  - date: '1997-10-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Approve Michael Endres as Deputy Convener of WG 12
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: approves
+      date_effective:
+        date: '1997-10-15'
+        type: effective
+      message: 'SC4 approves Michael Endres as Deputy Convener of WG 12, SC4 Common
+        Resources.
+
+        '
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '344'
+  kind: resolution
+  status: decided
   dates:
-  - start: '1997-10-15'
-    kind: decision
-  actions:
-  - type: approves
-    message: |
-      SC4 approves Julian Fowler as Deputy Convener of the Quality Committee.
-    dates:
-    - start: '1997-10-15'
-      kind: effective
-- identifier: '347'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Approve changes to guidelines for abstract test suites
+  - date: '1997-10-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Thank Shaun Devlin for his service as Convener of JWG 9
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: thanks
+      date_effective:
+        date: '1997-10-15'
+        type: effective
+      message: 'SC4 wishes to thank Shaun Devlin for his service to SC4 as Convener
+        of JWG 9, ISO/IEC Electrical/Electronics Applications.
+
+        '
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '345'
+  kind: resolution
+  status: decided
   dates:
-  - start: '1997-10-15'
-    kind: decision
-  actions:
-  - type: approves
-    message: |
-      SC4 approves the changes to "Guidelines for the development of abstract test suites" as provided in SC4 N637.
-    dates:
-    - start: '1997-10-15'
-      kind: effective
-- identifier: '348'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Establish a Preliminary Work Item in WG 3 to define AP 203 requirements
+  - date: '1997-10-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Thank Julian Fowler for his service as Convener of WG 10
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: thanks
+      date_effective:
+        date: '1997-10-15'
+        type: effective
+      message: 'SC4 wishes to thank Julian Fowler for his service to SC4 as Convener
+        of WG 10, Technical Architecture.
+
+        '
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '346'
+  kind: resolution
+  status: decided
   dates:
-  - start: '1997-10-15'
-    kind: decision
-  actions:
-  - type: establishes
-    message: |
-      SC4 establishes a Preliminary Work Item within WG 3, to perform requirement definition of future editions of AP 203 and appoints Laurence J. McKee as project leader.
-    dates:
-    - start: '1997-10-15'
-      kind: effective
-- identifier: '349'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Thank Barbara Warthen for her service as Convener of WG 3
+  - date: '1997-10-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Approve Julian Fowler as Deputy Convener of the Quality Committee
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: approves
+      date_effective:
+        date: '1997-10-15'
+        type: effective
+      message: 'SC4 approves Julian Fowler as Deputy Convener of the Quality Committee.
+
+        '
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '347'
+  kind: resolution
+  status: decided
   dates:
-  - start: '1997-10-15'
-    kind: decision
-  actions:
-  - type: thanks
-    message: |
-      SC4 wishes to thank Barbara Warthen for her service to SC4 as Convener of WG 3, Product Modeling.
-    dates:
-    - start: '1997-10-15'
-      kind: effective
-- identifier: '350'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Direct the parametrics team to number proposed standards as ISO 10303 parts
+  - date: '1997-10-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Approve changes to guidelines for abstract test suites
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: approves
+      date_effective:
+        date: '1997-10-15'
+        type: effective
+      message: 'SC4 approves the changes to "Guidelines for the development of abstract
+        test suites" as provided in SC4 N637.
+
+        '
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '348'
+  kind: resolution
+  status: decided
   dates:
-  - start: '1997-10-15'
-    kind: decision
-  actions:
-  - type: directs
-    message: |
-      SC4 directs the parametrics team to number any proposed standards that result from this work as parts of ISO 10303. The 14959 designation shall be retired/recycled.
-    dates:
-    - start: '1997-10-15'
-      kind: effective
-- identifier: '351'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Thank UNINFO host and sponsor for the SC4 meeting in Florence
+  - date: '1997-10-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Establish a Preliminary Work Item in WG 3 to define AP 203 requirements
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: establishes
+      date_effective:
+        date: '1997-10-15'
+        type: effective
+      message: 'SC4 establishes a Preliminary Work Item within WG 3, to perform requirement
+        definition of future editions of AP 203 and appoints Laurence J. McKee as
+        project leader.
+
+        '
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '349'
+  kind: resolution
+  status: decided
   dates:
-  - start: '1997-10-15'
-    kind: decision
-  actions:
-  - type: thanks
-    message: |
-      SC4 thanks its Italian UNINFO host and sponsor for the SC4 meeting in Florence, Italy. Particular thanks go to Carla Sirocchi, Elena Carnevale, Sylvia Carnevale, Jenny Martellini, and Luciano Lauro.
-    dates:
-    - start: '1997-10-15'
-      kind: effective
-- identifier: '352'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Approve Gerald Radack as Convener of WG 3
+  - date: '1997-10-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Thank Barbara Warthen for her service as Convener of WG 3
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: thanks
+      date_effective:
+        date: '1997-10-15'
+        type: effective
+      message: 'SC4 wishes to thank Barbara Warthen for her service to SC4 as Convener
+        of WG 3, Product Modeling.
+
+        '
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '350'
+  kind: resolution
+  status: decided
   dates:
-  - start: '1997-10-15'
-    kind: decision
-  actions:
-  - type: approves
-    message: |
-      SC4 approves Gerald Radack as Convener of WG 3, Product Modeling.
-    dates:
-    - start: '1997-10-15'
-      kind: effective
-- identifier: '353'
-  subject: ISO/TC 184/SC 4 "Industrial data"
-  title: Approve Bernd Wenzel as Convener of WG 10
+  - date: '1997-10-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Direct the parametrics team to number proposed standards as ISO 10303 parts
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: directs
+      date_effective:
+        date: '1997-10-15'
+        type: effective
+      message: 'SC4 directs the parametrics team to number any proposed standards
+        that result from this work as parts of ISO 10303. The 14959 designation shall
+        be retired/recycled.
+
+        '
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '351'
+  kind: resolution
+  status: decided
   dates:
-  - start: '1997-10-15'
-    kind: decision
-  actions:
-  - type: approves
-    message: |
-      SC4 approves Bernd Wenzel as Convener of WG 10, Technical Architecture.
-    dates:
-    - start: '1997-10-15'
-      kind: effective
+  - date: '1997-10-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Thank UNINFO host and sponsor for the SC4 meeting in Florence
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: thanks
+      date_effective:
+        date: '1997-10-15'
+        type: effective
+      message: 'SC4 thanks its Italian UNINFO host and sponsor for the SC4 meeting
+        in Florence, Italy. Particular thanks go to Carla Sirocchi, Elena Carnevale,
+        Sylvia Carnevale, Jenny Martellini, and Luciano Lauro.
+
+        '
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '352'
+  kind: resolution
+  status: decided
+  dates:
+  - date: '1997-10-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Approve Gerald Radack as Convener of WG 3
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: approves
+      date_effective:
+        date: '1997-10-15'
+        type: effective
+      message: 'SC4 approves Gerald Radack as Convener of WG 3, Product Modeling.
+
+        '
+- identifier:
+  - prefix: ISO/TC 184/SC 4
+    number: '353'
+  kind: resolution
+  status: decided
+  dates:
+  - date: '1997-10-15'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Approve Bernd Wenzel as Convener of WG 10
+    subject: ISO/TC 184/SC 4 "Industrial data"
+    actions:
+    - type: approves
+      date_effective:
+        date: '1997-10-15'
+        type: effective
+      message: 'SC4 approves Bernd Wenzel as Convener of WG 10, Technical Architecture.
+
+        '

@@ -1,0 +1,186 @@
+metadata:
+  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Fort Lauderdale, United States, February 29, 2004 -- March 5, 2004
+  dates:
+  - start: '2004-02-29'
+    end: '2004-03-05'
+    kind: meeting
+  source: ISO/TC 184/SC 4 Secretariat
+  venue: Fort Lauderdale, United States
+resolutions:
+- identifier: '600'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Approve project leaders and editors for SC 4 projects
+  dates:
+  - start: '2004-03-15'
+    kind: decision
+  actions:
+  - type: approves
+    message: |
+      SC 4 approves the following new project leaders or project editors for the associated SC 4 projects:
+
+      |===
+      |Project |Leader |Editor
+
+      |ISO 10303-0235 |Anna Moreno |
+      |ISO 10303-1143 |Ricardo Goncalves |
+      |ISO 10303-1144 |Ricardo Goncalves |
+      |ISO 10303-1145 |Ricardo Goncalves |
+      |ISO 10303-1146 |Ricardo Goncalves |
+      |===
+    dates:
+    - start: '2004-03-15'
+      kind: effective
+- identifier: '601'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Reappoint Gerry Radack as Convener of WG 3
+  dates:
+  - start: '2004-03-15'
+    kind: decision
+  actions:
+  - type: appreciates
+    message: |
+      SC 4 appreciates and accepts the offer of Dr. Radack to serve as Convener of WG 3.
+    dates:
+    - start: '2004-03-15'
+      kind: effective
+  - type: approves
+    message: |
+      SC 4 approves the nomination of Dr. Radack to serve for an additional three year term.
+    dates:
+    - start: '2004-03-15'
+      kind: effective
+- identifier: '602'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Nominate liaison officers to IEC SC 65B/WG 10
+  dates:
+  - start: '2004-03-15'
+    kind: decision
+  actions:
+  - type: nominates
+    message: |
+      SC 4 nominates Hiroshi Murayama as primary liaison officer, with Dr. Wolfgang Wilkes as alternate, to IEC SC 65B/WG 10 for a period of two years, and welcomes Dr. Jean-Philippe Herzog as liaison officer from SC 65B.
+    dates:
+    - start: '2004-03-15'
+      kind: effective
+- identifier: '603'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Request ISO/CS to retain ISO 10303-203 ed1 in the catalogue
+  dates:
+  - start: '2004-03-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      SC 4 requests the ISO Central Secretariat to retain the listing of ISO 10303-203 edition 1 in the ISO catalogue of available International Standards, after the publication of the ISO 10303-203 edition 2 as a Technical Specification.
+    dates:
+    - start: '2004-03-15'
+      kind: effective
+- identifier: '604'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Propose Category A liaison with NATO AC/135 and nominate Steven Arnett
+  dates:
+  - start: '2004-03-15'
+    kind: decision
+  actions:
+  - type: requests
+    message: |
+      SC 4 proposes a Category A liaison with NATO AC/135, nominates Steven Arnett, US Defense Logistics Information Service, as the liaison officer, and requests that the SC 4 secretary confirms this liaison with the ISO Central Secretariat.
+    dates:
+    - start: '2004-03-15'
+      kind: effective
+  - type: requests
+    message: |
+      SC 4 invites AC/135 to make a reciprocal nomination, and to invite any of its constituent bodies with activities in the scope of SC 4 to establish liaison arrangements.
+    dates:
+    - start: '2004-03-15'
+      kind: effective
+- identifier: '605'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Support IDW investigation of language usage with EXPRESS
+  dates:
+  - start: '2004-03-15'
+    kind: decision
+  actions:
+  - type: supports
+    message: |
+      SC 4 supports the proposed investigation by the Industrial Data on the Web Group (IDW) of the relationship between SC 4 standards and OASIS, W3C and OMG standards.
+
+      Use of languages such as UML and OWL in coordination with EXPRESS is to be included as part of this investigation.
+    dates:
+    - start: '2004-03-15'
+      kind: effective
+  - type: requests
+    message: |
+      SC 4 requests the IDW team to present a report on this activity at the Bath meeting.
+    dates:
+    - start: '2004-03-15'
+      kind: effective
+- identifier: '606'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Extend timeline for Dictionaries Task Force draft report
+  dates:
+  - start: '2004-03-15'
+    kind: decision
+  considerations:
+  - type: noting
+    message: |
+      SC 4 notes the work done to date by the Task Force for Dictionaries, Part Libraries, and Reference Data Libraries and acknowledges the need for additional time to achieve consensus.
+    dates:
+    - start: '2004-03-15'
+      kind: effective
+  actions:
+  - type: directs
+    message: |
+      SC 4 directs the Task Force to circulate a draft report to the SC 4 community by 2004-06-18 and to report to SC 4 at the next ISO/TC 184/SC 4 meeting in Bath, UK.
+    dates:
+    - start: '2004-03-15'
+      kind: effective
+- identifier: '200403-acclaim-01'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank the host organizations and staff for the Fort Lauderdale meeting
+  dates:
+  - start: '2004-03-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 expresses its deep appreciation to US PRO, its Members and the staff of the Bonaventure Resort and Spa Hotel for their efforts in organizing this meeting, arranging the facilities, excellent food, and excellent social events. SC 4 also expresses its appreciation for their hospitality and outstanding support before, during, and after the meeting.
+    dates:
+    - start: '2004-03-15'
+      kind: effective
+- identifier: '200403-acclaim-02'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank SC 4 liaisons and presenters
+  dates:
+  - start: '2004-03-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      Appreciation to our SC 4 Liaisons. We appreciate your representation to and for ISO/TC 184/SC 4. A special thank you to the SC 4 Liaison Plenary presenters for their insightful and comprehensive presentations:
+
+      |===
+      |Organization |Presenter
+
+      |ECCMA eOTD |Peter Benson & Steve Arnett
+      |SASIG |Oscar Rocha
+      |EPISTLE |Dalip Sud
+      |UCC |John McInerney
+      |EMSA |Tony Fry
+      |===
+    dates:
+    - start: '2004-03-15'
+      kind: effective
+- identifier: '200403-acclaim-03'
+  subject: ISO/TC 184/SC 4 "Industrial data"
+  title: Thank administrative staff for their support
+  dates:
+  - start: '2004-03-15'
+    kind: decision
+  actions:
+  - type: thanks
+    message: |
+      SC 4 expresses its particular thanks to Mr. Chuck Stark, Ms Sarah Hartline and Ms Tina Conlon for their superior administrative support, outstanding hospitality, and patience both before and during the ISO/TC 184/SC 4 meeting.
+    dates:
+    - start: '2004-03-15'
+      kind: effective
