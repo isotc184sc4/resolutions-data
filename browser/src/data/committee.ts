@@ -23,7 +23,7 @@ export const committee = {
     isoCommittee: 'https://www.iso.org/committee/54158.html',
     committeeSite: 'https://committee.iso.org/home/tc184sc4',
     linkedin: 'https://www.linkedin.com/company/iso-tc-184-sc-4-standards-for-industrial-data/',
-    github: 'https://github.com/ISO-TC184-SC4',
+    github: 'https://github.com/isotc184sc4',
   },
 } as const
 
