@@ -1,0 +1,12 @@
+# Domains that bot-block lychee's user-agent. These sites are
+# reachable in a real browser; the 403s are anti-scraper measures,
+# not actual broken links. Excluded so CI stays green on real link rot.
+iso.org
+www.iso.org
+committee.iso.org
+linkedin.com
+www.linkedin.com
+youtube.com
+twitter.com
+x.com
+facebook.com
