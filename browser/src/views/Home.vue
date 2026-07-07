@@ -264,8 +264,8 @@ import { useMeetings } from '../composables/useMeetings'
 import { committee } from '../data/committee'
 import { useCountUp } from '@edoxen/vue'
 import { getActionColor } from '../data/actionTypes'
-import { formatDate } from 'edoxen'
-import { highlightText } from 'edoxen'
+import { formatDate } from '@edoxen/edoxen'
+import { highlightText } from '@edoxen/edoxen'
 
 const router = useRouter()
 const route = useRoute()

@@ -155,8 +155,8 @@
 import { ref, computed, onMounted, watch } from 'vue'
 import { useRouter, useRoute } from 'vue-router'
 import { useMeetings, groupMeetingsByDecade } from '../composables/useMeetings'
-import { venueToFlag, venueToCountryCode } from 'edoxen'
-import { formatDateShort } from 'edoxen'
+import { venueToFlag, venueToCountryCode } from '@edoxen/edoxen'
+import { formatDateShort } from '@edoxen/edoxen'
 
 const router = useRouter()
 const route = useRoute()
