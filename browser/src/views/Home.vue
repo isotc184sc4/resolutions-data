@@ -262,10 +262,10 @@ import { useRouter, useRoute } from 'vue-router'
 import { useResolutions } from '../composables/useResolutions'
 import { useMeetings } from '../composables/useMeetings'
 import { committee } from '../data/committee'
-import { useCountUp } from '../composables/useCountUp'
+import { useCountUp } from '@edoxen/vue'
 import { getActionColor } from '../data/actionTypes'
-import { formatDate } from '../utils/format'
-import { highlightText } from '../utils/highlight'
+import { formatDate } from 'edoxen'
+import { highlightText } from 'edoxen'
 
 const router = useRouter()
 const route = useRoute()

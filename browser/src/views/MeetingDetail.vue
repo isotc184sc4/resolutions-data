@@ -95,10 +95,9 @@
 import { computed, onMounted } from 'vue'
 import { useRoute } from 'vue-router'
 import { useMeetings } from '../composables/useMeetings'
-import { venueToFlag } from '../data/countryFlags'
-import { formatDate } from '../utils/format'
+import { venueToFlag, formatDate } from 'edoxen'
 import { buildMeetingUrn } from '../utils/urn'
-import { useClipboard } from '../composables/useClipboard'
+import { useClipboard } from '@edoxen/vue'
 
 const route = useRoute()
 const { getMeeting, getMeetingResolutions, isLoaded, loadData } = useMeetings()
