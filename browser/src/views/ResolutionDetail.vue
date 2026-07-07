@@ -231,9 +231,9 @@ import { ref, computed, onMounted, onUnmounted, watch } from 'vue'
 import { useRouter, useRoute } from 'vue-router'
 import { useResolutions } from '../composables/useResolutions'
 import { useMeetings } from '../composables/useMeetings'
-import { asciidocify } from 'edoxen'
+import { asciidocify } from '@edoxen/edoxen'
 import { getActionColor } from '../data/actionTypes'
-import { formatDate } from 'edoxen'
+import { formatDate } from '@edoxen/edoxen'
 import { useClipboard } from '@edoxen/vue'
 
 const router = useRouter()

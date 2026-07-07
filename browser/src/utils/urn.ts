@@ -4,7 +4,7 @@
 // URN helpers (buildUrn, parseUrn, slugFromUrn) come from the edoxen
 // library; this file holds the site-specific bits.
 
-import { buildUrn, type Urn } from 'edoxen'
+import { buildUrn, type Urn } from '@edoxen/edoxen'
 
 const URN_BASE = 'urn:iso:tc:184:sc:4'
 

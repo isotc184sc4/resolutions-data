@@ -95,7 +95,7 @@
 import { computed, onMounted } from 'vue'
 import { useRoute } from 'vue-router'
 import { useMeetings } from '../composables/useMeetings'
-import { venueToFlag, formatDate } from 'edoxen'
+import { venueToFlag, formatDate } from '@edoxen/edoxen'
 import { buildMeetingUrn } from '../utils/urn'
 import { useClipboard } from '@edoxen/vue'
 
