@@ -1,30 +1,30 @@
-// src/data/committee.ts
-// SINGLE SOURCE OF TRUTH for committee metadata not derivable from resolution data.
-// Update this file when committee facts change.
+// Loads committee metadata from the generated `committee.json` (built
+// by `scripts/build-data.mjs` from the v2.2 MeetingSeries fixture
+// `_data/committee.yaml`). Replaces the hard-coded committee object.
+//
+// Single source of truth: the MeetingSeries fixture. Update the
+// fixture, rebuild, and the site picks up the new facts.
 
-export const committee = {
-  // Identity
-  name: 'ISO/TC 184/SC 4',
-  title: 'Industrial data',
-  tagline: 'Standards developed for the people who need them',
-  scope: 'Standardization of the content, meaning, structure, representation and quality management of information for engineered products throughout their lifecycle.',
+import committeeRaw from '../../public/data/committee.json'
 
-  // Committee facts (from ISO.org — not derivable from resolution YAML)
-  secretariat: 'ANSI (United States)',
-  chair: 'Mr Kenneth Swope',
-  established: 1984,
-  publishedStandards: 822,
-  participatingMembers: 21,
-  observingMembers: 14,
-
-  // External links
+export interface Committee {
+  name: string
+  title: string
+  tagline: string
+  scope: string
+  secretariat: string
+  chair: string
+  established: number | null
+  publishedStandards: number | null
+  participatingMembers: number | null
+  observingMembers: number | null
   links: {
-    iso: 'https://www.iso.org',
-    isoCommittee: 'https://www.iso.org/committee/54158.html',
-    committeeSite: 'https://committee.iso.org/home/tc184sc4',
-    linkedin: 'https://www.linkedin.com/company/iso-tc-184-sc-4-standards-for-industrial-data/',
-    github: 'https://github.com/isotc184sc4',
-  },
-} as const
+    iso: string
+    isoCommittee: string
+    committeeSite: string
+    linkedin: string
+    github: string
+  }
+}
 
-export type Committee = typeof committee
+export const committee: Committee = committeeRaw as Committee
