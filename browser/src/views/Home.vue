@@ -283,8 +283,8 @@ const isLegendOpen = ref(false)
 
 const totalResolutions = computed(() => resolutions.value.length)
 const totalMeetings = computed(() => meetings.value.length)
-const committeeStandards = computed(() => committee.publishedStandards)
-const committeeEst = computed(() => committee.established)
+const committeeStandards = computed(() => committee.publishedStandards ?? 0)
+const committeeEst = computed(() => committee.established ?? 0)
 
 const animResolutions = useCountUp(totalResolutions, isLoaded, 1500)
 const animMeetings = useCountUp(totalMeetings, isLoaded, 1500)

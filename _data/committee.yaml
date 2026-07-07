@@ -1,0 +1,75 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/edoxen/edoxen/v2.1.1/schema/meeting.yaml
+#
+# ISO/TC 184/SC 4 committee — MeetingSeries fixture.
+# Single source of truth for committee metadata consumed by the
+# browser's header / footer / About page. Replaces the hard-coded
+# `browser/src/data/committee.ts` object.
+#
+# Site-specific extras (tagline, live ISO metrics, social-media URLs)
+# live under `extensions[]` per the MeetingExtension profile mechanism
+# — profile `isotc184sc4`.
+
+identifier:
+  - prefix: "ISO/TC 184/SC 4"
+    number: "series"
+urn: urn:iso:tc184:sc4:series
+name: "ISO/TC 184/SC 4"
+description: "Standardization of the content, meaning, structure, representation and quality management of information for engineered products throughout their lifecycle."
+kind: committee
+term: "1984–present"
+
+hosts:
+  - ref: ansi
+    type: national_body
+    role: secretariat
+
+contact:
+  name:
+    formatted: "Kenneth Swope"
+  affiliation: "ANSI (United States)"
+  kind: person
+  role: chair
+
+extensions:
+  - profile: isotc184sc4
+    kind: committee_facts
+    attributes:
+      - key: tagline
+        type: string
+        value: "Standards developed for the people who need them"
+      - key: title
+        type: string
+        value: "Industrial data"
+      - key: established_year
+        type: integer
+        intValue: 1984
+      # Live ISO.org metrics — refreshed periodically. Last update:
+      # 2026-07-07.
+      - key: published_standards
+        type: integer
+        intValue: 822
+      - key: participating_members
+        type: integer
+        intValue: 21
+      - key: observing_members
+        type: integer
+        intValue: 14
+
+  - profile: isotc184sc4
+    kind: external_links
+    attributes:
+      - key: iso_home
+        type: string
+        value: "https://www.iso.org"
+      - key: iso_committee
+        type: string
+        value: "https://www.iso.org/committee/54158.html"
+      - key: committee_site
+        type: string
+        value: "https://committee.iso.org/home/tc184sc4"
+      - key: linkedin
+        type: string
+        value: "https://www.linkedin.com/company/iso-tc-184-sc-4-standards-for-industrial-data/"
+      - key: github
+        type: string
+        value: "https://github.com/isotc184sc4"
