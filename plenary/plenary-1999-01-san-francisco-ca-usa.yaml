@@ -4,6 +4,8 @@ metadata:
     States, January 18, 1999 -- January 28, 1999
   date: '1999-01-18'
   source: ISO/TC 184/SC 4 Secretariat
+  city: USSFO
+  country_code: US
 decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4

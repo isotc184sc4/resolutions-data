@@ -4,6 +4,8 @@ metadata:
     June 30, 2006
   date: '2006-06-30'
   source: ISO/TC 184/SC 4 Secretariat
+  city: FRTLS
+  country_code: FR
 decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4

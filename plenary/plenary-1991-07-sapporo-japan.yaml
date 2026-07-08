@@ -4,6 +4,8 @@ metadata:
     1991
   date: '1991-07-15'
   source: ISO/TC 184/SC 4 Secretariat
+  city: JPSPK
+  country_code: JP
 decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4

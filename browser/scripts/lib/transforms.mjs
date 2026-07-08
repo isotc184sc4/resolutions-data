@@ -1,3 +1,5 @@
+import { venueDisplay, venueFlag } from './unlocodes.mjs'
+
 export const URN_BASE = 'urn:iso:tc:184:sc:4'
 
 const PUA_BULLET_REPLACEMENTS = [
@@ -56,7 +58,10 @@ export function buildResolutionRecord(decision, sourceFile, metadata) {
     title: deriveDisplayTitle(loc, acclamation),
     subject: loc.subject || '',
     year,
-    venue: '',
+    venue: venueDisplay(metadata.city),
+    venue_flag: venueFlag(metadata.city),
+    city: metadata.city || '',
+    country_code: metadata.country_code || '',
     source_file: sourceFile,
     meeting_urn: `${URN_BASE}:meeting:${sourceFile}`,
     source_title: metadata.title || '',

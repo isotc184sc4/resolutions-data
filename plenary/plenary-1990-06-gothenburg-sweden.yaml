@@ -1,10 +1,11 @@
-# yaml-language-server: $schema=https://raw.githubusercontent.com/edoxen/edoxen/refs/heads/main/schema/edoxen.yaml
 ---
 metadata:
   title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Gothenburg, Sweden,
     June 25, 1990 -- July 5, 1990
   date: '1990-06-25'
   source: ISO/TC 184/SC 4 Secretariat
+  city: SEGOT
+  country_code: SE
 decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4

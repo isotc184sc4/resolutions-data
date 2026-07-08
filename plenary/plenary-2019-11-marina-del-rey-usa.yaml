@@ -1,10 +1,11 @@
-# yaml-language-server: $schema=https://raw.githubusercontent.com/edoxen/edoxen/refs/heads/main/schema/edoxen.yaml
 ---
 metadata:
   title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Marina del Rey, United
     States, November 3, 2019 -- November 8, 2019
   date: '2019-11-03'
   source: ISO/TC 184/SC 4 Secretariat
+  city: USLAX
+  country_code: US
 decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4

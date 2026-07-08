@@ -1,10 +1,11 @@
-# yaml-language-server: $schema=https://raw.githubusercontent.com/edoxen/edoxen/refs/heads/main/schema/edoxen.yaml
 ---
 metadata:
   title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Washington, D.C.,
     United States, July 11, 1984 -- July 21, 1984
   date: '1984-07-11'
   source: ISO/TC 184/SC 4 Secretariat
+  city: USGAI
+  country_code: US
 decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4

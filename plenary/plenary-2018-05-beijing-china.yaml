@@ -4,6 +4,8 @@ metadata:
     20, 2018 -- May 25, 2018
   date: '2018-05-20'
   source: ISO/TC 184/SC 4 Secretariat
+  city: CNBJS
+  country_code: CN
 decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4

@@ -4,6 +4,8 @@ metadata:
     16, 2005 -- October 21, 2005
   date: '2005-10-16'
   source: ISO/TC 184/SC 4 Secretariat
+  city: CNHGH
+  country_code: CN
 decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4

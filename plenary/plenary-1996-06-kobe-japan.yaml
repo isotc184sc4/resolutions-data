@@ -4,6 +4,8 @@ metadata:
     9, 1996 -- June 19, 1996
   date: '1996-06-09'
   source: ISO/TC 184/SC 4 Secretariat
+  city: JPUKB
+  country_code: JP
 decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4

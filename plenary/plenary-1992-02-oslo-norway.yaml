@@ -4,6 +4,8 @@ metadata:
     7, 1992 -- February 17, 1992
   date: '1992-02-07'
   source: ISO/TC 184/SC 4 Secretariat
+  city: NOOSL
+  country_code: 'NO'
 decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4

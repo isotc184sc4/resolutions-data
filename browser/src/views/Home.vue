@@ -38,7 +38,7 @@
             <span class="stat-label">Published Standards</span>
           </div>
           <div class="stat-item">
-            <span class="stat-value">{{ formatNumber(animEstablished) }}</span>
+            <span class="stat-value">{{ committee.established ?? '—' }}</span>
             <span class="stat-label">Established</span>
           </div>
         </div>
@@ -284,12 +284,10 @@ const isLegendOpen = ref(false)
 const totalResolutions = computed(() => resolutions.value.length)
 const totalMeetings = computed(() => meetings.value.length)
 const committeeStandards = computed(() => committee.publishedStandards ?? 0)
-const committeeEst = computed(() => committee.established ?? 0)
 
 const animResolutions = useCountUp(totalResolutions, isLoaded, 1500)
 const animMeetings = useCountUp(totalMeetings, isLoaded, 1500)
 const animStandards = useCountUp(committeeStandards, isLoaded, 1500)
-const animEstablished = useCountUp(committeeEst, isLoaded, 1500)
 
 const yearRange = computed(() => {
   if (!resolutions.value.length) return { earliest: '', latest: '' }

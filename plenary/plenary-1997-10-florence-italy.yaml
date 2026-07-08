@@ -4,6 +4,8 @@ metadata:
     19, 1997 -- October 29, 1997
   date: '1997-10-19'
   source: ISO/TC 184/SC 4 Secretariat
+  city: ITFLR
+  country_code: IT
 decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4

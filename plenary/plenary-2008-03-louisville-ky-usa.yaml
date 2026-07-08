@@ -4,6 +4,8 @@ metadata:
     March 2008
   date: '2008-03-15'
   source: ISO/TC 184/SC 4 Secretariat
+  city: USLOU
+  country_code: US
 decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4

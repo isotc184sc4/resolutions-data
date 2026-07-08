@@ -4,6 +4,8 @@ metadata:
     October 25, 2003 -- October 31, 2003
   date: '2003-10-25'
   source: ISO/TC 184/SC 4 Secretariat
+  city: FRPIS
+  country_code: FR
 decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4

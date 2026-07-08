@@ -1,10 +1,11 @@
-# yaml-language-server: $schema=https://raw.githubusercontent.com/edoxen/edoxen/refs/heads/main/schema/edoxen.yaml
 ---
 metadata:
   title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Vico Equense, Italy,
     October 2010
   date: '2010-10-15'
   source: ISO/TC 184/SC 4 Secretariat
+  city: ITNAP
+  country_code: IT
 decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4

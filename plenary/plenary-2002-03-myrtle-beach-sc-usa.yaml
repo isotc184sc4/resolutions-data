@@ -4,6 +4,8 @@ metadata:
     States, February 25, 2002 -- March 1, 2002
   date: '2002-02-25'
   source: ISO/TC 184/SC 4 Secretariat
+  city: USMYR
+  country_code: US
 decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4

@@ -4,6 +4,8 @@ metadata:
     States, June 6, 2010 -- June 11, 2010
   date: '2010-06-06'
   source: ISO/TC 184/SC 4 Secretariat
+  city: USBNP
+  country_code: US
 decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4

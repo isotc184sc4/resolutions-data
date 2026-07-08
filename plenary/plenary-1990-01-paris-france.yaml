@@ -1,10 +1,11 @@
-# yaml-language-server: $schema=https://raw.githubusercontent.com/edoxen/edoxen/refs/heads/main/schema/edoxen.yaml
 ---
 metadata:
   title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Paris, France, January
     22, 1990 -- February 1, 1990
   date: '1990-01-22'
   source: ISO/TC 184/SC 4 Secretariat
+  city: FRPAR
+  country_code: FR
 decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4

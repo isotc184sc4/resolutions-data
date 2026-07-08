@@ -4,6 +4,8 @@ metadata:
     States, February 29, 2004 -- March 5, 2004
   date: '2004-02-29'
   source: ISO/TC 184/SC 4 Secretariat
+  city: USFLL
+  country_code: US
 decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4

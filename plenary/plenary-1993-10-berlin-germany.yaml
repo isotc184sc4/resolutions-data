@@ -4,6 +4,8 @@ metadata:
     4, 1993 -- October 14, 1993
   date: '1993-10-04'
   source: ISO/TC 184/SC 4 Secretariat
+  city: DEBER
+  country_code: DE
 decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4

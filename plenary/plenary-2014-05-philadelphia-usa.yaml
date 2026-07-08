@@ -4,6 +4,8 @@ metadata:
     States, May 4, 2014 -- May 9, 2014
   date: '2014-05-04'
   source: ISO/TC 184/SC 4 Secretariat
+  city: USPHL
+  country_code: US
 decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4

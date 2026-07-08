@@ -4,6 +4,8 @@ metadata:
     1992
   date: '1992-10-15'
   source: ISO/TC 184/SC 4 Secretariat
+  city: USDAL
+  country_code: US
 decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
