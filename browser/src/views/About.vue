@@ -27,38 +27,41 @@
           <div class="code-wrapper">
             <pre class="code-block"><code><span class="code-key">metadata</span>:
   <span class="code-key">title</span>: <span class="code-string">Resolutions of the plenary meeting of ISO/TC 184/SC 4, Stavanger, Norway</span>
-  <span class="code-key">dates</span>:
-  - <span class="code-key">start</span>: <span class="code-string">'2024-10-18'</span>
-    <span class="code-key">end</span>: <span class="code-string">'2024-10-25'</span>
-    <span class="code-key">kind</span>: <span class="code-string">meeting</span>
+  <span class="code-key">date</span>: <span class="code-string">'2024-10-18'</span>
   <span class="code-key">source</span>: <span class="code-string">ISO/TC 184/SC 4 Secretariat</span>
-  <span class="code-key">venue</span>: <span class="code-string">Stavanger, Norway</span>
+  <span class="code-key">city</span>: <span class="code-string">NOSVG</span>
+  <span class="code-key">country_code</span>: <span class="code-string">NO</span>
 
-<span class="code-key">resolutions</span>:
-- <span class="code-key">identifier</span>: <span class="code-string">'1142'</span>
-  <span class="code-key">subject</span>: <span class="code-string">ISO/TC 184/SC 4 "Industrial data"</span>
-  <span class="code-key">title</span>: <span class="code-string">Set 8-week ballot duration for new work item proposals</span>
+<span class="code-key">decisions</span>:
+- <span class="code-key">identifier</span>:
+  - <span class="code-key">prefix</span>: <span class="code-string">ISO/TC 184/SC 4</span>
+    <span class="code-key">number</span>: <span class="code-string">'1142'</span>
+  <span class="code-key">kind</span>: <span class="code-string">resolution</span>
+  <span class="code-key">status</span>: <span class="code-string">decided</span>
   <span class="code-key">dates</span>:
-  - <span class="code-key">start</span>: <span class="code-string">'2024-10-15'</span>
-    <span class="code-key">kind</span>: <span class="code-string">decision</span>
-  <span class="code-key">actions</span>:
-  - <span class="code-key">type</span>: <span class="code-string">requests</span>
-    <span class="code-key">message</span>: |<span class="code-string">
-      SC 4 requests its Committee Manager to apply the
-      8-week ballot duration to the following NP ballots...</span>
-  <span class="code-key">considerations</span>:
-  - <span class="code-key">type</span>: <span class="code-string">noting</span>
-    <span class="code-key">message</span>: |<span class="code-string">
-      SC 4 notes that shorter ballot durations...</span>
-  <span class="code-key">approvals</span>:
-  - <span class="code-key">degree</span>: <span class="code-string">unanimous</span>
-    <span class="code-key">message</span>: <span class="code-string">Approved without objection</span></code></pre>
+  - <span class="code-key">date</span>: <span class="code-string">'2024-10-25'</span>
+    <span class="code-key">type</span>: <span class="code-string">adoption</span>
+  <span class="code-key">localizations</span>:
+  - <span class="code-key">language_code</span>: <span class="code-string">eng</span>
+    <span class="code-key">title</span>: <span class="code-string">Set 8-week ballot duration for new work item proposals</span>
+    <span class="code-key">actions</span>:
+    - <span class="code-key">type</span>: <span class="code-string">requests</span>
+      <span class="code-key">message</span>: |<span class="code-string">
+        SC 4 requests its Committee Manager to apply the
+        8-week ballot duration to the following NP ballots...</span>
+    <span class="code-key">considerations</span>:
+    - <span class="code-key">type</span>: <span class="code-string">noting</span>
+      <span class="code-key">message</span>: |<span class="code-string">
+        SC 4 notes that shorter ballot durations...</span>
+    <span class="code-key">approvals</span>:
+    - <span class="code-key">degree</span>: <span class="code-string">unanimous</span>
+      <span class="code-key">type</span>: <span class="code-string">affirmative</span></code></pre>
           </div>
           <p>
-            Each file contains two main sections: <code>metadata</code>, containing information about the meeting, and a <code>resolutions</code> array, detailing the individual decisions made. A resolution includes its identifier, subject, title, relevant dates, any context under <code>considerations</code>, and the <code>actions</code> mandated by the committee.
+            Each file contains two main sections: <code>metadata</code>, containing information about the meeting, and a <code>decisions</code> array, detailing the individual decisions made. A decision carries its <code>identifier</code> (StructuredIdentifier with prefix + number), a <code>kind</code> (resolution, order, ruling), and per-language <code>localizations</code> containing the title, subject, <code>considerations</code>, <code>actions</code>, and <code>approvals</code>.
           </p>
           <p>
-            <a href="https://github.com/metanorma/edoxen" target="_blank" rel="noopener noreferrer" class="text-link">View the Edoxen schema on GitHub &rarr;</a>
+            <a href="https://edoxen.github.io/" target="_blank" rel="noopener noreferrer" class="text-link">Learn more about Edoxen &rarr;</a>
           </p>
         </div>
       </section>
@@ -151,7 +154,22 @@
           <div class="committee-card">
             <h3 class="committee-title">{{ committee.title }}</h3>
             <p class="committee-scope">{{ committee.scope }}</p>
-            
+
+            <dl class="committee-facts">
+              <div class="committee-fact">
+                <dt>Secretariat</dt>
+                <dd>{{ committee.secretariat }}</dd>
+              </div>
+              <div class="committee-fact">
+                <dt>Chair</dt>
+                <dd>{{ committee.chair }}</dd>
+              </div>
+              <div class="committee-fact">
+                <dt>Established</dt>
+                <dd>{{ committee.established }}</dd>
+              </div>
+            </dl>
+
             <div class="committee-stats">
               <div class="stat-item">
                 <span class="stat-value">{{ committee.established }}</span>
@@ -557,6 +575,34 @@ const actionChips = actionTypes.map(type => ({
   font-style: italic;
 }
 .dark .committee-scope { color: var(--color-slate-400); }
+
+.committee-facts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  margin-bottom: 2rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid var(--color-slate-200);
+}
+.dark .committee-facts { border-bottom-color: var(--color-slate-700); }
+
+.committee-fact dt {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--color-slate-500);
+  font-weight: 600;
+  margin-bottom: 0.25rem;
+}
+.dark .committee-fact dt { color: var(--color-slate-400); }
+
+.committee-fact dd {
+  margin: 0;
+  font-size: 1rem;
+  font-weight: 500;
+  color: var(--color-slate-900);
+}
+.dark .committee-fact dd { color: white; }
 
 .committee-stats {
   display: grid;
