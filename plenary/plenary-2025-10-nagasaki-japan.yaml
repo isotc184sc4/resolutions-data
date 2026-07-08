@@ -4,6 +4,8 @@ metadata:
     25, 2025 -- October 31, 2025
   date: '2025-10-25'
   source: ISO/TC 184/SC 4 Secretariat
+  city: JPNGS
+  country_code: JP
 decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4

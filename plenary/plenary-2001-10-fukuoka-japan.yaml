@@ -4,6 +4,8 @@ metadata:
     30, 2001 -- October 5, 2001
   date: '2001-09-30'
   source: ISO/TC 184/SC 4 Secretariat
+  city: JPHKT
+  country_code: JP
 decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4

@@ -4,6 +4,8 @@ metadata:
     States, May 18, 2025 -- May 23, 2025
   date: '2025-05-18'
   source: ISO/TC 184/SC 4 Secretariat
+  city: USLIT
+  country_code: US
 decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4

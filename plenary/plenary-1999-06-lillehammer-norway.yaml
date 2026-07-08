@@ -4,6 +4,8 @@ metadata:
     June 7, 1999 -- June 17, 1999
   date: '1999-06-07'
   source: ISO/TC 184/SC 4 Secretariat
+  city: NOLLM
+  country_code: 'NO'
 decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4

@@ -4,6 +4,8 @@ metadata:
     October 27, 1995 -- November 6, 1995
   date: '1995-10-27'
   source: ISO/TC 184/SC 4 Secretariat
+  city: FRGNB
+  country_code: FR
 decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4

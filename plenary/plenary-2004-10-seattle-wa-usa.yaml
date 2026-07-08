@@ -4,6 +4,8 @@ metadata:
     October 3, 2004 -- October 8, 2004
   date: '2004-10-03'
   source: ISO/TC 184/SC 4 Secretariat
+  city: USSEA
+  country_code: US
 decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4

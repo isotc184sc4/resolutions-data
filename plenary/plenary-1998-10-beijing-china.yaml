@@ -4,6 +4,8 @@ metadata:
     3, 1998 -- October 13, 1998
   date: '1998-10-03'
   source: ISO/TC 184/SC 4 Secretariat
+  city: CNBJS
+  country_code: CN
 decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4

@@ -1,10 +1,11 @@
-# yaml-language-server: $schema=https://raw.githubusercontent.com/edoxen/edoxen/refs/heads/main/schema/edoxen.yaml
 ---
 metadata:
   title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Rotterdam, Netherlands,
     January 25, 1988 -- February 4, 1988
   date: '1988-01-25'
   source: ISO/TC 184/SC 4 Secretariat
+  city: NLRTM
+  country_code: NL
 decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4

@@ -4,6 +4,8 @@ metadata:
     October 28, 2007 -- November 2, 2007
   date: '2007-10-28'
   source: ISO/TC 184/SC 4 Secretariat
+  city: USDAL
+  country_code: US
 decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4

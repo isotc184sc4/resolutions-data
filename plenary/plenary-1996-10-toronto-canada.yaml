@@ -4,6 +4,8 @@ metadata:
     6, 1996 -- October 16, 1996
   date: '1996-10-06'
   source: ISO/TC 184/SC 4 Secretariat
+  city: CATOR
+  country_code: CA
 decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4

@@ -1,10 +1,11 @@
-# yaml-language-server: $schema=https://raw.githubusercontent.com/edoxen/edoxen/refs/heads/main/schema/edoxen.yaml
 ---
 metadata:
   title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Saint-Denis, France,
     June 3, 2013 -- June 8, 2013
   date: '2013-06-03'
   source: ISO/TC 184/SC 4 Secretariat
+  city: FRSDN
+  country_code: FR
 decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4

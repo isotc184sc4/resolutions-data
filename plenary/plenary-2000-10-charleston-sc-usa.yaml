@@ -4,6 +4,8 @@ metadata:
     States, October 12, 2000 -- October 20, 2000
   date: '2000-10-12'
   source: ISO/TC 184/SC 4 Secretariat
+  city: USCHS
+  country_code: US
 decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4

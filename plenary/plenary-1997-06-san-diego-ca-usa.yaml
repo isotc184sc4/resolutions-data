@@ -4,6 +4,8 @@ metadata:
     States, June 1, 1997 -- June 11, 1997
   date: '1997-06-01'
   source: ISO/TC 184/SC 4 Secretariat
+  city: USSAN
+  country_code: US
 decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4

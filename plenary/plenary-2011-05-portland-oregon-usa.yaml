@@ -4,6 +4,8 @@ metadata:
     United States, May 22, 2011 -- May 27, 2011
   date: '2011-05-22'
   source: ISO/TC 184/SC 4 Secretariat
+  city: USPDX
+  country_code: US
 decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4

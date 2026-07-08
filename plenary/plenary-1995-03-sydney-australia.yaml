@@ -4,6 +4,8 @@ metadata:
     March 19, 1995 -- March 29, 1995
   date: '1995-03-19'
   source: ISO/TC 184/SC 4 Secretariat
+  city: AUSYD
+  country_code: AU
 decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4

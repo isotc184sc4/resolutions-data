@@ -4,6 +4,8 @@ metadata:
     February 27, 2005 -- March 4, 2005
   date: '2005-02-27'
   source: ISO/TC 184/SC 4 Secretariat
+  city: NOLLM
+  country_code: 'NO'
 decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4

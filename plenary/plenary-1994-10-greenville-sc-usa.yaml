@@ -4,6 +4,8 @@ metadata:
     States, October 21, 1994 -- October 31, 1994
   date: '1994-10-21'
   source: ISO/TC 184/SC 4 Secretariat
+  city: USGVL
+  country_code: US
 decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4

@@ -4,6 +4,8 @@ metadata:
     States, June 10, 2001 -- June 15, 2001
   date: '2001-06-10'
   source: ISO/TC 184/SC 4 Secretariat
+  city: USSFO
+  country_code: US
 decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4

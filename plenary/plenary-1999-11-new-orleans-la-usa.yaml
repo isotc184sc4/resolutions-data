@@ -4,6 +4,8 @@ metadata:
     States, November 8, 1999 -- November 18, 1999
   date: '1999-11-08'
   source: ISO/TC 184/SC 4 Secretariat
+  city: USMSY
+  country_code: US
 decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4

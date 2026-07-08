@@ -4,6 +4,8 @@ metadata:
     March 5, 2006 -- March 10, 2006
   date: '2006-03-05'
   source: ISO/TC 184/SC 4 Secretariat
+  city: ITNAP
+  country_code: IT
 decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4

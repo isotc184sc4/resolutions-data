@@ -4,6 +4,8 @@ metadata:
     July 4, 2004 -- July 9, 2004
   date: '2004-07-04'
   source: ISO/TC 184/SC 4 Secretariat
+  city: GBBTH
+  country_code: GB
 decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4

@@ -4,6 +4,8 @@ metadata:
     June 7, 1998 -- June 17, 1998
   date: '1998-06-07'
   source: ISO/TC 184/SC 4 Secretariat
+  city: DEBAI
+  country_code: DE
 decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
