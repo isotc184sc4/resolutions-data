@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400..700;1,9..40,400..700&family=Fraunces:ital,opsz,wght@0,9..144,400..700;1,9..144,400..700&display=swap');
+
+:root {
+  --edoxen-font-sans: 'DM Sans', system-ui, sans-serif;
+  --edoxen-font-serif: 'Fraunces', Georgia, serif;
+  --edoxen-font-mono: 'JetBrains Mono', ui-monospace, monospace;
+}
