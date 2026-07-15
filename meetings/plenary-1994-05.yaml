@@ -1,0 +1,54 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 1994-05
+urn: urn:iso:tc184:sc4:meeting:plenary-1994-05
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Davos, Switzerland,
+    May 12, 1994 -- May 22, 1994
+city: CHDVS
+country_code: CH
+venues:
+- kind: physical
+  country_code: CH
+  unlocode: CHDVS
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '195'
+- prefix: ISO/TC 184/SC 4
+  number: '196'
+- prefix: ISO/TC 184/SC 4
+  number: '197'
+- prefix: ISO/TC 184/SC 4
+  number: '198'
+- prefix: ISO/TC 184/SC 4
+  number: '199'
+- prefix: ISO/TC 184/SC 4
+  number: '200'
+- prefix: ISO/TC 184/SC 4
+  number: '201'
+- prefix: ISO/TC 184/SC 4
+  number: '202'
+- prefix: ISO/TC 184/SC 4
+  number: '203'
+- prefix: ISO/TC 184/SC 4
+  number: '204'
+- prefix: ISO/TC 184/SC 4
+  number: '205'
+- prefix: ISO/TC 184/SC 4
+  number: '206'
+- prefix: ISO/TC 184/SC 4
+  number: '207'
+- prefix: ISO/TC 184/SC 4
+  number: '208'
+- prefix: ISO/TC 184/SC 4
+  number: 199405-acclaim-01
+- prefix: ISO/TC 184/SC 4
+  number: 199405-acclaim-02
+scheduled_date_range:
+  start: '1994-05-12'
+  end: '1994-05-12'

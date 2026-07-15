@@ -1,0 +1,54 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 2017-11
+urn: urn:iso:tc184:sc4:meeting:plenary-2017-11
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Jeju, Korea, November
+    5, 2017 -- November 10, 2017
+city: KRJEU
+country_code: KR
+venues:
+- kind: physical
+  country_code: KR
+  unlocode: KRJEU
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '956'
+- prefix: ISO/TC 184/SC 4
+  number: '957'
+- prefix: ISO/TC 184/SC 4
+  number: '958'
+- prefix: ISO/TC 184/SC 4
+  number: '959'
+- prefix: ISO/TC 184/SC 4
+  number: '960'
+- prefix: ISO/TC 184/SC 4
+  number: '961'
+- prefix: ISO/TC 184/SC 4
+  number: '962'
+- prefix: ISO/TC 184/SC 4
+  number: '963'
+- prefix: ISO/TC 184/SC 4
+  number: '964'
+- prefix: ISO/TC 184/SC 4
+  number: '965'
+- prefix: ISO/TC 184/SC 4
+  number: 201711-acclaim-01
+- prefix: ISO/TC 184/SC 4
+  number: 201711-acclaim-02
+- prefix: ISO/TC 184/SC 4
+  number: 201711-acclaim-03
+- prefix: ISO/TC 184/SC 4
+  number: 201711-acclaim-04
+- prefix: ISO/TC 184/SC 4
+  number: 201711-acclaim-05
+- prefix: ISO/TC 184/SC 4
+  number: 201711-acclaim-06
+scheduled_date_range:
+  start: '2017-11-05'
+  end: '2017-11-05'

@@ -1,0 +1,62 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 2006-03
+urn: urn:iso:tc184:sc4:meeting:plenary-2006-03
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Vico Equense, Italy,
+    March 5, 2006 -- March 10, 2006
+city: ITNAP
+country_code: IT
+venues:
+- kind: physical
+  country_code: IT
+  unlocode: ITNAP
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '664'
+- prefix: ISO/TC 184/SC 4
+  number: '665'
+- prefix: ISO/TC 184/SC 4
+  number: '666'
+- prefix: ISO/TC 184/SC 4
+  number: '667'
+- prefix: ISO/TC 184/SC 4
+  number: '668'
+- prefix: ISO/TC 184/SC 4
+  number: '669'
+- prefix: ISO/TC 184/SC 4
+  number: '670'
+- prefix: ISO/TC 184/SC 4
+  number: '671'
+- prefix: ISO/TC 184/SC 4
+  number: '672'
+- prefix: ISO/TC 184/SC 4
+  number: '673'
+- prefix: ISO/TC 184/SC 4
+  number: '674'
+- prefix: ISO/TC 184/SC 4
+  number: '675'
+- prefix: ISO/TC 184/SC 4
+  number: '676'
+- prefix: ISO/TC 184/SC 4
+  number: '677'
+- prefix: ISO/TC 184/SC 4
+  number: '678'
+- prefix: ISO/TC 184/SC 4
+  number: '679'
+- prefix: ISO/TC 184/SC 4
+  number: 200603-acclaim-01
+- prefix: ISO/TC 184/SC 4
+  number: 200603-acclaim-02
+- prefix: ISO/TC 184/SC 4
+  number: 200603-acclaim-03
+- prefix: ISO/TC 184/SC 4
+  number: 200603-acclaim-04
+scheduled_date_range:
+  start: '2006-03-05'
+  end: '2006-03-05'

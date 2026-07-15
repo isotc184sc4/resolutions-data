@@ -1,0 +1,80 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 1997-06
+urn: urn:iso:tc184:sc4:meeting:plenary-1997-06
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, San Diego, United
+    States, June 1, 1997 -- June 11, 1997
+city: USSAN
+country_code: US
+venues:
+- kind: physical
+  country_code: US
+  unlocode: USSAN
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '311'
+- prefix: ISO/TC 184/SC 4
+  number: '312'
+- prefix: ISO/TC 184/SC 4
+  number: '313'
+- prefix: ISO/TC 184/SC 4
+  number: 199706-acclaim-01
+- prefix: ISO/TC 184/SC 4
+  number: '314'
+- prefix: ISO/TC 184/SC 4
+  number: '315'
+- prefix: ISO/TC 184/SC 4
+  number: '316'
+- prefix: ISO/TC 184/SC 4
+  number: '317'
+- prefix: ISO/TC 184/SC 4
+  number: '318'
+- prefix: ISO/TC 184/SC 4
+  number: '319'
+- prefix: ISO/TC 184/SC 4
+  number: '320'
+- prefix: ISO/TC 184/SC 4
+  number: '321'
+- prefix: ISO/TC 184/SC 4
+  number: '322'
+- prefix: ISO/TC 184/SC 4
+  number: '323'
+- prefix: ISO/TC 184/SC 4
+  number: '324'
+- prefix: ISO/TC 184/SC 4
+  number: '325'
+- prefix: ISO/TC 184/SC 4
+  number: '326'
+- prefix: ISO/TC 184/SC 4
+  number: '327'
+- prefix: ISO/TC 184/SC 4
+  number: '328'
+- prefix: ISO/TC 184/SC 4
+  number: '329'
+- prefix: ISO/TC 184/SC 4
+  number: '330'
+- prefix: ISO/TC 184/SC 4
+  number: '331'
+- prefix: ISO/TC 184/SC 4
+  number: '332'
+- prefix: ISO/TC 184/SC 4
+  number: '333'
+- prefix: ISO/TC 184/SC 4
+  number: '334'
+- prefix: ISO/TC 184/SC 4
+  number: '335'
+- prefix: ISO/TC 184/SC 4
+  number: '336'
+- prefix: ISO/TC 184/SC 4
+  number: '337'
+- prefix: ISO/TC 184/SC 4
+  number: '338'
+scheduled_date_range:
+  start: '1997-06-01'
+  end: '1997-06-01'

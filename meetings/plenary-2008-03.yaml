@@ -1,0 +1,48 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 2008-03
+urn: urn:iso:tc184:sc4:meeting:plenary-2008-03
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Louisville, KY, USA,
+    March 2008
+city: USLOU
+country_code: US
+venues:
+- kind: physical
+  country_code: US
+  unlocode: USLOU
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '736'
+- prefix: ISO/TC 184/SC 4
+  number: '737'
+- prefix: ISO/TC 184/SC 4
+  number: '738'
+- prefix: ISO/TC 184/SC 4
+  number: '739'
+- prefix: ISO/TC 184/SC 4
+  number: '740'
+- prefix: ISO/TC 184/SC 4
+  number: '741'
+- prefix: ISO/TC 184/SC 4
+  number: '742'
+- prefix: ISO/TC 184/SC 4
+  number: '743'
+- prefix: ISO/TC 184/SC 4
+  number: '744'
+- prefix: ISO/TC 184/SC 4
+  number: '745'
+- prefix: ISO/TC 184/SC 4
+  number: 200803-acclaim-01
+- prefix: ISO/TC 184/SC 4
+  number: 200803-acclaim-02
+- prefix: ISO/TC 184/SC 4
+  number: 200803-acclaim-03
+scheduled_date_range:
+  start: '2008-03-15'
+  end: '2008-03-15'

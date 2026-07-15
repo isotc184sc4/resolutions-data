@@ -1,0 +1,56 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 1999-06
+urn: urn:iso:tc184:sc4:meeting:plenary-1999-06
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Lillehammer, Norway,
+    June 7, 1999 -- June 17, 1999
+city: NOLLM
+country_code: 'NO'
+venues:
+- kind: physical
+  country_code: 'NO'
+  unlocode: NOLLM
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '405'
+- prefix: ISO/TC 184/SC 4
+  number: '406'
+- prefix: ISO/TC 184/SC 4
+  number: '407'
+- prefix: ISO/TC 184/SC 4
+  number: '408'
+- prefix: ISO/TC 184/SC 4
+  number: '409'
+- prefix: ISO/TC 184/SC 4
+  number: '410'
+- prefix: ISO/TC 184/SC 4
+  number: '411'
+- prefix: ISO/TC 184/SC 4
+  number: '412'
+- prefix: ISO/TC 184/SC 4
+  number: '413'
+- prefix: ISO/TC 184/SC 4
+  number: 199906-acclaim-01
+- prefix: ISO/TC 184/SC 4
+  number: 199906-acclaim-02
+- prefix: ISO/TC 184/SC 4
+  number: '416'
+- prefix: ISO/TC 184/SC 4
+  number: '417'
+- prefix: ISO/TC 184/SC 4
+  number: '418'
+- prefix: ISO/TC 184/SC 4
+  number: '419'
+- prefix: ISO/TC 184/SC 4
+  number: 199906-acclaim-03
+- prefix: ISO/TC 184/SC 4
+  number: 199906-acclaim-04
+scheduled_date_range:
+  start: '1999-06-07'
+  end: '1999-06-07'

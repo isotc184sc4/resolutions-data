@@ -1,0 +1,30 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 2011-10
+urn: urn:iso:tc184:sc4:meeting:plenary-2011-10
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Suzhou, China, October
+    16, 2011 -- October 21, 2011
+city: CNSZH
+country_code: CN
+venues:
+- kind: physical
+  country_code: CN
+  unlocode: CNSZH
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '826'
+- prefix: ISO/TC 184/SC 4
+  number: '827'
+- prefix: ISO/TC 184/SC 4
+  number: '828'
+- prefix: ISO/TC 184/SC 4
+  number: '829'
+scheduled_date_range:
+  start: '2011-10-16'
+  end: '2011-10-16'

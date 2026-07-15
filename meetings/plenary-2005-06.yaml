@@ -1,0 +1,48 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 2005-06
+urn: urn:iso:tc184:sc4:meeting:plenary-2005-06
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Valencia, Spain, June
+    17, 2005
+city: ESVLC
+country_code: ES
+venues:
+- kind: physical
+  country_code: ES
+  unlocode: ESVLC
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '643'
+- prefix: ISO/TC 184/SC 4
+  number: '644'
+- prefix: ISO/TC 184/SC 4
+  number: '645'
+- prefix: ISO/TC 184/SC 4
+  number: '646'
+- prefix: ISO/TC 184/SC 4
+  number: '647'
+- prefix: ISO/TC 184/SC 4
+  number: '648'
+- prefix: ISO/TC 184/SC 4
+  number: '649'
+- prefix: ISO/TC 184/SC 4
+  number: '650'
+- prefix: ISO/TC 184/SC 4
+  number: '651'
+- prefix: ISO/TC 184/SC 4
+  number: '652'
+- prefix: ISO/TC 184/SC 4
+  number: 200506-acclaim-01
+- prefix: ISO/TC 184/SC 4
+  number: 200506-acclaim-02
+- prefix: ISO/TC 184/SC 4
+  number: 200506-acclaim-03
+scheduled_date_range:
+  start: '2005-06-17'
+  end: '2005-06-17'

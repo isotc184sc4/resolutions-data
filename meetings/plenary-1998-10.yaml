@@ -1,0 +1,42 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 1998-10
+urn: urn:iso:tc184:sc4:meeting:plenary-1998-10
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Beijing, China, October
+    3, 1998 -- October 13, 1998
+city: CNBJS
+country_code: CN
+venues:
+- kind: physical
+  country_code: CN
+  unlocode: CNBJS
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '379'
+- prefix: ISO/TC 184/SC 4
+  number: '380'
+- prefix: ISO/TC 184/SC 4
+  number: '381'
+- prefix: ISO/TC 184/SC 4
+  number: '382'
+- prefix: ISO/TC 184/SC 4
+  number: '383'
+- prefix: ISO/TC 184/SC 4
+  number: '384'
+- prefix: ISO/TC 184/SC 4
+  number: '385'
+- prefix: ISO/TC 184/SC 4
+  number: '386'
+- prefix: ISO/TC 184/SC 4
+  number: '387'
+- prefix: ISO/TC 184/SC 4
+  number: '388'
+scheduled_date_range:
+  start: '1998-10-03'
+  end: '1998-10-03'

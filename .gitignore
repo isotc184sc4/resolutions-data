@@ -4,3 +4,5 @@ browser/dist/
 .omo/
 *.png
 !browser/public/**
+
+Gemfile.lock

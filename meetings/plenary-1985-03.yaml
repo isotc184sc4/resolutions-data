@@ -1,0 +1,34 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 1985-03
+urn: urn:iso:tc184:sc4:meeting:plenary-1985-03
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Paris, France, March
+    19, 1985 -- March 29, 1985
+city: FRPAR
+country_code: FR
+venues:
+- kind: physical
+  country_code: FR
+  unlocode: FRPAR
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '7'
+- prefix: ISO/TC 184/SC 4
+  number: '8'
+- prefix: ISO/TC 184/SC 4
+  number: '9'
+- prefix: ISO/TC 184/SC 4
+  number: '10'
+- prefix: ISO/TC 184/SC 4
+  number: '11'
+- prefix: ISO/TC 184/SC 4
+  number: 198503-acclaim-01
+scheduled_date_range:
+  start: '1985-03-19'
+  end: '1985-03-19'

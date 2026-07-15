@@ -1,0 +1,52 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 2011-05
+urn: urn:iso:tc184:sc4:meeting:plenary-2011-05
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Portland, Oregon,
+    United States, May 22, 2011 -- May 27, 2011
+city: USPDX
+country_code: US
+venues:
+- kind: physical
+  country_code: US
+  unlocode: USPDX
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '816'
+- prefix: ISO/TC 184/SC 4
+  number: '817'
+- prefix: ISO/TC 184/SC 4
+  number: '818'
+- prefix: ISO/TC 184/SC 4
+  number: '819'
+- prefix: ISO/TC 184/SC 4
+  number: '820'
+- prefix: ISO/TC 184/SC 4
+  number: '821'
+- prefix: ISO/TC 184/SC 4
+  number: '822'
+- prefix: ISO/TC 184/SC 4
+  number: '823'
+- prefix: ISO/TC 184/SC 4
+  number: '824'
+- prefix: ISO/TC 184/SC 4
+  number: 201105-acclaim-01
+- prefix: ISO/TC 184/SC 4
+  number: 201105-acclaim-02
+- prefix: ISO/TC 184/SC 4
+  number: 201105-acclaim-03
+- prefix: ISO/TC 184/SC 4
+  number: 201105-acclaim-04
+- prefix: ISO/TC 184/SC 4
+  number: 201105-acclaim-05
+- prefix: ISO/TC 184/SC 4
+  number: 201105-acclaim-06
+scheduled_date_range:
+  start: '2011-05-22'
+  end: '2011-05-22'

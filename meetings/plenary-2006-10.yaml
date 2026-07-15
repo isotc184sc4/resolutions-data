@@ -1,0 +1,46 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 2006-10
+urn: urn:iso:tc184:sc4:meeting:plenary-2006-10
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Hershey, United States,
+    October 22, 2006 -- October 27, 2006
+city: USHEH
+country_code: US
+venues:
+- kind: physical
+  country_code: US
+  unlocode: USHEH
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '692'
+- prefix: ISO/TC 184/SC 4
+  number: '693'
+- prefix: ISO/TC 184/SC 4
+  number: '694'
+- prefix: ISO/TC 184/SC 4
+  number: '695'
+- prefix: ISO/TC 184/SC 4
+  number: '696'
+- prefix: ISO/TC 184/SC 4
+  number: '697'
+- prefix: ISO/TC 184/SC 4
+  number: '698'
+- prefix: ISO/TC 184/SC 4
+  number: '699'
+- prefix: ISO/TC 184/SC 4
+  number: 200610-acclaim-01
+- prefix: ISO/TC 184/SC 4
+  number: 200610-acclaim-02
+- prefix: ISO/TC 184/SC 4
+  number: 200610-acclaim-03
+- prefix: ISO/TC 184/SC 4
+  number: 200610-acclaim-04
+scheduled_date_range:
+  start: '2006-10-22'
+  end: '2006-10-22'

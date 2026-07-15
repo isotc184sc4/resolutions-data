@@ -1,0 +1,56 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 2002-06
+urn: urn:iso:tc184:sc4:meeting:plenary-2002-06
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Stockholm, Sweden,
+    June 9, 2002 -- June 15, 2002
+city: SESTO
+country_code: SE
+venues:
+- kind: physical
+  country_code: SE
+  unlocode: SESTO
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '530'
+- prefix: ISO/TC 184/SC 4
+  number: '531'
+- prefix: ISO/TC 184/SC 4
+  number: '532'
+- prefix: ISO/TC 184/SC 4
+  number: '533'
+- prefix: ISO/TC 184/SC 4
+  number: '534'
+- prefix: ISO/TC 184/SC 4
+  number: '535'
+- prefix: ISO/TC 184/SC 4
+  number: '536'
+- prefix: ISO/TC 184/SC 4
+  number: '537'
+- prefix: ISO/TC 184/SC 4
+  number: '538'
+- prefix: ISO/TC 184/SC 4
+  number: '539'
+- prefix: ISO/TC 184/SC 4
+  number: '540'
+- prefix: ISO/TC 184/SC 4
+  number: '541'
+- prefix: ISO/TC 184/SC 4
+  number: '542'
+- prefix: ISO/TC 184/SC 4
+  number: 200206-acclaim-01
+- prefix: ISO/TC 184/SC 4
+  number: 200206-acclaim-02
+- prefix: ISO/TC 184/SC 4
+  number: 200206-acclaim-03
+- prefix: ISO/TC 184/SC 4
+  number: 200206-acclaim-04
+scheduled_date_range:
+  start: '2002-06-09'
+  end: '2002-06-09'

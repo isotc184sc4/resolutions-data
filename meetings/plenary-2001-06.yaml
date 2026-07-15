@@ -1,0 +1,44 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 2001-06
+urn: urn:iso:tc184:sc4:meeting:plenary-2001-06
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, San Francisco, United
+    States, June 10, 2001 -- June 15, 2001
+city: USSFO
+country_code: US
+venues:
+- kind: physical
+  country_code: US
+  unlocode: USSFO
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '500'
+- prefix: ISO/TC 184/SC 4
+  number: '501'
+- prefix: ISO/TC 184/SC 4
+  number: '502'
+- prefix: ISO/TC 184/SC 4
+  number: '503'
+- prefix: ISO/TC 184/SC 4
+  number: '504'
+- prefix: ISO/TC 184/SC 4
+  number: '505'
+- prefix: ISO/TC 184/SC 4
+  number: '506'
+- prefix: ISO/TC 184/SC 4
+  number: '507'
+- prefix: ISO/TC 184/SC 4
+  number: 200106-acclaim-01
+- prefix: ISO/TC 184/SC 4
+  number: 200106-acclaim-02
+- prefix: ISO/TC 184/SC 4
+  number: 200106-acclaim-03
+scheduled_date_range:
+  start: '2001-06-10'
+  end: '2001-06-10'

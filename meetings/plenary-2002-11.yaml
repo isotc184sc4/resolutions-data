@@ -1,0 +1,62 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 2002-11
+urn: urn:iso:tc184:sc4:meeting:plenary-2002-11
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Seoul, Korea, November
+    3, 2002 -- November 8, 2002
+city: KRSEL
+country_code: KR
+venues:
+- kind: physical
+  country_code: KR
+  unlocode: KRSEL
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '544'
+- prefix: ISO/TC 184/SC 4
+  number: '545'
+- prefix: ISO/TC 184/SC 4
+  number: '546'
+- prefix: ISO/TC 184/SC 4
+  number: '547'
+- prefix: ISO/TC 184/SC 4
+  number: '548'
+- prefix: ISO/TC 184/SC 4
+  number: '549'
+- prefix: ISO/TC 184/SC 4
+  number: '550'
+- prefix: ISO/TC 184/SC 4
+  number: '551'
+- prefix: ISO/TC 184/SC 4
+  number: '552'
+- prefix: ISO/TC 184/SC 4
+  number: '553'
+- prefix: ISO/TC 184/SC 4
+  number: '554'
+- prefix: ISO/TC 184/SC 4
+  number: '555'
+- prefix: ISO/TC 184/SC 4
+  number: '556'
+- prefix: ISO/TC 184/SC 4
+  number: '557'
+- prefix: ISO/TC 184/SC 4
+  number: 200211-acclaim-01
+- prefix: ISO/TC 184/SC 4
+  number: 200211-acclaim-02
+- prefix: ISO/TC 184/SC 4
+  number: 200211-acclaim-03
+- prefix: ISO/TC 184/SC 4
+  number: 200211-acclaim-04
+- prefix: ISO/TC 184/SC 4
+  number: 200211-acclaim-05
+- prefix: ISO/TC 184/SC 4
+  number: 200211-acclaim-06
+scheduled_date_range:
+  start: '2002-11-03'
+  end: '2002-11-03'

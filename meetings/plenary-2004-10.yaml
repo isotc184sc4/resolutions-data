@@ -1,0 +1,52 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 2004-10
+urn: urn:iso:tc184:sc4:meeting:plenary-2004-10
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Seattle, United States,
+    October 3, 2004 -- October 8, 2004
+city: USSEA
+country_code: US
+venues:
+- kind: physical
+  country_code: US
+  unlocode: USSEA
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '621'
+- prefix: ISO/TC 184/SC 4
+  number: '622'
+- prefix: ISO/TC 184/SC 4
+  number: '623'
+- prefix: ISO/TC 184/SC 4
+  number: '624'
+- prefix: ISO/TC 184/SC 4
+  number: '625'
+- prefix: ISO/TC 184/SC 4
+  number: '626'
+- prefix: ISO/TC 184/SC 4
+  number: '627'
+- prefix: ISO/TC 184/SC 4
+  number: '628'
+- prefix: ISO/TC 184/SC 4
+  number: '629'
+- prefix: ISO/TC 184/SC 4
+  number: 200410-acclaim-01
+- prefix: ISO/TC 184/SC 4
+  number: 200410-acclaim-02
+- prefix: ISO/TC 184/SC 4
+  number: 200410-acclaim-03
+- prefix: ISO/TC 184/SC 4
+  number: 200410-acclaim-04
+- prefix: ISO/TC 184/SC 4
+  number: 200410-acclaim-05
+- prefix: ISO/TC 184/SC 4
+  number: 200410-acclaim-06
+scheduled_date_range:
+  start: '2004-10-03'
+  end: '2004-10-03'

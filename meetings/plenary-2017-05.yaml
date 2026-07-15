@@ -1,0 +1,62 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 2017-05
+urn: urn:iso:tc184:sc4:meeting:plenary-2017-05
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Sandvika, Norway,
+    May 7, 2017 -- May 12, 2017
+city: NOOSL
+country_code: 'NO'
+venues:
+- kind: physical
+  country_code: 'NO'
+  unlocode: NOOSL
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '940'
+- prefix: ISO/TC 184/SC 4
+  number: '941'
+- prefix: ISO/TC 184/SC 4
+  number: '942'
+- prefix: ISO/TC 184/SC 4
+  number: '943'
+- prefix: ISO/TC 184/SC 4
+  number: '944'
+- prefix: ISO/TC 184/SC 4
+  number: '945'
+- prefix: ISO/TC 184/SC 4
+  number: '946'
+- prefix: ISO/TC 184/SC 4
+  number: '947'
+- prefix: ISO/TC 184/SC 4
+  number: '948'
+- prefix: ISO/TC 184/SC 4
+  number: '949'
+- prefix: ISO/TC 184/SC 4
+  number: '950'
+- prefix: ISO/TC 184/SC 4
+  number: '951'
+- prefix: ISO/TC 184/SC 4
+  number: '952'
+- prefix: ISO/TC 184/SC 4
+  number: '953'
+- prefix: ISO/TC 184/SC 4
+  number: '954'
+- prefix: ISO/TC 184/SC 4
+  number: '955'
+- prefix: ISO/TC 184/SC 4
+  number: 201705-acclaim-01
+- prefix: ISO/TC 184/SC 4
+  number: 201705-acclaim-02
+- prefix: ISO/TC 184/SC 4
+  number: 201705-acclaim-03
+- prefix: ISO/TC 184/SC 4
+  number: 201705-acclaim-04
+scheduled_date_range:
+  start: '2017-05-07'
+  end: '2017-05-07'

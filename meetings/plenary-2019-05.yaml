@@ -1,0 +1,70 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 2019-05
+urn: urn:iso:tc184:sc4:meeting:plenary-2019-05
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Toulouse, France,
+    May 12, 2019 -- May 17, 2019
+city: FRTLS
+country_code: FR
+venues:
+- kind: physical
+  country_code: FR
+  unlocode: FRTLS
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '1002'
+- prefix: ISO/TC 184/SC 4
+  number: '1003'
+- prefix: ISO/TC 184/SC 4
+  number: '1004'
+- prefix: ISO/TC 184/SC 4
+  number: '1005'
+- prefix: ISO/TC 184/SC 4
+  number: '1006'
+- prefix: ISO/TC 184/SC 4
+  number: '1007'
+- prefix: ISO/TC 184/SC 4
+  number: '1008'
+- prefix: ISO/TC 184/SC 4
+  number: '1009'
+- prefix: ISO/TC 184/SC 4
+  number: '1010'
+- prefix: ISO/TC 184/SC 4
+  number: '1011'
+- prefix: ISO/TC 184/SC 4
+  number: '1012'
+- prefix: ISO/TC 184/SC 4
+  number: '1013'
+- prefix: ISO/TC 184/SC 4
+  number: '1014'
+- prefix: ISO/TC 184/SC 4
+  number: '1015'
+- prefix: ISO/TC 184/SC 4
+  number: '1016'
+- prefix: ISO/TC 184/SC 4
+  number: '1017'
+- prefix: ISO/TC 184/SC 4
+  number: 201905-acclaim-01
+- prefix: ISO/TC 184/SC 4
+  number: 201905-acclaim-02
+- prefix: ISO/TC 184/SC 4
+  number: 201905-acclaim-03
+- prefix: ISO/TC 184/SC 4
+  number: 201905-acclaim-04
+- prefix: ISO/TC 184/SC 4
+  number: 201905-acclaim-05
+- prefix: ISO/TC 184/SC 4
+  number: 201905-acclaim-06
+- prefix: ISO/TC 184/SC 4
+  number: 201905-acclaim-07
+- prefix: ISO/TC 184/SC 4
+  number: 201905-acclaim-08
+scheduled_date_range:
+  start: '2019-05-12'
+  end: '2019-05-12'

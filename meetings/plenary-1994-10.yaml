@@ -1,0 +1,62 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 1994-10
+urn: urn:iso:tc184:sc4:meeting:plenary-1994-10
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Greenville, United
+    States, October 21, 1994 -- October 31, 1994
+city: USGVL
+country_code: US
+venues:
+- kind: physical
+  country_code: US
+  unlocode: USGVL
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '211'
+- prefix: ISO/TC 184/SC 4
+  number: '212'
+- prefix: ISO/TC 184/SC 4
+  number: '213'
+- prefix: ISO/TC 184/SC 4
+  number: '214'
+- prefix: ISO/TC 184/SC 4
+  number: '215'
+- prefix: ISO/TC 184/SC 4
+  number: '216'
+- prefix: ISO/TC 184/SC 4
+  number: '217'
+- prefix: ISO/TC 184/SC 4
+  number: '218'
+- prefix: ISO/TC 184/SC 4
+  number: '219'
+- prefix: ISO/TC 184/SC 4
+  number: '220'
+- prefix: ISO/TC 184/SC 4
+  number: '221'
+- prefix: ISO/TC 184/SC 4
+  number: '222'
+- prefix: ISO/TC 184/SC 4
+  number: '223'
+- prefix: ISO/TC 184/SC 4
+  number: '224'
+- prefix: ISO/TC 184/SC 4
+  number: '225'
+- prefix: ISO/TC 184/SC 4
+  number: '226'
+- prefix: ISO/TC 184/SC 4
+  number: '227'
+- prefix: ISO/TC 184/SC 4
+  number: '228'
+- prefix: ISO/TC 184/SC 4
+  number: '229'
+- prefix: ISO/TC 184/SC 4
+  number: 199410-acclaim-01
+scheduled_date_range:
+  start: '1994-10-21'
+  end: '1994-10-21'

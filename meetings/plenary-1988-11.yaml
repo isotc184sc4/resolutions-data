@@ -1,0 +1,50 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 1988-11
+urn: urn:iso:tc184:sc4:meeting:plenary-1988-11
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Tokyo, Japan, November
+    29, 1988 -- December 9, 1988
+city: JPTYO
+country_code: JP
+venues:
+- kind: physical
+  country_code: JP
+  unlocode: JPTYO
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '29'
+- prefix: ISO/TC 184/SC 4
+  number: '30'
+- prefix: ISO/TC 184/SC 4
+  number: '31'
+- prefix: ISO/TC 184/SC 4
+  number: '32'
+- prefix: ISO/TC 184/SC 4
+  number: '34'
+- prefix: ISO/TC 184/SC 4
+  number: '35'
+- prefix: ISO/TC 184/SC 4
+  number: '36'
+- prefix: ISO/TC 184/SC 4
+  number: '37'
+- prefix: ISO/TC 184/SC 4
+  number: '38'
+- prefix: ISO/TC 184/SC 4
+  number: '39'
+- prefix: ISO/TC 184/SC 4
+  number: '40'
+- prefix: ISO/TC 184/SC 4
+  number: '41'
+- prefix: ISO/TC 184/SC 4
+  number: '42'
+- prefix: ISO/TC 184/SC 4
+  number: 198812-acclaim-01
+scheduled_date_range:
+  start: '1988-11-29'
+  end: '1988-11-29'

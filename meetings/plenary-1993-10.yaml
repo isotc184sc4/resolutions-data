@@ -1,0 +1,76 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 1993-10
+urn: urn:iso:tc184:sc4:meeting:plenary-1993-10
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Berlin, Germany, October
+    4, 1993 -- October 14, 1993
+city: DEBER
+country_code: DE
+venues:
+- kind: physical
+  country_code: DE
+  unlocode: DEBER
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '168'
+- prefix: ISO/TC 184/SC 4
+  number: '169'
+- prefix: ISO/TC 184/SC 4
+  number: '170'
+- prefix: ISO/TC 184/SC 4
+  number: '171'
+- prefix: ISO/TC 184/SC 4
+  number: '172'
+- prefix: ISO/TC 184/SC 4
+  number: '173'
+- prefix: ISO/TC 184/SC 4
+  number: '174'
+- prefix: ISO/TC 184/SC 4
+  number: '175'
+- prefix: ISO/TC 184/SC 4
+  number: '176'
+- prefix: ISO/TC 184/SC 4
+  number: '177'
+- prefix: ISO/TC 184/SC 4
+  number: '178'
+- prefix: ISO/TC 184/SC 4
+  number: '179'
+- prefix: ISO/TC 184/SC 4
+  number: '180'
+- prefix: ISO/TC 184/SC 4
+  number: '181'
+- prefix: ISO/TC 184/SC 4
+  number: '182'
+- prefix: ISO/TC 184/SC 4
+  number: '183'
+- prefix: ISO/TC 184/SC 4
+  number: '184'
+- prefix: ISO/TC 184/SC 4
+  number: '185'
+- prefix: ISO/TC 184/SC 4
+  number: '186'
+- prefix: ISO/TC 184/SC 4
+  number: '187'
+- prefix: ISO/TC 184/SC 4
+  number: '188'
+- prefix: ISO/TC 184/SC 4
+  number: '189'
+- prefix: ISO/TC 184/SC 4
+  number: '190'
+- prefix: ISO/TC 184/SC 4
+  number: 199310-acclaim-01
+- prefix: ISO/TC 184/SC 4
+  number: '192'
+- prefix: ISO/TC 184/SC 4
+  number: '193'
+- prefix: ISO/TC 184/SC 4
+  number: 199310-acclaim-02
+scheduled_date_range:
+  start: '1993-10-04'
+  end: '1993-10-04'

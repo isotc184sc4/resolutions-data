@@ -1,0 +1,60 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 2023-06
+urn: urn:iso:tc184:sc4:meeting:plenary-2023-06
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Saint-Denis, France,
+    June 11, 2023 -- June 17, 2023
+city: FRPAR
+country_code: FR
+venues:
+- kind: physical
+  country_code: FR
+  unlocode: FRPAR
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '1114'
+- prefix: ISO/TC 184/SC 4
+  number: '1115'
+- prefix: ISO/TC 184/SC 4
+  number: '1116'
+- prefix: ISO/TC 184/SC 4
+  number: '1117'
+- prefix: ISO/TC 184/SC 4
+  number: '1118'
+- prefix: ISO/TC 184/SC 4
+  number: '1119'
+- prefix: ISO/TC 184/SC 4
+  number: '1120'
+- prefix: ISO/TC 184/SC 4
+  number: '1121'
+- prefix: ISO/TC 184/SC 4
+  number: '1122'
+- prefix: ISO/TC 184/SC 4
+  number: '1123'
+- prefix: ISO/TC 184/SC 4
+  number: '1124'
+- prefix: ISO/TC 184/SC 4
+  number: '1125'
+- prefix: ISO/TC 184/SC 4
+  number: 202306-acclaim-01
+- prefix: ISO/TC 184/SC 4
+  number: 202306-acclaim-02
+- prefix: ISO/TC 184/SC 4
+  number: 202306-acclaim-03
+- prefix: ISO/TC 184/SC 4
+  number: 202306-acclaim-04
+- prefix: ISO/TC 184/SC 4
+  number: 202306-acclaim-05
+- prefix: ISO/TC 184/SC 4
+  number: 202306-acclaim-06
+- prefix: ISO/TC 184/SC 4
+  number: 202306-acclaim-07
+scheduled_date_range:
+  start: '2023-06-11'
+  end: '2023-06-11'

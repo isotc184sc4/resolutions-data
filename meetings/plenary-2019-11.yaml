@@ -1,0 +1,72 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 2019-11
+urn: urn:iso:tc184:sc4:meeting:plenary-2019-11
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Marina del Rey, United
+    States, November 3, 2019 -- November 8, 2019
+city: USLAX
+country_code: US
+venues:
+- kind: physical
+  country_code: US
+  unlocode: USLAX
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '1018'
+- prefix: ISO/TC 184/SC 4
+  number: '1019'
+- prefix: ISO/TC 184/SC 4
+  number: '1020'
+- prefix: ISO/TC 184/SC 4
+  number: '1021'
+- prefix: ISO/TC 184/SC 4
+  number: '1022'
+- prefix: ISO/TC 184/SC 4
+  number: '1023'
+- prefix: ISO/TC 184/SC 4
+  number: '1024'
+- prefix: ISO/TC 184/SC 4
+  number: '1025'
+- prefix: ISO/TC 184/SC 4
+  number: '1026'
+- prefix: ISO/TC 184/SC 4
+  number: '1027'
+- prefix: ISO/TC 184/SC 4
+  number: '1028'
+- prefix: ISO/TC 184/SC 4
+  number: '1029'
+- prefix: ISO/TC 184/SC 4
+  number: '1030'
+- prefix: ISO/TC 184/SC 4
+  number: '1031'
+- prefix: ISO/TC 184/SC 4
+  number: '1032'
+- prefix: ISO/TC 184/SC 4
+  number: '1033'
+- prefix: ISO/TC 184/SC 4
+  number: '1034'
+- prefix: ISO/TC 184/SC 4
+  number: '1035'
+- prefix: ISO/TC 184/SC 4
+  number: '1036'
+- prefix: ISO/TC 184/SC 4
+  number: 201911-acclaim-01
+- prefix: ISO/TC 184/SC 4
+  number: 201911-acclaim-02
+- prefix: ISO/TC 184/SC 4
+  number: 201911-acclaim-03
+- prefix: ISO/TC 184/SC 4
+  number: 201911-acclaim-04
+- prefix: ISO/TC 184/SC 4
+  number: 201911-acclaim-05
+- prefix: ISO/TC 184/SC 4
+  number: 201911-acclaim-06
+scheduled_date_range:
+  start: '2019-11-03'
+  end: '2019-11-03'

@@ -1,0 +1,98 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 1992-10
+urn: urn:iso:tc184:sc4:meeting:plenary-1992-10
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Dallas, TX, USA, October
+    1992
+city: USDAL
+country_code: US
+venues:
+- kind: physical
+  country_code: US
+  unlocode: USDAL
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '124'
+- prefix: ISO/TC 184/SC 4
+  number: '125'
+- prefix: ISO/TC 184/SC 4
+  number: '126'
+- prefix: ISO/TC 184/SC 4
+  number: '127'
+- prefix: ISO/TC 184/SC 4
+  number: '128'
+- prefix: ISO/TC 184/SC 4
+  number: '129'
+- prefix: ISO/TC 184/SC 4
+  number: '130'
+- prefix: ISO/TC 184/SC 4
+  number: '131'
+- prefix: ISO/TC 184/SC 4
+  number: '132'
+- prefix: ISO/TC 184/SC 4
+  number: '133'
+- prefix: ISO/TC 184/SC 4
+  number: '134'
+- prefix: ISO/TC 184/SC 4
+  number: '135'
+- prefix: ISO/TC 184/SC 4
+  number: '136'
+- prefix: ISO/TC 184/SC 4
+  number: '137'
+- prefix: ISO/TC 184/SC 4
+  number: '138'
+- prefix: ISO/TC 184/SC 4
+  number: '139'
+- prefix: ISO/TC 184/SC 4
+  number: '140'
+- prefix: ISO/TC 184/SC 4
+  number: '141'
+- prefix: ISO/TC 184/SC 4
+  number: '142'
+- prefix: ISO/TC 184/SC 4
+  number: '143'
+- prefix: ISO/TC 184/SC 4
+  number: '144'
+- prefix: ISO/TC 184/SC 4
+  number: '145'
+- prefix: ISO/TC 184/SC 4
+  number: '146'
+- prefix: ISO/TC 184/SC 4
+  number: '147'
+- prefix: ISO/TC 184/SC 4
+  number: '148'
+- prefix: ISO/TC 184/SC 4
+  number: '149'
+- prefix: ISO/TC 184/SC 4
+  number: '150'
+- prefix: ISO/TC 184/SC 4
+  number: '151'
+- prefix: ISO/TC 184/SC 4
+  number: 199210-acclaim-01
+- prefix: ISO/TC 184/SC 4
+  number: '152'
+- prefix: ISO/TC 184/SC 4
+  number: '153'
+- prefix: ISO/TC 184/SC 4
+  number: '154'
+- prefix: ISO/TC 184/SC 4
+  number: '155'
+- prefix: ISO/TC 184/SC 4
+  number: '156'
+- prefix: ISO/TC 184/SC 4
+  number: '157'
+- prefix: ISO/TC 184/SC 4
+  number: '158'
+- prefix: ISO/TC 184/SC 4
+  number: '159'
+- prefix: ISO/TC 184/SC 4
+  number: '160'
+scheduled_date_range:
+  start: '1992-10-15'
+  end: '1992-10-15'

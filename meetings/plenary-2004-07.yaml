@@ -1,0 +1,52 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 2004-07
+urn: urn:iso:tc184:sc4:meeting:plenary-2004-07
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Bath, United Kingdom,
+    July 4, 2004 -- July 9, 2004
+city: GBBTH
+country_code: GB
+venues:
+- kind: physical
+  country_code: GB
+  unlocode: GBBTH
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '608'
+- prefix: ISO/TC 184/SC 4
+  number: '609'
+- prefix: ISO/TC 184/SC 4
+  number: '610'
+- prefix: ISO/TC 184/SC 4
+  number: '611'
+- prefix: ISO/TC 184/SC 4
+  number: '612'
+- prefix: ISO/TC 184/SC 4
+  number: '613'
+- prefix: ISO/TC 184/SC 4
+  number: '614'
+- prefix: ISO/TC 184/SC 4
+  number: '615'
+- prefix: ISO/TC 184/SC 4
+  number: '616'
+- prefix: ISO/TC 184/SC 4
+  number: '617'
+- prefix: ISO/TC 184/SC 4
+  number: '618'
+- prefix: ISO/TC 184/SC 4
+  number: '619'
+- prefix: ISO/TC 184/SC 4
+  number: 200407-acclaim-01
+- prefix: ISO/TC 184/SC 4
+  number: 200407-acclaim-02
+- prefix: ISO/TC 184/SC 4
+  number: 200407-acclaim-03
+scheduled_date_range:
+  start: '2004-07-04'
+  end: '2004-07-04'

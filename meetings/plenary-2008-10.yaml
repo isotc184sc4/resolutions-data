@@ -1,0 +1,54 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 2008-10
+urn: urn:iso:tc184:sc4:meeting:plenary-2008-10
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Busan, Korea, October
+    27, 2008 -- November 7, 2008
+city: KRPUS
+country_code: KR
+venues:
+- kind: physical
+  country_code: KR
+  unlocode: KRPUS
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '755'
+- prefix: ISO/TC 184/SC 4
+  number: '756'
+- prefix: ISO/TC 184/SC 4
+  number: '757'
+- prefix: ISO/TC 184/SC 4
+  number: '758'
+- prefix: ISO/TC 184/SC 4
+  number: '759'
+- prefix: ISO/TC 184/SC 4
+  number: '760'
+- prefix: ISO/TC 184/SC 4
+  number: '761'
+- prefix: ISO/TC 184/SC 4
+  number: '762'
+- prefix: ISO/TC 184/SC 4
+  number: '763'
+- prefix: ISO/TC 184/SC 4
+  number: '764'
+- prefix: ISO/TC 184/SC 4
+  number: '765'
+- prefix: ISO/TC 184/SC 4
+  number: '766'
+- prefix: ISO/TC 184/SC 4
+  number: 200811-acclaim-01
+- prefix: ISO/TC 184/SC 4
+  number: 200811-acclaim-02
+- prefix: ISO/TC 184/SC 4
+  number: 200811-acclaim-03
+- prefix: ISO/TC 184/SC 4
+  number: 200811-acclaim-04
+scheduled_date_range:
+  start: '2008-10-27'
+  end: '2008-10-27'
