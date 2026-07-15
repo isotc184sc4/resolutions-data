@@ -1,0 +1,58 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 2026-05
+urn: urn:iso:tc184:sc4:meeting:plenary-2026-05
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Virtual, May 4, 2026
+    -- May 15, 2026
+venues:
+- kind: physical
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '1180'
+- prefix: ISO/TC 184/SC 4
+  number: '1181'
+- prefix: ISO/TC 184/SC 4
+  number: '1182'
+- prefix: ISO/TC 184/SC 4
+  number: '1183'
+- prefix: ISO/TC 184/SC 4
+  number: '1184'
+- prefix: ISO/TC 184/SC 4
+  number: '1185'
+- prefix: ISO/TC 184/SC 4
+  number: '1186'
+- prefix: ISO/TC 184/SC 4
+  number: '1187'
+- prefix: ISO/TC 184/SC 4
+  number: '1188'
+- prefix: ISO/TC 184/SC 4
+  number: '1189'
+- prefix: ISO/TC 184/SC 4
+  number: '1190'
+- prefix: ISO/TC 184/SC 4
+  number: '1191'
+- prefix: ISO/TC 184/SC 4
+  number: '1192'
+- prefix: ISO/TC 184/SC 4
+  number: '1193'
+- prefix: ISO/TC 184/SC 4
+  number: '1194'
+- prefix: ISO/TC 184/SC 4
+  number: '1195'
+- prefix: ISO/TC 184/SC 4
+  number: 202605-acclaim-01
+- prefix: ISO/TC 184/SC 4
+  number: 202605-acclaim-02
+- prefix: ISO/TC 184/SC 4
+  number: 202605-acclaim-03
+- prefix: ISO/TC 184/SC 4
+  number: 202605-acclaim-04
+scheduled_date_range:
+  start: '2026-05-04'
+  end: '2026-05-04'

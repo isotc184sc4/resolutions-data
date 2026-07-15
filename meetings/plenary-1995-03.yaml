@@ -1,0 +1,48 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 1995-03
+urn: urn:iso:tc184:sc4:meeting:plenary-1995-03
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Sydney, Australia,
+    March 19, 1995 -- March 29, 1995
+city: AUSYD
+country_code: AU
+venues:
+- kind: physical
+  country_code: AU
+  unlocode: AUSYD
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '231'
+- prefix: ISO/TC 184/SC 4
+  number: '232'
+- prefix: ISO/TC 184/SC 4
+  number: '233'
+- prefix: ISO/TC 184/SC 4
+  number: '234'
+- prefix: ISO/TC 184/SC 4
+  number: '235'
+- prefix: ISO/TC 184/SC 4
+  number: '236'
+- prefix: ISO/TC 184/SC 4
+  number: '237'
+- prefix: ISO/TC 184/SC 4
+  number: '238'
+- prefix: ISO/TC 184/SC 4
+  number: '239'
+- prefix: ISO/TC 184/SC 4
+  number: '241'
+- prefix: ISO/TC 184/SC 4
+  number: '242'
+- prefix: ISO/TC 184/SC 4
+  number: 199503-acclaim-01
+- prefix: ISO/TC 184/SC 4
+  number: 199503-acclaim-02
+scheduled_date_range:
+  start: '1995-03-19'
+  end: '1995-03-19'

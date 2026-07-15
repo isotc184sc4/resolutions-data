@@ -1,0 +1,54 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 1990-01
+urn: urn:iso:tc184:sc4:meeting:plenary-1990-01
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Paris, France, January
+    22, 1990 -- February 1, 1990
+city: FRPAR
+country_code: FR
+venues:
+- kind: physical
+  country_code: FR
+  unlocode: FRPAR
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '44'
+- prefix: ISO/TC 184/SC 4
+  number: '45'
+- prefix: ISO/TC 184/SC 4
+  number: '46'
+- prefix: ISO/TC 184/SC 4
+  number: '47'
+- prefix: ISO/TC 184/SC 4
+  number: '48'
+- prefix: ISO/TC 184/SC 4
+  number: '49'
+- prefix: ISO/TC 184/SC 4
+  number: '50'
+- prefix: ISO/TC 184/SC 4
+  number: '51'
+- prefix: ISO/TC 184/SC 4
+  number: '52'
+- prefix: ISO/TC 184/SC 4
+  number: '53'
+- prefix: ISO/TC 184/SC 4
+  number: '54'
+- prefix: ISO/TC 184/SC 4
+  number: '55'
+- prefix: ISO/TC 184/SC 4
+  number: '56'
+- prefix: ISO/TC 184/SC 4
+  number: '57'
+- prefix: ISO/TC 184/SC 4
+  number: '58'
+- prefix: ISO/TC 184/SC 4
+  number: 199001-acclaim-01
+scheduled_date_range:
+  start: '1990-01-22'
+  end: '1990-01-22'

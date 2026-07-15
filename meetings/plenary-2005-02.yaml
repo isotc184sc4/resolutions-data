@@ -1,0 +1,44 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 2005-02
+urn: urn:iso:tc184:sc4:meeting:plenary-2005-02
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Lillehammer, Norway,
+    February 27, 2005 -- March 4, 2005
+city: NOLLM
+country_code: 'NO'
+venues:
+- kind: physical
+  country_code: 'NO'
+  unlocode: NOLLM
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '633'
+- prefix: ISO/TC 184/SC 4
+  number: '634'
+- prefix: ISO/TC 184/SC 4
+  number: '635'
+- prefix: ISO/TC 184/SC 4
+  number: '636'
+- prefix: ISO/TC 184/SC 4
+  number: '637'
+- prefix: ISO/TC 184/SC 4
+  number: '638'
+- prefix: ISO/TC 184/SC 4
+  number: '639'
+- prefix: ISO/TC 184/SC 4
+  number: '640'
+- prefix: ISO/TC 184/SC 4
+  number: '641'
+- prefix: ISO/TC 184/SC 4
+  number: 200503-acclaim-01
+- prefix: ISO/TC 184/SC 4
+  number: 200503-acclaim-02
+scheduled_date_range:
+  start: '2005-02-27'
+  end: '2005-02-27'

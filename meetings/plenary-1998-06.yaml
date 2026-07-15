@@ -1,0 +1,72 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 1998-06
+urn: urn:iso:tc184:sc4:meeting:plenary-1998-06
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Bad Aibling, Germany,
+    June 7, 1998 -- June 17, 1998
+city: DEBAI
+country_code: DE
+venues:
+- kind: physical
+  country_code: DE
+  unlocode: DEBAI
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '354'
+- prefix: ISO/TC 184/SC 4
+  number: '355'
+- prefix: ISO/TC 184/SC 4
+  number: '356'
+- prefix: ISO/TC 184/SC 4
+  number: '357'
+- prefix: ISO/TC 184/SC 4
+  number: '358'
+- prefix: ISO/TC 184/SC 4
+  number: '359'
+- prefix: ISO/TC 184/SC 4
+  number: '360'
+- prefix: ISO/TC 184/SC 4
+  number: '361'
+- prefix: ISO/TC 184/SC 4
+  number: '362'
+- prefix: ISO/TC 184/SC 4
+  number: '363'
+- prefix: ISO/TC 184/SC 4
+  number: '364'
+- prefix: ISO/TC 184/SC 4
+  number: '365'
+- prefix: ISO/TC 184/SC 4
+  number: '366'
+- prefix: ISO/TC 184/SC 4
+  number: '367'
+- prefix: ISO/TC 184/SC 4
+  number: '368'
+- prefix: ISO/TC 184/SC 4
+  number: '369'
+- prefix: ISO/TC 184/SC 4
+  number: '370'
+- prefix: ISO/TC 184/SC 4
+  number: '371'
+- prefix: ISO/TC 184/SC 4
+  number: '372'
+- prefix: ISO/TC 184/SC 4
+  number: '373'
+- prefix: ISO/TC 184/SC 4
+  number: '374'
+- prefix: ISO/TC 184/SC 4
+  number: '375'
+- prefix: ISO/TC 184/SC 4
+  number: '376'
+- prefix: ISO/TC 184/SC 4
+  number: '377'
+- prefix: ISO/TC 184/SC 4
+  number: '378'
+scheduled_date_range:
+  start: '1998-06-07'
+  end: '1998-06-07'

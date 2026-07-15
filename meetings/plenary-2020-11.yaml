@@ -1,0 +1,40 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 2020-11
+urn: urn:iso:tc184:sc4:meeting:plenary-2020-11
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Virtual, November
+    2, 2020 -- November 6, 2020
+venues:
+- kind: physical
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '1052'
+- prefix: ISO/TC 184/SC 4
+  number: '1053'
+- prefix: ISO/TC 184/SC 4
+  number: '1054'
+- prefix: ISO/TC 184/SC 4
+  number: '1055'
+- prefix: ISO/TC 184/SC 4
+  number: '1057'
+- prefix: ISO/TC 184/SC 4
+  number: '1058'
+- prefix: ISO/TC 184/SC 4
+  number: '1059'
+- prefix: ISO/TC 184/SC 4
+  number: '1060'
+- prefix: ISO/TC 184/SC 4
+  number: '1062'
+- prefix: ISO/TC 184/SC 4
+  number: 202011-acclaim-01
+- prefix: ISO/TC 184/SC 4
+  number: 202011-acclaim-02
+scheduled_date_range:
+  start: '2020-11-02'
+  end: '2020-11-02'

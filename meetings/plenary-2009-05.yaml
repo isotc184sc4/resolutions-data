@@ -1,0 +1,64 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 2009-05
+urn: urn:iso:tc184:sc4:meeting:plenary-2009-05
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Parksville, Canada,
+    May 17, 2009 -- May 22, 2009
+city: CAPKS
+country_code: CA
+venues:
+- kind: physical
+  country_code: CA
+  unlocode: CAPKS
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '768'
+- prefix: ISO/TC 184/SC 4
+  number: '769'
+- prefix: ISO/TC 184/SC 4
+  number: '770'
+- prefix: ISO/TC 184/SC 4
+  number: '771'
+- prefix: ISO/TC 184/SC 4
+  number: '772'
+- prefix: ISO/TC 184/SC 4
+  number: '773'
+- prefix: ISO/TC 184/SC 4
+  number: '774'
+- prefix: ISO/TC 184/SC 4
+  number: '775'
+- prefix: ISO/TC 184/SC 4
+  number: '776'
+- prefix: ISO/TC 184/SC 4
+  number: '777'
+- prefix: ISO/TC 184/SC 4
+  number: '778'
+- prefix: ISO/TC 184/SC 4
+  number: '779'
+- prefix: ISO/TC 184/SC 4
+  number: '780'
+- prefix: ISO/TC 184/SC 4
+  number: '781'
+- prefix: ISO/TC 184/SC 4
+  number: '782'
+- prefix: ISO/TC 184/SC 4
+  number: '783'
+- prefix: ISO/TC 184/SC 4
+  number: '784'
+- prefix: ISO/TC 184/SC 4
+  number: '785'
+- prefix: ISO/TC 184/SC 4
+  number: 200905-acclaim-01
+- prefix: ISO/TC 184/SC 4
+  number: 200905-acclaim-02
+- prefix: ISO/TC 184/SC 4
+  number: 200905-acclaim-03
+scheduled_date_range:
+  start: '2009-05-17'
+  end: '2009-05-17'

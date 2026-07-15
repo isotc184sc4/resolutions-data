@@ -1,0 +1,42 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 2004-02
+urn: urn:iso:tc184:sc4:meeting:plenary-2004-02
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Fort Lauderdale, United
+    States, February 29, 2004 -- March 5, 2004
+city: USFLL
+country_code: US
+venues:
+- kind: physical
+  country_code: US
+  unlocode: USFLL
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '600'
+- prefix: ISO/TC 184/SC 4
+  number: '601'
+- prefix: ISO/TC 184/SC 4
+  number: '602'
+- prefix: ISO/TC 184/SC 4
+  number: '603'
+- prefix: ISO/TC 184/SC 4
+  number: '604'
+- prefix: ISO/TC 184/SC 4
+  number: '605'
+- prefix: ISO/TC 184/SC 4
+  number: '606'
+- prefix: ISO/TC 184/SC 4
+  number: 200403-acclaim-01
+- prefix: ISO/TC 184/SC 4
+  number: 200403-acclaim-02
+- prefix: ISO/TC 184/SC 4
+  number: 200403-acclaim-03
+scheduled_date_range:
+  start: '2004-02-29'
+  end: '2004-02-29'

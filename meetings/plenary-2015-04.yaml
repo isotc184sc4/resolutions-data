@@ -1,0 +1,56 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 2015-04
+urn: urn:iso:tc184:sc4:meeting:plenary-2015-04
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Vico Equense, Italy,
+    April 19, 2015 -- April 24, 2015
+city: ITNAP
+country_code: IT
+venues:
+- kind: physical
+  country_code: IT
+  unlocode: ITNAP
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '892'
+- prefix: ISO/TC 184/SC 4
+  number: '893'
+- prefix: ISO/TC 184/SC 4
+  number: '894'
+- prefix: ISO/TC 184/SC 4
+  number: '895'
+- prefix: ISO/TC 184/SC 4
+  number: '896'
+- prefix: ISO/TC 184/SC 4
+  number: '897'
+- prefix: ISO/TC 184/SC 4
+  number: '898'
+- prefix: ISO/TC 184/SC 4
+  number: '899'
+- prefix: ISO/TC 184/SC 4
+  number: '900'
+- prefix: ISO/TC 184/SC 4
+  number: '901'
+- prefix: ISO/TC 184/SC 4
+  number: '902'
+- prefix: ISO/TC 184/SC 4
+  number: '903'
+- prefix: ISO/TC 184/SC 4
+  number: '904'
+- prefix: ISO/TC 184/SC 4
+  number: '905'
+- prefix: ISO/TC 184/SC 4
+  number: '906'
+- prefix: ISO/TC 184/SC 4
+  number: 201504-acclaim-01
+- prefix: ISO/TC 184/SC 4
+  number: 201504-acclaim-02
+scheduled_date_range:
+  start: '2015-04-19'
+  end: '2015-04-19'

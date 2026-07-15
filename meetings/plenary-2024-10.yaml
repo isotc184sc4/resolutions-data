@@ -1,0 +1,64 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 2024-10
+urn: urn:iso:tc184:sc4:meeting:plenary-2024-10
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Stavanger, Norway,
+    October 18, 2024 -- October 25, 2024
+city: NOSVG
+country_code: 'NO'
+venues:
+- kind: physical
+  country_code: 'NO'
+  unlocode: NOSVG
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '1142'
+- prefix: ISO/TC 184/SC 4
+  number: '1143'
+- prefix: ISO/TC 184/SC 4
+  number: '1144'
+- prefix: ISO/TC 184/SC 4
+  number: '1145'
+- prefix: ISO/TC 184/SC 4
+  number: '1146'
+- prefix: ISO/TC 184/SC 4
+  number: '1147'
+- prefix: ISO/TC 184/SC 4
+  number: '1148'
+- prefix: ISO/TC 184/SC 4
+  number: '1149'
+- prefix: ISO/TC 184/SC 4
+  number: '1150'
+- prefix: ISO/TC 184/SC 4
+  number: '1151'
+- prefix: ISO/TC 184/SC 4
+  number: 202410-acclaim-01
+- prefix: ISO/TC 184/SC 4
+  number: 202410-acclaim-02
+- prefix: ISO/TC 184/SC 4
+  number: 202410-acclaim-03
+- prefix: ISO/TC 184/SC 4
+  number: 202410-acclaim-04
+- prefix: ISO/TC 184/SC 4
+  number: 202410-acclaim-05
+- prefix: ISO/TC 184/SC 4
+  number: 202410-acclaim-06
+- prefix: ISO/TC 184/SC 4
+  number: 202410-acclaim-07
+- prefix: ISO/TC 184/SC 4
+  number: 202410-acclaim-08
+- prefix: ISO/TC 184/SC 4
+  number: 202410-acclaim-09
+- prefix: ISO/TC 184/SC 4
+  number: 202410-acclaim-10
+- prefix: ISO/TC 184/SC 4
+  number: 202410-acclaim-11
+scheduled_date_range:
+  start: '2024-10-18'
+  end: '2024-10-18'

@@ -1,0 +1,36 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 1993-02
+urn: urn:iso:tc184:sc4:meeting:plenary-1993-02
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Turin, Italy, February
+    26, 1993 -- March 8, 1993
+city: ITTOA
+country_code: IT
+venues:
+- kind: physical
+  country_code: IT
+  unlocode: ITTOA
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '161'
+- prefix: ISO/TC 184/SC 4
+  number: '162'
+- prefix: ISO/TC 184/SC 4
+  number: '163'
+- prefix: ISO/TC 184/SC 4
+  number: '164'
+- prefix: ISO/TC 184/SC 4
+  number: '165'
+- prefix: ISO/TC 184/SC 4
+  number: '166'
+- prefix: ISO/TC 184/SC 4
+  number: '167'
+scheduled_date_range:
+  start: '1993-02-26'
+  end: '1993-02-26'

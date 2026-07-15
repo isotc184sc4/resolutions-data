@@ -1,0 +1,72 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 2001-02
+urn: urn:iso:tc184:sc4:meeting:plenary-2001-02
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Funchal, Portugal,
+    February 19, 2001 -- February 23, 2001
+city: PTFNC
+country_code: PT
+venues:
+- kind: physical
+  country_code: PT
+  unlocode: PTFNC
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '482'
+- prefix: ISO/TC 184/SC 4
+  number: '483'
+- prefix: ISO/TC 184/SC 4
+  number: '484'
+- prefix: ISO/TC 184/SC 4
+  number: '485'
+- prefix: ISO/TC 184/SC 4
+  number: '486'
+- prefix: ISO/TC 184/SC 4
+  number: '487'
+- prefix: ISO/TC 184/SC 4
+  number: '488'
+- prefix: ISO/TC 184/SC 4
+  number: '489'
+- prefix: ISO/TC 184/SC 4
+  number: '490'
+- prefix: ISO/TC 184/SC 4
+  number: '491'
+- prefix: ISO/TC 184/SC 4
+  number: '492'
+- prefix: ISO/TC 184/SC 4
+  number: '493'
+- prefix: ISO/TC 184/SC 4
+  number: '494'
+- prefix: ISO/TC 184/SC 4
+  number: '495'
+- prefix: ISO/TC 184/SC 4
+  number: '496'
+- prefix: ISO/TC 184/SC 4
+  number: '497'
+- prefix: ISO/TC 184/SC 4
+  number: '498'
+- prefix: ISO/TC 184/SC 4
+  number: 200102-acclaim-01
+- prefix: ISO/TC 184/SC 4
+  number: 200102-acclaim-02
+- prefix: ISO/TC 184/SC 4
+  number: 200102-acclaim-03
+- prefix: ISO/TC 184/SC 4
+  number: 200102-acclaim-04
+- prefix: ISO/TC 184/SC 4
+  number: 200102-acclaim-05
+- prefix: ISO/TC 184/SC 4
+  number: 200102-acclaim-06
+- prefix: ISO/TC 184/SC 4
+  number: 200102-acclaim-07
+- prefix: ISO/TC 184/SC 4
+  number: 200102-acclaim-08
+scheduled_date_range:
+  start: '2001-02-19'
+  end: '2001-02-19'

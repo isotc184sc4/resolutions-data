@@ -1,0 +1,56 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 2009-11
+urn: urn:iso:tc184:sc4:meeting:plenary-2009-11
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Rotterdam, Netherlands,
+    November 8, 2009 -- November 13, 2009
+city: NLRTM
+country_code: NL
+venues:
+- kind: physical
+  country_code: NL
+  unlocode: NLRTM
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '787'
+- prefix: ISO/TC 184/SC 4
+  number: '788'
+- prefix: ISO/TC 184/SC 4
+  number: '789'
+- prefix: ISO/TC 184/SC 4
+  number: '790'
+- prefix: ISO/TC 184/SC 4
+  number: '791'
+- prefix: ISO/TC 184/SC 4
+  number: '792'
+- prefix: ISO/TC 184/SC 4
+  number: '793'
+- prefix: ISO/TC 184/SC 4
+  number: '794'
+- prefix: ISO/TC 184/SC 4
+  number: '795'
+- prefix: ISO/TC 184/SC 4
+  number: '796'
+- prefix: ISO/TC 184/SC 4
+  number: '797'
+- prefix: ISO/TC 184/SC 4
+  number: '798'
+- prefix: ISO/TC 184/SC 4
+  number: '800'
+- prefix: ISO/TC 184/SC 4
+  number: 200911-acclaim-01
+- prefix: ISO/TC 184/SC 4
+  number: 200911-acclaim-02
+- prefix: ISO/TC 184/SC 4
+  number: 200911-acclaim-03
+- prefix: ISO/TC 184/SC 4
+  number: 200911-acclaim-04
+scheduled_date_range:
+  start: '2009-11-08'
+  end: '2009-11-08'

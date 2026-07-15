@@ -1,0 +1,52 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 2010-06
+urn: urn:iso:tc184:sc4:meeting:plenary-2010-06
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Bethlehem, United
+    States, June 6, 2010 -- June 11, 2010
+city: USBNP
+country_code: US
+venues:
+- kind: physical
+  country_code: US
+  unlocode: USBNP
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '801'
+- prefix: ISO/TC 184/SC 4
+  number: '802'
+- prefix: ISO/TC 184/SC 4
+  number: '803'
+- prefix: ISO/TC 184/SC 4
+  number: '804'
+- prefix: ISO/TC 184/SC 4
+  number: '805'
+- prefix: ISO/TC 184/SC 4
+  number: '806'
+- prefix: ISO/TC 184/SC 4
+  number: '807'
+- prefix: ISO/TC 184/SC 4
+  number: '808'
+- prefix: ISO/TC 184/SC 4
+  number: '809'
+- prefix: ISO/TC 184/SC 4
+  number: '810'
+- prefix: ISO/TC 184/SC 4
+  number: 201006-acclaim-01
+- prefix: ISO/TC 184/SC 4
+  number: 201006-acclaim-02
+- prefix: ISO/TC 184/SC 4
+  number: 201006-acclaim-03
+- prefix: ISO/TC 184/SC 4
+  number: 201006-acclaim-04
+- prefix: ISO/TC 184/SC 4
+  number: '812'
+scheduled_date_range:
+  start: '2010-06-06'
+  end: '2010-06-06'

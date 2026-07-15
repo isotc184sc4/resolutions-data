@@ -1,0 +1,62 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 2018-11
+urn: urn:iso:tc184:sc4:meeting:plenary-2018-11
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Chicago, United States,
+    November 4, 2018 -- November 9, 2018
+city: USCHI
+country_code: US
+venues:
+- kind: physical
+  country_code: US
+  unlocode: USCHI
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '986'
+- prefix: ISO/TC 184/SC 4
+  number: '987'
+- prefix: ISO/TC 184/SC 4
+  number: '988'
+- prefix: ISO/TC 184/SC 4
+  number: '989'
+- prefix: ISO/TC 184/SC 4
+  number: '990'
+- prefix: ISO/TC 184/SC 4
+  number: '991'
+- prefix: ISO/TC 184/SC 4
+  number: '992'
+- prefix: ISO/TC 184/SC 4
+  number: '993'
+- prefix: ISO/TC 184/SC 4
+  number: '994'
+- prefix: ISO/TC 184/SC 4
+  number: '995'
+- prefix: ISO/TC 184/SC 4
+  number: '996'
+- prefix: ISO/TC 184/SC 4
+  number: '997'
+- prefix: ISO/TC 184/SC 4
+  number: '998'
+- prefix: ISO/TC 184/SC 4
+  number: '999'
+- prefix: ISO/TC 184/SC 4
+  number: '1000'
+- prefix: ISO/TC 184/SC 4
+  number: '1001'
+- prefix: ISO/TC 184/SC 4
+  number: 201811-acclaim-01
+- prefix: ISO/TC 184/SC 4
+  number: 201811-acclaim-02
+- prefix: ISO/TC 184/SC 4
+  number: 201811-acclaim-03
+- prefix: ISO/TC 184/SC 4
+  number: 201811-acclaim-04
+scheduled_date_range:
+  start: '2018-11-04'
+  end: '2018-11-04'

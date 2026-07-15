@@ -1,0 +1,56 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 1990-06
+urn: urn:iso:tc184:sc4:meeting:plenary-1990-06
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Gothenburg, Sweden,
+    June 25, 1990 -- July 5, 1990
+city: SEGOT
+country_code: SE
+venues:
+- kind: physical
+  country_code: SE
+  unlocode: SEGOT
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '60'
+- prefix: ISO/TC 184/SC 4
+  number: '61'
+- prefix: ISO/TC 184/SC 4
+  number: '62'
+- prefix: ISO/TC 184/SC 4
+  number: '63'
+- prefix: ISO/TC 184/SC 4
+  number: '64'
+- prefix: ISO/TC 184/SC 4
+  number: '65'
+- prefix: ISO/TC 184/SC 4
+  number: 199006-acclaim-01
+- prefix: ISO/TC 184/SC 4
+  number: '67'
+- prefix: ISO/TC 184/SC 4
+  number: '68'
+- prefix: ISO/TC 184/SC 4
+  number: '69'
+- prefix: ISO/TC 184/SC 4
+  number: '70'
+- prefix: ISO/TC 184/SC 4
+  number: '71'
+- prefix: ISO/TC 184/SC 4
+  number: '72'
+- prefix: ISO/TC 184/SC 4
+  number: '73'
+- prefix: ISO/TC 184/SC 4
+  number: '74'
+- prefix: ISO/TC 184/SC 4
+  number: '75'
+- prefix: ISO/TC 184/SC 4
+  number: 199006-acclaim-02
+scheduled_date_range:
+  start: '1990-06-25'
+  end: '1990-06-25'

@@ -1,0 +1,76 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 2000-06
+urn: urn:iso:tc184:sc4:meeting:plenary-2000-06
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Bordeaux, France,
+    June 23, 2000 -- June 30, 2000
+city: FRBOD
+country_code: FR
+venues:
+- kind: physical
+  country_code: FR
+  unlocode: FRBOD
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '456'
+- prefix: ISO/TC 184/SC 4
+  number: '457'
+- prefix: ISO/TC 184/SC 4
+  number: '458'
+- prefix: ISO/TC 184/SC 4
+  number: '459'
+- prefix: ISO/TC 184/SC 4
+  number: '460'
+- prefix: ISO/TC 184/SC 4
+  number: '461'
+- prefix: ISO/TC 184/SC 4
+  number: '462'
+- prefix: ISO/TC 184/SC 4
+  number: '463'
+- prefix: ISO/TC 184/SC 4
+  number: '464'
+- prefix: ISO/TC 184/SC 4
+  number: '465'
+- prefix: ISO/TC 184/SC 4
+  number: '466'
+- prefix: ISO/TC 184/SC 4
+  number: '467'
+- prefix: ISO/TC 184/SC 4
+  number: '468'
+- prefix: ISO/TC 184/SC 4
+  number: '469'
+- prefix: ISO/TC 184/SC 4
+  number: '470'
+- prefix: ISO/TC 184/SC 4
+  number: '471'
+- prefix: ISO/TC 184/SC 4
+  number: '472'
+- prefix: ISO/TC 184/SC 4
+  number: '473'
+- prefix: ISO/TC 184/SC 4
+  number: 200006-acclaim-01
+- prefix: ISO/TC 184/SC 4
+  number: 200006-acclaim-02
+- prefix: ISO/TC 184/SC 4
+  number: 200006-acclaim-03
+- prefix: ISO/TC 184/SC 4
+  number: 200006-acclaim-04
+- prefix: ISO/TC 184/SC 4
+  number: 200006-acclaim-05
+- prefix: ISO/TC 184/SC 4
+  number: 200006-acclaim-06
+- prefix: ISO/TC 184/SC 4
+  number: 200006-acclaim-07
+- prefix: ISO/TC 184/SC 4
+  number: 200006-acclaim-08
+- prefix: ISO/TC 184/SC 4
+  number: 200006-acclaim-09
+scheduled_date_range:
+  start: '2000-06-23'
+  end: '2000-06-23'

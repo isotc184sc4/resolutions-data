@@ -1,0 +1,52 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 2012-11
+urn: urn:iso:tc184:sc4:meeting:plenary-2012-11
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Miami, United States,
+    November 11, 2012 -- November 16, 2012
+city: USMIA
+country_code: US
+venues:
+- kind: physical
+  country_code: US
+  unlocode: USMIA
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '840'
+- prefix: ISO/TC 184/SC 4
+  number: '841'
+- prefix: ISO/TC 184/SC 4
+  number: '842'
+- prefix: ISO/TC 184/SC 4
+  number: '843'
+- prefix: ISO/TC 184/SC 4
+  number: '844'
+- prefix: ISO/TC 184/SC 4
+  number: '845'
+- prefix: ISO/TC 184/SC 4
+  number: '846'
+- prefix: ISO/TC 184/SC 4
+  number: '847'
+- prefix: ISO/TC 184/SC 4
+  number: '848'
+- prefix: ISO/TC 184/SC 4
+  number: '849'
+- prefix: ISO/TC 184/SC 4
+  number: '850'
+- prefix: ISO/TC 184/SC 4
+  number: '851'
+- prefix: ISO/TC 184/SC 4
+  number: 201211-acclaim-01
+- prefix: ISO/TC 184/SC 4
+  number: 201211-acclaim-02
+- prefix: ISO/TC 184/SC 4
+  number: 201211-acclaim-03
+scheduled_date_range:
+  start: '2012-11-11'
+  end: '2012-11-11'

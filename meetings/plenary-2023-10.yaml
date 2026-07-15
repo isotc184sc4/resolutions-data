@@ -1,0 +1,62 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 2023-10
+urn: urn:iso:tc184:sc4:meeting:plenary-2023-10
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Saratoga Springs,
+    United States, October 22, 2023 -- October 27, 2023
+city: USSAR
+country_code: US
+venues:
+- kind: physical
+  country_code: US
+  unlocode: USSAR
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '1126'
+- prefix: ISO/TC 184/SC 4
+  number: '1127'
+- prefix: ISO/TC 184/SC 4
+  number: '1128'
+- prefix: ISO/TC 184/SC 4
+  number: '1129'
+- prefix: ISO/TC 184/SC 4
+  number: '1130'
+- prefix: ISO/TC 184/SC 4
+  number: '1131'
+- prefix: ISO/TC 184/SC 4
+  number: '1132'
+- prefix: ISO/TC 184/SC 4
+  number: '1133'
+- prefix: ISO/TC 184/SC 4
+  number: '1134'
+- prefix: ISO/TC 184/SC 4
+  number: '1135'
+- prefix: ISO/TC 184/SC 4
+  number: 202310-acclaim-01
+- prefix: ISO/TC 184/SC 4
+  number: 202310-acclaim-02
+- prefix: ISO/TC 184/SC 4
+  number: 202310-acclaim-03
+- prefix: ISO/TC 184/SC 4
+  number: 202310-acclaim-04
+- prefix: ISO/TC 184/SC 4
+  number: 202310-acclaim-05
+- prefix: ISO/TC 184/SC 4
+  number: 202310-acclaim-06
+- prefix: ISO/TC 184/SC 4
+  number: 202310-acclaim-07
+- prefix: ISO/TC 184/SC 4
+  number: 202310-acclaim-08
+- prefix: ISO/TC 184/SC 4
+  number: 202310-acclaim-09
+- prefix: ISO/TC 184/SC 4
+  number: 202310-acclaim-10
+scheduled_date_range:
+  start: '2023-10-22'
+  end: '2023-10-22'

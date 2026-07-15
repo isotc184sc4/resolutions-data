@@ -1,0 +1,52 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 2014-11
+urn: urn:iso:tc184:sc4:meeting:plenary-2014-11
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Belfort, France, November
+    2, 2014 -- November 7, 2014
+city: FRBLF
+country_code: FR
+venues:
+- kind: physical
+  country_code: FR
+  unlocode: FRBLF
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '882'
+- prefix: ISO/TC 184/SC 4
+  number: '883'
+- prefix: ISO/TC 184/SC 4
+  number: '884'
+- prefix: ISO/TC 184/SC 4
+  number: '885'
+- prefix: ISO/TC 184/SC 4
+  number: '886'
+- prefix: ISO/TC 184/SC 4
+  number: '887'
+- prefix: ISO/TC 184/SC 4
+  number: '888'
+- prefix: ISO/TC 184/SC 4
+  number: '889'
+- prefix: ISO/TC 184/SC 4
+  number: '890'
+- prefix: ISO/TC 184/SC 4
+  number: '891'
+- prefix: ISO/TC 184/SC 4
+  number: 201411-acclaim-01
+- prefix: ISO/TC 184/SC 4
+  number: 201411-acclaim-02
+- prefix: ISO/TC 184/SC 4
+  number: 201411-acclaim-03
+- prefix: ISO/TC 184/SC 4
+  number: 201411-acclaim-04
+- prefix: ISO/TC 184/SC 4
+  number: 201411-acclaim-05
+scheduled_date_range:
+  start: '2014-11-02'
+  end: '2014-11-02'

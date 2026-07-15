@@ -1,0 +1,62 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 2007-03
+urn: urn:iso:tc184:sc4:meeting:plenary-2007-03
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Funchal, Portugal,
+    March 26, 2007 -- March 30, 2007
+city: PTFNC
+country_code: PT
+venues:
+- kind: physical
+  country_code: PT
+  unlocode: PTFNC
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '701'
+- prefix: ISO/TC 184/SC 4
+  number: '702'
+- prefix: ISO/TC 184/SC 4
+  number: '703'
+- prefix: ISO/TC 184/SC 4
+  number: '704'
+- prefix: ISO/TC 184/SC 4
+  number: '705'
+- prefix: ISO/TC 184/SC 4
+  number: '706'
+- prefix: ISO/TC 184/SC 4
+  number: '707'
+- prefix: ISO/TC 184/SC 4
+  number: '708'
+- prefix: ISO/TC 184/SC 4
+  number: '709'
+- prefix: ISO/TC 184/SC 4
+  number: '710'
+- prefix: ISO/TC 184/SC 4
+  number: '711'
+- prefix: ISO/TC 184/SC 4
+  number: '712'
+- prefix: ISO/TC 184/SC 4
+  number: '713'
+- prefix: ISO/TC 184/SC 4
+  number: '714'
+- prefix: ISO/TC 184/SC 4
+  number: '715'
+- prefix: ISO/TC 184/SC 4
+  number: 200703-acclaim-01
+- prefix: ISO/TC 184/SC 4
+  number: 200703-acclaim-02
+- prefix: ISO/TC 184/SC 4
+  number: 200703-acclaim-03
+- prefix: ISO/TC 184/SC 4
+  number: 200703-acclaim-04
+- prefix: ISO/TC 184/SC 4
+  number: 200703-acclaim-05
+scheduled_date_range:
+  start: '2007-03-26'
+  end: '2007-03-26'

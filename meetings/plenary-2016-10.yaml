@@ -1,0 +1,50 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 2016-10
+urn: urn:iso:tc184:sc4:meeting:plenary-2016-10
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Seattle, United States,
+    October 2, 2016 -- October 7, 2016
+city: USSEA
+country_code: US
+venues:
+- kind: physical
+  country_code: US
+  unlocode: USSEA
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '931'
+- prefix: ISO/TC 184/SC 4
+  number: '932'
+- prefix: ISO/TC 184/SC 4
+  number: '933'
+- prefix: ISO/TC 184/SC 4
+  number: '934'
+- prefix: ISO/TC 184/SC 4
+  number: '935'
+- prefix: ISO/TC 184/SC 4
+  number: '936'
+- prefix: ISO/TC 184/SC 4
+  number: '937'
+- prefix: ISO/TC 184/SC 4
+  number: '938'
+- prefix: ISO/TC 184/SC 4
+  number: '939'
+- prefix: ISO/TC 184/SC 4
+  number: 201610-acclaim-01
+- prefix: ISO/TC 184/SC 4
+  number: 201610-acclaim-02
+- prefix: ISO/TC 184/SC 4
+  number: 201610-acclaim-03
+- prefix: ISO/TC 184/SC 4
+  number: 201610-acclaim-04
+- prefix: ISO/TC 184/SC 4
+  number: 201610-acclaim-05
+scheduled_date_range:
+  start: '2016-10-02'
+  end: '2016-10-02'

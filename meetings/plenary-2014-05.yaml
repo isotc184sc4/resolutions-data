@@ -1,0 +1,60 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 2014-05
+urn: urn:iso:tc184:sc4:meeting:plenary-2014-05
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Philadelphia, United
+    States, May 4, 2014 -- May 9, 2014
+city: USPHL
+country_code: US
+venues:
+- kind: physical
+  country_code: US
+  unlocode: USPHL
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '866'
+- prefix: ISO/TC 184/SC 4
+  number: '867'
+- prefix: ISO/TC 184/SC 4
+  number: '868'
+- prefix: ISO/TC 184/SC 4
+  number: '869'
+- prefix: ISO/TC 184/SC 4
+  number: '870'
+- prefix: ISO/TC 184/SC 4
+  number: '871'
+- prefix: ISO/TC 184/SC 4
+  number: '872'
+- prefix: ISO/TC 184/SC 4
+  number: '873'
+- prefix: ISO/TC 184/SC 4
+  number: '874'
+- prefix: ISO/TC 184/SC 4
+  number: '875'
+- prefix: ISO/TC 184/SC 4
+  number: '876'
+- prefix: ISO/TC 184/SC 4
+  number: '877'
+- prefix: ISO/TC 184/SC 4
+  number: '878'
+- prefix: ISO/TC 184/SC 4
+  number: '879'
+- prefix: ISO/TC 184/SC 4
+  number: '880'
+- prefix: ISO/TC 184/SC 4
+  number: '881'
+- prefix: ISO/TC 184/SC 4
+  number: 201405-acclaim-01
+- prefix: ISO/TC 184/SC 4
+  number: 201405-acclaim-02
+- prefix: ISO/TC 184/SC 4
+  number: 201405-acclaim-03
+scheduled_date_range:
+  start: '2014-05-04'
+  end: '2014-05-04'

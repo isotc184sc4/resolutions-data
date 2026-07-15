@@ -1,0 +1,52 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 1995-10
+urn: urn:iso:tc184:sc4:meeting:plenary-1995-10
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Grenoble, France,
+    October 27, 1995 -- November 6, 1995
+city: FRGNB
+country_code: FR
+venues:
+- kind: physical
+  country_code: FR
+  unlocode: FRGNB
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '244'
+- prefix: ISO/TC 184/SC 4
+  number: '245'
+- prefix: ISO/TC 184/SC 4
+  number: '246'
+- prefix: ISO/TC 184/SC 4
+  number: '247'
+- prefix: ISO/TC 184/SC 4
+  number: '248'
+- prefix: ISO/TC 184/SC 4
+  number: '249'
+- prefix: ISO/TC 184/SC 4
+  number: 199510-acclaim-01
+- prefix: ISO/TC 184/SC 4
+  number: '250'
+- prefix: ISO/TC 184/SC 4
+  number: 199510-acclaim-02
+- prefix: ISO/TC 184/SC 4
+  number: '251'
+- prefix: ISO/TC 184/SC 4
+  number: '252'
+- prefix: ISO/TC 184/SC 4
+  number: '253'
+- prefix: ISO/TC 184/SC 4
+  number: '254'
+- prefix: ISO/TC 184/SC 4
+  number: '255'
+- prefix: ISO/TC 184/SC 4
+  number: '256'
+scheduled_date_range:
+  start: '1995-10-27'
+  end: '1995-10-27'

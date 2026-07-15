@@ -1,0 +1,62 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 1996-10
+urn: urn:iso:tc184:sc4:meeting:plenary-1996-10
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Toronto, Canada, October
+    6, 1996 -- October 16, 1996
+city: CATOR
+country_code: CA
+venues:
+- kind: physical
+  country_code: CA
+  unlocode: CATOR
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '291'
+- prefix: ISO/TC 184/SC 4
+  number: '292'
+- prefix: ISO/TC 184/SC 4
+  number: '294'
+- prefix: ISO/TC 184/SC 4
+  number: '295'
+- prefix: ISO/TC 184/SC 4
+  number: 199610-acclaim-01
+- prefix: ISO/TC 184/SC 4
+  number: '296'
+- prefix: ISO/TC 184/SC 4
+  number: '297'
+- prefix: ISO/TC 184/SC 4
+  number: '298'
+- prefix: ISO/TC 184/SC 4
+  number: '299'
+- prefix: ISO/TC 184/SC 4
+  number: '300'
+- prefix: ISO/TC 184/SC 4
+  number: '301'
+- prefix: ISO/TC 184/SC 4
+  number: '302'
+- prefix: ISO/TC 184/SC 4
+  number: '303'
+- prefix: ISO/TC 184/SC 4
+  number: '304'
+- prefix: ISO/TC 184/SC 4
+  number: '305'
+- prefix: ISO/TC 184/SC 4
+  number: '306'
+- prefix: ISO/TC 184/SC 4
+  number: '307'
+- prefix: ISO/TC 184/SC 4
+  number: '308'
+- prefix: ISO/TC 184/SC 4
+  number: '309'
+- prefix: ISO/TC 184/SC 4
+  number: '310'
+scheduled_date_range:
+  start: '1996-10-06'
+  end: '1996-10-06'

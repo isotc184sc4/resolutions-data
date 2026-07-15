@@ -1,0 +1,68 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 2018-05
+urn: urn:iso:tc184:sc4:meeting:plenary-2018-05
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Beijing, China, May
+    20, 2018 -- May 25, 2018
+city: CNBJS
+country_code: CN
+venues:
+- kind: physical
+  country_code: CN
+  unlocode: CNBJS
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '966'
+- prefix: ISO/TC 184/SC 4
+  number: '967'
+- prefix: ISO/TC 184/SC 4
+  number: '968'
+- prefix: ISO/TC 184/SC 4
+  number: '969'
+- prefix: ISO/TC 184/SC 4
+  number: '970'
+- prefix: ISO/TC 184/SC 4
+  number: '971'
+- prefix: ISO/TC 184/SC 4
+  number: '972'
+- prefix: ISO/TC 184/SC 4
+  number: '973'
+- prefix: ISO/TC 184/SC 4
+  number: '974'
+- prefix: ISO/TC 184/SC 4
+  number: '975'
+- prefix: ISO/TC 184/SC 4
+  number: '976'
+- prefix: ISO/TC 184/SC 4
+  number: '977'
+- prefix: ISO/TC 184/SC 4
+  number: '978'
+- prefix: ISO/TC 184/SC 4
+  number: '979'
+- prefix: ISO/TC 184/SC 4
+  number: '980'
+- prefix: ISO/TC 184/SC 4
+  number: '981'
+- prefix: ISO/TC 184/SC 4
+  number: '982'
+- prefix: ISO/TC 184/SC 4
+  number: '983'
+- prefix: ISO/TC 184/SC 4
+  number: '984'
+- prefix: ISO/TC 184/SC 4
+  number: '985'
+- prefix: ISO/TC 184/SC 4
+  number: 201805-acclaim-01
+- prefix: ISO/TC 184/SC 4
+  number: 201805-acclaim-02
+- prefix: ISO/TC 184/SC 4
+  number: 201805-acclaim-03
+scheduled_date_range:
+  start: '2018-05-20'
+  end: '2018-05-20'

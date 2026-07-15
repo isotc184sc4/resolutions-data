@@ -1,0 +1,50 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 2003-10
+urn: urn:iso:tc184:sc4:meeting:plenary-2003-10
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Poitiers, France,
+    October 25, 2003 -- October 31, 2003
+city: FRPIS
+country_code: FR
+venues:
+- kind: physical
+  country_code: FR
+  unlocode: FRPIS
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '588'
+- prefix: ISO/TC 184/SC 4
+  number: '589'
+- prefix: ISO/TC 184/SC 4
+  number: '590'
+- prefix: ISO/TC 184/SC 4
+  number: '591'
+- prefix: ISO/TC 184/SC 4
+  number: '592'
+- prefix: ISO/TC 184/SC 4
+  number: '593'
+- prefix: ISO/TC 184/SC 4
+  number: '594'
+- prefix: ISO/TC 184/SC 4
+  number: '595'
+- prefix: ISO/TC 184/SC 4
+  number: '596'
+- prefix: ISO/TC 184/SC 4
+  number: '597'
+- prefix: ISO/TC 184/SC 4
+  number: '598'
+- prefix: ISO/TC 184/SC 4
+  number: 200310-acclaim-01
+- prefix: ISO/TC 184/SC 4
+  number: 200310-acclaim-02
+- prefix: ISO/TC 184/SC 4
+  number: 200310-acclaim-03
+scheduled_date_range:
+  start: '2003-10-25'
+  end: '2003-10-25'
