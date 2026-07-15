@@ -1,7 +1,9 @@
 ---
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Suzhou, China, October
-    16, 2011 -- October 21, 2011
+  title:
+  - spelling: eng
+    value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Suzhou, China, October
+      16, 2011 -- October 21, 2011
   date: '2011-10-16'
   source: ISO/TC 184/SC 4 Secretariat
   city: CNSZH
@@ -15,25 +17,30 @@ decisions:
   dates:
   - date: '2011-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Approve part titles for the ISO 8000 data quality series
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: approves
-      date_effective:
-        date: '2011-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Approve part titles for the ISO 8000 data quality series
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: approves
+    date_effective:
+      date: '2011-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 modifies resolution 821 by approving the publishing of ISO 8000-150
         as a Technical Specification rather than transforming that part into
         ISO 8000-50 before publication.
-    - type: approves
-      date_effective:
-        date: '2011-10-15'
-        type: effective
-      message: |
+  - type: approves
+    date_effective:
+      date: '2011-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 approves the following titles for parts under the ISO 8000
         Information and Data Quality project, each one being within the scope of
         the approved work item:
@@ -45,19 +52,23 @@ decisions:
         * Data quality -- Part 30: Exchange of data: Accuracy
         * Data quality -- Part 40: Exchange of data: Completeness
         * Data quality -- Part 50: Quality management framework
-    - type: approves
-      date_effective:
-        date: '2011-10-15'
-        type: effective
-      message: |
+  - type: approves
+    date_effective:
+      date: '2011-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 also approves the following title for ISO 8000-311:
 
         * Data quality -- Part 311: Usage guide for ISO 10303-59 (PDQ-S)
-    - type: instructs
-      date_effective:
-        date: '2011-10-15'
-        type: effective
-      message: |
+  - type: instructs
+    date_effective:
+      date: '2011-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 instructs the SC4 Secretariat to ensure that ISO receives
         notification of the above information for these parts and also the
         information for ISO 8000-3 ("Data quality -- Part 3: Taxonomy"), ensuring
@@ -71,17 +82,20 @@ decisions:
   dates:
   - date: '2011-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Approve new project leaders and editors for SC 4 projects
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: approves
-      date_effective:
-        date: '2011-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Approve new project leaders and editors for SC 4 projects
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: approves
+    date_effective:
+      date: '2011-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 approves the following new project leaders or project editors for
         the associated SC 4 projects.
 - identifier:
@@ -92,29 +106,34 @@ decisions:
   dates:
   - date: '2011-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appoint Jean Brangé as Deputy Convener for WG 13
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: noting
-      date_effective:
-        date: '2011-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Appoint Jean Brangé as Deputy Convener for WG 13
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '2011-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
+        SC 4 appoints Jean Brangé as Deputy Convener for WG 13, with
+        appreciation for his offer.
+  considerations:
+  - type: noting
+    date_effective:
+      date: '2011-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 thanks Emily Grantner (Williams) and Leif Gyllström for their
         faithful service as joint Deputy Conveners for SC 4/WG 13 (Industrial
         Data Quality) since 2008 and regrets that neither is available to
         continue in these roles.
-    actions:
-    - type: appoints
-      date_effective:
-        date: '2011-10-15'
-        type: effective
-      message: |
-        SC 4 appoints Jean Brangé as Deputy Convener for WG 13, with
-        appreciation for his offer.
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '829'
@@ -123,16 +142,19 @@ decisions:
   dates:
   - date: '2011-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appoint Peter Benson as additional liaison to ISO/TC 211
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appoints
-      date_effective:
-        date: '2011-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Appoint Peter Benson as additional liaison to ISO/TC 211
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '2011-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 appoints Peter Benson as an additional liaison to ISO/TC 211, with
         appreciation for his offer.

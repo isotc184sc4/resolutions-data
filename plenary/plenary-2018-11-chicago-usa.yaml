@@ -1,7 +1,9 @@
 ---
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Chicago, United States,
-    November 4, 2018 -- November 9, 2018
+  title:
+  - spelling: eng
+    value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Chicago, United
+      States, November 4, 2018 -- November 9, 2018
   date: '2018-11-04'
   source: ISO/TC 184/SC 4 Secretariat
   city: USCHI
@@ -15,17 +17,20 @@ decisions:
   dates:
   - date: '2018-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Approve Project Leaders and Project Editors for SC 4 Projects
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: approves
-      date_effective:
-        date: '2018-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Approve Project Leaders and Project Editors for SC 4 Projects
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: approves
+    date_effective:
+      date: '2018-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 approves the following Project Leaders and Project Editors for the associated Projects:
 
         |===
@@ -44,17 +49,20 @@ decisions:
   dates:
   - date: '2018-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Reappoint Martin Hardwick and Bengt Olsson as WG 15 Convenors
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appoints
-      date_effective:
-        date: '2018-11-15'
-        type: effective
-      message: 'SC 4 appoints Martin Hardwick as Convenor and Bengt Olsson as Deputy
+  title:
+  - spelling: eng
+    value: Reappoint Martin Hardwick and Bengt Olsson as WG 15 Convenors
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '2018-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 appoints Martin Hardwick as Convenor and Bengt Olsson as Deputy
         Convenor for the WG 15 "Digital Manufacturing" for a further three year term,
         with appreciation for their offers to serve in those capacities.
 
@@ -67,19 +75,22 @@ decisions:
   dates:
   - date: '2018-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Reappoint Nils Sandsmark as WG 22 Convenor
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appoints
-      date_effective:
-        date: '2018-11-15'
-        type: effective
-      message: 'SC 4 appoints Nils Sandsmark as Convenor for the WG 22, "Reference
-        data validation team" for a further three year term, with appreciation for
-        his offer to serve in that capacity.
+  title:
+  - spelling: eng
+    value: Reappoint Nils Sandsmark as WG 22 Convenor
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '2018-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 appoints Nils Sandsmark as Convenor for the WG 22, "Reference data
+        validation team" for a further three year term, with appreciation for his
+        offer to serve in that capacity.
 
         '
 - identifier:
@@ -90,26 +101,31 @@ decisions:
   dates:
   - date: '2018-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appoint Tim King as WG 23 Convenor
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: acknowledges
-      date_effective:
-        date: '2018-11-15'
-        type: effective
-      message: 'SC 4 expresses its appreciation and gratitude to Aminata Mbengue for
+  title:
+  - spelling: eng
+    value: Appoint Tim King as WG 23 Convenor
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: acknowledges
+    date_effective:
+      date: '2018-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 expresses its appreciation and gratitude to Aminata Mbengue for
         her service as Convenor of WG 23 since its inception and wishes her all success
         in future endeavours.
 
         '
-    - type: appoints
-      date_effective:
-        date: '2018-11-15'
-        type: effective
-      message: 'SC 4 appoints Tim King as Convenor for the WG 23 "Vocabulary validation
+  - type: appoints
+    date_effective:
+      date: '2018-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 appoints Tim King as Convenor for the WG 23 "Vocabulary validation
         team" for a three year term, with appreciation for his offer to serve in that
         capacity.
 
@@ -122,18 +138,21 @@ decisions:
   dates:
   - date: '2018-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Move ISO 10303-238ed2 to 48-month development track
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2018-11-15'
-        type: effective
-      message: 'SC 4 requests its Secretariat to move the ISO 10303-238ed2 project
-        from 36 months to the 48 month development track.
+  title:
+  - spelling: eng
+    value: Move ISO 10303-238ed2 to 48-month development track
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2018-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests its Secretariat to move the ISO 10303-238ed2 project from
+        36 months to the 48 month development track.
 
         '
 - identifier:
@@ -144,17 +163,20 @@ decisions:
   dates:
   - date: '2018-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Remove ISO 8000-3 from the ISO work programme
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: decides
-      date_effective:
-        date: '2018-11-15'
-        type: effective
-      message: 'SC 4 cancels the project 60784 for ISO/NP TS 8000-3.
+  title:
+  - spelling: eng
+    value: Remove ISO 8000-3 from the ISO work programme
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: decides
+    date_effective:
+      date: '2018-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 cancels the project 60784 for ISO/NP TS 8000-3.
 
         '
 - identifier:
@@ -165,17 +187,20 @@ decisions:
   dates:
   - date: '2018-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Correct title of ISO 8000-116
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: approves
-      date_effective:
-        date: '2018-11-15'
-        type: effective
-      message: 'SC 4 approves change of the title "Data quality -- Part 116: Application
+  title:
+  - spelling: eng
+    value: Correct title of ISO 8000-116
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: approves
+    date_effective:
+      date: '2018-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 approves change of the title "Data quality -- Part 116: Application
         of ISO 8000-115 to the formatting of Authoritative Legal Entity Identifiers
         (ALEI) for individuals and organizations" to "Data quality -- Part 116: Master
         data: Exchange of quality identifiers: Application of ISO 8000-115 to authoritative
@@ -191,18 +216,21 @@ decisions:
   dates:
   - date: '2018-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Apply 8-week ballot duration to NP for 8000-81
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2018-11-15'
-        type: effective
-      message: 'SC 4 requests its Secretariat to apply the 8 week ballot duration
-        to the NP for 8000-81, Data quality assessment based on data profiling.
+  title:
+  - spelling: eng
+    value: Apply 8-week ballot duration to NP for 8000-81
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2018-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests its Secretariat to apply the 8 week ballot duration to
+        the NP for 8000-81, Data quality assessment based on data profiling.
 
         '
 - identifier:
@@ -213,19 +241,22 @@ decisions:
   dates:
   - date: '2018-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Apply 8-week ballot duration to NP for 10303-59ed3
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2018-11-15'
-        type: effective
-      message: 'SC 4 requests its Secretariat to apply the 8 week ballot duration
-        to the NP for 10303-59ed3, Integrated generic resource: Quality of product
-        shape data.
+  title:
+  - spelling: eng
+    value: Apply 8-week ballot duration to NP for 10303-59ed3
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2018-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests its Secretariat to apply the 8 week ballot duration to
+        the NP for 10303-59ed3, Integrated generic resource: Quality of product shape
+        data.
 
         '
 - identifier:
@@ -236,18 +267,21 @@ decisions:
   dates:
   - date: '2018-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Apply 8-week ballot duration to future NP for 14306ed3
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2018-11-15'
-        type: effective
-      message: 'SC 4 requests its Secretariat to apply the 8 week ballot duration
-        to the future NP for 14306ed3, JT file format specification for 3D visualization
+  title:
+  - spelling: eng
+    value: Apply 8-week ballot duration to future NP for 14306ed3
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2018-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests its Secretariat to apply the 8 week ballot duration to
+        the future NP for 14306ed3, JT file format specification for 3D visualization
         following a successful review by JWG 16 for scope per action item 195 from
         the Secretariat.
 
@@ -260,17 +294,20 @@ decisions:
   dates:
   - date: '2018-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Apply 8-week ballot duration to NPs for 10303 parts
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2018-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Apply 8-week ballot duration to NPs for 10303 parts
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2018-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests its Secretariat to apply the 8 week ballot duration to the following NPs for 10303:
 
         * 10303-15 (SysML XMI to XSD binding)
@@ -284,27 +321,32 @@ decisions:
   dates:
   - date: '2018-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Establish PWI for Industrial Requirements for Product Data Visualization
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2018-11-15'
-        type: effective
-      message: 'SC 4 launches a PWI to update its requirements for visualization and
+  title:
+  - spelling: eng
+    value: Establish PWI for Industrial Requirements for Product Data Visualization
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2018-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 launches a PWI to update its requirements for visualization and
         to create a Technical Report on "Industrial Requirements for Product Data
         Visualization".
 
         '
-    - type: requests
-      date_effective:
-        date: '2018-11-15'
-        type: effective
-      message: 'SC 4 requests its Secretariat to invite member bodies to nominate
-        experts to JWG 16 to undertake this preliminary work.
+  - type: requests
+    date_effective:
+      date: '2018-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests its Secretariat to invite member bodies to nominate experts
+        to JWG 16 to undertake this preliminary work.
 
         '
 - identifier:
@@ -315,19 +357,22 @@ decisions:
   dates:
   - date: '2018-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Submit Quality Information Framework for fast track ballot
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2018-11-15'
-        type: effective
-      message: 'SC 4 requests its Secretariat to submit QIF 3.0, together with its
-        harvesting explanatory report and the mapping between STEP and QIF MBD for
-        DIS ballot under the fast track procedure.
+  title:
+  - spelling: eng
+    value: Submit Quality Information Framework for fast track ballot
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2018-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests its Secretariat to submit QIF 3.0, together with its harvesting
+        explanatory report and the mapping between STEP and QIF MBD for DIS ballot
+        under the fast track procedure.
 
         '
 - identifier:
@@ -338,17 +383,20 @@ decisions:
   dates:
   - date: '2018-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Agree on path forward for Edition 2 of ISO 10303-242
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: agrees
-      date_effective:
-        date: '2018-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Agree on path forward for Edition 2 of ISO 10303-242
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: agrees
+    date_effective:
+      date: '2018-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 agrees that the following points specified by WG 12 for the way forward with AP 242ed2 DIS and the extended architecture specification shall be used as a basis for the second AP 242ed2 DIS ballot:
 
         1. Agreement to retain ISO/TS 10303-4442 in the standard
@@ -356,11 +404,13 @@ decisions:
         3. Agreement to retain EXPRESS
         4. Agreement to use SysML as the modelling language for AP 242ed2 domain model in ISO/TS 10303-4442
         5. Agreement to re-ballot the standing documents N3210, N3211, and N3212 with a revision to focus the documents only on the specific materials required to support AP 242ed2 and ISO/TS 10303-4442. All materials that speak to the future state of the extended architecture will be moved to a technical report and addressed by an ad hoc group on the strategy for extended architecture with Allison Barnard Feeney as chief editor
-    - type: asks
-      date_effective:
-        date: '2018-11-15'
-        type: effective
-      message: |
+  - type: asks
+    date_effective:
+      date: '2018-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 invites members from each NSB to join and contribute to the refinement of the content.
 
         6. Agreement to create SMRL V8 with the required updates that support AP 242ed2.
@@ -376,27 +426,32 @@ decisions:
   dates:
   - date: '2018-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Transfer ISO 22745 and ISO 29002 to WG 13
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2018-11-15'
-        type: effective
-      message: 'SC 4 requests its Secretariat to coordinate with ISO/CS and transfer
+  title:
+  - spelling: eng
+    value: Transfer ISO 22745 and ISO 29002 to WG 13
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2018-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests its Secretariat to coordinate with ISO/CS and transfer
         ISO 22745 and ISO 29002 and all their parts from WG 2 to WG 13.
 
         '
-    - type: welcomes
-      date_effective:
-        date: '2018-11-15'
-        type: effective
-      message: 'SC 4 welcomes the interest of IEC SC3D in the joint development of
-        the new edition of ISO 29002, and requests its Secretariat to reactivate its
-        existing liaison to TC 3 to include SC3D.
+  - type: welcomes
+    date_effective:
+      date: '2018-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 welcomes the interest of IEC SC3D in the joint development of the
+        new edition of ISO 29002, and requests its Secretariat to reactivate its existing
+        liaison to TC 3 to include SC3D.
 
         '
 - identifier:
@@ -407,31 +462,38 @@ decisions:
   dates:
   - date: '2018-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Disband WG 2 and assign ISO 13584 to JWG 24
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: assigns
-      date_effective:
-        date: '2018-11-15'
-        type: effective
-      message: 'SC 4 assigns ISO 13584 to JWG 24.
+  title:
+  - spelling: eng
+    value: Disband WG 2 and assign ISO 13584 to JWG 24
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: assigns
+    date_effective:
+      date: '2018-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 assigns ISO 13584 to JWG 24.
 
         '
-    - type: disbands
-      date_effective:
-        date: '2018-11-15'
-        type: effective
-      message: 'SC 4 disbands WG 2, thanking its experts for their contribution.
+  - type: disbands
+    date_effective:
+      date: '2018-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 disbands WG 2, thanking its experts for their contribution.
 
         '
-    - type: requests
-      date_effective:
-        date: '2018-11-15'
-        type: effective
-      message: 'SC 4 requests the IEC SC 3D to concur.
+  - type: requests
+    date_effective:
+      date: '2018-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests the IEC SC 3D to concur.
 
         '
 - identifier:
@@ -442,17 +504,20 @@ decisions:
   dates:
   - date: '2018-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank SC 4 Liaisons and presenters
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2018-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank SC 4 Liaisons and presenters
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2018-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its appreciation to our SC 4 Liaisons and the presentations that were provided:
 
         * TC 68/SC 8 (LEI) and ECCMA, Peter Benson
@@ -472,17 +537,20 @@ decisions:
   dates:
   - date: '2018-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Open Technical Forum presenters
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2018-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Open Technical Forum presenters
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2018-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its appreciation to the following individuals and organizations for their participation in the 76th ISO/TC 184/SC 4 Open Technical Forum in Chicago, IL USA 2018-11-05:
 
         * ISO 8000-2, Tim King
@@ -498,17 +566,20 @@ decisions:
   dates:
   - date: '2018-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Industry Day participants
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2018-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Industry Day participants
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2018-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its appreciation to the following individuals and organizations for their participation in the 76th ISO/TC 184/SC 4 Industry Day in Chicago, IL USA 2018-11-05:
 
         * Jiwan Hayre, Boeing
@@ -534,17 +605,20 @@ decisions:
   dates:
   - date: '2018-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Chicago meeting hosts and staff
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2018-11-15'
-        type: effective
-      message: 'SC 4 expresses its appreciation to Peter Benson, Brandi Fisher, and
+  title:
+  - spelling: eng
+    value: Thank Chicago meeting hosts and staff
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2018-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 expresses its appreciation to Peter Benson, Brandi Fisher, and
         the rest of ECCMA''s staff for hosting the 76th ISO/TC 184/SC 4 Plenary in
         Chicago, IL USA during 2018-11-05/09. Special acknowledgement is extended
         to UI Labs and its staff for their seamless and attentive support throughout

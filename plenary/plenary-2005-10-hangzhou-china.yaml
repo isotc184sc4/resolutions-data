@@ -1,7 +1,9 @@
 ---
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Hangzhou, China, October
-    16, 2005 -- October 21, 2005
+  title:
+  - spelling: eng
+    value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Hangzhou, China,
+      October 16, 2005 -- October 21, 2005
   date: '2005-10-16'
   source: ISO/TC 184/SC 4 Secretariat
   city: CNHGH
@@ -15,17 +17,20 @@ decisions:
   dates:
   - date: '2005-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Approve project leader and editor for ISO 10303-0059
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: approves
-      date_effective:
-        date: '2005-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Approve project leader and editor for ISO 10303-0059
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: approves
+    date_effective:
+      date: '2005-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 approves the following new project leaders or project editors for the associated SC 4 projects:
 
         |===
@@ -41,30 +46,35 @@ decisions:
   dates:
   - date: '2005-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Terminate liaison with PLCS, Inc.
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: recognizing
-      date_effective:
-        date: '2005-10-15'
-        type: effective
-      message: |
-        Recognizing the successful completion of the development of AP239, and the closure
-        of the PLCS, Inc consortium.
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2005-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Terminate liaison with PLCS, Inc.
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2005-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 terminates its liaison with PLCS, Inc.
 
         The liaison with OASIS established under resolutions 580 and 629 remains in place, in
         order to address any SC 4 standardisation requirements arising from activities under
         the OASIS PLCS Technical Committee.
+  considerations:
+  - type: recognizing
+    date_effective:
+      date: '2005-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
+        Recognizing the successful completion of the development of AP239, and the closure
+        of the PLCS, Inc consortium.
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '656'
@@ -73,25 +83,30 @@ decisions:
   dates:
   - date: '2005-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Establish liaison with ISO/TC 37/SC 2, 3 and 4
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2005-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Establish liaison with ISO/TC 37/SC 2, 3 and 4
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2005-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests an active two-way liaison with ISO/TC 37/SC 2, 3 and 4, and
         requests the SC 4 Secretary to confirm these liaisons with the ISO Central
         Secretariat.
-    - type: appoints
-      date_effective:
-        date: '2005-10-15'
-        type: effective
-      message: |
+  - type: appoints
+    date_effective:
+      date: '2005-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 appoints Gerald Radack, Peter Benson, Magne Valen-Sendstad and Guy Pierra as
         liaison officers from SC 4 to ISO/TC 37/SC 2, 3 and 4, and requests them to report back
         on any relevant implications for SC 4 standards and projects, after each ISO/TC 37
@@ -104,25 +119,30 @@ decisions:
   dates:
   - date: '2005-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Nominate Jean-Jacques MICHEL as liaison to ISO/TC 184/SC 5/WG 7
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: recommends
-      date_effective:
-        date: '2005-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Nominate Jean-Jacques MICHEL as liaison to ISO/TC 184/SC 5/WG 7
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: recommends
+    date_effective:
+      date: '2005-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         In addition to the appointments and nominations stated in SC 4 Resolution # 646, SC 4
         proposes that the ISO/TC 184/SC 4/JWG 8 Convener, Jean-Jacques MICHEL, be
         nominated as expert to SC 5/WG 7 by its National Body.
-    - type: appoints
-      date_effective:
-        date: '2005-10-15'
-        type: effective
-      message: |
+  - type: appoints
+    date_effective:
+      date: '2005-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 appoints him as liaison officer to ISO/TC 184/SC 5 and invites him to participate
         in the joint SC 1, SC 4 and SC 5 review on "Diagnostics and maintenance
         applications integration".
@@ -134,27 +154,32 @@ decisions:
   dates:
   - date: '2005-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Recommend national bodies review ISO/IEC JWG 1 guide ballots
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: noting
-      date_effective:
-        date: '2005-10-15'
-        type: effective
-      message: |
-        SC 4 notes the potential impact on many ISO Technical Committees of the proposed
-        content of the JWG 1 "Guide for the Specification of Product Properties and Classes".
-    actions:
-    - type: recommends
-      date_effective:
-        date: '2005-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Recommend national bodies review ISO/IEC JWG 1 guide ballots
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: recommends
+    date_effective:
+      date: '2005-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 recommends that National Bodies ensure that any ballot on these documents
         is reviewed by their representatives to SC 4 and other affected Technical Committees.
+  considerations:
+  - type: noting
+    date_effective:
+      date: '2005-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
+        SC 4 notes the potential impact on many ISO Technical Committees of the proposed
+        content of the JWG 1 "Guide for the Specification of Product Properties and Classes".
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '659'
@@ -163,35 +188,42 @@ decisions:
   dates:
   - date: '2005-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Disband Task Force on Dictionaries, Part Libraries and Reference Data Libraries
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: acknowledging
-      date_effective:
-        date: '2005-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Disband Task Force on Dictionaries, Part Libraries and Reference Data Libraries
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: disbands
+    date_effective:
+      date: '2005-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 disbands the Task Force.
+
+        '
+  - type: thanks
+    date_effective:
+      date: '2005-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 thanks the Task Force for its efforts.
+
+        '
+  considerations:
+  - type: acknowledging
+    date_effective:
+      date: '2005-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 appreciates the content of the report of the Task Force on Dictionaries, Part
         Libraries and Reference Data Libraries (SC 4 N2016), since it supports the
         acceptance and knowledge about the SC 4 standards and their relations in industrial use.
-    actions:
-    - type: disbands
-      date_effective:
-        date: '2005-10-15'
-        type: effective
-      message: 'SC 4 disbands the Task Force.
-
-        '
-    - type: thanks
-      date_effective:
-        date: '2005-10-15'
-        type: effective
-      message: 'SC 4 thanks the Task Force for its efforts.
-
-        '
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '660'
@@ -200,17 +232,20 @@ decisions:
   dates:
   - date: '2005-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Assign ISO 22745 Open Technical Dictionary project to WG 12
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: assigns
-      date_effective:
-        date: '2005-10-15'
-        type: effective
-      message: 'SC 4 assigns the Open Technical Dictionary Project to WG 12.
+  title:
+  - spelling: eng
+    value: Assign ISO 22745 Open Technical Dictionary project to WG 12
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: assigns
+    date_effective:
+      date: '2005-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 assigns the Open Technical Dictionary Project to WG 12.
 
         '
 - identifier:
@@ -221,17 +256,20 @@ decisions:
   dates:
   - date: '2005-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Establish liaison to ISO/TC 60 Gears
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: establishes
-      date_effective:
-        date: '2005-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Establish liaison to ISO/TC 60 Gears
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: establishes
+    date_effective:
+      date: '2005-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 establishes a liaison to ISO/TC 60 Gears to enable a close cooperation on data
         exchange for gears. To avoid inconsistencies and incompatibilities with existing SC 4
         standards, SC 4 nominates Alan Crawford and Len Slovensky as liaison officers.
@@ -243,18 +281,21 @@ decisions:
   dates:
   - date: '2005-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Nominate Howard Mason to TMB ad hoc meeting on Publication of Standards
+  title:
+  - spelling: eng
+    value: Nominate Howard Mason to TMB ad hoc meeting on Publication of Standards
       as databases
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: nominates
-      date_effective:
-        date: '2005-10-15'
-        type: effective
-      message: |
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: nominates
+    date_effective:
+      date: '2005-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 nominates its chairman Howard Mason to attend the ISO/TMB ad hoc meeting
         on 2005-11-10/11 in Geneva. The objective of this nomination is to reflect the interest
         of SC 4 projects and users of SC 4 publications to make these publicly available and
@@ -269,17 +310,20 @@ decisions:
   dates:
   - date: '2005-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank SC 4 liaisons and plenary presenters
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2005-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank SC 4 liaisons and plenary presenters
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2005-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         Appreciation to our SC 4 Liaisons. We appreciate your representation to and for
         ISO/TC 184/SC 4.
 
@@ -298,17 +342,20 @@ decisions:
   dates:
   - date: '2005-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank CNIS and Huagang HNA Resort for organizing the meeting
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2005-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank CNIS and Huagang HNA Resort for organizing the meeting
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2005-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 wishes to give its unanimous thanks to CNIS, its Members and the staff of the
         HangZhou Huagang HNA Resort Hotel for their efforts in organizing this meeting,
         arranging the facilities, excellent food, and excellent social events.
@@ -320,17 +367,20 @@ decisions:
   dates:
   - date: '2005-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Bisong Liu, Ping Wang, and staff for administrative support
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2005-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Bisong Liu, Ping Wang, and staff for administrative support
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2005-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its thanks to Mr. Bisong Liu and his staff, Mr. Guangli Qin, Mr.
         Junfeng Zhan, Mr. Wenfeng Sun, Mr. Hanjing Hu, Mr. Wenwu Li, Mr. Yan Hong, Ms.
         Xiaojing Zhang and Ms. Ping Xu for their superior administrative support, outstanding

@@ -1,7 +1,9 @@
 ---
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Grenoble, France,
-    October 27, 1995 -- November 6, 1995
+  title:
+  - spelling: eng
+    value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Grenoble, France,
+      October 27, 1995 -- November 6, 1995
   date: '1995-10-27'
   source: ISO/TC 184/SC 4 Secretariat
   city: FRGNB
@@ -15,17 +17,20 @@ decisions:
   dates:
   - date: '1995-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Endorse Richard R. Wandmacher as SC 4 Chairman
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: endorses
-      date_effective:
-        date: '1995-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Endorse Richard R. Wandmacher as SC 4 Chairman
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: endorses
+    date_effective:
+      date: '1995-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 endorses the Secretariat's nomination of Richard R. Wandmacher to fill
         the position as Chairman of SC 4 for a term of six years and requests the
         Secretariat to forward the nomination to AFNOR for approval by ISO/TC 184.
@@ -37,17 +42,20 @@ decisions:
   dates:
   - date: '1995-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Adopt Technical Corrigendum to ISO 10303-21
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: adopts
-      date_effective:
-        date: '1995-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Adopt Technical Corrigendum to ISO 10303-21
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: adopts
+    date_effective:
+      date: '1995-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 adopts the Technical Corrigendum to ISO 10303-21 dated 7 September 1995
         and directs the SC 4 Secretariat to forward the document to ISO Geneva.
 - identifier:
@@ -58,17 +66,20 @@ decisions:
   dates:
   - date: '1995-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Cancel project 10303-103 for electrical connectivity
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: agrees
-      date_effective:
-        date: '1995-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Cancel project 10303-103 for electrical connectivity
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: agrees
+    date_effective:
+      date: '1995-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 agrees to cancel project #24, 10303-103: Electrical/Electronics
         Connectivity, due to lack of activity.
 - identifier:
@@ -79,17 +90,20 @@ decisions:
   dates:
   - date: '1995-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Cancel project 10303-25 for FORTRAN language binding
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: agrees
-      date_effective:
-        date: '1995-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Cancel project 10303-25 for FORTRAN language binding
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: agrees
+    date_effective:
+      date: '1995-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 agrees to cancel project # 4, 10303-25: FORTRAN Language Binding to
         the SDAI, due to lack of activity.
 - identifier:
@@ -100,17 +114,20 @@ decisions:
   dates:
   - date: '1995-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Require AIC drafts to incorporate agreed technical changes
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '1995-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Require AIC drafts to incorporate agreed technical changes
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '1995-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests its Secretariat to ensure that if any AIC drafts are
         recommended for promotion to DIS under current ballot (N315-N332, Parts
         501-518) the parts will incorporate agreed changes in response to technical
@@ -123,17 +140,20 @@ decisions:
   dates:
   - date: '1995-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Disband Strategic Planning Advisory Group
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: disbands
-      date_effective:
-        date: '1995-10-15'
-        type: effective
-      message: 'SC 4 disbands its Strategic Planning Advisory Group.
+  title:
+  - spelling: eng
+    value: Disband Strategic Planning Advisory Group
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: disbands
+    date_effective:
+      date: '1995-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 disbands its Strategic Planning Advisory Group.
 
         '
 - identifier:
@@ -144,17 +164,20 @@ decisions:
   dates:
   - date: '1995-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Jean-Pierre Letouzey for his service as Convener
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '1995-10-15'
-        type: effective
-      message: 'SC 4 thanks Jean-Pierre Letouzey for his service as Convener of the
+  title:
+  - spelling: eng
+    value: Thank Jean-Pierre Letouzey for his service as Convener
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '1995-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 thanks Jean-Pierre Letouzey for his service as Convener of the
         Strategic Planning Advisory Group.
 
         '
@@ -166,17 +189,20 @@ decisions:
   dates:
   - date: '1995-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Disband Project Management Advisory Group
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: disbands
-      date_effective:
-        date: '1995-10-15'
-        type: effective
-      message: 'SC 4 disbands its Project Management Advisory Group.
+  title:
+  - spelling: eng
+    value: Disband Project Management Advisory Group
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: disbands
+    date_effective:
+      date: '1995-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 disbands its Project Management Advisory Group.
 
         '
 - identifier:
@@ -187,17 +213,20 @@ decisions:
   dates:
   - date: '1995-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Neal Laurance for his service as Convener
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '1995-10-15'
-        type: effective
-      message: 'SC 4 thanks Neal Laurance for his service as Convener of the Project
+  title:
+  - spelling: eng
+    value: Thank Neal Laurance for his service as Convener
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '1995-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 thanks Neal Laurance for his service as Convener of the Project
         Management Advisory Group.
 
         '
@@ -209,17 +238,20 @@ decisions:
   dates:
   - date: '1995-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appoint Shaun Devlin as Convener of JWG 9
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appoints
-      date_effective:
-        date: '1995-10-15'
-        type: effective
-      message: 'SC 4 appoints Shaun Devlin as Convener of JWG 9.
+  title:
+  - spelling: eng
+    value: Appoint Shaun Devlin as Convener of JWG 9
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '1995-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 appoints Shaun Devlin as Convener of JWG 9.
 
         '
 - identifier:
@@ -230,24 +262,29 @@ decisions:
   dates:
   - date: '1995-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Accept report of Policy and Planning Committee
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: accepts
-      date_effective:
-        date: '1995-10-15'
-        type: effective
-      message: 'SC 4 accepts the report of its Policy and Planning Committee.
+  title:
+  - spelling: eng
+    value: Accept report of Policy and Planning Committee
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: accepts
+    date_effective:
+      date: '1995-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 accepts the report of its Policy and Planning Committee.
 
         '
-    - type: requests
-      date_effective:
-        date: '1995-10-15'
-        type: effective
-      message: |
+  - type: requests
+    date_effective:
+      date: '1995-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests its Secretariat to circulate the attached resolution for
         letter ballot to SC 4 members, and to issue a simultaneous call for a
         Convener of the proposed new Working Group, experts for this Working
@@ -261,17 +298,20 @@ decisions:
   dates:
   - date: '1995-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Register ISO 10303-22 as a Draft International Standard
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '1995-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Register ISO 10303-22 as a Draft International Standard
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '1995-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests its Secretariat to register the current ISO 10303-22 document
         as a Draft International Standard.
 - identifier:
@@ -282,17 +322,20 @@ decisions:
   dates:
   - date: '1995-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Establish Category A liaison with ISO/TC 8
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: resolves
-      date_effective:
-        date: '1995-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Establish Category A liaison with ISO/TC 8
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: resolves
+    date_effective:
+      date: '1995-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its desire to establish a Category A liaison with ISO/TC 8
         on Ships and Marine Technology and appoints Zabi Bazari (Lloyd Register
         of Shipping) as that liaison.
@@ -304,17 +347,20 @@ decisions:
   dates:
   - date: '1995-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank the French National Body for hosting the meetings
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '1995-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank the French National Body for hosting the meetings
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '1995-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 thanks the French National Body for hosting the meetings of SC 4 and
         its Working Groups on this occasion and wishes particularly to thank the
         staff of AFNOR, Sylvie Arbouy, Veronique Auger, and Ives Dudognon for their
@@ -327,17 +373,20 @@ decisions:
   dates:
   - date: '1995-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Brad Smith for his twelve years of service
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '1995-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Brad Smith for his twelve years of service
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '1995-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 wishes to warmly and enthusiastically thank Brad Smith for his twelve
         years of service to SC 4 and for his personal contribution to our
         continuing success.

@@ -1,7 +1,9 @@
 ---
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Lillehammer, Norway,
-    February 27, 2005 -- March 4, 2005
+  title:
+  - spelling: eng
+    value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Lillehammer, Norway,
+      February 27, 2005 -- March 4, 2005
   date: '2005-02-27'
   source: ISO/TC 184/SC 4 Secretariat
   city: NOLLM
@@ -15,25 +17,30 @@ decisions:
   dates:
   - date: '2005-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Reappoint David Loffredo as WG 11 Convenor
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appreciates
-      date_effective:
-        date: '2005-03-15'
-        type: effective
-      message: 'SC 4 appreciates and accepts the offer of David Loffredo to serve
-        as Convenor of WG 11.
+  title:
+  - spelling: eng
+    value: Reappoint David Loffredo as WG 11 Convenor
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appreciates
+    date_effective:
+      date: '2005-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 appreciates and accepts the offer of David Loffredo to serve as
+        Convenor of WG 11.
 
         '
-    - type: approves
-      date_effective:
-        date: '2005-03-15'
-        type: effective
-      message: 'SC 4 approves the nomination of David Loffredo to serve for an additional
+  - type: approves
+    date_effective:
+      date: '2005-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 approves the nomination of David Loffredo to serve for an additional
         three year term.
 
         '
@@ -45,27 +52,32 @@ decisions:
   dates:
   - date: '2005-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Request liaison with ISO/TC 37/SC 1 and appoint officers
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2005-03-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Request liaison with ISO/TC 37/SC 1 and appoint officers
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2005-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests an active two-way liaison with ISO/TC 37/SC 1 and requests the SC 4
         Secretary to confirm this liaison with the ISO Central Secretariat. SC 4 appoints
         Gerald Radack and Eric Sardet as the liaison officers from SC 4 to ISO/TC 37/SC 1,
         and requests them to provide feedback to WG 2, WG 3 and relevant teams on the
         specific activities of ISO/TC 37/SC 1 that are of relevance to SC 4 work.
-    - type: requests
-      date_effective:
-        date: '2005-03-15'
-        type: effective
-      message: |
+  - type: requests
+    date_effective:
+      date: '2005-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests its secretariat to provide appropriate accreditation to alternate liaison
         officers when nominated by the appointed officers.
 - identifier:
@@ -76,17 +88,20 @@ decisions:
   dates:
   - date: '2005-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appoint Gerald Radack as liaison to ISO/IEC JTC 1/SC 32
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appoints
-      date_effective:
-        date: '2005-03-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Appoint Gerald Radack as liaison to ISO/IEC JTC 1/SC 32
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '2005-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 appoints Gerald Radack as the liaison officer from SC 4 to ISO/IEC JTC 1/SC 32,
         and related activities and invites ISO/IEC JTC 1/SC 32 to notify SC 4 of its
         reciprocal liaison officer.
@@ -98,17 +113,20 @@ decisions:
   dates:
   - date: '2005-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Approve PWI for Process Monitoring Data
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: approves
-      date_effective:
-        date: '2005-03-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Approve PWI for Process Monitoring Data
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: approves
+    date_effective:
+      date: '2005-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 approves the PWI set out in SC 4 N1865, with a view to creating a common
         resource for SC 4.
 - identifier:
@@ -119,17 +137,20 @@ decisions:
   dates:
   - date: '2005-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Request WG 11 review of OWL technology deployment
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2005-03-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Request WG 11 review of OWL technology deployment
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2005-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests WG 11 to conduct a review of the deployment of OWL technology in SC 4,
         with contributions from the other WGs, and make recommendations for its consistent use.
 - identifier:
@@ -140,52 +161,63 @@ decisions:
   dates:
   - date: '2005-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Request PPC justify free web availability of selected SC 4 standards
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: noting
-      date_effective:
-        date: '2005-03-15'
-        type: effective
-      message: |
-        Based on recent investigations within US and UK standards organizations, SC 4 notes
-        that very little revenue is being generated from the sale of SC 4 standards despite
-        very significant potential for industrial benefit from their use.
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2005-03-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Request PPC justify free web availability of selected SC 4 standards
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2005-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 believes that the free of charge availability of selected SC 4 standards will further
         promote the adoption of those standards and increase their visibility in a highly
         competitive marketplace particularly for small and medium enterprises.
-    - type: resolves
-      date_effective:
-        date: '2005-03-15'
-        type: effective
-      message: |
+  - type: resolves
+    date_effective:
+      date: '2005-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 would like to follow the path of ISO/IEC JTC 1/SC 32 in which certain of their
         standards, including ISO 11179, are freely available on the Web, and revenue is
         generated through tutorials and implementer sessions.
-    - type: requests
-      date_effective:
-        date: '2005-03-15'
-        type: effective
-      message: |
+  - type: requests
+    date_effective:
+      date: '2005-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests the PPC to examine new business models for generating alternative
         sources of revenue based on SC 4 standards.
-    - type: requests
-      date_effective:
-        date: '2005-03-15'
-        type: effective
-      message: |
+  - type: requests
+    date_effective:
+      date: '2005-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests the PPC to prepare a justification to the ISO Council for approving that
         ISO 10303 Application Protocol 203 and its normative references within ISO 10303
         should be made freely available on the Web.
+  considerations:
+  - type: noting
+    date_effective:
+      date: '2005-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
+        Based on recent investigations within US and UK standards organizations, SC 4 notes
+        that very little revenue is being generated from the sale of SC 4 standards despite
+        very significant potential for industrial benefit from their use.
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '639'
@@ -194,17 +226,20 @@ decisions:
   dates:
   - date: '2005-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Create ad hoc group for SC 4 Maintenance Agency procedures
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: creates
-      date_effective:
-        date: '2005-03-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Create ad hoc group for SC 4 Maintenance Agency procedures
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: creates
+    date_effective:
+      date: '2005-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 creates an ad hoc group with the task of developing a unified approach to
         specify the procedures for a Maintenance Agency administered by the SC 4
         secretariat to support reference data databases for SC 4 standards available on the web.
@@ -225,25 +260,30 @@ decisions:
   dates:
   - date: '2005-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Seek nominations for Product Data Quality Strategy Task Force
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2005-03-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Seek nominations for Product Data Quality Strategy Task Force
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2005-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 has identified the need to create a Task Force to develop a Strategy for the
         PDQ Requirements of SC 4 concerns. The title of the Task Force will be: Product
         Data Quality (PDQ) Strategy for Industrial Data.
-    - type: asks
-      date_effective:
-        date: '2005-03-15'
-        type: effective
-      message: |
+  - type: asks
+    date_effective:
+      date: '2005-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 asks its Secretariat to seek nominations from member bodies, relevant liaisons
         such as SASIG and WG 2, WG 3, JWG 8 in order to create this Task Force at the
         next meeting (Valencia 2005).
@@ -255,17 +295,20 @@ decisions:
   dates:
   - date: '2005-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Request wording in standards regarding translated versions
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2005-03-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Request wording in standards regarding translated versions
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2005-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests the NSBs to review their policies for translating standards which might
         be a basis for software applications, in order to avoid creating incompatibilities
         between implementations.
@@ -279,11 +322,13 @@ decisions:
         official languages of ISO may cause incompatibility in machine-machine
         communication. In order to avoid such incompatibilities, the agreed
         international standard is the governing version."
-    - type: requests
-      date_effective:
-        date: '2005-03-15'
-        type: effective
-      message: |
+  - type: requests
+    date_effective:
+      date: '2005-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests its Quality Committee to insert this language into the Supplementary
         Directives for incorporation in all future publications.
 - identifier:
@@ -294,17 +339,20 @@ decisions:
   dates:
   - date: '2005-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank SC 4 liaisons and plenary presenters
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2005-03-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank SC 4 liaisons and plenary presenters
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2005-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         Appreciation to our SC 4 Liaisons. We appreciate your representation to and
         for ISO/TC 184/SC 4.
 
@@ -323,17 +371,20 @@ decisions:
   dates:
   - date: '2005-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Knut Lindelien and staff for meeting organization
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2005-03-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Knut Lindelien and staff for meeting organization
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2005-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its particular thanks to Mr. Knut Lindelien and his staff, Rune
         Bergwitz, Berit Holthe, Audun Lona and Bjørnhild Sæterøy for their superior
         administrative support, outstanding hospitality, and patience both before and during

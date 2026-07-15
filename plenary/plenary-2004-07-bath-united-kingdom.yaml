@@ -1,7 +1,9 @@
 ---
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Bath, United Kingdom,
-    July 4, 2004 -- July 9, 2004
+  title:
+  - spelling: eng
+    value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Bath, United Kingdom,
+      July 4, 2004 -- July 9, 2004
   date: '2004-07-04'
   source: ISO/TC 184/SC 4 Secretariat
   city: GBBTH
@@ -15,17 +17,20 @@ decisions:
   dates:
   - date: '2004-07-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Approve project leaders and editors for SC 4 projects
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: approves
-      date_effective:
-        date: '2004-07-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Approve project leaders and editors for SC 4 projects
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: approves
+    date_effective:
+      date: '2004-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 approves the following new project leaders or project editors for the associated SC 4 projects:
 
         |===
@@ -41,25 +46,30 @@ decisions:
   dates:
   - date: '2004-07-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Reappoint Jochen Haenisch as Deputy Convener of WG 12
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appreciates
-      date_effective:
-        date: '2004-07-15'
-        type: effective
-      message: 'SC 4 appreciates and accepts the offer of Jochen Haenisch to serve
-        as Deputy Convener of WG 12.
+  title:
+  - spelling: eng
+    value: Reappoint Jochen Haenisch as Deputy Convener of WG 12
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appreciates
+    date_effective:
+      date: '2004-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 appreciates and accepts the offer of Jochen Haenisch to serve as
+        Deputy Convener of WG 12.
 
         '
-    - type: approves
-      date_effective:
-        date: '2004-07-15'
-        type: effective
-      message: 'SC 4 approves the nomination of Mr. Haenisch to serve for an additional
+  - type: approves
+    date_effective:
+      date: '2004-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 approves the nomination of Mr. Haenisch to serve for an additional
         three year term.
 
         '
@@ -71,17 +81,20 @@ decisions:
   dates:
   - date: '2004-07-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appoint Torbjorn Holm as SC 4 PPC Convenor
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appoints
-      date_effective:
-        date: '2004-07-15'
-        type: effective
-      message: 'SC 4 appoints Mr. Torbjorn Holm as ISO/TC 184/SC 4 PPC Convenor, in
+  title:
+  - spelling: eng
+    value: Appoint Torbjorn Holm as SC 4 PPC Convenor
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '2004-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 appoints Mr. Torbjorn Holm as ISO/TC 184/SC 4 PPC Convenor, in
         succession to Mr. Alain Bezos, with immediate effect.
 
         '
@@ -93,28 +106,33 @@ decisions:
   dates:
   - date: '2004-07-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Nominate SC 4 delegates to ISO/IEC JWG 1
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: nominates
-      date_effective:
-        date: '2004-07-15'
-        type: effective
-      message: 'SC 4 nominates Hiroshi Murayama, Dr. Wolfgang Wilkes, Professor Guy
+  title:
+  - spelling: eng
+    value: Nominate SC 4 delegates to ISO/IEC JWG 1
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: nominates
+    date_effective:
+      date: '2004-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 nominates Hiroshi Murayama, Dr. Wolfgang Wilkes, Professor Guy
         Pierra, Dr Gerry Radack, Dr Tim King, Dr Norman Swindells, Dr Nils Sandsmark
         and Mr. Ping Wang as delegates to the first meeting of ISO/IEC JWG 1 on 8
         September 2004 in Berlin, and requests its Secretariat to notify DIN of the
         participation.
 
         '
-    - type: requests
-      date_effective:
-        date: '2004-07-15'
-        type: effective
-      message: 'SC 4 requests its P-members to ensure that their delegations to the
+  - type: requests
+    date_effective:
+      date: '2004-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests its P-members to ensure that their delegations to the
         meeting are fully briefed on the SC 4 priorities.
 
         '
@@ -126,18 +144,21 @@ decisions:
   dates:
   - date: '2004-07-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Request ISO/TMB to co-locate JWG 1 meetings with SC 4/WG 2 and IEC SC 3
+  title:
+  - spelling: eng
+    value: Request ISO/TMB to co-locate JWG 1 meetings with SC 4/WG 2 and IEC SC 3
       D
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2004-07-15'
-        type: effective
-      message: |
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2004-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         ISO/TC 184/SC 4 respectfully request ISO/TMB to encourage the venue of future ISO/IEC JWG 1 (Product properties and families) meetings to be planned in conjunction with ISO/TC 184/SC 4/WG 2 and IEC SC 3 D meetings.
 
         The major expected benefit from such a request is to enhance technical participation in ISO/IEC JWG 1 work.
@@ -149,25 +170,30 @@ decisions:
   dates:
   - date: '2004-07-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Reappoint Wolfgang Wilkes as Convener of WG 2
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appreciates
-      date_effective:
-        date: '2004-07-15'
-        type: effective
-      message: 'SC 4 appreciates and accepts the offer of Dr. Wilkes to serve as Convener
+  title:
+  - spelling: eng
+    value: Reappoint Wolfgang Wilkes as Convener of WG 2
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appreciates
+    date_effective:
+      date: '2004-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 appreciates and accepts the offer of Dr. Wilkes to serve as Convener
         of WG 2.
 
         '
-    - type: approves
-      date_effective:
-        date: '2004-07-15'
-        type: effective
-      message: 'SC 4 approves the nomination of Dr. Wilkes to serve for an additional
+  - type: approves
+    date_effective:
+      date: '2004-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 approves the nomination of Dr. Wilkes to serve for an additional
         three year term.
 
         '
@@ -179,20 +205,23 @@ decisions:
   dates:
   - date: '2004-07-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Establish Category A liaison with UNSPSC and appoint John McInerney
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: agrees
-      date_effective:
-        date: '2004-07-15'
-        type: effective
-      message: 'ISO/TC 184/SC 4 welcomes the approach from UNSPSC (United Nations
-        Standard Products and Services Codes), and agrees to establish a Category
-        A liaison with UNSPSC, and nominates John McInerney as liaison officer. Further,
-        SC 4 directs its Secretary to confirm this liaison with the ISO CS.
+  title:
+  - spelling: eng
+    value: Establish Category A liaison with UNSPSC and appoint John McInerney
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: agrees
+    date_effective:
+      date: '2004-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'ISO/TC 184/SC 4 welcomes the approach from UNSPSC (United Nations Standard
+        Products and Services Codes), and agrees to establish a Category A liaison
+        with UNSPSC, and nominates John McInerney as liaison officer. Further, SC
+        4 directs its Secretary to confirm this liaison with the ISO CS.
 
         '
 - identifier:
@@ -203,20 +232,23 @@ decisions:
   dates:
   - date: '2004-07-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Form Category A liaison with USPI-NL and appoint Paul van Exel
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: accepts
-      date_effective:
-        date: '2004-07-15'
-        type: effective
-      message: 'SC 4 accepts the request from the Uitgebreid Samenwerkingsverband
-        Proces Industrie Nederland (USPI-NL) to form a two-way Category A liaison,
-        requests the Secretariat to confirm their eligibility with ISO CS, and appoints
-        Paul van Exel as liaison officer from SC 4 to USPI-NL.
+  title:
+  - spelling: eng
+    value: Form Category A liaison with USPI-NL and appoint Paul van Exel
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: accepts
+    date_effective:
+      date: '2004-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 accepts the request from the Uitgebreid Samenwerkingsverband Proces
+        Industrie Nederland (USPI-NL) to form a two-way Category A liaison, requests
+        the Secretariat to confirm their eligibility with ISO CS, and appoints Paul
+        van Exel as liaison officer from SC 4 to USPI-NL.
 
         '
 - identifier:
@@ -227,18 +259,21 @@ decisions:
   dates:
   - date: '2004-07-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Form Category A liaison with POSC Caesar Association and appoint Nils Sandsmark
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: accepts
-      date_effective:
-        date: '2004-07-15'
-        type: effective
-      message: 'SC 4 accepts the request from the POSC Caesar Association to form
-        a two-way Category A liaison, requests the Secretariat to confirm their eligibility
+  title:
+  - spelling: eng
+    value: Form Category A liaison with POSC Caesar Association and appoint Nils Sandsmark
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: accepts
+    date_effective:
+      date: '2004-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 accepts the request from the POSC Caesar Association to form a
+        two-way Category A liaison, requests the Secretariat to confirm their eligibility
         with ISO CS, and appoints Nils Sandsmark as liaison officer from SC 4 to POSC
         Caesar Association.
 
@@ -251,17 +286,20 @@ decisions:
   dates:
   - date: '2004-07-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Require future SC 4 meeting hosts to provide budget plans
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2004-07-15'
-        type: effective
-      message: 'As part of the ongoing programme of action to reduce meeting costs,
+  title:
+  - spelling: eng
+    value: Require future SC 4 meeting hosts to provide budget plans
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2004-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'As part of the ongoing programme of action to reduce meeting costs,
         all hosts of future SC 4 meetings are required to provide a budget plan for
         the meeting to the secretariat of SC 4 as part of their request for the approval
         of hosting the particular meeting. The budget plan shall include estimates
@@ -278,17 +316,20 @@ decisions:
   dates:
   - date: '2004-07-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Initiate liaison to ISO/TC 37
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2004-07-15'
-        type: effective
-      message: 'SC 4 requests its secretariat to initiate a liaison to ISO/TC 37 with
+  title:
+  - spelling: eng
+    value: Initiate liaison to ISO/TC 37
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2004-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests its secretariat to initiate a liaison to ISO/TC 37 with
         a statement describing the ongoing work within SC 4/WG 2.
 
         '
@@ -300,27 +341,32 @@ decisions:
   dates:
   - date: '2004-07-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Narrow scope of ISO 13584-501 and coordinate on industrial process control
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2004-07-15'
-        type: effective
-      message: 'SC 4 requests WG 2 to narrow the scope of ISO 13584-501 to deal only
+  title:
+  - spelling: eng
+    value: Narrow scope of ISO 13584-501 and coordinate on industrial process control
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2004-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests WG 2 to narrow the scope of ISO 13584-501 to deal only
         with environment measuring instruments and laboratory measuring instruments.
 
         '
-    - type: requests
-      date_effective:
-        date: '2004-07-15'
-        type: effective
-      message: 'SC 4 kindly requests that its Chair and secretariat establish the
-        appropriate contacts in order to create a joint activity to develop a consistent
-        dictionary for industrial process control measuring instruments.
+  - type: requests
+    date_effective:
+      date: '2004-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 kindly requests that its Chair and secretariat establish the appropriate
+        contacts in order to create a joint activity to develop a consistent dictionary
+        for industrial process control measuring instruments.
 
         '
 - identifier:
@@ -331,18 +377,21 @@ decisions:
   dates:
   - date: '2004-07-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank the host organizations and staff for the Bath meeting
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2004-07-15'
-        type: effective
-      message: 'SC 4 expresses its deep appreciation to EMSA, its Members and the
-        support staff for their outstanding efforts in organizing this meeting, arranging
+  title:
+  - spelling: eng
+    value: Thank the host organizations and staff for the Bath meeting
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2004-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 expresses its deep appreciation to EMSA, its Members and the support
+        staff for their outstanding efforts in organizing this meeting, arranging
         the facilities, excellent food, and excellent social events. SC 4 also expresses
         its appreciation to the University of Bath for their hospitality and support
         during the SC 4 meetings.
@@ -356,17 +405,20 @@ decisions:
   dates:
   - date: '2004-07-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank SC 4 liaisons and presenters
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2004-07-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank SC 4 liaisons and presenters
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2004-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         Appreciation to our SC 4 Liaisons. We appreciate your representation to and for ISO/TC 184/SC 4. A special thank you to the SC 4 Liaison Plenary presenters for their insightful and comprehensive presentations:
 
         |===
@@ -391,17 +443,20 @@ decisions:
   dates:
   - date: '2004-07-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank administrative staff and technical support
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2004-07-15'
-        type: effective
-      message: 'SC 4 expresses its particular thanks to Mr. Tony Fry, Mr. John Kendall,
+  title:
+  - spelling: eng
+    value: Thank administrative staff and technical support
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2004-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 expresses its particular thanks to Mr. Tony Fry, Mr. John Kendall,
         Mrs. Louise Fry, Ms Marie Nesbitt and Mr. Mike Barter for their superior administrative
         support, outstanding hospitality, and patience both before and during the
         ISO/TC 184/SC 4 meeting. Additionally, we would like to thank Bernard Smalley

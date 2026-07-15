@@ -1,7 +1,9 @@
 ---
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Toronto, Canada, October
-    6, 1996 -- October 16, 1996
+  title:
+  - spelling: eng
+    value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Toronto, Canada,
+      October 6, 1996 -- October 16, 1996
   date: '1996-10-06'
   source: ISO/TC 184/SC 4 Secretariat
   city: CATOR
@@ -15,17 +17,20 @@ decisions:
   dates:
   - date: '1996-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Endorse Petrotechnical Open Software Corporation as an A-liaison
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: endorses
-      date_effective:
-        date: '1996-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Endorse Petrotechnical Open Software Corporation as an A-liaison
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: endorses
+    date_effective:
+      date: '1996-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 endorses the Petrotechnical Open Software Corporation (POSC) as an A-liaison
         to ISO/TC 184/SC 4.
 - identifier:
@@ -36,25 +41,30 @@ decisions:
   dates:
   - date: '1996-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Authorize temporary action for Quality Committee and amend Handbook
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: resolves
-      date_effective:
-        date: '1996-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Authorize temporary action for Quality Committee and amend Handbook
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: resolves
+    date_effective:
+      date: '1996-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 authorises a temporary action to allow operation of the Quality Committee as
         outlined in ISO/TC 184/ SC 4 N483 (Rev 1) until the new pages are adopted by letter
         ballot.
-    - type: approves
-      date_effective:
-        date: '1996-10-15'
-        type: effective
-      message: |
+  - type: approves
+    date_effective:
+      date: '1996-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 approves replacing the following text in the SC 4 Organization Handbook,
         Clause 5.7.3.2:
 
@@ -77,17 +87,20 @@ decisions:
   dates:
   - date: '1996-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Approve Handbook insertion and publish standing documents
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: approves
-      date_effective:
-        date: '1996-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Approve Handbook insertion and publish standing documents
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: approves
+    date_effective:
+      date: '1996-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 approves inserting the following into the SC 4 Organization Handbook for
         Clause 5.9:
 
@@ -100,11 +113,13 @@ decisions:
         copy of these procedures can be found in Appendix A.
 
         5.9.2 Standing Documents
-    - type: resolves
-      date_effective:
-        date: '1996-10-15'
-        type: effective
-      message: |
+  - type: resolves
+    date_effective:
+      date: '1996-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 methods documents from SC 4 working groups and committees will be
         published as SC 4 standing documents which will provide methods and procedures
         for SC 4 to carry out its standards development more effectively within SC 4.
@@ -134,26 +149,31 @@ decisions:
   dates:
   - date: '1996-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Merge Parametrics project activities into ISO 14959 under WG 12
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: notes
-      date_effective:
-        date: '1996-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Merge Parametrics project activities into ISO 14959 under WG 12
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: notes
+    date_effective:
+      date: '1996-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 notes that work under the Parametrics project (allocated the ISO number
         14959) has identified areas which may require modifications to existing IRs, the
         preparation of a new IR or IRs, and the development of a document or documents
         under ISO 14959 covering the emerging area of General Case Parametrics.
-    - type: resolves
-      date_effective:
-        date: '1996-10-15'
-        type: effective
-      message: |
+  - type: resolves
+    date_effective:
+      date: '1996-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 resolves that these activities will for the present be combined within the project
         14959 which will be allocated to WG 12 with Mike Pratt as project leader. These
         arrangements will be subject to ongoing review as the structure of project deliverables
@@ -166,17 +186,20 @@ decisions:
   dates:
   - date: '1996-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Roberto Greening for his work as leader of the Parametrics project
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '1996-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Roberto Greening for his work as leader of the Parametrics project
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '1996-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 thanks Roberto Greening for his work as leader of the Parametrics project
         during the formative period.
 - identifier:
@@ -187,17 +210,20 @@ decisions:
   dates:
   - date: '1996-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Cancel projects 10303-211 and 10303-311 due to lack of activity
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: agrees
-      date_effective:
-        date: '1996-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Cancel projects 10303-211 and 10303-311 due to lack of activity
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: agrees
+    date_effective:
+      date: '1996-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 agrees to cancel project # 50, 10303-211, "Application protocol: Electronics test
         diagnostics and remanufacture" and project #78, 10303-311, "Abstract test suite:
         Electronics test diagnostics and remanufacture" due to current lack of activity.
@@ -209,17 +235,20 @@ decisions:
   dates:
   - date: '1996-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Authorize preparatory work on Systems Engineering Data Representation
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: resolves
-      date_effective:
-        date: '1996-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Authorize preparatory work on Systems Engineering Data Representation
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: resolves
+    date_effective:
+      date: '1996-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 authorizes preliminary (stage 0) work on Systems Engineering Data
         Representation and appoints Sylvain BARBEAU as project leader.
 - identifier:
@@ -230,17 +259,20 @@ decisions:
   dates:
   - date: '1996-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Recommend amending SC 4 organization handbook regarding Conveners
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: recommends
-      date_effective:
-        date: '1996-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Recommend amending SC 4 organization handbook regarding Conveners
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: recommends
+    date_effective:
+      date: '1996-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 recommends that the SC 4 organization handbook be amended as follows: "SC
         4 Conveners and deputy conveners shall be nominated by the SC 4 P-members and
         shall serve for a maximum period of three years or for such shorter period as may be
@@ -254,17 +286,20 @@ decisions:
   dates:
   - date: '1996-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Accept revised schedules for SC 4 projects
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: accepts
-      date_effective:
-        date: '1996-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Accept revised schedules for SC 4 projects
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: accepts
+    date_effective:
+      date: '1996-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 accepts the revised schedules and justification, and reconfirms the continued
         standardization efforts for the following SC 4 projects:
         10303-1DAM, 10303-34, 10303-106, 10303-215, 10303-216, 10303-217, 10303-218,
@@ -278,18 +313,20 @@ decisions:
   dates:
   - date: '1996-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Approve Phil Kennicott as convener of WG 12
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: approves
-      date_effective:
-        date: '1996-10-15'
-        type: effective
-      message: 'SC 4 approves Phil Kennicott as the convener of WG 12, SC 4 Common
-        Resources.
+  title:
+  - spelling: eng
+    value: Approve Phil Kennicott as convener of WG 12
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: approves
+    date_effective:
+      date: '1996-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 approves Phil Kennicott as the convener of WG 12, SC 4 Common Resources.
 
         '
 - identifier:
@@ -300,17 +337,20 @@ decisions:
   dates:
   - date: '1996-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Authorize preparatory work on Java programming language binding
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: resolves
-      date_effective:
-        date: '1996-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Authorize preparatory work on Java programming language binding
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: resolves
+    date_effective:
+      date: '1996-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 authorizes preparatory (stage 0) work on Java programming language binding to
         the Standard Data Access Interface specification and appoints Tom Rando as project
         leader.
@@ -322,17 +362,20 @@ decisions:
   dates:
   - date: '1996-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Cancel Project
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: agrees
-      date_effective:
-        date: '1996-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Cancel Project
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: agrees
+    date_effective:
+      date: '1996-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 agrees to cancel Project #113, ISO 10303-13 "Architecture and methodology
         reference manual", and to redirect this work towards an SC 4 Standing Document and
         to the Part 1 amendment project.
@@ -344,17 +387,20 @@ decisions:
   dates:
   - date: '1996-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Authorize preparatory work on extension of ISO 10303-21 capabilities
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: resolves
-      date_effective:
-        date: '1996-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Authorize preparatory work on extension of ISO 10303-21 capabilities
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: resolves
+    date_effective:
+      date: '1996-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 authorizes preliminary (stage 0) work on the extension of capabilities of ISO
         10303- 21 and appoints Neal Laurence and David Price as joint project leaders, and
         requests a statement of scope of requirement be circulated to P-members.
@@ -366,17 +412,20 @@ decisions:
   dates:
   - date: '1996-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Require AP documents to optionally include informative ARM annex
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '1996-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Require AP documents to optionally include informative ARM annex
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '1996-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requires that an AP document may have an informative annex containing a fully
         attributed EXPRESS specification of the ARM.
 
@@ -390,17 +439,20 @@ decisions:
   dates:
   - date: '1996-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Recognize cooperation between WG 2 and WG 10 on interoperability
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: recognises
-      date_effective:
-        date: '1996-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Recognize cooperation between WG 2 and WG 10 on interoperability
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: recognises
+    date_effective:
+      date: '1996-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 recognises this first successful step between WG 2 and WG 10 on a solution for
         the problem of interoperability between STEP (ISO 10303) and P-LIB (ISO 13584)
         within ISO/TC 184/SC 4 and encourages WG 2 and WG 10 to complete this work.
@@ -414,18 +466,21 @@ decisions:
   dates:
   - date: '1996-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Authorize preliminary project on Design and Configuration of Manufacturing
+  title:
+  - spelling: eng
+    value: Authorize preliminary project on Design and Configuration of Manufacturing
       Systems
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: resolves
-      date_effective:
-        date: '1996-10-15'
-        type: effective
-      message: |
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: resolves
+    date_effective:
+      date: '1996-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 authorizes a preliminary stage 0 project on "Design and Configuration of
         Manufacturing Systems" and appoints Torsten Kjellberg as project leader.
 - identifier:
@@ -436,17 +491,20 @@ decisions:
   dates:
   - date: '1996-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Canadian hosts and US meeting sponsors
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '1996-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Canadian hosts and US meeting sponsors
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '1996-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 thanks its Canadian hosts and US meeting sponsors: The Standards Council of
         Canada, National Research Council of Canada, and US PRO. Particular thanks go to
         Melanie Varn, Erinbeth Massie, Kristi Adams, and Chuck Stark.
@@ -458,30 +516,35 @@ decisions:
   dates:
   - date: '1996-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Process technical SEDS reports and incorporate into ISO 10303
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: noting
-      date_effective:
-        date: '1996-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Process technical SEDS reports and incorporate into ISO 10303
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '1996-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
+        SC 4 requests the SC 4 Secretariat ensure these reports are made publicly available
+        on SOLIS (SC 4 ON-Line Information Service), and incorporated into technical
+        corrigenda, amendments, or new editions when appropriate.
+  considerations:
+  - type: noting
+    date_effective:
+      date: '1996-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         Noting the following technical SEDS reports as found in SC 4 N 458, for
         incorporating into the affected part of ISO 10303:
 
         * 10303-203: Reports 24, 25, and 27
-    actions:
-    - type: requests
-      date_effective:
-        date: '1996-10-15'
-        type: effective
-      message: |
-        SC 4 requests the SC 4 Secretariat ensure these reports are made publicly available
-        on SOLIS (SC 4 ON-Line Information Service), and incorporated into technical
-        corrigenda, amendments, or new editions when appropriate.
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '309'
@@ -490,17 +553,20 @@ decisions:
   dates:
   - date: '1996-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: STEP ATSs shall not place additional requirements on AP implementors
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: resolves
-      date_effective:
-        date: '1996-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: STEP ATSs shall not place additional requirements on AP implementors
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: resolves
+    date_effective:
+      date: '1996-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         STEP abstract test suites (ATSs) shall not place additional requirements on the
         implementors of application protocol (AP) parts. AP parts may however make
         normative references to an ATS and other conformance testing-related parts for
@@ -514,23 +580,28 @@ decisions:
   dates:
   - date: '1996-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Approve replacing SC 4 Organization Handbook clauses 6.2 and 6.3
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: approves
-      date_effective:
-        date: '1996-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Approve replacing SC 4 Organization Handbook clauses 6.2 and 6.3
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: approves
+    date_effective:
+      date: '1996-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 approves replacing clauses 6.2 and 6.3 of the SC 4 Organization Handbook with
         the text found in ISO/TC 184/SC 4 N516.
-    - type: resolves
-      date_effective:
-        date: '1996-10-15'
-        type: effective
-      message: |
+  - type: resolves
+    date_effective:
+      date: '1996-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 further authorizes editorial changes to other clauses of the handbook to maintain
         consistency with this new text. This resolution supersedes SC 4 Resolutions #80 and #292.

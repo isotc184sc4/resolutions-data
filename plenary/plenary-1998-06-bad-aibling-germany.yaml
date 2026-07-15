@@ -1,7 +1,9 @@
 ---
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Bad Aibling, Germany,
-    June 7, 1998 -- June 17, 1998
+  title:
+  - spelling: eng
+    value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Bad Aibling, Germany,
+      June 7, 1998 -- June 17, 1998
   date: '1998-06-07'
   source: ISO/TC 184/SC 4 Secretariat
   city: DEBAI
@@ -15,17 +17,20 @@ decisions:
   dates:
   - date: '1998-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Approve new project leaders and project editors
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: approves
-      date_effective:
-        date: '1998-06-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Approve new project leaders and project editors
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: approves
+    date_effective:
+      date: '1998-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 approves the following new project leaders or project editors for the associated SC 4 projects:
         |===
         | ISO Project # | Project Lead | Document Editor
@@ -58,53 +63,64 @@ decisions:
   dates:
   - date: '1998-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Instruct project leaders to develop proposals and establish a registration
+  title:
+  - spelling: eng
+    value: Instruct project leaders to develop proposals and establish a registration
       authority
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: instructs
-      date_effective:
-        date: '1998-06-15'
-        type: effective
-      message: 'SC 4 instructs the ISO 10303-221 project leader and the ISO 15926
-        PWI team leader to develop the technical and business proposal for approval
-        by SC 4 before submission for approval by ISO
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: instructs
+    date_effective:
+      date: '1998-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 instructs the ISO 10303-221 project leader and the ISO 15926 PWI
+        team leader to develop the technical and business proposal for approval by
+        SC 4 before submission for approval by ISO
 
         '
-    - type: instructs
-      date_effective:
-        date: '1998-06-15'
-        type: effective
-      message: 'SC 4 instructs its secretary to notify the ISO/CEO, in accordance
-        with the ISO Directives, that the establishment of a registration authority
-        for class libraries will be necessary to support the use of ISO 10303-221
-        and ISO 15926
+  - type: instructs
+    date_effective:
+      date: '1998-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 instructs its secretary to notify the ISO/CEO, in accordance with
+        the ISO Directives, that the establishment of a registration authority for
+        class libraries will be necessary to support the use of ISO 10303-221 and
+        ISO 15926
 
         '
-    - type: asks
-      date_effective:
-        date: '1998-06-15'
-        type: effective
-      message: 'SC 4 asks the project leaders of ISO 10303-221 and the PWI Team for
+  - type: asks
+    date_effective:
+      date: '1998-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 asks the project leaders of ISO 10303-221 and the PWI Team for
         ISO 15926 to work with the ISO CEO to create a suitable registration authority
 
         '
-    - type: instructs
-      date_effective:
-        date: '1998-06-15'
-        type: effective
-      message: |
+  - type: instructs
+    date_effective:
+      date: '1998-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 instructs the project teams to report on progress at its meeting in San Francisco
 
         and present the final technical and business proposal for approval by SC 4 before submission for approval by ISO
-    - type: asks
-      date_effective:
-        date: '1998-06-15'
-        type: effective
-      message: 'SC 4 asks that any other projects that may be interested in this activity
+  - type: asks
+    date_effective:
+      date: '1998-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 asks that any other projects that may be interested in this activity
         work with the two project leaders to incorporate their requirements in the
         proposal.
 
@@ -117,17 +133,20 @@ decisions:
   dates:
   - date: '1998-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Publish SC 4 organizational handbook in a Web-based format
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: resolves
-      date_effective:
-        date: '1998-06-15'
-        type: effective
-      message: 'ISO/TC 184/SC 4 instructs its secretariat and PPC to publish the SC
+  title:
+  - spelling: eng
+    value: Publish SC 4 organizational handbook in a Web-based format
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: resolves
+    date_effective:
+      date: '1998-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'ISO/TC 184/SC 4 instructs its secretariat and PPC to publish the SC
         4 organizational handbook in a Web-based format which does not duplicate the
         ISO directives, but provides hypertext links to the electronic version of
         the document.
@@ -141,25 +160,30 @@ decisions:
   dates:
   - date: '1998-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Sharon Kemmerer for her service as SC 4 Secretary
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '1998-06-15'
-        type: effective
-      message: 'SC 4 wishes to thank Ms. Sharon Kemmerer for her contributions as
-        SC 4 Secretary
+  title:
+  - spelling: eng
+    value: Thank Sharon Kemmerer for her service as SC 4 Secretary
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '1998-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 wishes to thank Ms. Sharon Kemmerer for her contributions as SC
+        4 Secretary
 
         '
-    - type: thanks
-      date_effective:
-        date: '1998-06-15'
-        type: effective
-      message: 'SC 4 presents a plaque of gratitude in honor of Sharon Kemmerer which
+  - type: thanks
+    date_effective:
+      date: '1998-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 presents a plaque of gratitude in honor of Sharon Kemmerer which
         shall read: June, 1998 ISO/TC 184/SC 4 Recognizes Ms. Sharon Kemmerer In Appreciation
         for Outstanding Performance and Contributions as SC 4 Secretary 1995-1997
 
@@ -172,17 +196,20 @@ decisions:
   dates:
   - date: '1998-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Add wording to SC 4 Handbook Section 2.3 on normative references
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: resolves
-      date_effective:
-        date: '1998-06-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Add wording to SC 4 Handbook Section 2.3 on normative references
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: resolves
+    date_effective:
+      date: '1998-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 resolves to add the following language to the SC 4 Handbook, Section 2.3 The Proposal Stage. The language shall be added as a new paragraph after paragraph 3. For any normative references, their status at the time the new work item is expected to be registered for circulation as a Draft International Standard shall be provided.  For normative references whose status is not at least Draft International Standard (4.00), Final Draft International Standard (5.00) or International Standard (6.00) at the time of
 
         the proposal, the expected date for registration as a Draft International Standard shall be provided. If the normative reference has not been circulated as a Committee Draft at the time of the proposal, the expected date for circulation of the Committee Draft shall be also be provided. The source of dates shall be the Project Master Schedule Data Base maintained by the Secretariat.
@@ -194,19 +221,22 @@ decisions:
   dates:
   - date: '1998-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Approve PWI proposal for history-based shape modeling
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: approves
-      date_effective:
-        date: '1998-06-15'
-        type: effective
-      message: 'SC 4 approves acceptance of the PWI proposal (SC 4 N715) entitled
-        `History-based shape modeling'', and directs the Secretariat to take appropriate
-        action to initiate the Work Item.
+  title:
+  - spelling: eng
+    value: Approve PWI proposal for history-based shape modeling
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: approves
+    date_effective:
+      date: '1998-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 approves acceptance of the PWI proposal (SC 4 N715) entitled `History-based
+        shape modeling'', and directs the Secretariat to take appropriate action to
+        initiate the Work Item.
 
         '
 - identifier:
@@ -217,17 +247,20 @@ decisions:
   dates:
   - date: '1998-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Approve Bruno Schilli as Deputy Convener of WG 3
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: approves
-      date_effective:
-        date: '1998-06-15'
-        type: effective
-      message: 'SC 4 approves Bruno Schilli as Deputy Convener of ISO/TC 184/SC 4/WG
+  title:
+  - spelling: eng
+    value: Approve Bruno Schilli as Deputy Convener of WG 3
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: approves
+    date_effective:
+      date: '1998-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 approves Bruno Schilli as Deputy Convener of ISO/TC 184/SC 4/WG
         3.
 
         '
@@ -239,17 +272,20 @@ decisions:
   dates:
   - date: '1998-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Define ISO 10303 Release 2.0 parts and schedule
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: resolves
-      date_effective:
-        date: '1998-06-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Define ISO 10303 Release 2.0 parts and schedule
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: resolves
+    date_effective:
+      date: '1998-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 resolves that ISO 10303 Release 2.0 comprises the following parts and instructs the project leaders to complete the work necessary to make them international standards by April, 2000.
         * Part 1E2 Overview and Fundamental Principles
         * Part 11* Description Methods: The EXPRESS Language Reference Manual
@@ -312,20 +348,24 @@ decisions:
         * Part 518 Application interpreted construct: Mechanical design shaded representation
         * Part 519 Application interpreted construct: Geometric tolerances
         * Part 520 Application interpreted construct: Associative draughting elements Also included are the technical report 10303-12 Description Methods: The EXPRESS- I language reference manual and the technical reports 10303-302 to -305, -307 to - 310, - 312 to -314, -321 to -325, and -327 which are the abstract test suites for the corresponding application protocols. An asterisk (*) denotes parts that are already international standards. The E2 notation after a part number denotes a second edition. Additional parts may be considered for Release 2, however, no additional part will be included if its inclusion will result in a schedule slippage. Moreover, if there is slippage in the adopted schedule of any part in the above list, then SC 4 may vote to defer that part to a future release
-    - type: requests
-      date_effective:
-        date: '1998-06-15'
-        type: effective
-      message: 'SC 4 requests project leaders to confirm that their projects can achieve
+  - type: requests
+    date_effective:
+      date: '1998-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests project leaders to confirm that their projects can achieve
         the proposed dates and instructs them to provide firm milestones to the secretariat
 
         '
-    - type: requests
-      date_effective:
-        date: '1998-06-15'
-        type: effective
-      message: 'SC 4 requests that the Secretariat report on any slippage of these
-        parts at each SC 4 meeting so that appropriate action can be taken.
+  - type: requests
+    date_effective:
+      date: '1998-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests that the Secretariat report on any slippage of these parts
+        at each SC 4 meeting so that appropriate action can be taken.
 
         '
 - identifier:
@@ -336,27 +376,32 @@ decisions:
   dates:
   - date: '1998-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Extend SEDS procedures to cover standing documents and technical reports
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: approves
-      date_effective:
-        date: '1998-06-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Extend SEDS procedures to cover standing documents and technical reports
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: approves
+    date_effective:
+      date: '1998-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 approves extending the scope of the SEDS procedures to cover:
 
         * SC 4 standing documents;
         * SC 4 technical reports
-    - type: requests
-      date_effective:
-        date: '1998-06-15'
-        type: effective
-      message: 'SC 4 requests its secretariat to incorporate this change into the
-        SC 4 handbook along with the new SEDS procedures as described in SC 4 N 714.
+  - type: requests
+    date_effective:
+      date: '1998-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests its secretariat to incorporate this change into the SC
+        4 handbook along with the new SEDS procedures as described in SC 4 N 714.
 
         '
 - identifier:
@@ -367,27 +412,31 @@ decisions:
   dates:
   - date: '1998-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Establish active two-way liaison with European Marine STEP Association
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '1998-06-15'
-        type: effective
-      message: 'SC 4 requests an active two-way liaison with European Marine STEP
-        Association, and requests the SC 4 Secretary confirm this liaison with ISO
-        Central Secretariat
+  title:
+  - spelling: eng
+    value: Establish active two-way liaison with European Marine STEP Association
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '1998-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests an active two-way liaison with European Marine STEP Association,
+        and requests the SC 4 Secretary confirm this liaison with ISO Central Secretariat
 
         '
-    - type: approves
-      date_effective:
-        date: '1998-06-15'
-        type: effective
-      message: 'SC 4 approves Mr. Tim Turner as the person to actively liaise with
-        EMSA on SC 4’s behalf.
+  - type: approves
+    date_effective:
+      date: '1998-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 approves Mr. Tim Turner as the person to actively liaise with EMSA
+        on SC 4’s behalf.
 
         '
 - identifier:
@@ -398,26 +447,31 @@ decisions:
   dates:
   - date: '1998-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Establish active two-way liaison with ISO/IEC JTC 1/WG 4
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '1998-06-15'
-        type: effective
-      message: 'SC 4 requests an active two-way liaison with ISO/IEC JTC 1/WG 4 (Document
+  title:
+  - spelling: eng
+    value: Establish active two-way liaison with ISO/IEC JTC 1/WG 4
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '1998-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests an active two-way liaison with ISO/IEC JTC 1/WG 4 (Document
         Description Languages), and requests the SC 4 Secretary confirm this liaison
         with the ISO Central Secretariat
 
         '
-    - type: approves
-      date_effective:
-        date: '1998-06-15'
-        type: effective
-      message: 'SC 4 approves Nigel Shaw as the person who actively liaises with ISO/IEC
+  - type: approves
+    date_effective:
+      date: '1998-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 approves Nigel Shaw as the person who actively liaises with ISO/IEC
         JTC 1/WG 4 on behalf of SC 4; and Elliot Kimber as the person who actively
         liaises with SC 4 on behalf of ISO/IEC JTC 1/WG 4.
 
@@ -430,17 +484,20 @@ decisions:
   dates:
   - date: '1998-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Forward Technical Corrigendum 2 for ISO 10303-203 to ISO for publication
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: resolves
-      date_effective:
-        date: '1998-06-15'
-        type: effective
-      message: 'SC 4 resolves to forward “Technical Corrigendum 2, Industrial automation
+  title:
+  - spelling: eng
+    value: Forward Technical Corrigendum 2 for ISO 10303-203 to ISO for publication
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: resolves
+    date_effective:
+      date: '1998-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 resolves to forward “Technical Corrigendum 2, Industrial automation
         systems and integration ‣ Product data representation and Exchange ‣ Part
         203: Application protocol: Configuration controlled 3D designs of mechanical
         parts and assemblies” to ISO for publication, including ISO/TC 184/SC 4 N
@@ -455,25 +512,30 @@ decisions:
   dates:
   - date: '1998-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Approve PWI on Process Plant Operations and Maintenance
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: approves
-      date_effective:
-        date: '1998-06-15'
-        type: effective
-      message: 'SC 4 approves the Preliminary Work Item on Process Plant Operations
+  title:
+  - spelling: eng
+    value: Approve PWI on Process Plant Operations and Maintenance
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: approves
+    date_effective:
+      date: '1998-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 approves the Preliminary Work Item on Process Plant Operations
         and Maintenance described in the proposal document (SC 4 N 733)
 
         '
-    - type: assigns
-      date_effective:
-        date: '1998-06-15'
-        type: effective
-      message: 'SC 4 assigns this Preliminary Work Item to WG 3, and appoints Dr Graham
+  - type: assigns
+    date_effective:
+      date: '1998-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 assigns this Preliminary Work Item to WG 3, and appoints Dr Graham
         Bird as Project Manager, Dr. Ming Liang Lu as Technical Leader and N. K. Nakada
         as Technical Co-Leader.
 
@@ -486,17 +548,20 @@ decisions:
   dates:
   - date: '1998-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Meinolf Groepper for his service and liaison work
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '1998-06-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Meinolf Groepper for his service and liaison work
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '1998-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 wishes to thank Mr. Groepper for his active work within the SC 4 community, for
 
         his service on the SC 4 Policy and Planning Committee, both as a member and as Rapporteur and for his work as joint active liaison between ISO/TC 184/SC 5 and SC 4.
@@ -508,25 +573,30 @@ decisions:
   dates:
   - date: '1998-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Note IEC Sector Board 3 work and encourage global strategy
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: notes
-      date_effective:
-        date: '1998-06-15'
-        type: effective
-      message: 'SC 4 notes the work of IEC Sector Board 3 and the encouragement given
+  title:
+  - spelling: eng
+    value: Note IEC Sector Board 3 work and encourage global strategy
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: notes
+    date_effective:
+      date: '1998-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 notes the work of IEC Sector Board 3 and the encouragement given
         by ISO/TC 184 (Paris Resolution 1) to the ISO/TC 184 Chairman
 
         '
-    - type: encourages
-      date_effective:
-        date: '1998-06-15'
-        type: effective
-      message: 'SC 4 encourages its Chairman and Secretary to continue their supporting
+  - type: encourages
+    date_effective:
+      date: '1998-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 encourages its Chairman and Secretary to continue their supporting
         efforts to establish a comprehensive, industry-driven global strategy for
         industrial automation standards.
 
@@ -539,17 +609,20 @@ decisions:
   dates:
   - date: '1998-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Approve PWI on Dimensional Inspection Information Exchange
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: approves
-      date_effective:
-        date: '1998-06-15'
-        type: effective
-      message: 'SC 4 approves the establishment of a Preliminary Work Item on Dimensional
+  title:
+  - spelling: eng
+    value: Approve PWI on Dimensional Inspection Information Exchange
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: approves
+    date_effective:
+      date: '1998-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 approves the establishment of a Preliminary Work Item on Dimensional
         Inspection Information Exchange (SC 4 N734).
 
         '
@@ -561,27 +634,31 @@ decisions:
   dates:
   - date: '1998-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Endorse extension of ISO/IEC UN/ECE MoU into electronic business
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: notes
-      date_effective:
-        date: '1998-06-15'
-        type: effective
-      message: 'SC 4 notes the progress to extend the ISO/IEC UN/ECE Memorandum of
-        Understanding into the domain of electronic business and the specific invitation
-        for the participation of the SC 4 Chairman as a member of the MoU Management
-        Group
+  title:
+  - spelling: eng
+    value: Endorse extension of ISO/IEC UN/ECE MoU into electronic business
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: notes
+    date_effective:
+      date: '1998-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 notes the progress to extend the ISO/IEC UN/ECE Memorandum of Understanding
+        into the domain of electronic business and the specific invitation for the
+        participation of the SC 4 Chairman as a member of the MoU Management Group
 
         '
-    - type: endorses
-      date_effective:
-        date: '1998-06-15'
-        type: effective
-      message: 'SC 4 endorses the Paris 21 and 22 resolutions of ISO/TC 184 and encourages
+  - type: endorses
+    date_effective:
+      date: '1998-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 endorses the Paris 21 and 22 resolutions of ISO/TC 184 and encourages
         the SC 4 Chairman to act as representative and point of contact.
 
         '
@@ -593,17 +670,20 @@ decisions:
   dates:
   - date: '1998-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Request Secretariat report on anticipated electronic operation of SC 4
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: notes
-      date_effective:
-        date: '1998-06-15'
-        type: effective
-      message: 'SC 4 notes the Paris 3 resolution of ISO/TC 184 and requests the SC
+  title:
+  - spelling: eng
+    value: Request Secretariat report on anticipated electronic operation of SC 4
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: notes
+    date_effective:
+      date: '1998-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 notes the Paris 3 resolution of ISO/TC 184 and requests the SC
         4 Secretariat to prepare a report for the Beijing meeting describing the anticipated
         electronic operation of SC 4 by September 1999. P-members, O-members, and
         Liaisons that will require special considerations or exemptions from electronic
@@ -619,17 +699,20 @@ decisions:
   dates:
   - date: '1998-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Approve MoU documented in SC 4 N 732
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: approves
-      date_effective:
-        date: '1998-06-15'
-        type: effective
-      message: 'SC 4 approves the MoU as documented in SC 4 N 732.
+  title:
+  - spelling: eng
+    value: Approve MoU documented in SC 4 N 732
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: approves
+    date_effective:
+      date: '1998-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 approves the MoU as documented in SC 4 N 732.
 
         '
 - identifier:
@@ -640,17 +723,20 @@ decisions:
   dates:
   - date: '1998-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Instruct Change Management Team to check New Work Item proposals
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: instructs
-      date_effective:
-        date: '1998-06-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Instruct Change Management Team to check New Work Item proposals
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: instructs
+    date_effective:
+      date: '1998-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 instructs its Change management team to check all Proposals for New Work Items against timescale and resources.
 
         The following questions for check have to be considered before a proposal goes out for ballot to P-members for vote:
@@ -674,35 +760,42 @@ decisions:
   dates:
   - date: '1998-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Approve PWI on STEP Modularization
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: approves
-      date_effective:
-        date: '1998-06-15'
-        type: effective
-      message: 'SC 4 approves the Preliminary Work Item on STEP Modularization as
-        described in document WG 10 N185 (SC 4 N 736) and appoints David Price as
-        Project Leader. This project is assigned to WG 10
+  title:
+  - spelling: eng
+    value: Approve PWI on STEP Modularization
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: approves
+    date_effective:
+      date: '1998-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 approves the Preliminary Work Item on STEP Modularization as described
+        in document WG 10 N185 (SC 4 N 736) and appoints David Price as Project Leader.
+        This project is assigned to WG 10
 
         '
-    - type: requests
-      date_effective:
-        date: '1998-06-15'
-        type: effective
-      message: 'SC 4 requests the projects to address validation of the process across
+  - type: requests
+    date_effective:
+      date: '1998-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests the projects to address validation of the process across
         multiple application protocols and the organization required to support implementation
         of the concept
 
         '
-    - type: directs
-      date_effective:
-        date: '1998-06-15'
-        type: effective
-      message: 'SC 4 directs the project to work in close cooperation with the data
+  - type: directs
+    date_effective:
+      date: '1998-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 directs the project to work in close cooperation with the data
         architecture project.
 
         '
@@ -714,32 +807,39 @@ decisions:
   dates:
   - date: '1998-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Approve PWI in furniture product data and project data
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: approves
-      date_effective:
-        date: '1998-06-15'
-        type: effective
-      message: 'SC 4 approves the PWI in furniture product data and project data as
+  title:
+  - spelling: eng
+    value: Approve PWI in furniture product data and project data
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: approves
+    date_effective:
+      date: '1998-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 approves the PWI in furniture product data and project data as
         described in SC 4 N 735
 
         '
-    - type: assigns
-      date_effective:
-        date: '1998-06-15'
-        type: effective
-      message: 'SC 4 assigns the project to WG 3
+  - type: assigns
+    date_effective:
+      date: '1998-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 assigns the project to WG 3
 
         '
-    - type: appoints
-      date_effective:
-        date: '1998-06-15'
-        type: effective
-      message: 'SC 4 appoints Miguel Borràs and Ricardo Gonçalves as projects leaders.
+  - type: appoints
+    date_effective:
+      date: '1998-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 appoints Miguel Borràs and Ricardo Gonçalves as projects leaders.
 
         '
 - identifier:
@@ -750,17 +850,20 @@ decisions:
   dates:
   - date: '1998-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Request statements of user requirements and milestones for next SC 4 release
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: resolves
-      date_effective:
-        date: '1998-06-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Request statements of user requirements and milestones for next SC 4 release
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: resolves
+    date_effective:
+      date: '1998-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         In order to provide a firm foundation for the next release of SC 4 standards tentatively scheduled for 2003, SC 4 requests:
 
         * P-members to supply statements of user requirements for this timescale, taking into account the strategic plan for SC 4 and the requirements document WG 10 N 173, in writing to the Secretariat by 15 September 1998;
@@ -773,27 +876,32 @@ decisions:
   dates:
   - date: '1998-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Ensure STEP parts are Year 2000 compliant
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: resolves
-      date_effective:
-        date: '1998-06-15'
-        type: effective
-      message: 'SC 4 resolves to ensure that the international standard parts of STEP
+  title:
+  - spelling: eng
+    value: Ensure STEP parts are Year 2000 compliant
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: resolves
+    date_effective:
+      date: '1998-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 resolves to ensure that the international standard parts of STEP
         are Year 2000 compliant and to include necessary revisions for compliance
         as a part of the Technical Corrigendum for EXPRESS errors to be completed
         prior to the Beijing meeting
 
         '
-    - type: directs
-      date_effective:
-        date: '1998-06-15'
-        type: effective
-      message: 'SC 4 directs the Convenors of WG 3, WG 11, and WG 12 to further examine
+  - type: directs
+    date_effective:
+      date: '1998-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 directs the Convenors of WG 3, WG 11, and WG 12 to further examine
         other Parts and to propose changes where necessary by Beijing.
 
         '
@@ -805,17 +913,20 @@ decisions:
   dates:
   - date: '1998-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Bernd and Ramona Wenzel and EuroSTEP support staff
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '1998-06-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Bernd and Ramona Wenzel and EuroSTEP support staff
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '1998-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 wishes to thank Bernd and Ramona Wenzel and the EuroSTEP support staff including the following members for their excellent service and hospitality in facilitating the Spring 1998 SC 4 meeting in Bad Aibling:
 
         * Karl Brandt

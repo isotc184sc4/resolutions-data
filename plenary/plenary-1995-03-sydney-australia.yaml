@@ -1,7 +1,9 @@
 ---
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Sydney, Australia,
-    March 19, 1995 -- March 29, 1995
+  title:
+  - spelling: eng
+    value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Sydney, Australia,
+      March 19, 1995 -- March 29, 1995
   date: '1995-03-19'
   source: ISO/TC 184/SC 4 Secretariat
   city: AUSYD
@@ -15,17 +17,20 @@ decisions:
   dates:
   - date: '1995-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Establish a Policy and Planning Committee
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: establishes
-      date_effective:
-        date: '1995-03-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Establish a Policy and Planning Committee
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: establishes
+    date_effective:
+      date: '1995-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 establishes a Policy and Planning Committee to become the single advisory
         group to assist the SC 4 Chairman, Committee, Conveners and Project Leaders:
 
@@ -57,17 +62,20 @@ decisions:
   dates:
   - date: '1995-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appoint Julian Fowler as convener of Working Group 10
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appoints
-      date_effective:
-        date: '1995-03-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Appoint Julian Fowler as convener of Working Group 10
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '1995-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 appoints Mr. Julian Fowler as the convener of Working Group 10, Technical
         Architecture.
 - identifier:
@@ -78,18 +86,21 @@ decisions:
   dates:
   - date: '1995-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appoint Bernd Wenzel as deputy convener for Working Group 10
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appoints
-      date_effective:
-        date: '1995-03-15'
-        type: effective
-      message: 'SC 4 appoints Bernd Wenzel as deputy convener for Working Group 10
-        on architecture.
+  title:
+  - spelling: eng
+    value: Appoint Bernd Wenzel as deputy convener for Working Group 10
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '1995-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 appoints Bernd Wenzel as deputy convener for Working Group 10 on
+        architecture.
 
         '
 - identifier:
@@ -100,17 +111,20 @@ decisions:
   dates:
   - date: '1995-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appoint Howard Mason as project leader for Amendment 1 to 10303-1
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appoints
-      date_effective:
-        date: '1995-03-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Appoint Howard Mason as project leader for Amendment 1 to 10303-1
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '1995-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         For the new work item for Amendment 1 to 10303-1, SC 4 appoints Howard Mason
         project leader.
 - identifier:
@@ -121,17 +135,20 @@ decisions:
   dates:
   - date: '1995-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appoint Julian Fowler as project leader for STEP Development Methods
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appoints
-      date_effective:
-        date: '1995-03-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Appoint Julian Fowler as project leader for STEP Development Methods
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '1995-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         For the new work item STEP Development Methods, SC 4 appoints Julian Fowler
         project leader and assigns this project to WG 10. The WG 5 Project 2 is transferred
         to WG 10 to support this project.
@@ -143,18 +160,21 @@ decisions:
   dates:
   - date: '1995-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appoint Jeff Wix as project leader for STEP Building Construction Core
+  title:
+  - spelling: eng
+    value: Appoint Jeff Wix as project leader for STEP Building Construction Core
       Model
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appoints
-      date_effective:
-        date: '1995-03-15'
-        type: effective
-      message: |
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '1995-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         For the new work item STEP Building Construction Core Model, SC 4 appoints Jeff
         Wix project leader and assigns this project to WG 3.
 - identifier:
@@ -165,18 +185,21 @@ decisions:
   dates:
   - date: '1995-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appoint Patrice Poyet as project leader for Building Services, Heating,
+  title:
+  - spelling: eng
+    value: Appoint Patrice Poyet as project leader for Building Services, Heating,
       Ventilation and AC
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appoints
-      date_effective:
-        date: '1995-03-15'
-        type: effective
-      message: |
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '1995-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         For the new work item Building Services, Heating, Ventilation and AC, SC 4 appoints
         Patrice Poyet project leader and assigns this project to WG 3.
 - identifier:
@@ -187,17 +210,20 @@ decisions:
   dates:
   - date: '1995-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appoint Alistair Watson as project leader for Building Structural Frame
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appoints
-      date_effective:
-        date: '1995-03-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Appoint Alistair Watson as project leader for Building Structural Frame
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '1995-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         For the new work item Building Structural Frame, SC 4 appoints Alistair Watson
         project leader and assigns this project to WG 3.
 - identifier:
@@ -208,17 +234,20 @@ decisions:
   dates:
   - date: '1995-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Request revision to title of ISO/TC 184/SC 4
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '1995-03-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Request revision to title of ISO/TC 184/SC 4
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '1995-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests its parent committee to revise the title of ISO/TC 184/SC 4 from
         Industrial Data and Global Manufacturing Programming Languages to Industrial Data.
 - identifier:
@@ -229,17 +258,20 @@ decisions:
   dates:
   - date: '1995-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Establish Category A liaison with ISO/TC 211
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: resolves
-      date_effective:
-        date: '1995-03-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Establish Category A liaison with ISO/TC 211
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: resolves
+    date_effective:
+      date: '1995-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its desire to establish a Category A liaison with ISO/TC 211 on
         Geographic Information Systems and appoints Barbara Warthen as that liaison to
         actively manage information flow between the two committees.
@@ -251,17 +283,20 @@ decisions:
   dates:
   - date: '1995-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Establish Category A liaison with EPISTLE
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: resolves
-      date_effective:
-        date: '1995-03-15'
-        type: effective
-      message: 'SC 4 expresses its desire to establish a Category A liaison with EPISTLE.
+  title:
+  - spelling: eng
+    value: Establish Category A liaison with EPISTLE
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: resolves
+    date_effective:
+      date: '1995-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 expresses its desire to establish a Category A liaison with EPISTLE.
 
         '
 - identifier:
@@ -272,17 +307,20 @@ decisions:
   dates:
   - date: '1995-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Standards Australia for meeting support
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '1995-03-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Standards Australia for meeting support
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '1995-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 wishes to give its unanimous thanks to John Mitchell, and to the following
         members of Standards Australia: Brigitte Catteau, David Bruce-Steer, Rhonda
         Putman, Rosie Sabadina, Betty Titcombe, Linda Young, Cheryl O'Neill and Katalin
@@ -295,17 +333,20 @@ decisions:
   dates:
   - date: '1995-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank AusSTEP Consultants for computer support
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '1995-03-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank AusSTEP Consultants for computer support
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '1995-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 members both at the meeting and from various countries on the Internet also wish to
         thank Dick Wittenoom from AusSTEP Consultants for providing computer support
         and SC 4's first use of meeting Web pages.

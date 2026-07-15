@@ -1,7 +1,9 @@
 ---
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Sapporo, Japan, May
-    22, 2016 -- May 27, 2016
+  title:
+  - spelling: eng
+    value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Sapporo, Japan,
+      May 22, 2016 -- May 27, 2016
   date: '2016-05-22'
   source: ISO/TC 184/SC 4 Secretariat
   city: JPSPK
@@ -15,27 +17,32 @@ decisions:
   dates:
   - date: '2016-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appoint Hiroshi Murayama as SC 4 Liaison to IEC SC 3D
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: noting
-      date_effective:
-        date: '2016-05-15'
-        type: effective
-      message: 'Noting that IEC/TC 3 has terminated its liaison.
-
-        '
-    actions:
-    - type: appoints
-      date_effective:
-        date: '2016-05-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Appoint Hiroshi Murayama as SC 4 Liaison to IEC SC 3D
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '2016-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 appoints Hiroshi Murayama for a three-year term as the SC 4 Liaison to IEC SC 3D,
         with appreciation for his offer to serve in that capacity.
+  considerations:
+  - type: noting
+    date_effective:
+      date: '2016-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'Noting that IEC/TC 3 has terminated its liaison.
+
+        '
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '923'
@@ -44,17 +51,20 @@ decisions:
   dates:
   - date: '2016-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Move ISO 8000-62 and ISO 8000-63 to Enlarged Timeframe
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2016-05-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Move ISO 8000-62 and ISO 8000-63 to Enlarged Timeframe
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2016-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 requests its Secretariat to apply the enlarged timeframe to the ISO 8000-62 and
         ISO 8000-63 projects, with a DIS limit date of 2017-02-21.
 - identifier:
@@ -65,24 +75,29 @@ decisions:
   dates:
   - date: '2016-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Approve PWI for Modelling and Simulation Information in Collaborative Systems
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: approves
-      date_effective:
-        date: '2016-05-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Approve PWI for Modelling and Simulation Information in Collaborative Systems
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: approves
+    date_effective:
+      date: '2016-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 approves a PWI to create standards for modeling and simulation information in a
         collaborative systems engineering context as defined in SC4 N3086.
-    - type: asks
-      date_effective:
-        date: '2016-05-15'
-        type: effective
-      message: 'SC4 asks member bodies to nominate experts to the project.
+  - type: asks
+    date_effective:
+      date: '2016-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC4 asks member bodies to nominate experts to the project.
 
         '
 - identifier:
@@ -93,32 +108,38 @@ decisions:
   dates:
   - date: '2016-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Approve PWI for Manufacturing Change Management
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: approves
-      date_effective:
-        date: '2016-05-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Approve PWI for Manufacturing Change Management
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: approves
+    date_effective:
+      date: '2016-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 approves a PWI to create a standard for manufacturing change management as
         defined in SC4 N3087.
-    - type: asks
-      date_effective:
-        date: '2016-05-15'
-        type: effective
-      message: 'SC4 asks member bodies to nominate experts to the project.
+  - type: asks
+    date_effective:
+      date: '2016-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC4 asks member bodies to nominate experts to the project.
 
         '
-    - type: requests
-      date_effective:
-        date: '2016-05-15'
-        type: effective
-      message: 'SC4 requests its Secretariat to invite SC 5 to seek input from its
-        P-members.
+  - type: requests
+    date_effective:
+      date: '2016-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC4 requests its Secretariat to invite SC 5 to seek input from its P-members.
 
         '
 - identifier:
@@ -129,17 +150,20 @@ decisions:
   dates:
   - date: '2016-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Establish 8-week ballot duration for ISO 10303-238ed2 NP
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2016-05-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Establish 8-week ballot duration for ISO 10303-238ed2 NP
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2016-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 requests its Secretariat to apply the 8 week ballot duration to the proposed NP for
         ISO 10303-238ed2.
 - identifier:
@@ -150,17 +174,20 @@ decisions:
   dates:
   - date: '2016-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Create Ad Hoc Group to support ISO/IEC DPPC Task Force
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: creates
-      date_effective:
-        date: '2016-05-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Create Ad Hoc Group to support ISO/IEC DPPC Task Force
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: creates
+    date_effective:
+      date: '2016-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 creates an Ad Hoc group to shadow and support the ISO/IEC DPPC Task Force
         and appoints the following experts to the group:
 
@@ -175,11 +202,13 @@ decisions:
         * David Leal, ISO 15926 and RDL expert
         * Paul van Exel, ISO 15926 expert
         * Hong Yan, ISO 13584-511 expert
-    - type: requests
-      date_effective:
-        date: '2016-05-15'
-        type: effective
-      message: |
+  - type: requests
+    date_effective:
+      date: '2016-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 requests its Secretariat to invite member bodies to nominate other experts to
         participate in the group.
 - identifier:
@@ -190,35 +219,42 @@ decisions:
   dates:
   - date: '2016-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Establish liaison with International Association of Oil and Gas Producers
+  title:
+  - spelling: eng
+    value: Establish liaison with International Association of Oil and Gas Producers
       (IOGP)
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: recognizing
-      date_effective:
-        date: '2016-05-15'
-        type: effective
-      message: |
-        Recognizing the request of the International Association of Oil and Gas Producers
-        (IOGP) to become a liaison.
-    actions:
-    - type: asks
-      date_effective:
-        date: '2016-05-15'
-        type: effective
-      message: |
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: asks
+    date_effective:
+      date: '2016-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 asks its secretariat to initiate a liaison to this
         association as soon as possible.
-    - type: nominates
-      date_effective:
-        date: '2016-05-15'
-        type: effective
-      message: |
+  - type: nominates
+    date_effective:
+      date: '2016-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 nominates Nils Sandsmark and Paul van Exel as the liaison officers from SC 4 to
         the IOGP.
+  considerations:
+  - type: recognizing
+    date_effective:
+      date: '2016-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
+        Recognizing the request of the International Association of Oil and Gas Producers
+        (IOGP) to become a liaison.
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '929'
@@ -227,17 +263,20 @@ decisions:
   dates:
   - date: '2016-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Approve new work item to create ISO 10303-210 Edition 4
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: approves
-      date_effective:
-        date: '2016-05-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Approve new work item to create ISO 10303-210 Edition 4
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: approves
+    date_effective:
+      date: '2016-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 approves a NP to create a new edition 4 of 10303-210 with the same scope as
         10303-210 edition 3 "Electronic assembly, interconnection, and packaging design",
         using the enlarged timescale, with Tom Thurman as the project leader.
@@ -249,17 +288,20 @@ decisions:
   dates:
   - date: '2016-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Ken Virgil for service as SC 4 Secretary
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2016-05-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Ken Virgil for service as SC 4 Secretary
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2016-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 expresses its great appreciation to Ken Virgil for his excellent service and hard
         work as Secretary to SC 4 since 2014 and wishes him the very best in his future
         endeavours.
@@ -271,17 +313,20 @@ decisions:
   dates:
   - date: '2016-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank SC 4 Liaisons and presenters
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2016-05-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank SC 4 Liaisons and presenters
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2016-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 expresses its appreciation to our SC 4 Liaisons and the presentations that were
         provided:
 
@@ -296,17 +341,20 @@ decisions:
   dates:
   - date: '2016-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Opening Technical Forum participants
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2016-05-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Opening Technical Forum participants
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2016-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 expresses its appreciation to the following individuals and organizations for their
         participation in the 71st ISO/TC 184/SC 4 Opening Technical Forum in Sapporo, Japan
         2016-05-23:
@@ -322,17 +370,20 @@ decisions:
   dates:
   - date: '2016-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank AP242 Tutorial participants
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2016-05-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank AP242 Tutorial participants
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2016-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 expresses its appreciation to the following individuals and organizations for their
         participation in the 71st ISO/TC 184/SC 4 AP242 Tutorial in Sapporo, Japan 2016-05-24:
 
@@ -348,17 +399,20 @@ decisions:
   dates:
   - date: '2016-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Industry Day participants
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2016-05-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Industry Day participants
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2016-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 expresses its appreciation to the following individuals and organizations for their
         participation in the 71st ISO/TC 184/SC 4 Industry Day in Sapporo, Japan 2016-05-25:
 
@@ -381,17 +435,20 @@ decisions:
   dates:
   - date: '2016-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank hosts of the 71st SC 4 Plenary
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2016-05-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank hosts of the 71st SC 4 Plenary
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2016-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 expresses its appreciation to Akihiko Ohtaka, Yoshihito Kikuchi, Hiroyuki Hiraoka,
         and the Manufacturing Science and Technology Center for hosting the 71st ISO/TC
         184/SC 4 Plenary in Sapporo, Japan 2016-05-22/27.

@@ -1,7 +1,9 @@
 ---
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, San Francisco, United
-    States, January 18, 1999 -- January 28, 1999
+  title:
+  - spelling: eng
+    value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, San Francisco, United
+      States, January 18, 1999 -- January 28, 1999
   date: '1999-01-18'
   source: ISO/TC 184/SC 4 Secretariat
   city: USSFO
@@ -15,17 +17,20 @@ decisions:
   dates:
   - date: '1999-01-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Approve new project leaders and project editors
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: approves
-      date_effective:
-        date: '1999-01-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Approve new project leaders and project editors
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: approves
+    date_effective:
+      date: '1999-01-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 approves the following new project leaders or project editors for the associated SC 4 projects:
 
         |===
@@ -41,17 +46,20 @@ decisions:
   dates:
   - date: '1999-01-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Direct Secretariat to provide ballot documents in electronic format
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: directs
-      date_effective:
-        date: '1999-01-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Direct Secretariat to provide ballot documents in electronic format
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: directs
+    date_effective:
+      date: '1999-01-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 directs its Secretariat to provide SC 4 ballot documents to P-members, O-members and A-liaisons in electronic format as follows:
 
         * SC 4 ballot documents will be made available on SOLIS in their original format, PDF and ASCII text.
@@ -59,11 +67,13 @@ decisions:
         * SC 4 ballots will be posted to SOLIS, and announced via the SC 4 and P-Member exploder two weeks prior to the official start date of the ballot.
 
         * Paper copies of SC 4 ballot documents will be provided to P-members on a per-request basis only
-    - type: directs
-      date_effective:
-        date: '1999-01-15'
-        type: effective
-      message: 'SC 4 directs the secretariat to deliver an annex to the handbook detailing
+  - type: directs
+    date_effective:
+      date: '1999-01-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 directs the secretariat to deliver an annex to the handbook detailing
         this process by April 9 1999.
 
         '
@@ -75,26 +85,20 @@ decisions:
   dates:
   - date: '1999-01-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Amend SC 4 Organization Handbook procedures for handbook changes
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: recognizing
-      date_effective:
-        date: '1999-01-15'
-        type: effective
-      message: 'Recognizing that the version of the SC 4 Organization Handbook held
-        on SOLIS is the master copy of the document.
-
-        '
-    actions:
-    - type: resolves
-      date_effective:
-        date: '1999-01-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Amend SC 4 Organization Handbook procedures for handbook changes
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: resolves
+    date_effective:
+      date: '1999-01-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 amends the approval procedure for changes as follows (changes highlighted):
 
         5.7.5.2 Approval of the Minutes and Handbook Changes of the Preceding Meeting
@@ -102,6 +106,17 @@ decisions:
 
         5.11 Updates to the ISO/TC 184/SC 4 Organization Handbook
         Updates to the ISO/TC 184/SC 4 Organization Handbook for changes to the organization or the procedures require a regular resolution paper (see 5.7.3.1). The resolution paper must contain the exact wording of the text to be included or changed in the SC 4 Organization Handbook. Changes to the SC 4 Organization Handbook take effect immediately after their decision in the SC 4 Meeting. While the minutes of the meeting report the outcome of the decision, the amended form of the Handbook will be published on SOLIS for confirmation at the next SC 4 Meeting. Because frequent changes can be expected in the Appendices, changes will be made at the discretion of the Secretariat, published on SOLIS and distributed at the next SC 4 meeting.
+  considerations:
+  - type: recognizing
+    date_effective:
+      date: '1999-01-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'Recognizing that the version of the SC 4 Organization Handbook held
+        on SOLIS is the master copy of the document.
+
+        '
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '392'
@@ -110,17 +125,20 @@ decisions:
   dates:
   - date: '1999-01-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Amend SC 4 Organization Handbook to permit discussion of position papers
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: approves
-      date_effective:
-        date: '1999-01-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Amend SC 4 Organization Handbook to permit discussion of position papers
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: approves
+    date_effective:
+      date: '1999-01-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 approves the following amendment to the Organisation Handbook to permit the discussion of position papers at SC 4 meetings (changes highlighted):
 
         5.7.1 Calling an SC 4 Meeting
@@ -174,25 +192,30 @@ decisions:
   dates:
   - date: '1999-01-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Adopt SC 4N777 as strategic plan
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: adopts
-      date_effective:
-        date: '1999-01-15'
-        type: effective
-      message: 'SC 4 adopts SC 4N777 as its strategic plan and requests the Secretariat
+  title:
+  - spelling: eng
+    value: Adopt SC 4N777 as strategic plan
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: adopts
+    date_effective:
+      date: '1999-01-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 adopts SC 4N777 as its strategic plan and requests the Secretariat
         to publish the document on SOLIS, and forward it to the ISO/TC 184 Secretariat.
 
         '
-    - type: requests
-      date_effective:
-        date: '1999-01-15'
-        type: effective
-      message: 'SC 4 invites the WG and QC Conveners to review the proposed tactics
+  - type: requests
+    date_effective:
+      date: '1999-01-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 invites the WG and QC Conveners to review the proposed tactics
         against their current procedures, and to identify any discrepancies.
 
         '
@@ -204,25 +227,20 @@ decisions:
   dates:
   - date: '1999-01-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Allow nominated STEP projects to adopt modular approach
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: following
-      date_effective:
-        date: '1999-01-15'
-        type: effective
-      message: 'Further to Resolution 374.
-
-        '
-    actions:
-    - type: resolves
-      date_effective:
-        date: '1999-01-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Allow nominated STEP projects to adopt modular approach
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: resolves
+    date_effective:
+      date: '1999-01-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 resolves to allow nominated STEP projects to adopt the modular approach as defined in the following deliverables of the WG 10 STEP Modularization PWI:
 
         1. WG 10 N221 Guidelines for the content of application modules Revision 0.6
@@ -235,37 +253,45 @@ decisions:
         8. WG 10 N227 WG 10 STEP Modularization Requirements Specification Revision 0.1
         9. WG 10 N228 STEP Modularization PWI Issue Log
         10. WG 10 N229 The STEP Modules Catalogue Demo
-    - type: resolves
-      date_effective:
-        date: '1999-01-15'
-        type: effective
-      message: 'SC 4 resolves that the results of the nominated projects may be published
+  - type: resolves
+    date_effective:
+      date: '1999-01-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 resolves that the results of the nominated projects may be published
         as PASs or TSs.
 
         '
-    - type: nominates
-      date_effective:
-        date: '1999-01-15'
-        type: effective
-      message: 'SC 4 nominates the Engineering Analysis Core Model and the PDES Inc
+  - type: nominates
+    date_effective:
+      date: '1999-01-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 nominates the Engineering Analysis Core Model and the PDES Inc
         modular extension projects to endeavor to develop their deliverables using
         the above process.
 
         '
-    - type: directs
-      date_effective:
-        date: '1999-01-15'
-        type: effective
-      message: 'SC 4 directs the WG 10 STEP Modularization PWI to support these projects
+  - type: directs
+    date_effective:
+      date: '1999-01-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 directs the WG 10 STEP Modularization PWI to support these projects
         and continue the development of the required guidelines and processes until
         SC 4 approves the documents and the supporting SC 4 organizations are in place.
 
         '
-    - type: requests
-      date_effective:
-        date: '1999-01-15'
-        type: effective
-      message: |
+  - type: requests
+    date_effective:
+      date: '1999-01-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests that its members, liaisons and other organizations provide additional resources to support this effort in the following areas:
 
         11. finalizing requirements;
@@ -273,12 +299,24 @@ decisions:
         13. reviewing and commenting on guideline documents;
         14. using the modular approach and providing feedback to WG 10;
         15. Addressing the use of ITAs, PASs and TSs within SC 4.
-    - type: requests
-      date_effective:
-        date: '1999-01-15'
-        type: effective
-      message: 'SC 4 requests WG 10 to report on progress on the pilot projects to
-        the next SC 4 meeting.
+  - type: requests
+    date_effective:
+      date: '1999-01-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests WG 10 to report on progress on the pilot projects to the
+        next SC 4 meeting.
+
+        '
+  considerations:
+  - type: following
+    date_effective:
+      date: '1999-01-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'Further to Resolution 374.
 
         '
 - identifier:
@@ -289,27 +327,32 @@ decisions:
   dates:
   - date: '1999-01-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Establish Category A two-way liaison with Object Management Group
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '1999-01-15'
-        type: effective
-      message: 'SC 4 requests a Category A active two-way liaison with the Object
-        Management Group, and requests that the SC 4 Secretary confirm this liaison
-        with the ISO Central Secretariat.
+  title:
+  - spelling: eng
+    value: Establish Category A two-way liaison with Object Management Group
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '1999-01-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests a Category A active two-way liaison with the Object Management
+        Group, and requests that the SC 4 Secretary confirm this liaison with the
+        ISO Central Secretariat.
 
         '
-    - type: approves
-      date_effective:
-        date: '1999-01-15'
-        type: effective
-      message: 'SC 4 approves Peter Denno and Evan Wallace (both of NIST, U.S.) as
-        the parties who will be responsible for maintaining this active liaison, with
+  - type: approves
+    date_effective:
+      date: '1999-01-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 approves Peter Denno and Evan Wallace (both of NIST, U.S.) as the
+        parties who will be responsible for maintaining this active liaison, with
         Evan Wallace designated the recipient for formal SC 4 mailings and other formal
         communications between SC 4 and the OMG.
 
@@ -322,17 +365,20 @@ decisions:
   dates:
   - date: '1999-01-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Modify SC 4 Handbook Section 5.7.3 to include A-liaisons
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '1999-01-15'
-        type: effective
-      message: 'SC 4 requests its Secretary to modify section 5.7.3 of the SC 4 Handbook
+  title:
+  - spelling: eng
+    value: Modify SC 4 Handbook Section 5.7.3 to include A-liaisons
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '1999-01-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests its Secretary to modify section 5.7.3 of the SC 4 Handbook
         to include A-liaisons in the list of organizations and individuals permitted
         to submit resolutions to SC 4.
 
@@ -345,24 +391,29 @@ decisions:
   dates:
   - date: '1999-01-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Accept A-liaison of IEC/TC 93 on JWG 9
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: accepts
-      date_effective:
-        date: '1999-01-15'
-        type: effective
-      message: 'SC 4 accepts the A-liaison of IEC/TC 93 on JWG 9.
+  title:
+  - spelling: eng
+    value: Accept A-liaison of IEC/TC 93 on JWG 9
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: accepts
+    date_effective:
+      date: '1999-01-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 accepts the A-liaison of IEC/TC 93 on JWG 9.
 
         '
-    - type: recommends
-      date_effective:
-        date: '1999-01-15'
-        type: effective
-      message: 'SC 4 recommends that JWG 9 prepare a plan by the Lillehammer meeting
+  - type: recommends
+    date_effective:
+      date: '1999-01-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 recommends that JWG 9 prepare a plan by the Lillehammer meeting
         for increased co-operation with IEC/TC 93.
 
         '
@@ -374,39 +425,46 @@ decisions:
   dates:
   - date: '1999-01-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Request ISO/TC 184 and ISO CS to provide a Technical Officer
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: noting
-      date_effective:
-        date: '1999-01-15'
-        type: effective
-      message: 'SC 4 welcomes the nomination of a point of contact within the ISO
-        CS, to work with the current IEC Technical Officer, noting that ISO/TC 184
-        is the only ISO Technical Committee with such an arrangement.
+  title:
+  - spelling: eng
+    value: Request ISO/TC 184 and ISO CS to provide a Technical Officer
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '1999-01-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests ISO/TC 184 and the ISO CS to take the necessary steps
+        to provide ISO/TC 184 with a Technical Officer from the ISO staff.
 
         '
-    - type: noting
-      date_effective:
-        date: '1999-01-15'
-        type: effective
-      message: 'SC 4 notes the increasing importance of coordination with other ISO
+  considerations:
+  - type: noting
+    date_effective:
+      date: '1999-01-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 welcomes the nomination of a point of contact within the ISO CS,
+        to work with the current IEC Technical Officer, noting that ISO/TC 184 is
+        the only ISO Technical Committee with such an arrangement.
+
+        '
+  - type: noting
+    date_effective:
+      date: '1999-01-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 notes the increasing importance of coordination with other ISO
         Technical Committees and Subcommittees, particularly in the context of the
         Memorandum of Understanding between ISO, IEC, UN/CEFACT and the participating
         International User Groups, and also seeks to fully exploit the new ISO deliverables
         and electronic publication methods.
-
-        '
-    actions:
-    - type: requests
-      date_effective:
-        date: '1999-01-15'
-        type: effective
-      message: 'SC 4 requests ISO/TC 184 and the ISO CS to take the necessary steps
-        to provide ISO/TC 184 with a Technical Officer from the ISO staff.
 
         '
 - identifier:
@@ -417,17 +475,20 @@ decisions:
   dates:
   - date: '1999-01-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Cancel projects 10303-222 and 10303-322 for composites
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: resolves
-      date_effective:
-        date: '1999-01-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Cancel projects 10303-222 and 10303-322 for composites
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: resolves
+    date_effective:
+      date: '1999-01-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 resolves to cancel the following projects:
 
         * 10303-222 - Application Protocol: Exchange of product data for composites
@@ -440,17 +501,20 @@ decisions:
   dates:
   - date: '1999-01-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Remove projects 10303-208/308 and 10303-222/322 from Release 2.0
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: resolves
-      date_effective:
-        date: '1999-01-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Remove projects 10303-208/308 and 10303-222/322 from Release 2.0
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: resolves
+    date_effective:
+      date: '1999-01-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 resolves to remove the following AP projects and their associated Abstract test suites from ISO 10303 release 2.0:
 
         * 10303-208/308 - Application Protocol: Lifecycle management - Change process
@@ -463,17 +527,20 @@ decisions:
   dates:
   - date: '1999-01-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Cancel project 10303-229/329 as NWI and approve as PWI
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: resolves
-      date_effective:
-        date: '1999-01-15'
-        type: effective
-      message: 'SC 4 cancels SC 4 project 10303-229/329 as New Work Item: "Application
+  title:
+  - spelling: eng
+    value: Cancel project 10303-229/329 as NWI and approve as PWI
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: resolves
+    date_effective:
+      date: '1999-01-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 cancels SC 4 project 10303-229/329 as New Work Item: "Application
         protocol: Exchange of design and manufacturing product information for forged
         parts"; but in recognition of the initiative''s continued merit within SC
         4, approves it as a preliminary work item, stage 0.
@@ -487,26 +554,31 @@ decisions:
   dates:
   - date: '1999-01-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Revise methods documents to allow use of SC 4 standards as Common Resources
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '1999-01-15'
-        type: effective
-      message: 'SC 4 requests QC to revise the SC 4 methods documents to allow the
-        use of parts of other ISO/TC 184/ SC 4 standards as Common Resources in the
-        development of STEP Application Interpreted Models, and other SC 4 standards.
+  title:
+  - spelling: eng
+    value: Revise methods documents to allow use of SC 4 standards as Common Resources
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '1999-01-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests QC to revise the SC 4 methods documents to allow the use
+        of parts of other ISO/TC 184/ SC 4 standards as Common Resources in the development
+        of STEP Application Interpreted Models, and other SC 4 standards.
 
         '
-    - type: requests
-      date_effective:
-        date: '1999-01-15'
-        type: effective
-      message: 'SC 4 requests WG 12 to develop procedures to enable and control the
+  - type: requests
+    date_effective:
+      date: '1999-01-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests WG 12 to develop procedures to enable and control the
         use of other ISO/TC 184/SC 4 parts as Common Resources in the development
         of STEP Application Interpreted Models, and other SC 4 standards.
 
@@ -519,19 +591,22 @@ decisions:
   dates:
   - date: '1999-01-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Develop procedures to ensure EXPRESS models conform to ISO 10303-11
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: directs
-      date_effective:
-        date: '1999-01-15'
-        type: effective
-      message: 'SC 4 directs the Quality Committee and WG 11 to develop procedures
-        to ensure that EXPRESS models in SC 4 standards conform to the requirements
-        of ISO 10303-11 and to the guidelines for EXPRESS usage specified in the relevant
+  title:
+  - spelling: eng
+    value: Develop procedures to ensure EXPRESS models conform to ISO 10303-11
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: directs
+    date_effective:
+      date: '1999-01-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 directs the Quality Committee and WG 11 to develop procedures to
+        ensure that EXPRESS models in SC 4 standards conform to the requirements of
+        ISO 10303-11 and to the guidelines for EXPRESS usage specified in the relevant
         methods documents.
 
         '
@@ -543,18 +618,21 @@ decisions:
   dates:
   - date: '1999-01-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank US PRO and Chuck Stark for hosting SC 4 meeting in San Francisco
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '1999-01-15'
-        type: effective
-      message: 'SC 4 wishes to thank US PRO, Chuck Stark and his tireless support
-        staff for their quality services and generous hospitality in hosting the SC
-        4/WGs meeting 1999-01-25/29.
+  title:
+  - spelling: eng
+    value: Thank US PRO and Chuck Stark for hosting SC 4 meeting in San Francisco
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '1999-01-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 wishes to thank US PRO, Chuck Stark and his tireless support staff
+        for their quality services and generous hospitality in hosting the SC 4/WGs
+        meeting 1999-01-25/29.
 
         '

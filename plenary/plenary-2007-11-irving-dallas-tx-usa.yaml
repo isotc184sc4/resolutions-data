@@ -1,7 +1,9 @@
 ---
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Dallas, United States,
-    October 28, 2007 -- November 2, 2007
+  title:
+  - spelling: eng
+    value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Dallas, United States,
+      October 28, 2007 -- November 2, 2007
   date: '2007-10-28'
   source: ISO/TC 184/SC 4 Secretariat
   city: USDAL
@@ -15,17 +17,20 @@ decisions:
   dates:
   - date: '2007-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appoint Dr. Peter Langer as liaison officer to ISO/TC 118
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2007-11-15'
-        type: effective
-      message: 'SC4 requests the Secretariat to establish a liaison with ISO/TC 118
+  title:
+  - spelling: eng
+    value: Appoint Dr. Peter Langer as liaison officer to ISO/TC 118
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2007-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC4 requests the Secretariat to establish a liaison with ISO/TC 118
         "Compressors, pneumatic tools and pneumatic machines" and invites ISO/TC 118
         to nominate Dr. Peter Langer as liaison officer to ISO/TC 184/SC 4.
 
@@ -38,25 +43,30 @@ decisions:
   dates:
   - date: '2007-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appoint Inhan Kim as liaison officer to IAI
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appoints
-      date_effective:
-        date: '2007-11-15'
-        type: effective
-      message: 'SC4 appoints Mr. Inhan Kim as the liaison officer to the International
+  title:
+  - spelling: eng
+    value: Appoint Inhan Kim as liaison officer to IAI
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '2007-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC4 appoints Mr. Inhan Kim as the liaison officer to the International
         Alliance for Interoperability (IAI).
 
         '
-    - type: thanks
-      date_effective:
-        date: '2007-11-15'
-        type: effective
-      message: 'SC4 thanks Mr. Inhan Kim for his offer to act as the liaison officer
+  - type: thanks
+    date_effective:
+      date: '2007-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC4 thanks Mr. Inhan Kim for his offer to act as the liaison officer
         to the International Alliance for Interoperability (IAI).
 
         '
@@ -68,25 +78,30 @@ decisions:
   dates:
   - date: '2007-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appoint Soonhung Han as liaison officer to ISO/TC 8 and SC 10
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appoints
-      date_effective:
-        date: '2007-11-15'
-        type: effective
-      message: 'SC4 appoints Mr. Soonhung Han as the liaison officer to ISO/TC 8 "Ships
+  title:
+  - spelling: eng
+    value: Appoint Soonhung Han as liaison officer to ISO/TC 8 and SC 10
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '2007-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC4 appoints Mr. Soonhung Han as the liaison officer to ISO/TC 8 "Ships
         and marine technology" and its SC 10.
 
         '
-    - type: thanks
-      date_effective:
-        date: '2007-11-15'
-        type: effective
-      message: 'SC4 thanks Mr. Soonhung Han for his offer to act as the liaison officer
+  - type: thanks
+    date_effective:
+      date: '2007-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC4 thanks Mr. Soonhung Han for his offer to act as the liaison officer
         to ISO/TC 8.
 
         '
@@ -98,17 +113,20 @@ decisions:
   dates:
   - date: '2007-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Create a Big Picture showing relationship of standards
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2007-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Create a Big Picture showing relationship of standards
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2007-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 requests the PPC to continue and extend its existing work to generate a "Big Picture" illustrating the relationship and interaction of standards created by ISO/TC 184 in an operational environment, and seeks participation from other ISO/TC 184 Subcommittees in this work. The PPC may also invite additional SC4 experts to participate in this work.
 
         The target groups for the results will be:
@@ -116,19 +134,23 @@ decisions:
         * SC4 experts - to reach a common understanding
         * Standardizers of other committees - to show how ISO/TC 184 standards can be used within their standards activities
         * Industry - to understand which standards might be used to solve their problems in areas such as collaboration, interoperability, data exchange
-    - type: requests
-      date_effective:
-        date: '2007-11-15'
-        type: effective
-      message: 'SC4 requests its Chair and Secretariat to encourage the other SCs
-        of ISO/TC 184 to participate in this work.
+  - type: requests
+    date_effective:
+      date: '2007-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC4 requests its Chair and Secretariat to encourage the other SCs of
+        ISO/TC 184 to participate in this work.
 
         '
-    - type: requests
-      date_effective:
-        date: '2007-11-15'
-        type: effective
-      message: |
+  - type: requests
+    date_effective:
+      date: '2007-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 requests the group to take full account of the results of previous initiatives in this area. A presentation of results is expected for the meeting of ISO/TC 184 in Oct. 2008.
 
         Action item: A SharePoint service will be installed by the SC4 Secretariat to facilitate cooperation on this topic.
@@ -140,17 +162,20 @@ decisions:
   dates:
   - date: '2007-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Address ISO 14649 patent issues to avoid restricting standards
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2007-11-15'
-        type: effective
-      message: 'SC4 expresses its extreme concern at the violation of the common ITU-R/ITU-T/ISO/IEC
+  title:
+  - spelling: eng
+    value: Address ISO 14649 patent issues to avoid restricting standards
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2007-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC4 expresses its extreme concern at the violation of the common ITU-R/ITU-T/ISO/IEC
         patent policy by the issuance of patents on the implementation of ISO 14649,
         and the resulting proposal for further similar patents being registered to
         protect implementation of SC4 standards. All committees within ISO, IEC and
@@ -168,33 +193,38 @@ decisions:
   dates:
   - date: '2007-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Collaborate with SC 1 on ISO 10303-238 and ISO 14649 harmonization
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: noting
-      date_effective:
-        date: '2007-11-15'
-        type: effective
-      message: 'Noting that its manufacturing team wishes to continue its successful
+  title:
+  - spelling: eng
+    value: Collaborate with SC 1 on ISO 10303-238 and ISO 14649 harmonization
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2007-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC4 requests its Secretariat to invite SC 1 to collaborate on the harmonization,
+        subject to successful resolution of the current patent issue. In recognition
+        of the substantial damage that the patent issue has caused, and to mitigate
+        further damage, and in the event that the patent issue is not resolved, SC4
+        requests WG 3/T24 to remove any elements of AP238 which are affected by the
+        patent.
+
+        '
+  considerations:
+  - type: noting
+    date_effective:
+      date: '2007-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'Noting that its manufacturing team wishes to continue its successful
         collaboration with SC 1 on the further development of ISO 10303-238 and ISO
         14649, and also noting that SC 1 is working to resolve the issue of the 14649
         related patent by the end of 2007.
-
-        '
-    actions:
-    - type: requests
-      date_effective:
-        date: '2007-11-15'
-        type: effective
-      message: 'SC4 requests its Secretariat to invite SC 1 to collaborate on the
-        harmonization, subject to successful resolution of the current patent issue.
-        In recognition of the substantial damage that the patent issue has caused,
-        and to mitigate further damage, and in the event that the patent issue is
-        not resolved, SC4 requests WG 3/T24 to remove any elements of AP238 which
-        are affected by the patent.
 
         '
 - identifier:
@@ -205,17 +235,20 @@ decisions:
   dates:
   - date: '2007-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Initiate PWI for AP 210 ed3
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2007-11-15'
-        type: effective
-      message: 'SC4 initiates a Preliminary Work Item for AP 210 ed3 for the purpose
+  title:
+  - spelling: eng
+    value: Initiate PWI for AP 210 ed3
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2007-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC4 initiates a Preliminary Work Item for AP 210 ed3 for the purpose
         of minor extensions and maintenance.
 
         '
@@ -227,17 +260,20 @@ decisions:
   dates:
   - date: '2007-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Extend AP 203 ed2 scope to include technical drawings
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: approves
-      date_effective:
-        date: '2007-11-15'
-        type: effective
-      message: 'SC4 approves the extension of the scope of AP203 ed2 to include the
+  title:
+  - spelling: eng
+    value: Extend AP 203 ed2 scope to include technical drawings
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: approves
+    date_effective:
+      date: '2007-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC4 approves the extension of the scope of AP203 ed2 to include the
         two extra modules required for technical drawings. The Preliminary Work item
         for AP201 ed2 is cancelled.
 
@@ -250,17 +286,20 @@ decisions:
   dates:
   - date: '2007-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Change title, clarify scope, and reassign ISO 8000 master data item
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2007-11-15'
-        type: effective
-      message: 'SC4 resolves to change the title of the ISO work item 42919 from "Catalogue
+  title:
+  - spelling: eng
+    value: Change title, clarify scope, and reassign ISO 8000 master data item
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2007-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC4 resolves to change the title of the ISO work item 42919 from "Catalogue
         management systems -- Requirements" to "Data quality -- Master data". SC4
         clarifies that the scope of the work item is master data, notes the revised
         scope of ISO 8000-110 as defined in WG 13 N44, and requests WG 13 to develop
@@ -277,18 +316,21 @@ decisions:
   dates:
   - date: '2007-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Initiate PWI for business documents for product transaction
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2007-11-15'
-        type: effective
-      message: 'SC4 initiates a Preliminary Work Item for "Business documents for
-        product transaction and management" as described in SC4 N2253.
+  title:
+  - spelling: eng
+    value: Initiate PWI for business documents for product transaction
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2007-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC4 initiates a Preliminary Work Item for "Business documents for product
+        transaction and management" as described in SC4 N2253.
 
         '
 - identifier:
@@ -299,17 +341,20 @@ decisions:
   dates:
   - date: '2007-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank SC4 short report and Open Technical Forum presenters
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2007-11-15'
-        type: adoption
-      message: |
+  title:
+  - spelling: eng
+    value: Thank SC4 short report and Open Technical Forum presenters
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2007-11-15'
+      type: adoption
+    message:
+    - spelling: eng
+      value: |
         SC4 expresses its thanks to our SC4 short report presenters at the opening plenary for their representation to and for ISO/TC 184/SC 4:
 
         * ECCMA (Peter Benson)
@@ -333,17 +378,20 @@ decisions:
   dates:
   - date: '2007-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank SC4 Liaisons and Liaison Plenary presenters
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2007-11-15'
-        type: adoption
-      message: |
+  title:
+  - spelling: eng
+    value: Thank SC4 Liaisons and Liaison Plenary presenters
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2007-11-15'
+      type: adoption
+    message:
+    - spelling: eng
+      value: |
         SC4 expresses its appreciation to our SC4 Liaisons and those projects who presented at the Liaison Plenary:
 
         * IEC Liaisons -- ISO/TC 3, SC 3D, SC 65E (Hiroshi Murayama)
@@ -361,17 +409,20 @@ decisions:
   dates:
   - date: '2007-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank SOLE, Omni Mandalay Hotel, and organizers for hosting
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2007-11-15'
-        type: adoption
-      message: |
+  title:
+  - spelling: eng
+    value: Thank SOLE, Omni Mandalay Hotel, and organizers for hosting
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2007-11-15'
+      type: adoption
+    message:
+    - spelling: eng
+      value: |
         SC4 expresses its deepest appreciation to SOLE -- The International Society of Logistics for its hosting of the 53rd ISO/TC 184/SC 4 Plenary Meeting at the Omni Mandalay Hotel at Las Colinas, Irving, Texas. Ms. Sarah R. James, Executive Director and Past President; Mr. Jeffrey L. Schafer, President; and Mr. Anthony E. Trovato, CPL, Past President and those logisticians jointly interacting with the SC4 community are recognized for not only their initiative to bring a standards user perspective to the open technical session and those joint activities, but also in SOLE's engagement of members of the SC4 community -- particularly Peter Benson, Gerry Radack and Nigel Shaw -- as instructors in SOLE's Logistics Standards professional development workshops.
 
         Special acknowledgement is extended to the Omni Mandalay Hotel at Las Colinas and its staff: particular thanks go to Mr. Cameron McDonald, Director of Catering and Conference Planning; and Ms. Deborah Nsi, Set Up Supervisor for their seamless support. AV One, the meeting's audio-visual provider, is recognized for their outstanding support. A final thanks goes to the Irving Convention and Visitors' Bureau and their staff -- especially Mrs. Mary Hammett -- for providing registration support and gracious hospitality.
