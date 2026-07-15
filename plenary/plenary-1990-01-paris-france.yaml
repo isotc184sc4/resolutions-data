@@ -1,7 +1,9 @@
 ---
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Paris, France, January
-    22, 1990 -- February 1, 1990
+  title:
+  - spelling: eng
+    value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Paris, France, January
+      22, 1990 -- February 1, 1990
   date: '1990-01-22'
   source: ISO/TC 184/SC 4 Secretariat
   city: FRPAR
@@ -15,17 +17,20 @@ decisions:
   dates:
   - date: '1990-01-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Invite and solicit proposals from IEC organisations for cooperative development
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '1990-01-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Invite and solicit proposals from IEC organisations for cooperative development
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '1990-01-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         ISO/TC 184/SC 4 invites and solicits proposals from IEC organisations and others for
         cooperative development and participative approval of the appropriate parts of STEP.
         In particular, we invite the representatives of EIA, VHDL, IPC D350, and EDIF to take
@@ -40,18 +45,21 @@ decisions:
   dates:
   - date: '1990-01-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Recommend changing SC 4 title to include Global Manufacturing Programming
+  title:
+  - spelling: eng
+    value: Recommend changing SC 4 title to include Global Manufacturing Programming
       Languages
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: recommends
-      date_effective:
-        date: '1990-01-15'
-        type: effective
-      message: |
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: recommends
+    date_effective:
+      date: '1990-01-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 respectfully recommends to the ISO/TC 184 chair that the title of the SC 4
         Committee be changed to "Industrial Data and Global Manufacturing Programming
         Languages."
@@ -63,17 +71,20 @@ decisions:
   dates:
   - date: '1990-01-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Establish new Working Group for Standard Parts
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: establishes
-      date_effective:
-        date: '1990-01-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Establish new Working Group for Standard Parts
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: establishes
+    date_effective:
+      date: '1990-01-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         Following the assignment of the accepted new work item on a standard parts library,
         ISO/TC 184/SC 4 establishes a new working group with the following title and task:
 
@@ -86,11 +97,13 @@ decisions:
         system. This should take into account the mapping of the external
         standard representations into the internal representations of a CAD
         system.
-    - type: accepts
-      date_effective:
-        date: '1990-01-15'
-        type: effective
-      message: |
+  - type: accepts
+    date_effective:
+      date: '1990-01-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 accepts the offer of the member body of Germany, F.R. to undertake the
         convenership of this working group. Each "P" member of SC 4 is asked to nominate
         one expert and one alternate for the Working Group. Names shall be forwarded to the SC 4 chair by 1 April 1990.
@@ -102,17 +115,20 @@ decisions:
   dates:
   - date: '1990-01-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Affirm formation of Library Structures project in WG 1
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: confirms
-      date_effective:
-        date: '1990-01-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Affirm formation of Library Structures project in WG 1
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: confirms
+    date_effective:
+      date: '1990-01-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 affirms the formation of a new project within WG 1 to study the requirements and
         structure of libraries within STEP. The title of the project will be "Library Structures."
         Mr. P. Harrow (UK) and Mr. P. Dienst (FRG) are appointed as joint project leaders to
@@ -125,24 +141,29 @@ decisions:
   dates:
   - date: '1990-01-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Create Strategic Planning Advisory Group and accept France as convenor
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: creates
-      date_effective:
-        date: '1990-01-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Create Strategic Planning Advisory Group and accept France as convenor
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: creates
+    date_effective:
+      date: '1990-01-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         An advisory group called "Strategic Planning" is to be created to advise the SC 4 chair
         on matters concerning strategic planning and coordination of SC 4 activities.
-    - type: accepts
-      date_effective:
-        date: '1990-01-15'
-        type: effective
-      message: |
+  - type: accepts
+    date_effective:
+      date: '1990-01-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 accepts the offer of the member body of France to undertake the convenorship of this
         advisory group.
 
@@ -164,17 +185,20 @@ decisions:
   dates:
   - date: '1990-01-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Establish SC 4 Project Management Advisory Group
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: establishes
-      date_effective:
-        date: '1990-01-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Establish SC 4 Project Management Advisory Group
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: establishes
+    date_effective:
+      date: '1990-01-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         An SC 4 Project Management Advisory Group shall be established to provide project
         management and technical strategy for product data work items.
 
@@ -188,11 +212,13 @@ decisions:
 
         Each "P" member of SC 4 is asked to nominate one expert and one alternate for the
         Advisory Group. Names shall be forwarded to the SC 4 chair by 1 April 1990.
-    - type: directs
-      date_effective:
-        date: '1990-01-15'
-        type: effective
-      message: |
+  - type: directs
+    date_effective:
+      date: '1990-01-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         The SC 4 Secretariat shall ask each "P" member body for their interest in the
         convenorship.
 - identifier:
@@ -203,17 +229,20 @@ decisions:
   dates:
   - date: '1990-01-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Produce Technical Reports documenting present state of STEP technology
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: resolves
-      date_effective:
-        date: '1990-01-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Produce Technical Reports documenting present state of STEP technology
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: resolves
+    date_effective:
+      date: '1990-01-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 resolves to produce a series of Technical Reports which document the present
         state of STEP technology. The contents of the report are subject to change. In
         particular, this effort requires:
@@ -231,18 +260,21 @@ decisions:
   dates:
   - date: '1990-01-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Recommend creating ad hoc working group to select application protocol
+  title:
+  - spelling: eng
+    value: Recommend creating ad hoc working group to select application protocol
       topics
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: recommends
-      date_effective:
-        date: '1990-01-15'
-        type: effective
-      message: |
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: recommends
+    date_effective:
+      date: '1990-01-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 recommends the creation of a small ad hoc working group of SC 4 to select topics
         on which to develop application protocols. These topics should be circulated to national
         bodies for comment and prioritisation by 31 March 1990.
@@ -254,17 +286,20 @@ decisions:
   dates:
   - date: '1990-01-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Propose reorganising STEP work into new Working Groups
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: recommends
-      date_effective:
-        date: '1990-01-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Propose reorganising STEP work into new Working Groups
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: recommends
+    date_effective:
+      date: '1990-01-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         In response to the request from ISO/TC 184, and in order to comply with the new
         ISO/IEC rules, SC 4 proposes to reorganise its work on STEP into the following
         Working Groups:
@@ -293,17 +328,20 @@ decisions:
   dates:
   - date: '1990-01-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Welcome new work items following change of scope
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: welcomes
-      date_effective:
-        date: '1990-01-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Welcome new work items following change of scope
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: welcomes
+    date_effective:
+      date: '1990-01-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         In response to the changing of scope, SC 4 is ready to welcome new work items,
         namely:
 
@@ -321,17 +359,20 @@ decisions:
   dates:
   - date: '1990-01-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Replace term Application Profile with Application Protocol
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: resolves
-      date_effective:
-        date: '1990-01-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Replace term Application Profile with Application Protocol
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: resolves
+    date_effective:
+      date: '1990-01-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         The term "Application Profile" identified in SC 4 Resolution 34 (Tokyo #6) is to be
         replaced by the term "Application Protocol."
 - identifier:
@@ -342,17 +383,20 @@ decisions:
   dates:
   - date: '1990-01-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Adopt strategy to divide DP 10303 into smaller volumes
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: adopts
-      date_effective:
-        date: '1990-01-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Adopt strategy to divide DP 10303 into smaller volumes
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: adopts
+    date_effective:
+      date: '1990-01-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 adopts the general strategy for breaking the DP 10303 (SC 4 N38) into a number
         of smaller volumes, each to be processed separately through approval of a Committee
         Draft and then to be balloted upon as a set of qualified and integrated documents
@@ -365,17 +409,20 @@ decisions:
   dates:
   - date: '1990-01-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Define new versions of STEP as dated collections of Committee Draft parts
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: resolves
-      date_effective:
-        date: '1990-01-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Define new versions of STEP as dated collections of Committee Draft parts
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: resolves
+    date_effective:
+      date: '1990-01-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         It is resolved that SC 4 shall create new versions of STEP where a version is defined
         as a specific, dated collection of Committee Draft parts that are advanced
         simultaneously to DIS.
@@ -387,17 +434,20 @@ decisions:
   dates:
   - date: '1990-01-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Consider current ISO/STEP parts division and numbering scheme tentative
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: considers
-      date_effective:
-        date: '1990-01-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Consider current ISO/STEP parts division and numbering scheme tentative
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: considers
+    date_effective:
+      date: '1990-01-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         The current ISO/STEP parts division and numbering scheme shall be considered
         tentative until a final recommendation is received from WG 1. For timely distribution
         to SC 4, this document must be received by the SC 4 chair by 1 March 1990.
@@ -409,27 +459,32 @@ decisions:
   dates:
   - date: '1990-01-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Encourage member bodies to increase participation in draughting models
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: noting
-      date_effective:
-        date: '1990-01-15'
-        type: effective
-      message: |
-        The development and integration of information models for draughting is a critical
-        item in the STEP development schedule.
-    actions:
-    - type: encourages
-      date_effective:
-        date: '1990-01-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Encourage member bodies to increase participation in draughting models
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: encourages
+    date_effective:
+      date: '1990-01-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 encourages member bodies to consider increasing their participation in this
         work to match the stated needs of their industries.
+  considerations:
+  - type: noting
+    date_effective:
+      date: '1990-01-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
+        The development and integration of information models for draughting is a critical
+        item in the STEP development schedule.
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: 199001-acclaim-01
@@ -438,17 +493,20 @@ decisions:
   dates:
   - date: '1990-01-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank France for hosting the meeting
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '1990-01-15'
-        type: effective
-      message: 'SC 4 wishes to thank France for hosting the meeting of the committee
+  title:
+  - spelling: eng
+    value: Thank France for hosting the meeting
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '1990-01-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 wishes to thank France for hosting the meeting of the committee
         this week.
 
         '

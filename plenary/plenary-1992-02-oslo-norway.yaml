@@ -1,7 +1,9 @@
 ---
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Oslo, Norway, February
-    7, 1992 -- February 17, 1992
+  title:
+  - spelling: eng
+    value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Oslo, Norway, February
+      7, 1992 -- February 17, 1992
   date: '1992-02-07'
   source: ISO/TC 184/SC 4 Secretariat
   city: NOOSL
@@ -15,18 +17,21 @@ decisions:
   dates:
   - date: '1992-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Adopt SPAG N75 as the information model for main entities used within SC
+  title:
+  - spelling: eng
+    value: Adopt SPAG N75 as the information model for main entities used within SC
       4
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: adopts
-      date_effective:
-        date: '1992-02-15'
-        type: effective
-      message: |
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: adopts
+    date_effective:
+      date: '1992-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         To fulfil objective #b6 of the SC 4 Strategic Policy and to embed consistency
         in the SC 4 procedures proposed in SC 4 Resolution #84 as well as in the SC 4
         policies, SC 4 adopts SPAG N75 as the information model of the main entities
@@ -39,17 +44,20 @@ decisions:
   dates:
   - date: '1992-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Adopt SPAG N64 to manage and approve the SC 4 programme of work
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: adopts
-      date_effective:
-        date: '1992-02-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Adopt SPAG N64 to manage and approve the SC 4 programme of work
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: adopts
+    date_effective:
+      date: '1992-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         To fulfil the objective #c5 of the SC 4 Strategic Policy and the SC 4
         Resolution #90, SC 4 adopts the SPAG document N64 (version 1.6, as amended
         with respect to confirmation of project leaders) as the policy to manage and
@@ -62,17 +70,20 @@ decisions:
   dates:
   - date: '1992-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Adopt SPAG N59 as the base line approved list of SC 4 areas of scope
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: adopts
-      date_effective:
-        date: '1992-02-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Adopt SPAG N59 as the base line approved list of SC 4 areas of scope
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: adopts
+    date_effective:
+      date: '1992-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         To fulfil the objective #c5 of the SC 4 Strategic Policy, SC 4 adopts SPAG
         N59 as the base line approved list of SC 4 areas of scope, work items and
         projects existing on 1992-02-07.
@@ -84,17 +95,20 @@ decisions:
   dates:
   - date: '1992-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Adopt policy 4 of SC 4 N85 as GP#02 to approve SC 4 parts documents
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: adopts
-      date_effective:
-        date: '1992-02-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Adopt policy 4 of SC 4 N85 as GP#02 to approve SC 4 parts documents
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: adopts
+    date_effective:
+      date: '1992-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         Following SC 4 Resolution #84, SC 4 adopts policy #4 of SC 4 document N85
         on "SC 4 documentation approval levels" as GP#02 to approve SC 4 parts
         documents as well as other SC 4 technical documents relevant to the SC 4
@@ -107,17 +121,20 @@ decisions:
   dates:
   - date: '1992-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Direct Secretariat to maintain a dated list of Parts under development
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: directs
-      date_effective:
-        date: '1992-02-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Direct Secretariat to maintain a dated list of Parts under development
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: directs
+    date_effective:
+      date: '1992-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         Following SC 4 Resolution #84, SC 4 directs its secretariat to maintain a
         dated list of Parts to be developed or under development for each SC 4
         standard and to provide these lists to members of SC 4 at each meeting.
@@ -129,17 +146,20 @@ decisions:
   dates:
   - date: '1992-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Direct Secretariat to maintain a dated list of adopted SC 4 projects
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: directs
-      date_effective:
-        date: '1992-02-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Direct Secretariat to maintain a dated list of adopted SC 4 projects
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: directs
+    date_effective:
+      date: '1992-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 directs its secretariat to maintain a dated list of adopted SC 4 projects
         and of the corresponding appointed project leaders and to provide this list
         its members at each meeting.
@@ -151,17 +171,20 @@ decisions:
   dates:
   - date: '1992-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Direct Secretariat to review all existing liaisons for formal registration
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: directs
-      date_effective:
-        date: '1992-02-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Direct Secretariat to review all existing liaisons for formal registration
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: directs
+    date_effective:
+      date: '1992-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 directs its secretariat to review all existing liaisons and to ensure
         that they have been formally registered by the Central Secretariat. Any
         liaisons not so registered shall be established by the Chief Executive Officer.
@@ -173,17 +196,20 @@ decisions:
   dates:
   - date: '1992-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Direct WG 8 and WG 7 to propose an expert to liaise with DCG group
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: directs
-      date_effective:
-        date: '1992-02-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Direct WG 8 and WG 7 to propose an expert to liaise with DCG group
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: directs
+    date_effective:
+      date: '1992-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 directs WG 8 and WG 7 to review the available documents on DCG and work
         together to propose an expert to be appointed by SC 4 to serve in the role of
         liaison with the DCG group.
@@ -195,18 +221,21 @@ decisions:
   dates:
   - date: '1992-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Adopt policy to share and coordinate resources with external standardization
+  title:
+  - spelling: eng
+    value: Adopt policy to share and coordinate resources with external standardization
       efforts
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: adopts
-      date_effective:
-        date: '1992-02-15'
-        type: effective
-      message: |
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: adopts
+    date_effective:
+      date: '1992-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 adopts the policy that it shall endeavor to share and coordinate
         resources and results with any standardization effort outside SC 4 that is
         applicable to the SC 4 scope.
@@ -218,17 +247,20 @@ decisions:
   dates:
   - date: '1992-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Direct WG 3 to propose an expert to liaise with ISO/TC 10/SC 5
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: directs
-      date_effective:
-        date: '1992-02-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Direct WG 3 to propose an expert to liaise with ISO/TC 10/SC 5
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: directs
+    date_effective:
+      date: '1992-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 directs WG 3 to propose an expert to be appointed by SC 4 to liaise with
         the ISO/TC 10/SC 5 in the areas of draughting and tolerances.
 - identifier:
@@ -239,18 +271,21 @@ decisions:
   dates:
   - date: '1992-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Direct Secretariat to draw ISO Technical Board's attention to apparent
+  title:
+  - spelling: eng
+    value: Direct Secretariat to draw ISO Technical Board's attention to apparent
       scope overlaps
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: directs
-      date_effective:
-        date: '1992-02-15'
-        type: effective
-      message: |
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: directs
+    date_effective:
+      date: '1992-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 directs its secretariat to draw the attention of the ISO Technical Board
         to apparent overlaps between the scopes of SC 4 and other ISO/TCs and SCs, and
         to request confirmation that the scope of SC 4 covers all aspects of product
@@ -263,17 +298,20 @@ decisions:
   dates:
   - date: '1992-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Consider Software Product Data NWI within SC 4 Area of Scope A
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: considers
-      date_effective:
-        date: '1992-02-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Consider Software Product Data NWI within SC 4 Area of Scope A
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: considers
+    date_effective:
+      date: '1992-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 considers that the NWI on Software Product Data falls in the SC 4 Area
         of Scope A on Product Data.
 - identifier:
@@ -284,17 +322,20 @@ decisions:
   dates:
   - date: '1992-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Adopt six projects and appoint project leaders for P41-P46
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: adopts
-      date_effective:
-        date: '1992-02-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Adopt six projects and appoint project leaders for P41-P46
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: adopts
+    date_effective:
+      date: '1992-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 adopts the following six projects (PWA/PWB):
 
         * P41 Mechanical Design Using Wireframe, STEP Part 206
@@ -303,11 +344,13 @@ decisions:
         * P44 Electrotechnical Plants
         * P45 Electronic Printed Circuit Assembly, Design and Manufacture
         * P46 Electronics Test, Diagnostics and Remanufacture (PCB/LRM)
-    - type: appoints
-      date_effective:
-        date: '1992-02-15'
-        type: effective
-      message: 'SC 4 appoints respectively as Project Leaders for P41-P46: Jon Aas,
+  - type: appoints
+    date_effective:
+      date: '1992-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 appoints respectively as Project Leaders for P41-P46: Jon Aas,
         Jack Skeels, Rick Bsharah, R. Nerke, J. Corley, and W. Russell.
 
         '
@@ -319,24 +362,29 @@ decisions:
   dates:
   - date: '1992-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Adopt project Design Through Analysis of Composite and Metallic Structures
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: adopts
-      date_effective:
-        date: '1992-02-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Adopt project Design Through Analysis of Composite and Metallic Structures
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: adopts
+    date_effective:
+      date: '1992-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 adopts the project Design Through Analysis of Composite and Metallic
         Structures.
-    - type: appoints
-      date_effective:
-        date: '1992-02-15'
-        type: effective
-      message: 'SC 4 appoints Mr. Keith Hunten as project leader.
+  - type: appoints
+    date_effective:
+      date: '1992-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 appoints Mr. Keith Hunten as project leader.
 
         '
 - identifier:
@@ -347,18 +395,21 @@ decisions:
   dates:
   - date: '1992-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Direct Secretariat to circulate SPAG documents N58 and N75 for P-member
+  title:
+  - spelling: eng
+    value: Direct Secretariat to circulate SPAG documents N58 and N75 for P-member
       comment
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: directs
-      date_effective:
-        date: '1992-02-15'
-        type: effective
-      message: |
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: directs
+    date_effective:
+      date: '1992-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 directs its secretariat to circulate SPAG document N58 and N75 for
         P-member comment by mid-June 1992.
 - identifier:
@@ -369,17 +420,20 @@ decisions:
   dates:
   - date: '1992-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Direct WG 5 to report how Part Libraries requirement can be satisfied
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: directs
-      date_effective:
-        date: '1992-02-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Direct WG 5 to report how Part Libraries requirement can be satisfied
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: directs
+    date_effective:
+      date: '1992-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         With respect to the upward compatibility of EXPRESS, SC 4 directs WG 5 to
         consider the document SC 4/WG 2 N43 and to report to SC 4 at the next plenary
         meeting how the WG 2 requirement for Part Libraries can be satisfied.
@@ -391,17 +445,20 @@ decisions:
   dates:
   - date: '1992-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Accept plan for registration of initial STEP release as DISs
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: accepts
-      date_effective:
-        date: '1992-02-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Accept plan for registration of initial STEP release as DISs
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: accepts
+    date_effective:
+      date: '1992-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 accepts the plan and schedule proposed by PMAG for the registration of
         the initial release of STEP as DISs by 1 January 1993.
 - identifier:
@@ -412,17 +469,20 @@ decisions:
   dates:
   - date: '1992-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Encourage extra national effort for initial STEP release registration
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: encourages
-      date_effective:
-        date: '1992-02-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Encourage extra national effort for initial STEP release registration
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: encourages
+    date_effective:
+      date: '1992-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 encourages extra national effort to support the plan for the registration
         of the initial release of STEP as DISs by 1 January 1993. Extra effort includes
         extra meetings for integration, qualification, editing and for key project
@@ -436,17 +496,20 @@ decisions:
   dates:
   - date: '1992-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Request position papers on coordinating externally developed APs
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '1992-02-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Request position papers on coordinating externally developed APs
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '1992-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests position papers for consideration by PMAG on "Requirements for
         coordinating and qualifying APs developed externally to SC 4".
 - identifier:
@@ -457,17 +520,20 @@ decisions:
   dates:
   - date: '1992-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Request P-members to assure regular participation of PMAG representatives
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '1992-02-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Request P-members to assure regular participation of PMAG representatives
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '1992-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests P-members to consider their PMAG representative assignments to
         assure that nominated members and alternates are available to participate
         regularly.
@@ -479,28 +545,33 @@ decisions:
   dates:
   - date: '1992-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Direct WGs to develop application protocol interoperability methods
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: noting
-      date_effective:
-        date: '1992-02-15'
-        type: effective
-      message: |
-        Noting that a common understanding of what application protocol interoperability
-        means has been developed in an ad hoc group between April 1991 and January 1992.
-    actions:
-    - type: directs
-      date_effective:
-        date: '1992-02-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Direct WGs to develop application protocol interoperability methods
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: directs
+    date_effective:
+      date: '1992-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 directs its WG 4, 5, 6 & 7 to consider the development of methods and
         techniques to achieve application protocol interoperability and their
         implementation as a key priority requirement for STEP beyond the initial release.
+  considerations:
+  - type: noting
+    date_effective:
+      date: '1992-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
+        Noting that a common understanding of what application protocol interoperability
+        means has been developed in an ad hoc group between April 1991 and January 1992.
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '122'
@@ -509,26 +580,31 @@ decisions:
   dates:
   - date: '1992-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Instruct Secretariat to transmit revised final CD 10303-11 for DIS publication
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: instructs
-      date_effective:
-        date: '1992-02-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Instruct Secretariat to transmit revised final CD 10303-11 for DIS publication
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: instructs
+    date_effective:
+      date: '1992-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 instructs its Secretariat to transmit the revised final CD 10303-11 being
         approved for publication as ISO/DIS directly to the ISO Central Secretariat for
         registration and publication as a Draft International Standard without further
         balloting, subject to consensus on the resolution of outstanding issues.
-    - type: recognizes
-      date_effective:
-        date: '1992-02-15'
-        type: effective
-      message: |
+  - type: recognizes
+    date_effective:
+      date: '1992-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 recognizes that these actions are fully in accord with clause 2.4.6 of
         ISO Directives Part 1 for the technical work.
 - identifier:
@@ -539,17 +615,20 @@ decisions:
   dates:
   - date: '1992-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Instruct Secretariat to transmit revised final CD 10303-21 for DIS publication
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: instructs
-      date_effective:
-        date: '1992-02-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Instruct Secretariat to transmit revised final CD 10303-21 for DIS publication
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: instructs
+    date_effective:
+      date: '1992-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 instructs its Secretariat to transmit the revised final CD 10303-21,
         without further balloting subject to consensus on resolution of outstanding
         issues, being approved for publication as ISO/DIS directly to the ISO Central

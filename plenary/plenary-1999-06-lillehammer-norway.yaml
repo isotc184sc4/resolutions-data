@@ -1,7 +1,9 @@
 ---
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Lillehammer, Norway,
-    June 7, 1999 -- June 17, 1999
+  title:
+  - spelling: eng
+    value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Lillehammer, Norway,
+      June 7, 1999 -- June 17, 1999
   date: '1999-06-07'
   source: ISO/TC 184/SC 4 Secretariat
   city: NOLLM
@@ -15,17 +17,20 @@ decisions:
   dates:
   - date: '1999-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Approve project leaders and editors for ISO 10303 projects
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: approves
-      date_effective:
-        date: '1999-06-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Approve project leaders and editors for ISO 10303 projects
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: approves
+    date_effective:
+      date: '1999-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 approves the following new project leaders or project editors for the associated SC4 projects:
 
         |===
@@ -50,17 +55,20 @@ decisions:
   dates:
   - date: '1999-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Approve Category A liaison with PIEBASE and appoint Alan Doniger
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: approves
-      date_effective:
-        date: '1999-06-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Approve Category A liaison with PIEBASE and appoint Alan Doniger
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: approves
+    date_effective:
+      date: '1999-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 approves a Category A active two-way liaison with the PIEBASE, approves
         Mr. Alan Doniger as the person to actively liaise to PIEBASE on SC4's behalf, and
         requests that the SC4 Secretary confirm this liaison with the ISO Central
@@ -73,17 +81,20 @@ decisions:
   dates:
   - date: '1999-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Request waiver of FDIS vote for SC 4 standards under specific conditions
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '1999-06-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Request waiver of FDIS vote for SC 4 standards under specific conditions
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '1999-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 request its Secretariat to ask ISO-Central Secretariat for a waiver of the FDIS
         vote for SC4 standards subject to the following conditions:
 
@@ -105,24 +116,29 @@ decisions:
   dates:
   - date: '1999-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Accept amendments to SC 4 Organization Handbook and circulate Quality Manual
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: accepts
-      date_effective:
-        date: '1999-06-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Accept amendments to SC 4 Organization Handbook and circulate Quality Manual
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: accepts
+    date_effective:
+      date: '1999-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 resolves to accept the amendments to the SC4 Organization Handbook as
         defined in SC4 QC N111, with immediate effect.
-    - type: directs
-      date_effective:
-        date: '1999-06-15'
-        type: effective
-      message: |
+  - type: directs
+    date_effective:
+      date: '1999-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 directs the Quality Committee to circulate the SC4 Quality Manual (QC N112)
         for SC4 Standing Document ballot.
 - identifier:
@@ -133,17 +149,20 @@ decisions:
   dates:
   - date: '1999-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Modify SC 4 organizational handbook for minor changes procedures
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: instructs
-      date_effective:
-        date: '1999-06-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Modify SC 4 organizational handbook for minor changes procedures
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: instructs
+    date_effective:
+      date: '1999-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 instructs its secretariat to modify the SC4 organizational handbook to reflect
         new procedures for incorporating minor changes to standards and standing
         documents as documented in SC4N862.
@@ -155,17 +174,20 @@ decisions:
   dates:
   - date: '1999-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Modify SC 4 organizational handbook to include ISO time limits
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: instructs
-      date_effective:
-        date: '1999-06-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Modify SC 4 organizational handbook to include ISO time limits
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: instructs
+    date_effective:
+      date: '1999-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 instructs its secretariat to modify the SC4 organizational handbook to include
         the ISO time limits for project deliverables and requirements for handling project
         slippage as documented in SC4N863.
@@ -177,17 +199,20 @@ decisions:
   dates:
   - date: '1999-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Modify SC 4 organizational handbook to reference resolution papers template
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: instructs
-      date_effective:
-        date: '1999-06-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Modify SC 4 organizational handbook to reference resolution papers template
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: instructs
+    date_effective:
+      date: '1999-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 instructs its secretariat to modify the SC4 organizational handbook to include a
         reference to the resolution papers template as documented in SC4N864.
 - identifier:
@@ -198,17 +223,20 @@ decisions:
   dates:
   - date: '1999-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Approve PWI for Process Specification Language
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: approves
-      date_effective:
-        date: '1999-06-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Approve PWI for Process Specification Language
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: approves
+    date_effective:
+      date: '1999-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         Subject to discussions with other interested groups in ISO/TC 184, SC4 approves
         acceptance of the PWI proposal (SC4 N875) entitled 'Process Specification
         Language', and directs the Secretariat to take appropriate action to initiate the Work
@@ -221,17 +249,20 @@ decisions:
   dates:
   - date: '1999-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appoint Thomas Warren as Convenor of Quality Committee
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appoints
-      date_effective:
-        date: '1999-06-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Appoint Thomas Warren as Convenor of Quality Committee
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '1999-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 approves the appointment of Thomas Warren as Convenor of the ISO/TC
         184/SC 4 Quality Committee.
 - identifier:
@@ -242,17 +273,20 @@ decisions:
   dates:
   - date: '1999-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Allison Barnard Feeney for her service as Quality Committee Convenor
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '1999-06-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Allison Barnard Feeney for her service as Quality Committee Convenor
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '1999-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 wishes to express its thanks to Allison Barnard Feeney for her leadership of the
         ISO/TC 184/SC 4 Quality Committee and her contributions to the implementation of
         the new quality process for the SC4 organisation.
@@ -264,17 +298,20 @@ decisions:
   dates:
   - date: '1999-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Lisa Phillips for her service as SC 4 Secretary
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '1999-06-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Lisa Phillips for her service as SC 4 Secretary
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '1999-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 wishes to express its thanks to Lisa Phillips for her efforts as Secretary of the
         ISO/TC 184/SC 4 organisation from 1997-9.
 - identifier:
@@ -285,17 +322,20 @@ decisions:
   dates:
   - date: '1999-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Invite WG 12 to lead ad hoc group for enterprise information integration
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '1999-06-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Invite WG 12 to lead ad hoc group for enterprise information integration
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '1999-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 invites its WG 12 to lead an ad hoc group to deliver the SC4 information
         requirements into the BSR activity and the proposed MoU/MG summit, and
         participate in the construction of a global synthesis of enterprise information.
@@ -309,18 +349,21 @@ decisions:
   dates:
   - date: '1999-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Invite participants for product structure requirements synthesis to WG
+  title:
+  - spelling: eng
+    value: Invite participants for product structure requirements synthesis to WG
       10 workshop
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '1999-06-15'
-        type: effective
-      message: |
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '1999-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 invites interested parties in the collection and synthesis of the requirements for
         product structure to participate in the WG 10 workshop on STEP Modularization in
         September 1999.
@@ -336,17 +379,20 @@ decisions:
   dates:
   - date: '1999-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Remove Parts 221 and 106 from ISO 10303 Release 2
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: decides
-      date_effective:
-        date: '1999-06-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Remove Parts 221 and 106 from ISO 10303 Release 2
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: decides
+    date_effective:
+      date: '1999-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 decides to remove Part 221 and its associated Abstract Test Suites as well as
         Part 106 from the list of parts planned for Release 2 of ISO 10303.
 - identifier:
@@ -357,25 +403,30 @@ decisions:
   dates:
   - date: '1999-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Direct WG 11 on PDML and accept collaboration on XML representation
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: directs
-      date_effective:
-        date: '1999-06-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Direct WG 11 on PDML and accept collaboration on XML representation
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: directs
+    date_effective:
+      date: '1999-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 directs WG 11 to take into account the technical aspects of PDML within its work
         for the XML representation of EXPRESS-driven data, specifically in the development
         of a specification for an early bound form.
-    - type: recognizes
-      date_effective:
-        date: '1999-06-15'
-        type: effective
-      message: |
+  - type: recognizes
+    date_effective:
+      date: '1999-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         Furthermore, SC4 recognizes and accepts the proposal and resolution of SC34 to
         collaborate in the NWI being considered by WG 11: XML representation for
         EXPRESS-driven data.
@@ -387,17 +438,20 @@ decisions:
   dates:
   - date: '1999-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Recognize Rainer Glatz for his contributions to SC 4
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: recognizes
-      date_effective:
-        date: '1999-06-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Recognize Rainer Glatz for his contributions to SC 4
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: recognizes
+    date_effective:
+      date: '1999-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         On the occasion of his last meeting, SC4 recognizes the contribution of Rainer Glatz
         to the work of the Subcommittee since its inception in July 1984.
 - identifier:
@@ -408,17 +462,20 @@ decisions:
   dates:
   - date: '1999-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Knut Lindelien and NTS staff for hosting the Lillehammer meeting
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '1999-06-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Knut Lindelien and NTS staff for hosting the Lillehammer meeting
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '1999-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 wishes to thank Knut Lindelien, NTS, and his tireless support staff: Bjørnhild
         Sæterøy, Hans Backer, Ulf Leirstein, Ann-Kristin Nilsen, Camilla Svendsen, for their
         quality services and generous hospitality in hosting the SC4/WGs meeting

@@ -1,7 +1,9 @@
 ---
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Paris, France, March
-    19, 1985 -- March 29, 1985
+  title:
+  - spelling: eng
+    value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Paris, France, March
+      19, 1985 -- March 29, 1985
   date: '1985-03-19'
   source: ISO/TC 184/SC 4 Secretariat
   city: FRPAR
@@ -15,17 +17,20 @@ decisions:
   dates:
   - date: '1985-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Constitute drafting committee with French and English language representatives
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: establishes
-      date_effective:
-        date: '1985-03-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Constitute drafting committee with French and English language representatives
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: establishes
+    date_effective:
+      date: '1985-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 constitutes the drafting committee to include:
 
         * B. LUCET for the French language
@@ -38,17 +43,20 @@ decisions:
   dates:
   - date: '1985-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Adopt the agenda for the March 1985 Paris meeting
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: adopts
-      date_effective:
-        date: '1985-03-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Adopt the agenda for the March 1985 Paris meeting
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: adopts
+    date_effective:
+      date: '1985-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 adopts the agenda SC 4 N 13 for the March 85 meeting as amended by
         SC 4 N 15.
 - identifier:
@@ -59,26 +67,31 @@ decisions:
   dates:
   - date: '1985-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Reconfirm the STEP goal and target first version for 1990 industrial use
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: confirms
-      date_effective:
-        date: '1985-03-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Reconfirm the STEP goal and target first version for 1990 industrial use
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: confirms
+    date_effective:
+      date: '1985-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 reconfirms its goal as expressed in Resolution #2: to develop as
         soon as possible a single international standard for the exchange of
         product definition data to be called the standard for the exchange of
         product model data (STEP).
-    - type: resolves
-      date_effective:
-        date: '1985-03-15'
-        type: effective
-      message: |
+  - type: resolves
+    date_effective:
+      date: '1985-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 will not concern itself with an interim solution based on any
         existing national standards, although it recognizes that these standards
         will continue in parallel use until STEP becomes fully operational.
@@ -93,17 +106,20 @@ decisions:
   dates:
   - date: '1985-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Align national standards development with STEP to ensure convergence
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: agrees
-      date_effective:
-        date: '1985-03-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Align national standards development with STEP to ensure convergence
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: agrees
+    date_effective:
+      date: '1985-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 agrees that, whenever existing national standards are enhanced,
         development should be undertaken in parallel with the corresponding STEP
         effort, using the same reference model to ensure that compatible concepts
@@ -117,25 +133,20 @@ decisions:
   dates:
   - date: '1985-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Direct WG 1 to develop documentation and functional requirements for STEP
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: noting
-      date_effective:
-        date: '1985-03-15'
-        type: effective
-      message: 'SC 4 thanks WG 1 for its accomplishments at its first meeting.
-
-        '
-    actions:
-    - type: directs
-      date_effective:
-        date: '1985-03-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Direct WG 1 to develop documentation and functional requirements for STEP
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: directs
+    date_effective:
+      date: '1985-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 directs WG 1 to:
 
         * Develop documentation requirements for future work
@@ -143,6 +154,16 @@ decisions:
         * Develop precise functional requirements for Version 1 of STEP
         * Develop summary functional requirements for Version 2 of STEP
         * Develop a work program and time schedule at its Paris meeting which will aim at the completion of the technical specification of STEP Version 1.0 by the end of 1986.
+  considerations:
+  - type: noting
+    date_effective:
+      date: '1985-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 thanks WG 1 for its accomplishments at its first meeting.
+
+        '
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: 198503-acclaim-01
@@ -151,17 +172,20 @@ decisions:
   dates:
   - date: '1985-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Mesdames LEBADEZET and CHAUMONT, and AFNOR for hosting the Paris
+  title:
+  - spelling: eng
+    value: Thank Mesdames LEBADEZET and CHAUMONT, and AFNOR for hosting the Paris
       meeting
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '1985-03-15'
-        type: effective
-      message: |
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '1985-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 recognizes the excellent work of Mesdames LEBADEZET and CHAUMONT,
         and thanks AFNOR for its hospitality in hosting this session.

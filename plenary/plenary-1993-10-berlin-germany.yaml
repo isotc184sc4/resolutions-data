@@ -1,7 +1,9 @@
 ---
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Berlin, Germany, October
-    4, 1993 -- October 14, 1993
+  title:
+  - spelling: eng
+    value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Berlin, Germany,
+      October 4, 1993 -- October 14, 1993
   date: '1993-10-04'
   source: ISO/TC 184/SC 4 Secretariat
   city: DEBER
@@ -15,17 +17,20 @@ decisions:
   dates:
   - date: '1993-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Require Abstract Test Suites for each STEP Application Protocol
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: resolves
-      date_effective:
-        date: '1993-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Require Abstract Test Suites for each STEP Application Protocol
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: resolves
+    date_effective:
+      date: '1993-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         For each STEP Application Protocol an Abstract Test Suite shall be developed to
         document the guidelines for testing implementations for conformance to the
         Application Protocol. Before an Application Protocol can be registered as a DIS, the
@@ -38,17 +43,20 @@ decisions:
   dates:
   - date: '1993-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Establish new projects to develop Abstract Test Suites for APs
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: resolves
-      date_effective:
-        date: '1993-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Establish new projects to develop Abstract Test Suites for APs
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: resolves
+    date_effective:
+      date: '1993-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         New projects shall be established to develop Abstract Test Suites for each approved
         STEP Application protocol. PMAG shall name a project leader for each project and
         shall create a project schedule by January 1994.
@@ -60,17 +68,20 @@ decisions:
   dates:
   - date: '1993-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Require formal ballot for CD level approval
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: resolves
-      date_effective:
-        date: '1993-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Require formal ballot for CD level approval
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: resolves
+    date_effective:
+      date: '1993-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 resolves that documents may be circulated to gather comments from all
         member countries using the CD procedure, but the procedure for approving a
         document at the CD level requires a formal ballot. This supersedes resolution
@@ -83,17 +94,20 @@ decisions:
   dates:
   - date: '1993-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Adopt AP 220 project and appoint Jack Corley as leader
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: adopts
-      date_effective:
-        date: '1993-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Adopt AP 220 project and appoint Jack Corley as leader
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: adopts
+    date_effective:
+      date: '1993-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 adopts project P50 "Printed Circuit Assembly Manufacturing Planning" (AP220)
         as part of the Work item on product data and appoints Mr Jack Corley as the project
         leader.
@@ -105,17 +119,20 @@ decisions:
   dates:
   - date: '1993-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Adopt AP 221 project and appoint David Leal as leader
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: adopts
-      date_effective:
-        date: '1993-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Adopt AP 221 project and appoint David Leal as leader
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: adopts
+    date_effective:
+      date: '1993-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 adopts project P49 "Functional Data and Schematic Representation for Process
         Plants" (AP 221) as part of the Work item on product data and appoints Mr David Leal
         as the project leader.
@@ -127,17 +144,20 @@ decisions:
   dates:
   - date: '1993-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Adopt AP 222 project and appoint Glen Ziolko as leader
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: adopts
-      date_effective:
-        date: '1993-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Adopt AP 222 project and appoint Glen Ziolko as leader
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: adopts
+    date_effective:
+      date: '1993-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 adopts project P51 "Exchange of Product Definition Data from Design
         Engineering to Manufacturing Engineering for Composite Structures" (AP 222) as part
         of the Work item on product data and appoints Mr Glen Ziolko as the project leader.
@@ -149,17 +169,20 @@ decisions:
   dates:
   - date: '1993-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Adopt AP 223 project and appoint Constantine Orogo as leader
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: adopts
-      date_effective:
-        date: '1993-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Adopt AP 223 project and appoint Constantine Orogo as leader
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: adopts
+    date_effective:
+      date: '1993-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 adopts project P52 "Exchange of Design and Manufacturing Product
         Information for Cast Parts" (AP 223) as part of the Work item on product data and
         appoints Mr Constantine Orogo as the project leader.
@@ -171,17 +194,20 @@ decisions:
   dates:
   - date: '1993-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Adopt AP 224 project and appoint Len Slovensky as leader
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: adopts
-      date_effective:
-        date: '1993-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Adopt AP 224 project and appoint Len Slovensky as leader
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: adopts
+    date_effective:
+      date: '1993-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 adopts project P53 "Mechanical Products Definition for Process Planning Using
         Form Features" (AP 224) as part of the Work item on product data and appoints Mr
         Len Slovensky as the project leader.
@@ -193,17 +219,20 @@ decisions:
   dates:
   - date: '1993-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Adopt AP 225 project and appoint Wolfgang Haas as leader
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: adopts
-      date_effective:
-        date: '1993-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Adopt AP 225 project and appoint Wolfgang Haas as leader
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: adopts
+    date_effective:
+      date: '1993-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 adopts project P54 "Structural Building Elements using Explicit Shape
         Representation" (AP 225) as part of the Work item on product data and appoints Dr
         Wolfgang Haas as the project leader.
@@ -215,17 +244,20 @@ decisions:
   dates:
   - date: '1993-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Approve separate publication of ISO 10303-22 language bindings
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: approves
-      date_effective:
-        date: '1993-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Approve separate publication of ISO 10303-22 language bindings
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: approves
+    date_effective:
+      date: '1993-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 approves the principle of separate publication of ISO 10303-22 language
         bindings, such as late FORTRAN, late C and early C++, and directs PMAG to
         allocate part numbers as required, on the advice of the Editing Committee.
@@ -237,17 +269,20 @@ decisions:
   dates:
   - date: '1993-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Circulate document N230 for member body comment
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '1993-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Circulate document N230 for member body comment
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '1993-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests its Secretariat to circulate document N230 (SPAG N110 V 1.5) to its
         member bodies for comment.
 - identifier:
@@ -258,17 +293,20 @@ decisions:
   dates:
   - date: '1993-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Direct SPAG to maintain SC 4 Strategic Policy Reference Guide
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: directs
-      date_effective:
-        date: '1993-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Direct SPAG to maintain SC 4 Strategic Policy Reference Guide
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: directs
+    date_effective:
+      date: '1993-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 directs SPAG to establish and maintain an SC 4 Strategic Policy Reference
         Guide and welcomes the proposition of SPAG to make tutorial seminars on the SC 4
         strategic policy.
@@ -280,17 +318,20 @@ decisions:
   dates:
   - date: '1993-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Adopt document N231 as strategic policy for liaisons
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: adopts
-      date_effective:
-        date: '1993-10-15'
-        type: effective
-      message: 'SC 4 adopts document N231 (SPAG N111 V 1.2) as its strategic policy
+  title:
+  - spelling: eng
+    value: Adopt document N231 as strategic policy for liaisons
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: adopts
+    date_effective:
+      date: '1993-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 adopts document N231 (SPAG N111 V 1.2) as its strategic policy
         for liaisons.
 
         '
@@ -302,17 +343,20 @@ decisions:
   dates:
   - date: '1993-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appoint Neal Laurance as Convener of PMAG
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appoints
-      date_effective:
-        date: '1993-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Appoint Neal Laurance as Convener of PMAG
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '1993-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 appoints Mr Neal Laurance as Convener of PMAG, and records its appreciation
         to Mr Jerry Weiss for his efforts in the project since its launch.
 - identifier:
@@ -323,17 +367,20 @@ decisions:
   dates:
   - date: '1993-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Publish ISO 10303 parts as joint ISO/IEC standards
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: accepts
-      date_effective:
-        date: '1993-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Publish ISO 10303 parts as joint ISO/IEC standards
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: accepts
+    date_effective:
+      date: '1993-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 accepts in principle that all Parts of ISO 10303 shall be published as joint
         ISO/IEC standards, and directs its Secretariat to work with the ISO Central
         Secretariat and the SC 4 Editing Committee to confirm that this may take place
@@ -346,17 +393,20 @@ decisions:
   dates:
   - date: '1993-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Direct WG 6 to develop Abstract Test Methods
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: directs
-      date_effective:
-        date: '1993-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Direct WG 6 to develop Abstract Test Methods
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: directs
+    date_effective:
+      date: '1993-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 directs Working Group 6 to develop Abstract Test Methods to be used in
         assessing conformance of implementations using ISO 10303-22.
 - identifier:
@@ -367,17 +417,20 @@ decisions:
   dates:
   - date: '1993-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Require meeting reports distribution within 6 weeks
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '1993-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Require meeting reports distribution within 6 weeks
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '1993-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests its Secretariat to provide meeting reports, including resolutions, for
         distribution to member bodies within 6 weeks of each meeting of SC 4.
 - identifier:
@@ -388,17 +441,20 @@ decisions:
   dates:
   - date: '1993-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Request Secretariat account for ISO/TC 184 resolutions
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '1993-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Request Secretariat account for ISO/TC 184 resolutions
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '1993-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests its Secretariat to take into account those Resolutions of ISO/TC 184
         concerning the work of SC 4.
 - identifier:
@@ -409,24 +465,29 @@ decisions:
   dates:
   - date: '1993-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Endorse ad hoc group on parametrics
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: endorses
-      date_effective:
-        date: '1993-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Endorse ad hoc group on parametrics
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: endorses
+    date_effective:
+      date: '1993-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 endorses the creation of an ad hoc group at the SC 4 level to address how to
         proceed with parametric capabilities for all SC 4 areas of scope.
-    - type: endorses
-      date_effective:
-        date: '1993-10-15'
-        type: effective
-      message: |
+  - type: endorses
+    date_effective:
+      date: '1993-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 endorses P. Boutinaud and H. Scheder as co-chairs of this group. The ad hoc
         group is requested to provide its recommendations to the next meeting of SC 4.
 - identifier:
@@ -437,17 +498,20 @@ decisions:
   dates:
   - date: '1993-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Request nominations for ad hoc group on parametrics
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '1993-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Request nominations for ad hoc group on parametrics
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '1993-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests its P-members, and the conveners of Working Groups to nominate
         experts as participants in the ad hoc group on parametrics.
 - identifier:
@@ -458,17 +522,20 @@ decisions:
   dates:
   - date: '1993-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appoint Adam Polly as project leader for P39
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appoints
-      date_effective:
-        date: '1993-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Appoint Adam Polly as project leader for P39
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '1993-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 appoints Mr Adam Polly as project leader of project P39 (WI 1-WG 4-p2.2) on
         STEP resource model integration and thanks Mrs Yuhwei Yang for her contribution to
         SC 4/P39.
@@ -480,17 +547,20 @@ decisions:
   dates:
   - date: '1993-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appoint Yuhwei Yang as project leader for P40
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appoints
-      date_effective:
-        date: '1993-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Appoint Yuhwei Yang as project leader for P40
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '1993-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 appoints Mrs Yuhwei Yang as project leader of project P40 (WI1-WG 4-p6.2) on
         STEP application protocol integration and thanks Mr Steve Ryan for his contribution to
         SC 4/P40.
@@ -502,17 +572,20 @@ decisions:
   dates:
   - date: '1993-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appoint Bernd Ingenbleek as project leader for P18
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appoints
-      date_effective:
-        date: '1993-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Appoint Bernd Ingenbleek as project leader for P18
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '1993-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 appoints Mr Bernd Ingenbleek as project leader of project P18 on Part 201
         Application protocol: Explicit draughting, and thanks Mr Peter Kruse for his
         contribution to SC 4/P18.
@@ -524,17 +597,20 @@ decisions:
   dates:
   - date: '1993-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Barbara Warthen for parametrics support
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '1993-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Barbara Warthen for parametrics support
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '1993-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 thanks Barbara Warthen for her efforts in initiating and supporting this work on
         parametrics.
 - identifier:
@@ -545,17 +621,20 @@ decisions:
   dates:
   - date: '1993-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Require explicit sign-off information for PMAG voting
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: directs
-      date_effective:
-        date: '1993-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Require explicit sign-off information for PMAG voting
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: directs
+    date_effective:
+      date: '1993-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 directs PMAG to ensure that, at that point in time when PMAG is required to vote
         on any Part promotion which is CD or DIS promotion, the information about sign-offs
         having occurred earlier is available to the PMAG national representatives in an explicit
@@ -574,17 +653,20 @@ decisions:
   dates:
   - date: '1993-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Ask PMAG to answer questions regarding AICs
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '1993-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Ask PMAG to answer questions regarding AICs
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '1993-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 asks PMAG to answer the following questions regarding AICs:
 
         1. What is the role of AICs in STEP?
@@ -601,17 +683,20 @@ decisions:
   dates:
   - date: '1993-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank DIN and ProSTEP for hosting the meeting
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '1993-10-15'
-        type: effective
-      message: 'SC 4 thanks DIN and ProSTEP for hosting and supporting the meeting
-        in Berlin.
+  title:
+  - spelling: eng
+    value: Thank DIN and ProSTEP for hosting the meeting
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '1993-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 thanks DIN and ProSTEP for hosting and supporting the meeting in
+        Berlin.
 
         '

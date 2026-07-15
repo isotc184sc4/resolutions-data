@@ -1,7 +1,9 @@
 ---
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Seoul, Korea, May
-    12, 2024 -- May 17, 2024
+  title:
+  - spelling: eng
+    value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Seoul, Korea, May
+      12, 2024 -- May 17, 2024
   date: '2024-05-12'
   source: ISO/TC 184/SC 4 Secretariat
   city: KRSEL
@@ -15,17 +17,20 @@ decisions:
   dates:
   - date: '2024-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Approve Project Leaders and Project Editors for SC 4 Projects
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: approves
-      date_effective:
-        date: '2024-05-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Approve Project Leaders and Project Editors for SC 4 Projects
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: approves
+    date_effective:
+      date: '2024-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 Approves the following Project Leaders and Project Editors for the listed Projects:
 
         |===
@@ -41,17 +46,20 @@ decisions:
   dates:
   - date: '2024-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Set 8-week ballot duration for new work item proposals
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2024-05-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Set 8-week ballot duration for new work item proposals
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2024-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests its Committee Manager to apply the 8-week ballot duration to the
         following NP ballots and coordinate with the appropriate committees in joint work:
 
@@ -78,26 +86,20 @@ decisions:
   dates:
   - date: '2024-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appoint Convenors and Deputy Convenors for SC 4
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: noting
-      date_effective:
-        date: '2024-05-15'
-        type: effective
-      message: 'Noting that continuity of operations and management of work is an
-        important consideration to the successful operation of advisory groups
-
-        '
-    actions:
-    - type: appoints
-      date_effective:
-        date: '2024-05-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Appoint Convenors and Deputy Convenors for SC 4
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '2024-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 appoints the following Convenors and Deputy Convenors for a three-year term, with appreciation to serve in this capacity:
 
         |===
@@ -122,6 +124,17 @@ decisions:
         |JWG 24 |Co-Convenor |Murayama, Hiroshi
         |JWG 24 |Deputy |Sonoda, Yoshiaki
         |===
+  considerations:
+  - type: noting
+    date_effective:
+      date: '2024-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'Noting that continuity of operations and management of work is an important
+        consideration to the successful operation of advisory groups
+
+        '
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '1139'
@@ -130,32 +143,37 @@ decisions:
   dates:
   - date: '2024-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Restructure ISO 18136 as a multi-part standard
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: noting
-      date_effective:
-        date: '2024-05-15'
-        type: effective
-      message: 'Noting that WG 3 and the ISO/CD 18136 project team foresee the development
-        of new capabilities of the ISO 18136 standard to meet further nuclear industry
-        requirements,
-
-        '
-    actions:
-    - type: accepts
-      date_effective:
-        date: '2024-05-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Restructure ISO 18136 as a multi-part standard
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: accepts
+    date_effective:
+      date: '2024-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 accepts the recommendation of WG 3 and requests its Committee Manager
         coordinate with ISO/CS and designate project id 85184 as ISO/CD 18136-1 and
         recognize ISO 18136 as a multi-part standard and update the title as: Automation
         systems and integration -- Nuclear digital ecosystem -- Part 1: Overview and
         framework noting no change in scope to the project or its schedule.
+  considerations:
+  - type: noting
+    date_effective:
+      date: '2024-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'Noting that WG 3 and the ISO/CD 18136 project team foresee the development
+        of new capabilities of the ISO 18136 standard to meet further nuclear industry
+        requirements,
+
+        '
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '1140'
@@ -164,27 +182,32 @@ decisions:
   dates:
   - date: '2024-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Update ISO/TC 184/SC 4 Handbook via CIB
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: noting
-      date_effective:
-        date: '2024-05-15'
-        type: effective
-      message: 'Noting the work accomplished by ISO/TC 184/SC 4/PPC
-
-        '
-    actions:
-    - type: requests
-      date_effective:
-        date: '2024-05-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Update ISO/TC 184/SC 4 Handbook via CIB
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2024-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests its Committee Manager submit ISO/TC 184/SC 4/PPC N308 for a Committee Internal Ballot of eight
         weeks duration for approval as a standing document of SC 4 and replace the current SC 4 Handbook (SC4N3713).
+  considerations:
+  - type: noting
+    date_effective:
+      date: '2024-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'Noting the work accomplished by ISO/TC 184/SC 4/PPC
+
+        '
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '1141'
@@ -193,37 +216,32 @@ decisions:
   dates:
   - date: '2024-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Launch PWI for technical report on product data visualization
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: noting
-      date_effective:
-        date: '2024-05-15'
-        type: effective
-      message: 'Noting the proposal from JWG 16 for creating a technical report supporting
-        future developments in the scope of visualization for industrial data and
-        especially industrial visualization requirements
-
-        '
-    actions:
-    - type: requests
-      date_effective:
-        date: '2024-05-15'
-        type: effective
-      message: 'SC 4 requests its Committee Manager to coordinate with ISO/CS to initiate
+  title:
+  - spelling: eng
+    value: Launch PWI for technical report on product data visualization
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2024-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests its Committee Manager to coordinate with ISO/CS to initiate
         the development of a technical report with the title "Automation systems and
         integration -- Industrial data -- Industrial requirements for product data
         visualization and perspectives".
 
         '
-    - type: appoints
-      date_effective:
-        date: '2024-05-15'
-        type: effective
-      message: |
+  - type: appoints
+    date_effective:
+      date: '2024-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 appoints Christophe MOUTON and Atsuto SOMA as project leaders, Soonhung HAN as editor, and requests SDT 18 with the following target dates:
 
         * Circulation of 1st Draft Technical Report to experts: for the Fall 2024 SC 4 plenary
@@ -231,12 +249,26 @@ decisions:
         * Publication: Fall 2025
 
         And allocates the project to JWG 16.
-    - type: requests
-      date_effective:
-        date: '2024-05-15'
-        type: effective
-      message: 'SC 4 requests its Committee Manager to activate the OSD once the PWI
+  - type: requests
+    date_effective:
+      date: '2024-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests its Committee Manager to activate the OSD once the PWI
         is initiated.
+
+        '
+  considerations:
+  - type: noting
+    date_effective:
+      date: '2024-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'Noting the proposal from JWG 16 for creating a technical report supporting
+        future developments in the scope of visualization for industrial data and
+        especially industrial visualization requirements
 
         '
 - identifier:
@@ -247,17 +279,20 @@ decisions:
   dates:
   - date: '2024-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank KSTEP and local staff for organizing the 87th Plenary
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2024-05-15'
-        type: adoption
-      message: |
+  title:
+  - spelling: eng
+    value: Thank KSTEP and local staff for organizing the 87th Plenary
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2024-05-15'
+      type: adoption
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its appreciation to the following individuals at KSTEP for organizing the
         87th ISO/TC 184/SC 4 Plenary in Seoul, Korea from 2024-05-12 to 2024-05-17:
 
@@ -278,17 +313,20 @@ decisions:
   dates:
   - date: '2024-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank contributors and presenters at the Open Technical Forum
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2024-05-15'
-        type: adoption
-      message: |
+  title:
+  - spelling: eng
+    value: Thank contributors and presenters at the Open Technical Forum
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2024-05-15'
+      type: adoption
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its appreciation to the following individuals for contributing and
         presenting at the Open Technical Forum discussion on Monday evening:
 
@@ -304,17 +342,20 @@ decisions:
   dates:
   - date: '2024-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank contributors, presenters, and sponsors at Industry Day
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2024-05-15'
-        type: adoption
-      message: |
+  title:
+  - spelling: eng
+    value: Thank contributors, presenters, and sponsors at Industry Day
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2024-05-15'
+      type: adoption
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its appreciation to the following individuals for contributing and
         presenting at Industry Day on Tuesday:
 
@@ -348,17 +389,20 @@ decisions:
   dates:
   - date: '2024-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank the staff of Asunje
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2024-05-15'
-        type: adoption
-      message: |
+  title:
+  - spelling: eng
+    value: Thank the staff of Asunje
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2024-05-15'
+      type: adoption
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its appreciation to the staff of Asunje for an enjoyable Korean dining
         experience at our social event on Tuesday evening.
 - identifier:
@@ -369,17 +413,20 @@ decisions:
   dates:
   - date: '2024-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank SC 4 Liaisons for their reports at the 87th Plenary
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2024-05-15'
-        type: adoption
-      message: |
+  title:
+  - spelling: eng
+    value: Thank SC 4 Liaisons for their reports at the 87th Plenary
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2024-05-15'
+      type: adoption
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its appreciation to all our SC 4 Liaisons who provided reports at the 87th
         Plenary:
 
@@ -397,16 +444,19 @@ decisions:
   dates:
   - date: '2024-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank all experts, delegates, and leaders for a successful hybrid plenary
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2024-05-15'
-        type: adoption
-      message: |
+  title:
+  - spelling: eng
+    value: Thank all experts, delegates, and leaders for a successful hybrid plenary
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2024-05-15'
+      type: adoption
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its sincere appreciation to all the experts, delegates, and leaders for
         successfully executing our Spring plenary meeting in a hybrid format.

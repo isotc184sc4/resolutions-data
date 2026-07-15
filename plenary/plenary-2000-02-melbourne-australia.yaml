@@ -1,7 +1,9 @@
 ---
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Melbourne, Australia,
-    February 14, 2000 -- February 18, 2000
+  title:
+  - spelling: eng
+    value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Melbourne, Australia,
+      February 14, 2000 -- February 18, 2000
   date: '2000-02-14'
   source: ISO/TC 184/SC 4 Secretariat
   city: AUMEL
@@ -15,17 +17,20 @@ decisions:
   dates:
   - date: '2000-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Approve project leaders and editors for ISO 10303 projects
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: approves
-      date_effective:
-        date: '2000-02-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Approve project leaders and editors for ISO 10303 projects
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: approves
+    date_effective:
+      date: '2000-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 approves the following new project leaders or project editors for the associated SC4 projects:
 
         |===
@@ -62,17 +67,20 @@ decisions:
   dates:
   - date: '2000-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Cancel AP230 and its associated ATS 330
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2000-02-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Cancel AP230 and its associated ATS 330
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2000-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 resolves to cancel AP230 and its associated ATS 330- Building Structural
         Frame: Steelwork.
 - identifier:
@@ -83,17 +91,20 @@ decisions:
   dates:
   - date: '2000-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Clarify the SEDS process in the SC 4 Handbook
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: directs
-      date_effective:
-        date: '2000-02-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Clarify the SEDS process in the SC 4 Handbook
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: directs
+    date_effective:
+      date: '2000-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 directs its Secretariat to make the following changes to the SC4 Handbook.
         Add the following to the first sentence of 3.3 (added text italicized):
 
@@ -119,17 +130,20 @@ decisions:
   dates:
   - date: '2000-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Revise operation of the Quality Committee in SC 4 Handbook
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: directs
-      date_effective:
-        date: '2000-02-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Revise operation of the Quality Committee in SC 4 Handbook
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: directs
+    date_effective:
+      date: '2000-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 directs its Secretariat to make the following changes to the SC4 Handbook (SC
         4 N935).
 
@@ -198,11 +212,13 @@ decisions:
         liaisons.
 
         Delete 6.4
-    - type: directs
-      date_effective:
-        date: '2000-02-15'
-        type: effective
-      message: |
+  - type: directs
+    date_effective:
+      date: '2000-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 also directs the Quality Committee to ensure that the SC4 Quality Manual is
         consistent with the revised description of the QC's mode of operation as described
         above.
@@ -214,17 +230,20 @@ decisions:
   dates:
   - date: '2000-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appoint Tom Warren and Julian Fowler to Quality Committee roles
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appoints
-      date_effective:
-        date: '2000-02-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Appoint Tom Warren and Julian Fowler to Quality Committee roles
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '2000-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 appoints Tom Warren as Coordinator of the Quality Committee, and Julian
         Fowler as Deputy Coordinator of the Quality Committee.
 - identifier:
@@ -235,31 +254,38 @@ decisions:
   dates:
   - date: '2000-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Encourage OMG to accept UML and EXPRESS interoperability
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: encourages
-      date_effective:
-        date: '2000-02-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Encourage OMG to accept UML and EXPRESS interoperability
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: encourages
+    date_effective:
+      date: '2000-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 encourages OMG to accept interoperability between UML and EXPRESS
         (ISO 10303-11) as a mandatory requirement in the UML 2.0 development effort.
-    - type: directs
-      date_effective:
-        date: '2000-02-15'
-        type: effective
-      message: |
+  - type: directs
+    date_effective:
+      date: '2000-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 directs its WGs 10 and 11 to work closely with OMG, especially the UML 2.0 WG
         in OMG's Analysis and Design PTF, in support of this goal.
-    - type: asks
-      date_effective:
-        date: '2000-02-15'
-        type: effective
-      message: |
+  - type: asks
+    date_effective:
+      date: '2000-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 asks its member bodies and liaison organisations to support these efforts
         adequately in OMG through their member companies and organisations.
 - identifier:
@@ -270,17 +296,20 @@ decisions:
   dates:
   - date: '2000-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Nigel Shaw and Daniel Rivers-Moore for their effort as project leader
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2000-02-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Nigel Shaw and Daniel Rivers-Moore for their effort as project leader
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2000-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 thanks Nigel Shaw and Daniel Rivers-Moore for their effort as project leader
         under WG 11.
 - identifier:
@@ -291,17 +320,20 @@ decisions:
   dates:
   - date: '2000-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Accept WG 11 recommendation to change title of ISO 10303-28
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: accepts
-      date_effective:
-        date: '2000-02-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Accept WG 11 recommendation to change title of ISO 10303-28
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: accepts
+    date_effective:
+      date: '2000-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 accepts the recommendation of WG 11 to change the title of ISO 10303-28 to:
         Product data representation and exchange: Implementation methods: XML
         representation of EXPRESS schemas and data.
@@ -313,32 +345,20 @@ decisions:
   dates:
   - date: '2000-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Terminate direct liaisons with inactive organisations
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: noting
-      date_effective:
-        date: '2000-02-15'
-        type: adoption
-      message: |
-        SC4 notes that a number of its liaisons are inactive, due to evolving requirements
-        and changes in other organizations.
-    - type: noting
-      date_effective:
-        date: '2000-02-15'
-        type: adoption
-      message: |
-        SC4 notes the importance of its relation with UN/CEFACT which will be continued
-        as part of participation in the MoU management group for electronic business.
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2000-02-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Terminate direct liaisons with inactive organisations
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2000-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 resolves to terminate its direct liaisons with the following organisations:
 
         * CAM-I
@@ -351,6 +371,25 @@ decisions:
         * ISO/IEC JTC 1/SC 7
         * ISO/IEC JTC 1/SC 7/WG 11
         * ISO/IEC JTC 1/WG 4
+  considerations:
+  - type: noting
+    date_effective:
+      date: '2000-02-15'
+      type: adoption
+    message:
+    - spelling: eng
+      value: |
+        SC4 notes that a number of its liaisons are inactive, due to evolving requirements
+        and changes in other organizations.
+  - type: noting
+    date_effective:
+      date: '2000-02-15'
+      type: adoption
+    message:
+    - spelling: eng
+      value: |
+        SC4 notes the importance of its relation with UN/CEFACT which will be continued
+        as part of participation in the MoU management group for electronic business.
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '449'
@@ -359,17 +398,20 @@ decisions:
   dates:
   - date: '2000-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Amend Organisation Handbook on Technical Specifications balloting
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2000-02-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Amend Organisation Handbook on Technical Specifications balloting
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2000-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 requests its secretariat to amend the Organisation Handbook as follows:
 
         Amend Clause 2.3 to add reference to Technical Specifications "...... (CD) or
@@ -387,34 +429,41 @@ decisions:
   dates:
   - date: '2000-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Recommend ISO/CS publish new edition of ISO Directives and recognize Sophie
+  title:
+  - spelling: eng
+    value: Recommend ISO/CS publish new edition of ISO Directives and recognize Sophie
       Clivio
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: recognizes
-      date_effective:
-        date: '2000-02-15'
-        type: effective
-      message: |
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: recognizes
+    date_effective:
+      date: '2000-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 recognizes the excellence of the support and advice of Mrs. Sophie Clivio in the
         interpretation and explanation of the ISO Directives and the many TMB decisions
         complementing the Directives.
-    - type: recommends
-      date_effective:
-        date: '2000-02-15'
-        type: effective
-      message: |
+  - type: recommends
+    date_effective:
+      date: '2000-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 recommends the ISO/CS to publish a new edition of the ISO Directives Parts 1
         and 3 incorporating the various ISO/TMB decisions, in order to facilitate the access to
         the rules governing the Committee work.
-    - type: thanks
-      date_effective:
-        date: '2000-02-15'
-        type: effective
-      message: |
+  - type: thanks
+    date_effective:
+      date: '2000-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 thanks the ISO/CEO for the nomination of Mrs. Sophie Clivio as Technical
         Officer for ISO/TC 184 and ISO/TC 184/SC 4.
 - identifier:
@@ -425,17 +474,20 @@ decisions:
   dates:
   - date: '2000-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Establish liaison with ISO/TC 207/SC 5 and appoint Dr. Anna Moreno
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: accepts
-      date_effective:
-        date: '2000-02-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Establish liaison with ISO/TC 207/SC 5 and appoint Dr. Anna Moreno
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: accepts
+    date_effective:
+      date: '2000-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 accepts the request from ISO/TC 207/SC 5 to establish a liaison and appoints
         Dr. Anna Moreno as the liaison officer from SC4 to ISO/TC 207/SC 5.
 - identifier:
@@ -446,25 +498,30 @@ decisions:
   dates:
   - date: '2000-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Request VAMAS establish Category A liaison with SC 4
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2000-02-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Request VAMAS establish Category A liaison with SC 4
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2000-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 requests the Versailles Project on Advanced Materials and Standards (VAMAS) to
         establish a Category A liaison with SC4, directed particularly at Technical Working
         Area (TWA) 10.
-    - type: appoints
-      date_effective:
-        date: '2000-02-15'
-        type: effective
-      message: 'SC4 appoints Dr. Anna Moreno as the liaison officer from SC4 to VAMAS.
+  - type: appoints
+    date_effective:
+      date: '2000-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC4 appoints Dr. Anna Moreno as the liaison officer from SC4 to VAMAS.
 
         '
 - identifier:
@@ -475,17 +532,20 @@ decisions:
   dates:
   - date: '2000-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Accept amendments to SC 4 Organization Handbook defined in QC N123
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2000-02-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Accept amendments to SC 4 Organization Handbook defined in QC N123
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2000-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 resolves to accept the amendments to the SC4 Organization Handbook
         as defined in SC4 QC N123, with immediate effect.
 - identifier:
@@ -496,28 +556,33 @@ decisions:
   dates:
   - date: '2000-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Support cooperation between SC 4 and Object Management Group
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: noting
-      date_effective:
-        date: '2000-02-15'
-        type: adoption
-      message: |
-        The SC4 Secretariat has received a communication from the Object Management
-        Group (OMG) concerning mutual interest and potential cooperative activities.
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2000-02-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Support cooperation between SC 4 and Object Management Group
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2000-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 fully supports and looks forward to working with the OMG organization to achieve
         mutual benefits in the development, balloting, and accreditation of appropriate
         specifications which qualify as ISO deliverables.
+  considerations:
+  - type: noting
+    date_effective:
+      date: '2000-02-15'
+      type: adoption
+    message:
+    - spelling: eng
+      value: |
+        The SC4 Secretariat has received a communication from the Object Management
+        Group (OMG) concerning mutual interest and potential cooperative activities.
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: 200002-acclaim-07
@@ -526,17 +591,20 @@ decisions:
   dates:
   - date: '2000-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Ms. Nicole Watkinson for welcoming remarks
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2000-02-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Ms. Nicole Watkinson for welcoming remarks
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2000-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 expresses its appreciation to Ms. Nicole Watkinson, Director of Manufacturing
         Industry, Victoria, in the Department of Industry and Regional Development,
         speaking on behalf of the Victorian Minister for Manufacturing and Industry, for her
@@ -549,17 +617,20 @@ decisions:
   dates:
   - date: '2000-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank SAA and host staff for Melbourne meeting support
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2000-02-15'
-        type: adoption
-      message: |
+  title:
+  - spelling: eng
+    value: Thank SAA and host staff for Melbourne meeting support
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2000-02-15'
+      type: adoption
+    message:
+    - spelling: eng
+      value: |
         SC4 expresses its appreciation to its meeting host, Standards Authority of Australia
         (SAA), for the excellent meeting facilities, good food, and superb desserts as well as
         the wonderful banquet on Tuesday evening. SC4 also expresses its appreciation to
@@ -573,17 +644,20 @@ decisions:
   dates:
   - date: '2000-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Convenors, Project Leaders, and Rapporteurs for their efforts
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2000-02-15'
-        type: adoption
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Convenors, Project Leaders, and Rapporteurs for their efforts
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2000-02-15'
+      type: adoption
+    message:
+    - spelling: eng
+      value: |
         SC4 expresses its appreciation to the Convenors, Project Leaders and Rapporteurs
         for their efforts in support of the work of SC4 and for the preparation of the reports
         that reflect these activities.
@@ -595,17 +669,20 @@ decisions:
   dates:
   - date: '2000-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Rob Anderson and Howard Mason for SC 4 database verification
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2000-02-15'
-        type: adoption
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Rob Anderson and Howard Mason for SC 4 database verification
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2000-02-15'
+      type: adoption
+    message:
+    - spelling: eng
+      value: |
         SC4 expresses its appreciation to Rob Anderson of BSI and Howard Mason of BAE
         SYSTEMS for their efforts in support of the clean-up, verification, and validation of
         the SC4 database. This is a major contribution that is key to the successful
@@ -618,17 +695,20 @@ decisions:
   dates:
   - date: '2000-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Drafting Committee for completion of resolutions
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2000-02-15'
-        type: adoption
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Drafting Committee for completion of resolutions
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2000-02-15'
+      type: adoption
+    message:
+    - spelling: eng
+      value: |
         SC4 expresses its appreciation to the Drafting Committee for the completion of its
         resolutions.
 - identifier:
@@ -639,17 +719,20 @@ decisions:
   dates:
   - date: '2000-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Dick Wandmacher for successful SC 4 Plenary Meeting
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2000-02-15'
-        type: adoption
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Dick Wandmacher for successful SC 4 Plenary Meeting
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2000-02-15'
+      type: adoption
+    message:
+    - spelling: eng
+      value: |
         SC4 expresses its appreciation to its Chairman, Mr. Dick Wandmacher, for his fine
         efforts in bringing about another successful SC4 Plenary Meeting. His continuous
         leadership, patience, good humor and attention to getting the work done are critical to
@@ -662,16 +745,19 @@ decisions:
   dates:
   - date: '2000-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Gabriel Barta for service as Technical Officer
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2000-02-15'
-        type: adoption
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Gabriel Barta for service as Technical Officer
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2000-02-15'
+      type: adoption
+    message:
+    - spelling: eng
+      value: |
         SC4 expresses its appreciation to Gabriel Barta for his service and contributions as
         Technical Officer for ISO/TC 184/SC 4.

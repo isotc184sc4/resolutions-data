@@ -1,7 +1,9 @@
 ---
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Beijing, China, May
-    20, 2018 -- May 25, 2018
+  title:
+  - spelling: eng
+    value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Beijing, China,
+      May 20, 2018 -- May 25, 2018
   date: '2018-05-20'
   source: ISO/TC 184/SC 4 Secretariat
   city: CNBJS
@@ -15,17 +17,20 @@ decisions:
   dates:
   - date: '2018-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Reappoint Paul van Exel as WG 3 and IF Convenor
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appoints
-      date_effective:
-        date: '2018-05-15'
-        type: effective
-      message: 'SC 4 appoints Paul van Exel as Convenor for the WG 3 "Oil, Gas, Process
+  title:
+  - spelling: eng
+    value: Reappoint Paul van Exel as WG 3 and IF Convenor
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '2018-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 appoints Paul van Exel as Convenor for the WG 3 "Oil, Gas, Process
         and Power" and "Implementation Forum (IF)" for a further three year term,
         with appreciation for his offer to serve in that capacity.
 
@@ -38,17 +43,20 @@ decisions:
   dates:
   - date: '2018-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Reappoint Keith Hunten as WG 12 Convenor
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appoints
-      date_effective:
-        date: '2018-05-15'
-        type: effective
-      message: 'SC 4 appoints Keith Hunten as Convenor for the WG 12, "STEP product
+  title:
+  - spelling: eng
+    value: Reappoint Keith Hunten as WG 12 Convenor
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '2018-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 appoints Keith Hunten as Convenor for the WG 12, "STEP product
         modeling and resources" for a further three year term, with appreciation for
         his offer to serve in that capacity.
 
@@ -61,19 +69,22 @@ decisions:
   dates:
   - date: '2018-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Reappoint Tim King as WG 13 Convenor
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appoints
-      date_effective:
-        date: '2018-05-15'
-        type: effective
-      message: 'SC 4 appoints Tim King as Convenor for the WG 13 "Industrial Data
-        Quality" for a further three year term, with appreciation for his offer to
-        serve in that capacity.
+  title:
+  - spelling: eng
+    value: Reappoint Tim King as WG 13 Convenor
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '2018-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 appoints Tim King as Convenor for the WG 13 "Industrial Data Quality"
+        for a further three year term, with appreciation for his offer to serve in
+        that capacity.
 
         '
 - identifier:
@@ -84,17 +95,20 @@ decisions:
   dates:
   - date: '2018-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appoint Anne-Francoise Cutting-Decelle as JWG 8 Convenor
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appoints
-      date_effective:
-        date: '2018-05-15'
-        type: effective
-      message: 'SC 4 appoints Anne-Francoise Cutting-Decelle as Convenor for the JWG
+  title:
+  - spelling: eng
+    value: Appoint Anne-Francoise Cutting-Decelle as JWG 8 Convenor
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '2018-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 appoints Anne-Francoise Cutting-Decelle as Convenor for the JWG
         08 "Joint ISO/TC 184/SC 4 - ISO/TC 184/SC 5 WG; Manufacturing process and
         management information" for a three year term, with appreciation for her offer
         to serve in that capacity.
@@ -108,17 +122,20 @@ decisions:
   dates:
   - date: '2018-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appoint Changsoo Lee as Quality Committee Deputy Convenor
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appoints
-      date_effective:
-        date: '2018-05-15'
-        type: effective
-      message: 'SC 4 appoints Changsoo Lee as Deputy Convenor for the Quality Committee
+  title:
+  - spelling: eng
+    value: Appoint Changsoo Lee as Quality Committee Deputy Convenor
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '2018-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 appoints Changsoo Lee as Deputy Convenor for the Quality Committee
         for a three year term, with appreciation for his offer to serve in that capacity.
 
         '
@@ -130,29 +147,34 @@ decisions:
   dates:
   - date: '2018-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Apply 8-week ballot duration to ANSI QIF harvesting NP
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2018-05-15'
-        type: effective
-      message: 'SC 4 requests its Chair to convene a group representing WG 12, WG
-        15, and WG 16 to review the explanatory report on QIF harvesting submitted
-        to Change Management and recommend whether to proceed to an NP ballot. This
-        review is expected to take four weeks and will be reported out at the next
-        available PPC meeting.
+  title:
+  - spelling: eng
+    value: Apply 8-week ballot duration to ANSI QIF harvesting NP
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2018-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests its Chair to convene a group representing WG 12, WG 15,
+        and WG 16 to review the explanatory report on QIF harvesting submitted to
+        Change Management and recommend whether to proceed to an NP ballot. This review
+        is expected to take four weeks and will be reported out at the next available
+        PPC meeting.
 
         '
-    - type: requests
-      date_effective:
-        date: '2018-05-15'
-        type: effective
-      message: 'SC 4 requests its Secretariat to apply the 8 week ballot duration
-        to any resulting NP for harvesting the ANSI QIF standard.
+  - type: requests
+    date_effective:
+      date: '2018-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests its Secretariat to apply the 8 week ballot duration to
+        any resulting NP for harvesting the ANSI QIF standard.
 
         '
 - identifier:
@@ -163,18 +185,21 @@ decisions:
   dates:
   - date: '2018-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Apply 8-week ballot duration to ISO 15926-14 NP
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2018-05-15'
-        type: effective
-      message: 'SC 4 requests its Secretariat to apply the 8 week ballot duration
-        to the NP for ISO 15926-14.
+  title:
+  - spelling: eng
+    value: Apply 8-week ballot duration to ISO 15926-14 NP
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2018-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests its Secretariat to apply the 8 week ballot duration to
+        the NP for ISO 15926-14.
 
         '
 - identifier:
@@ -185,17 +210,20 @@ decisions:
   dates:
   - date: '2018-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Request 9-month extension for ISO 10303-242 ed2
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2018-05-15'
-        type: effective
-      message: 'SC 4 requests the ISO TMB to grant a 9 month extension to ISO 10303-242
+  title:
+  - spelling: eng
+    value: Request 9-month extension for ISO 10303-242 ed2
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2018-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests the ISO TMB to grant a 9 month extension to ISO 10303-242
         ed2 in accordance with the attached justification.
 
         '
@@ -207,17 +235,20 @@ decisions:
   dates:
   - date: '2018-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Apply 48-month development track to ISO 8000-64
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2018-05-15'
-        type: effective
-      message: 'SC 4 requests its Secretariat to apply the 48 month development track
+  title:
+  - spelling: eng
+    value: Apply 48-month development track to ISO 8000-64
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2018-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests its Secretariat to apply the 48 month development track
         to the ISO 8000-64 project.
 
         '
@@ -229,29 +260,34 @@ decisions:
   dates:
   - date: '2018-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Submit ISO 8000-110 ed2 for DIS Ballot
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: noting
-      date_effective:
-        date: '2018-05-15'
-        type: effective
-      message: 'Noting that the recent ISO 8000-110 ed2 development has resulted in
-        minor editorial changes with no change of scope.
-
-        '
-    actions:
-    - type: requests
-      date_effective:
-        date: '2018-05-15'
-        type: effective
-      message: 'SC 4 requests ISO CS to register the project as SDT 18 and its Secretariat
+  title:
+  - spelling: eng
+    value: Submit ISO 8000-110 ed2 for DIS Ballot
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2018-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests ISO CS to register the project as SDT 18 and its Secretariat
         to submit the document straight for DIS ballot. Target date for submission:
         2019-02-28, Target date for publication: 2019-08-31, Project Leader: Peter
         Eales, Convenor: Tim King, WG13.
+
+        '
+  considerations:
+  - type: noting
+    date_effective:
+      date: '2018-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'Noting that the recent ISO 8000-110 ed2 development has resulted in
+        minor editorial changes with no change of scope.
 
         '
 - identifier:
@@ -262,27 +298,32 @@ decisions:
   dates:
   - date: '2018-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Approve development of ISO/DIS 29002 edition 2
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: approves
-      date_effective:
-        date: '2018-05-15'
-        type: effective
-      message: 'SC4 approves development of ISO/DIS 29002. The document will consolidate
+  title:
+  - spelling: eng
+    value: Approve development of ISO/DIS 29002 edition 2
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: approves
+    date_effective:
+      date: '2018-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC4 approves development of ISO/DIS 29002. The document will consolidate
         all existing parts into a single document but will not expand the current
         scope of ISO 29002. The DIS will be submitted for ballot by a target date
         of 2019-02-28 and the IS for publication by a target date of 2019-08-31.
 
         '
-    - type: requests
-      date_effective:
-        date: '2018-05-15'
-        type: effective
-      message: 'SC 4 requests its Secretariat to initiate a call for experts and appoints
+  - type: requests
+    date_effective:
+      date: '2018-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests its Secretariat to initiate a call for experts and appoints
         Peter Eales (GBR) as the project leader.
 
         '
@@ -294,19 +335,22 @@ decisions:
   dates:
   - date: '2018-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Add experts to SC 4 Quality Committee
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2018-05-15'
-        type: effective
-      message: 'SC 4 requests each of its WG Convenors to nominate at least one of
-        its experts to the SC 4 Quality Committee and to invite national bodies to
-        review their membership on the Quality Committee.
+  title:
+  - spelling: eng
+    value: Add experts to SC 4 Quality Committee
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2018-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests each of its WG Convenors to nominate at least one of its
+        experts to the SC 4 Quality Committee and to invite national bodies to review
+        their membership on the Quality Committee.
 
         '
 - identifier:
@@ -317,18 +361,21 @@ decisions:
   dates:
   - date: '2018-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Submit proposed SC 4 Scope Change for CIB
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2018-05-15'
-        type: effective
-      message: 'SC 4 requests TC 184 to note the attached proposed draft new scope
-        statement which will be subject to CIB after this meeting.
+  title:
+  - spelling: eng
+    value: Submit proposed SC 4 Scope Change for CIB
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2018-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests TC 184 to note the attached proposed draft new scope statement
+        which will be subject to CIB after this meeting.
 
         '
 - identifier:
@@ -339,32 +386,38 @@ decisions:
   dates:
   - date: '2018-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Submit Committee Innovation Proposal for ISO 15926-4
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: agrees
-      date_effective:
-        date: '2018-05-15'
-        type: effective
-      message: 'SC 4 agrees to support the Committee Innovation Proposal for ISO 15926-4.
+  title:
+  - spelling: eng
+    value: Submit Committee Innovation Proposal for ISO 15926-4
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: agrees
+    date_effective:
+      date: '2018-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 agrees to support the Committee Innovation Proposal for ISO 15926-4.
 
         '
-    - type: requests
-      date_effective:
-        date: '2018-05-15'
-        type: effective
-      message: 'SC 4 requests its Secretariat to submit the proposal to ISO CS for
-        consideration.
+  - type: requests
+    date_effective:
+      date: '2018-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests its Secretariat to submit the proposal to ISO CS for consideration.
 
         '
-    - type: appoints
-      date_effective:
-        date: '2018-05-15'
-        type: effective
-      message: 'SC 4 appoints Paul van Exel as project leader.
+  - type: appoints
+    date_effective:
+      date: '2018-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 appoints Paul van Exel as project leader.
 
         '
 - identifier:
@@ -375,17 +428,20 @@ decisions:
   dates:
   - date: '2018-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Amend title of ISO 15926-4 ed2
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: agrees
-      date_effective:
-        date: '2018-05-15'
-        type: effective
-      message: 'SC 4 agrees to amend the title of ISO 15926-4 ed2 from "Initial reference
+  title:
+  - spelling: eng
+    value: Amend title of ISO 15926-4 ed2
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: agrees
+    date_effective:
+      date: '2018-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 agrees to amend the title of ISO 15926-4 ed2 from "Initial reference
         data" to "Core reference data".
 
         '
@@ -397,34 +453,41 @@ decisions:
   dates:
   - date: '2018-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Establish Category A Liaison with Small Business Standards
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: welcomes
-      date_effective:
-        date: '2018-05-15'
-        type: effective
-      message: 'SC 4 welcomes the application of the Small Business Standards organization
+  title:
+  - spelling: eng
+    value: Establish Category A Liaison with Small Business Standards
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: welcomes
+    date_effective:
+      date: '2018-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 welcomes the application of the Small Business Standards organization
         (www.sbs-sme.eu) as a category A Liaison.
 
         '
-    - type: requests
-      date_effective:
-        date: '2018-05-15'
-        type: effective
-      message: 'SC 4 requests its Secretariat to submit their application to ISO CS
+  - type: requests
+    date_effective:
+      date: '2018-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests its Secretariat to submit their application to ISO CS
         for processing.
 
         '
-    - type: appoints
-      date_effective:
-        date: '2018-05-15'
-        type: effective
-      message: 'SC 4 appoints Jochen Haenisch as Liaison Officer for a three year
-        term, with appreciation for his offer to serve in that capacity.
+  - type: appoints
+    date_effective:
+      date: '2018-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 appoints Jochen Haenisch as Liaison Officer for a three year term,
+        with appreciation for his offer to serve in that capacity.
 
         '
 - identifier:
@@ -435,20 +498,23 @@ decisions:
   dates:
   - date: '2018-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appoint Liaison Officers to ISO/TC 59/SC 13
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appoints
-      date_effective:
-        date: '2018-05-15'
-        type: effective
-      message: 'SC 4 appoints Torbjorn Holm and Jean Brange as Liaison Officers to
-        ISO/TC 59/SC 13 "Organization and digitization of information about buildings
-        and civil engineering works, including building information modelling (BIM)"
-        for a three year term.
+  title:
+  - spelling: eng
+    value: Appoint Liaison Officers to ISO/TC 59/SC 13
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '2018-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 appoints Torbjorn Holm and Jean Brange as Liaison Officers to ISO/TC
+        59/SC 13 "Organization and digitization of information about buildings and
+        civil engineering works, including building information modelling (BIM)" for
+        a three year term.
 
         '
 - identifier:
@@ -459,17 +525,20 @@ decisions:
   dates:
   - date: '2018-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Sponsor ICD application for KOIOS Master Data Limited
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: agrees
-      date_effective:
-        date: '2018-05-15'
-        type: effective
-      message: 'SC 4 has reviewed the application from KOIOS Master Data Limited to
+  title:
+  - spelling: eng
+    value: Sponsor ICD application for KOIOS Master Data Limited
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: agrees
+    date_effective:
+      date: '2018-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 has reviewed the application from KOIOS Master Data Limited to
         be assigned an International Code Designator and agrees to act as the "sponsoring
         authority."
 
@@ -482,31 +551,36 @@ decisions:
   dates:
   - date: '2018-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Call for experts to JWG 24 and hold first meeting
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2018-05-15'
-        type: effective
-      message: 'SC 4 requests its TPM to coordinate with other ISO TPMs to identify
+  title:
+  - spelling: eng
+    value: Call for experts to JWG 24 and hold first meeting
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2018-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests its TPM to coordinate with other ISO TPMs to identify
         all TCs/SCs that may have interest in submission of their standards for inclusion
         in the IEC CDD, including TC 29, TC 59/SC13, TC131, and TC 172 and to invite
         the nomination of experts to JWG 24 by 2018-07-13.
 
         '
-    - type: recommends
-      date_effective:
-        date: '2018-05-15'
-        type: effective
-      message: 'SC 4 also recommends the Convener of JWG 24 to hold its first JWG
-        meeting at an appropriate date and location, either through face to face and/or
-        teleconference, considering the nationalities and availability of the nominated
-        experts from the call for experts mentioned above, and report the result to
-        the SC 4 Chicago meeting to be held November 4-9, 2018.
+  - type: recommends
+    date_effective:
+      date: '2018-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 also recommends the Convener of JWG 24 to hold its first JWG meeting
+        at an appropriate date and location, either through face to face and/or teleconference,
+        considering the nationalities and availability of the nominated experts from
+        the call for experts mentioned above, and report the result to the SC 4 Chicago
+        meeting to be held November 4-9, 2018.
 
         '
 - identifier:
@@ -517,17 +591,20 @@ decisions:
   dates:
   - date: '2018-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Request digital twin manufacturing examples
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: asks
-      date_effective:
-        date: '2018-05-15'
-        type: effective
-      message: 'SC4 invites its member countries, liaisons and other interested parties
+  title:
+  - spelling: eng
+    value: Request digital twin manufacturing examples
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: asks
+    date_effective:
+      date: '2018-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC4 invites its member countries, liaisons and other interested parties
         (i.e. OPC and MTConnect) to submit digital twin manufacturing examples, standards,
         technologies and use cases to the Convenor of WG15 (hardwick@steptools.com)
         by 2018-08-27 for consideration by WG15 at its special meeting in September.
@@ -541,17 +618,20 @@ decisions:
   dates:
   - date: '2018-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank SC 4 Liaisons and presenters
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2018-05-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank SC 4 Liaisons and presenters
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2018-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its appreciation to our SC 4 Liaisons and the presentations that were provided:
 
         * ISO/TC 171/SC 2 -- Written Report Submitted
@@ -567,17 +647,20 @@ decisions:
   dates:
   - date: '2018-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Open Technical Forum presenters
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2018-05-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Open Technical Forum presenters
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2018-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its appreciation to the following individuals and organizations for their participation in the 75th ISO/TC 184/SC 4 Open Technical Forum in Beijing, China 2018-05-21:
 
         * Overview: Soonhung Han
@@ -593,17 +676,20 @@ decisions:
   dates:
   - date: '2018-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Beijing meeting hosts and staff
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2018-05-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Beijing meeting hosts and staff
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2018-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its appreciation to Beijing Research Institute of Automation for Machinery Industry (RIAMB), China Association for Mechatronics Technology and Application (CAMETA), and the Standardization Administration of China (SAC) for hosting the 75th ISO/TC 184/SC 4 Plenary in Beijing, China during 2018-05-21/25.
 
         Special acknowledgement is extended to the Jiuhua Resort & Convention Center and its staff for their seamless and attentive support throughout the week.

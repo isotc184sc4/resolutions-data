@@ -1,7 +1,9 @@
 ---
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Gyeongju, Korea, November
-    3, 2013 -- November 8, 2013
+  title:
+  - spelling: eng
+    value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Gyeongju, Korea,
+      November 3, 2013 -- November 8, 2013
   date: '2013-11-03'
   source: ISO/TC 184/SC 4 Secretariat
   city: KRGJU
@@ -15,17 +17,20 @@ decisions:
   dates:
   - date: '2013-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Reappoint Nikolaus Ondracek as WG 2 Convener
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appoints
-      date_effective:
-        date: '2013-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Reappoint Nikolaus Ondracek as WG 2 Convener
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '2013-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 appoints Nikolaus Ondracek as Convener for WG 2 for a
         further three-year term, with appreciation for his offer to serve in that capacity.
 - identifier:
@@ -36,17 +41,20 @@ decisions:
   dates:
   - date: '2013-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Reappoint Jochen Haenisch as WG 12 Deputy Convener
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appoints
-      date_effective:
-        date: '2013-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Reappoint Jochen Haenisch as WG 12 Deputy Convener
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '2013-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 appoints Jochen Haenisch as Deputy Convener for WG 12 for
         a further three-year term, with appreciation for his offer to serve in that capacity.
 - identifier:
@@ -57,17 +65,20 @@ decisions:
   dates:
   - date: '2013-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appoint Dr Martin Hardwick as Co-leader for the SC 4 Implementation Forum
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appoints
-      date_effective:
-        date: '2013-11-15'
-        type: effective
-      message: 'SC 4 appoints Dr Martin Hardwick as Co-leader for the Implementation
+  title:
+  - spelling: eng
+    value: Appoint Dr Martin Hardwick as Co-leader for the SC 4 Implementation Forum
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '2013-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 appoints Dr Martin Hardwick as Co-leader for the Implementation
         Forum.
 
         '
@@ -79,59 +90,74 @@ decisions:
   dates:
   - date: '2013-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Transfer ISO 16739 to ISO/TC 59/SC 13 administration
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: agrees
-      date_effective:
-        date: '2013-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Transfer ISO 16739 to ISO/TC 59/SC 13 administration
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: agrees
+    date_effective:
+      date: '2013-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         ISO/TC 184/SC 4 agrees to the request of ISO/TC 59/SC 13 to transfer the Standard
         ISO 16739 to the administration of SC 13.
-    - type: requests
-      date_effective:
-        date: '2013-11-15'
-        type: effective
-      message: |
+  - type: requests
+    date_effective:
+      date: '2013-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests its secretary to arrange any necessary transfer of the standard to the
         SC 13 work program.
-    - type: requests
-      date_effective:
-        date: '2013-11-15'
-        type: effective
-      message: |
+  - type: requests
+    date_effective:
+      date: '2013-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests SC 13 to ensure that SC 4 Secretariat is informed of all ballot actions in
         order to circulate the documents to the members of SC 4.
-    - type: encourages
-      date_effective:
-        date: '2013-11-15'
-        type: effective
-      message: 'SC 4 encourages SC 13 to work with SC 4 on other data-related standards.
+  - type: encourages
+    date_effective:
+      date: '2013-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 encourages SC 13 to work with SC 4 on other data-related standards.
 
         '
-    - type: resolves
-      date_effective:
-        date: '2013-11-15'
-        type: effective
-      message: |
+  - type: resolves
+    date_effective:
+      date: '2013-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 is prepared to nominate representatives to the proposed JWG 12 maintenance
         and validation teams.
-    - type: welcomes
-      date_effective:
-        date: '2013-11-15'
-        type: effective
-      message: |
+  - type: welcomes
+    date_effective:
+      date: '2013-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 welcomes the proposal of SC 13 to alternate co-located JWG 12 meetings
         between the two parent committees.
-    - type: encourages
-      date_effective:
-        date: '2013-11-15'
-        type: effective
-      message: |
+  - type: encourages
+    date_effective:
+      date: '2013-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 encourages its members to nominate appropriate additional technical experts
         to participate in the work of JWG 12.
 
@@ -146,31 +172,36 @@ decisions:
   dates:
   - date: '2013-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Request submission of a PWI for the Unified Architecture Framework (UAF)
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: noting
-      date_effective:
-        date: '2013-11-15'
-        type: effective
-      message: |
-        SC 4 notes the proposal from the US to offer the Unified Architecture
-        Framework (UAF) for standardization in ISO/TC 184/SC 4, possibly in collaboration
-        with other Standard Development Bodies (SDOs) such as OMG, OASIS, JTC1, and INCOSE.
-    actions:
-    - type: asks
-      date_effective:
-        date: '2013-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Request submission of a PWI for the Unified Architecture Framework (UAF)
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: asks
+    date_effective:
+      date: '2013-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 invites the US member body to submit a Preliminary Work Item (PWI)
         for consideration.
 
         NOTE: The PWI should clearly demonstrate the relationship between SysML, UPDM
         and UAF.
+  considerations:
+  - type: noting
+    date_effective:
+      date: '2013-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
+        SC 4 notes the proposal from the US to offer the Unified Architecture
+        Framework (UAF) for standardization in ISO/TC 184/SC 4, possibly in collaboration
+        with other Standard Development Bodies (SDOs) such as OMG, OASIS, JTC1, and INCOSE.
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '863'
@@ -179,17 +210,20 @@ decisions:
   dates:
   - date: '2013-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Establish an ad hoc group to improve ISO/PAS 18828
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: establishes
-      date_effective:
-        date: '2013-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Establish an ad hoc group to improve ISO/PAS 18828
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: establishes
+    date_effective:
+      date: '2013-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 establishes an ad hoc group with the task to improve the ISO/PAS
         18828 document for submission at the next meeting of SC 4 on 2014-05-04/09.
 - identifier:
@@ -200,17 +234,20 @@ decisions:
   dates:
   - date: '2013-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Dr Burton Gischner for his service and dedication
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2013-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Dr Burton Gischner for his service and dedication
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2013-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its special recognition and thanks to Dr Burton
         Gischner for his exceptional dedication and outstanding service for many years in the
         international standardization community.
@@ -225,17 +262,20 @@ decisions:
   dates:
   - date: '2013-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank SC 4 Liaisons and Opening Technical Plenary presenters
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2013-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank SC 4 Liaisons and Opening Technical Plenary presenters
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2013-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         Appreciation to our SC 4 Liaisons and those projects who presented at the Opening
         Technical Plenary:
 
@@ -249,17 +289,20 @@ decisions:
   dates:
   - date: '2013-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank presenters at the Open Technical Forum
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2013-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank presenters at the Open Technical Forum
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2013-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         Appreciation to those who presented at the Open Technical Forum:
 
         * Jean Brange, BOOST -- “BoostAeroSpace -- Competitiveness and Innovation for the European Aerospace & Defence Industry”
@@ -274,17 +317,20 @@ decisions:
   dates:
   - date: '2013-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Prof Soonhung Han and speakers for Industry Day
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2013-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Prof Soonhung Han and speakers for Industry Day
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2013-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its appreciation to Prof Soonhung Han for his organization of the
         Industry Day, and to the speakers for attending and presenting on matters of interest
         to the SC 4 community.
@@ -296,17 +342,20 @@ decisions:
   dates:
   - date: '2013-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank hosts and sponsors of the 66th Plenary in Gyeongju
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2013-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank hosts and sponsors of the 66th Plenary in Gyeongju
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2013-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its appreciation to Prof Soonhung Han, the Korean Agency for
         Technology and Standards (KATS), Korea STEP Center (KSTEP), and Korea
         Advanced Institute of Science and Technology (KAIST) for their hosting and support of
@@ -325,17 +374,20 @@ decisions:
   dates:
   - date: '2013-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appoint Sheron Koshy as Project Editor for ISO 8000 projects
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appoints
-      date_effective:
-        date: '2013-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Appoint Sheron Koshy as Project Editor for ISO 8000 projects
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '2013-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 appoints Sheron Koshy as Project Editor for Projects below:
 
         * ISO 8000-10

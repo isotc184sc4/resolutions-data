@@ -1,7 +1,9 @@
 ---
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Funchal, Portugal,
-    February 19, 2001 -- February 23, 2001
+  title:
+  - spelling: eng
+    value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Funchal, Portugal,
+      February 19, 2001 -- February 23, 2001
   date: '2001-02-19'
   source: ISO/TC 184/SC 4 Secretariat
   city: PTFNC
@@ -15,17 +17,20 @@ decisions:
   dates:
   - date: '2001-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Approve new project leaders and editors for SC 4 projects
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: approves
-      date_effective:
-        date: '2001-02-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Approve new project leaders and editors for SC 4 projects
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: approves
+    date_effective:
+      date: '2001-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 approves the following new project leaders or project editors for the associated SC 4 projects:
 
         |===
@@ -51,71 +56,88 @@ decisions:
   dates:
   - date: '2001-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Define and manage Common Resources
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2001-02-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Define and manage Common Resources
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2001-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 resolves that ISO 10303 Generic and Application Integrated Resources and
         Application Integrated Constructs are Common Resources.
-    - type: resolves
-      date_effective:
-        date: '2001-02-15'
-        type: effective
-      message: 'SC 4 resolves that ISO/TS 10303-1001 through 1009 are Common Resources.
+  - type: resolves
+    date_effective:
+      date: '2001-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 resolves that ISO/TS 10303-1001 through 1009 are Common Resources.
 
         '
-    - type: resolves
-      date_effective:
-        date: '2001-02-15'
-        type: effective
-      message: |
+  - type: resolves
+    date_effective:
+      date: '2001-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 resolves that ISO 13584-20 (Logical resource: Logical model of expressions) is a
         Common Resource.
-    - type: resolves
-      date_effective:
-        date: '2001-02-15'
-        type: effective
-      message: 'SC 4 resolves that ISO 15531-42 (Time model) is a Common Resource.
+  - type: resolves
+    date_effective:
+      date: '2001-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 resolves that ISO 15531-42 (Time model) is a Common Resource.
 
         '
-    - type: directs
-      date_effective:
-        date: '2001-02-15'
-        type: effective
-      message: |
+  - type: directs
+    date_effective:
+      date: '2001-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 directs WG 12 to prepare an SC 4 Standing Document for ballot, based upon
         WG 12 N613 and this resolution, to identify current Common Resource documents, to
         define Common Resource Salient Characteristics, and to define Common Resource
         Unique Naming Requirements.
-    - type: resolves
-      date_effective:
-        date: '2001-02-15'
-        type: effective
-      message: |
+  - type: resolves
+    date_effective:
+      date: '2001-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         The SC 4 Standing Document shall authorize WG 12
         to modify the SC 4 Standing Document to update the list of Common Resources as
         they are approved.
-    - type: resolves
-      date_effective:
-        date: '2001-02-15'
-        type: effective
-      message: |
+  - type: resolves
+    date_effective:
+      date: '2001-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 resolves that the Project Leader, during the Change Management review of a
         document, shall identify if a document is a candidate to be a Common Resource (or
         should be converted to a Common Resource). This decision shall be reviewed with
         WG 12 for compliance with Common Resources requirements.
-    - type: directs
-      date_effective:
-        date: '2001-02-15'
-        type: effective
-      message: 'SC 4 directs Change Management to modify their procedures accordingly.
+  - type: directs
+    date_effective:
+      date: '2001-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 directs Change Management to modify their procedures accordingly.
 
         '
 - identifier:
@@ -126,33 +148,40 @@ decisions:
   dates:
   - date: '2001-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Apply procedure for using ASN.1 identifiers
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: approves
-      date_effective:
-        date: '2001-02-15'
-        type: effective
-      message: 'SC 4 approves the procedure for using ASN.1 identifiers described
-        in document QC N177.
+  title:
+  - spelling: eng
+    value: Apply procedure for using ASN.1 identifiers
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: approves
+    date_effective:
+      date: '2001-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 approves the procedure for using ASN.1 identifiers described in
+        document QC N177.
 
         '
-    - type: directs
-      date_effective:
-        date: '2001-02-15'
-        type: effective
-      message: 'SC 4 directs its project teams to apply this procedure to their work
+  - type: directs
+    date_effective:
+      date: '2001-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 directs its project teams to apply this procedure to their work
         immediately.
 
         '
-    - type: directs
-      date_effective:
-        date: '2001-02-15'
-        type: effective
-      message: |
+  - type: directs
+    date_effective:
+      date: '2001-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 also directs the Quality Committee to include this procedure in an updated
         version of the Supplementary Directives as soon as possible.
 - identifier:
@@ -163,17 +192,20 @@ decisions:
   dates:
   - date: '2001-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Approve changes to the SC 4 Organization Handbook
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: approves
-      date_effective:
-        date: '2001-02-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Approve changes to the SC 4 Organization Handbook
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: approves
+    date_effective:
+      date: '2001-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 approves the changes to clause 5.11 of the SC 4 Organization Handbook (SC 4
         N1087) described in document QC N178 and requests its Secretariat to make the
         corresponding change to clause 5.7.3.2.
@@ -185,17 +217,20 @@ decisions:
   dates:
   - date: '2001-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Clarify approval procedures in Quality Manual
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: approves
-      date_effective:
-        date: '2001-02-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Clarify approval procedures in Quality Manual
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: approves
+    date_effective:
+      date: '2001-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 approves the changes to the SC 4 Quality Manual specified in document QC
         N186.
 - identifier:
@@ -206,17 +241,20 @@ decisions:
   dates:
   - date: '2001-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Adopt procedures for Externally Developed Specifications
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2001-02-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Adopt procedures for Externally Developed Specifications
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2001-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 resolves to adopt the procedures described in ISO/TC 184/SC 4 N_Funchal 16
         "Procedures For Transposing Externally Developed Specifications Into ISO
         Deliverables" as a standing document to enable SC 4 to process Externally Developed
@@ -232,38 +270,47 @@ decisions:
   dates:
   - date: '2001-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Publish AP 233 contents as Publicly Available Specification
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2001-02-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Publish AP 233 contents as Publicly Available Specification
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2001-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 resolves that the current contents of AP 233 be published as a Publicly Available
         Specification "Reference Model for Systems Engineering" with a new ISO number.
-    - type: requests
-      date_effective:
-        date: '2001-02-15'
-        type: effective
-      message: |
+  - type: requests
+    date_effective:
+      date: '2001-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests ISO Geneva to issue a new number for this Publicly Available
         Specification.
-    - type: directs
-      date_effective:
-        date: '2001-02-15'
-        type: effective
-      message: |
+  - type: directs
+    date_effective:
+      date: '2001-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 directs the Part 233 project team to prepare a publicly available specification for
         ballot, based upon WG 3 N908, N909, N910, N983 and this resolution.
-    - type: notes
-      date_effective:
-        date: '2001-02-15'
-        type: effective
-      message: |
+  - type: notes
+    date_effective:
+      date: '2001-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 expects this PAS to be withdrawn within 3 years of publication and be replaced
         by ISO 10303-233 as initiated in Resolution H.
 - identifier:
@@ -274,17 +321,20 @@ decisions:
   dates:
   - date: '2001-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Revise Publicly Available Specification to be Application Protocol 233
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: directs
-      date_effective:
-        date: '2001-02-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Revise Publicly Available Specification to be Application Protocol 233
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: directs
+    date_effective:
+      date: '2001-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 directs the Part 233 project team to start the revision of the PAS defined in
         Resolution "Publicly available specification for systems engineering data
         representation", to be published as Application Protocol 233.
@@ -296,17 +346,102 @@ decisions:
   dates:
   - date: '2001-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Provide guidelines for publishing SC 4 standards using HTML
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: noting
-      date_effective:
-        date: '2001-02-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Provide guidelines for publishing SC 4 standards using HTML
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: welcomes
+    date_effective:
+      date: '2001-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
+        SC 4 welcomes the statement from ISO CS that SC 4 standards may now be published
+        in HTML without any need for other digital formats such as PDF.
+  - type: directs
+    date_effective:
+      date: '2001-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
+        SC 4 therefore directs its Quality Committee to develop an initial set of guidelines for the
+        use of HTML. These guidelines should be available as a draft for comment by the San Francisco
+        meeting in June 2001, and should at least address the following topics:
+
+        * version(s) of HTML to be used;
+        * HTML tags to be used for the different elements of SC 4 standards;
+        * validation of HTML documents;
+        * naming conventions for files and directories;
+        * hyperlinks within documents and between documents.
+  - type: requests
+    date_effective:
+      date: '2001-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
+        SC 4 also requests the Quality Committee to develop a roadmap for other issues
+        regarding publication of SC 4 standards using HTML.
+
+        These guidelines should also take into account the issues and requirements identified
+        during the joint WG 3 and QC meeting on Publishing Standards using XML/HTML and
+        any relevant guidelines from the W3C and elsewhere.
+  - type: instructs
+    date_effective:
+      date: '2001-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
+        SC 4 instructs the Quality Committee to liaise closely with Mrs. Joanna Goodwin and
+        her colleagues at ISO CS to ensure that the guidelines developed for SC 4 are
+        consistent with ISO's policies and production requirements.
+  - type: requests
+    date_effective:
+      date: '2001-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
+        SC 4 requests its P-members and projects to provide resources to the Quality
+        Committee to work on this task, and encourages experts to attend or provide input to
+        the QC meeting at Oklahoma State University in March 2001.
+  - type: directs
+    date_effective:
+      date: '2001-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
+        SC 4 directs any projects wishing to publish standards in HTML to work with the
+        Quality Committee to provide requirements and to ensure that their work is consistent
+        with the emerging guidelines for the use of HTML.
+
+        The requirement for printable files defined in resolution 436 needs to be considered by
+        the Quality Committee.
+  - type: encourages
+    date_effective:
+      date: '2001-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 encourages the development of appropriate software tools to provide
+        this capability.
+
+        '
+  considerations:
+  - type: noting
+    date_effective:
+      date: '2001-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 notes that use of HTML has many advantages, include the following:
 
         * Ease of navigation for the end user using a hyperlinked document (or set of documents).
@@ -317,74 +452,6 @@ decisions:
 
         SC 4 also notes that use of HTML does introduce risks associated with publishing standards in a user-editable form. SC 4 considers that these risks are outweighed by the advantages identified above.
         In order to exploit the advantages identified above, SC 4 recognizes the need for guidelines for the use of HTML.
-    actions:
-    - type: welcomes
-      date_effective:
-        date: '2001-02-15'
-        type: effective
-      message: |
-        SC 4 welcomes the statement from ISO CS that SC 4 standards may now be published
-        in HTML without any need for other digital formats such as PDF.
-    - type: directs
-      date_effective:
-        date: '2001-02-15'
-        type: effective
-      message: |
-        SC 4 therefore directs its Quality Committee to develop an initial set of guidelines for the
-        use of HTML. These guidelines should be available as a draft for comment by the San Francisco
-        meeting in June 2001, and should at least address the following topics:
-
-        * version(s) of HTML to be used;
-        * HTML tags to be used for the different elements of SC 4 standards;
-        * validation of HTML documents;
-        * naming conventions for files and directories;
-        * hyperlinks within documents and between documents.
-    - type: requests
-      date_effective:
-        date: '2001-02-15'
-        type: effective
-      message: |
-        SC 4 also requests the Quality Committee to develop a roadmap for other issues
-        regarding publication of SC 4 standards using HTML.
-
-        These guidelines should also take into account the issues and requirements identified
-        during the joint WG 3 and QC meeting on Publishing Standards using XML/HTML and
-        any relevant guidelines from the W3C and elsewhere.
-    - type: instructs
-      date_effective:
-        date: '2001-02-15'
-        type: effective
-      message: |
-        SC 4 instructs the Quality Committee to liaise closely with Mrs. Joanna Goodwin and
-        her colleagues at ISO CS to ensure that the guidelines developed for SC 4 are
-        consistent with ISO's policies and production requirements.
-    - type: requests
-      date_effective:
-        date: '2001-02-15'
-        type: effective
-      message: |
-        SC 4 requests its P-members and projects to provide resources to the Quality
-        Committee to work on this task, and encourages experts to attend or provide input to
-        the QC meeting at Oklahoma State University in March 2001.
-    - type: directs
-      date_effective:
-        date: '2001-02-15'
-        type: effective
-      message: |
-        SC 4 directs any projects wishing to publish standards in HTML to work with the
-        Quality Committee to provide requirements and to ensure that their work is consistent
-        with the emerging guidelines for the use of HTML.
-
-        The requirement for printable files defined in resolution 436 needs to be considered by
-        the Quality Committee.
-    - type: encourages
-      date_effective:
-        date: '2001-02-15'
-        type: effective
-      message: 'SC 4 encourages the development of appropriate software tools to provide
-        this capability.
-
-        '
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '491'
@@ -393,17 +460,20 @@ decisions:
   dates:
   - date: '2001-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appoint David Loffredo as Deputy Convenor of WG 11
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appoints
-      date_effective:
-        date: '2001-02-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Appoint David Loffredo as Deputy Convenor of WG 11
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '2001-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 thanks David Price for his efforts as WG 11 Deputy Convenor and the STEP
         Modularization Project and appoints David Loffredo to serve as Deputy Convenor of its
         Working Group 11.
@@ -415,17 +485,20 @@ decisions:
   dates:
   - date: '2001-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Cancel ISO 10303-231 and its associated ATS ISO 10303-331
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2001-02-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Cancel ISO 10303-231 and its associated ATS ISO 10303-331
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2001-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 cancels ISO 10303-231, Application protocol: Process engineering data: Process
         design and process specifications of major equipment, and its associated Abstract Test
         Suite, ISO 10303-331.
@@ -437,17 +510,20 @@ decisions:
   dates:
   - date: '2001-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Gerd Ehinger for his leadership of WG 2
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2001-02-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Gerd Ehinger for his leadership of WG 2
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2001-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 thanks Gerd Ehinger for his leadership of the work in WG 2 and wishes him all
         the best for his future.
 - identifier:
@@ -458,17 +534,20 @@ decisions:
   dates:
   - date: '2001-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Bernd Wenzel for his efforts as Convenor of WG 10
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2001-02-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Bernd Wenzel for his efforts as Convenor of WG 10
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2001-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 thanks Bernd Wenzel for his efforts within the whole SC 4 community and for
         his work to promote harmonization of activities in and around the work of SC 4,
         including his liaisons with ISO/TC 211 and OMG, and wishes him all the best for his
@@ -481,24 +560,29 @@ decisions:
   dates:
   - date: '2001-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appoint Dr. Wolfgang Wilkes as Convenor of WG 2
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appoints
-      date_effective:
-        date: '2001-02-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Appoint Dr. Wolfgang Wilkes as Convenor of WG 2
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '2001-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 appreciates and accepts the offer of Dr. Wolfgang Wilkes to serve as Convener
         of WG 2.
-    - type: approves
-      date_effective:
-        date: '2001-02-15'
-        type: effective
-      message: |
+  - type: approves
+    date_effective:
+      date: '2001-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 approves the nomination of Dr. Wolfgang Wilkes to serve for a period
         of three years.
 - identifier:
@@ -509,25 +593,30 @@ decisions:
   dates:
   - date: '2001-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appoint Lothar Klein as Convenor of JWG 9
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appoints
-      date_effective:
-        date: '2001-02-15'
-        type: effective
-      message: 'SC 4 appreciates and accepts the offer of Lothar Klein to serve as
-        Convener of JWG 9.
+  title:
+  - spelling: eng
+    value: Appoint Lothar Klein as Convenor of JWG 9
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '2001-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 appreciates and accepts the offer of Lothar Klein to serve as Convener
+        of JWG 9.
 
         '
-    - type: approves
-      date_effective:
-        date: '2001-02-15'
-        type: effective
-      message: |
+  - type: approves
+    date_effective:
+      date: '2001-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 approves the nomination of Lothar Klein as Convener of the JWG 9 to serve
         for a period of three years.
 - identifier:
@@ -538,17 +627,20 @@ decisions:
   dates:
   - date: '2001-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Endorse publication of Part 28 as a Technical Specification
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: endorses
-      date_effective:
-        date: '2001-02-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Endorse publication of Part 28 as a Technical Specification
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: endorses
+    date_effective:
+      date: '2001-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 endorses the following approach to publication of Part 28 as a Technical
         Specification:
 
@@ -561,11 +653,13 @@ decisions:
         Following publication of the initial Part 28, work on an XML Schema binding will begin
         as requested in the ballot comments. The XML Schema solution will not be
         constrained to be upward compatible with the DTD solutions.
-    - type: requests
-      date_effective:
-        date: '2001-02-15'
-        type: effective
-      message: |
+  - type: requests
+    date_effective:
+      date: '2001-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests Japan, France and USA to re-consider their votes based on the above
         actions to achieve consensus. In addition, member countries are requested to provide
         resources to complete the ballot resolution and editing process.
@@ -577,17 +671,20 @@ decisions:
   dates:
   - date: '2001-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appoint Gerry Radack as Convenor of WG 3
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: approves
-      date_effective:
-        date: '2001-02-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Appoint Gerry Radack as Convenor of WG 3
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: approves
+    date_effective:
+      date: '2001-02-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 approves the nomination of Gerry Radack as Convenor of the WG 3 to serve for
         a period of three years.
 - identifier:
@@ -598,17 +695,20 @@ decisions:
   dates:
   - date: '2001-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Bruno Schilli for his efforts as WG 3 Deputy Convenor
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2001-02-15'
-        type: adoption
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Bruno Schilli for his efforts as WG 3 Deputy Convenor
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2001-02-15'
+      type: adoption
+    message:
+    - spelling: eng
+      value: |
         SC 4 thanks Bruno Schilli for his efforts within the whole SC 4 community and for his
         work as WG 3 Deputy Convenor and PPC member and wishes him all the best for his future.
 - identifier:
@@ -619,17 +719,20 @@ decisions:
   dates:
   - date: '2001-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Reinhard Nerke for his efforts as JWG 9 Deputy Convenor
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2001-02-15'
-        type: adoption
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Reinhard Nerke for his efforts as JWG 9 Deputy Convenor
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2001-02-15'
+      type: adoption
+    message:
+    - spelling: eng
+      value: |
         SC 4 thanks Reinhard Nerke for his efforts for his work as JWG 9 Deputy Convenor
         and wishes him all the best for his future.
 - identifier:
@@ -640,17 +743,20 @@ decisions:
   dates:
   - date: '2001-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank David Price for his efforts as WG 11 Deputy Convenor
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2001-02-15'
-        type: adoption
-      message: |
+  title:
+  - spelling: eng
+    value: Thank David Price for his efforts as WG 11 Deputy Convenor
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2001-02-15'
+      type: adoption
+    message:
+    - spelling: eng
+      value: |
         SC 4 thanks David Price for his efforts for his work as WG 11 Deputy Convenor, his
         many project and technical contributions, and wishes him all the best for his future.
         His innovative and creative leadership is greatly appreciated.
@@ -662,17 +768,20 @@ decisions:
   dates:
   - date: '2001-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Jim Nell for updating STEP on a Page (SOAP)
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2001-02-15'
-        type: adoption
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Jim Nell for updating STEP on a Page (SOAP)
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2001-02-15'
+      type: adoption
+    message:
+    - spelling: eng
+      value: |
         SC 4 thanks Jim Nell of ISO/TC 184/SC 5, for his conscientious and dedicated
         assistance for updating STEP on a Page (SOAP) for SC 4.
 - identifier:
@@ -683,17 +792,20 @@ decisions:
   dates:
   - date: '2001-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Sophie Clivio for participating and providing guidance
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2001-02-15'
-        type: adoption
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Sophie Clivio for participating and providing guidance
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2001-02-15'
+      type: adoption
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its appreciation to Sophie Clivio for taking time from her busy
         schedule to participate in our meeting and for her valuable guidance and support for
         the SC 4 work, particularly the exploitation of HTML for publication of the standards.
@@ -705,17 +817,20 @@ decisions:
   dates:
   - date: '2001-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank meeting organizers and hosts in Funchal
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2001-02-15'
-        type: adoption
-      message: |
+  title:
+  - spelling: eng
+    value: Thank meeting organizers and hosts in Funchal
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2001-02-15'
+      type: adoption
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its appreciation to Laura Thommen Vidale, the English technical
         editor for ISO/TC 184/SC 4, for the support she provides to SC 4's project teams and
         the Quality Committee in facilitating the delivery of SC 4 standards.
@@ -741,17 +856,20 @@ decisions:
   dates:
   - date: '2001-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Funchal meeting sponsors and Ricardo Goncalves
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2001-02-15'
-        type: adoption
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Funchal meeting sponsors and Ricardo Goncalves
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2001-02-15'
+      type: adoption
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its appreciation to the meeting sponsors: the Governo Regional da
         Madeira; the Secretaria Regional do Turismo e Cultura da Madeira; Câmara Municipal
         do Funchal; Caldeira, Costa & Companhia Lda.; CiberDimensão; Cabo TV
@@ -770,17 +888,20 @@ decisions:
   dates:
   - date: '2001-02-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Madeira officials for their attendance and hospitality
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2001-02-15'
-        type: adoption
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Madeira officials for their attendance and hospitality
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2001-02-15'
+      type: adoption
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its sincere and deep appreciation to Alberto João Jardin, Presidente
         da Madeira, the Secretary for Tourism and Culture, and the Secretary for Social
         Affairs, and the Regional Director for Tourism and Culture for their attendance at the

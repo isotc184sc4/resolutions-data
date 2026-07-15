@@ -1,7 +1,9 @@
 ---
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Sapporo, Japan, July
-    1991
+  title:
+  - spelling: eng
+    value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Sapporo, Japan,
+      July 1991
   date: '1991-07-15'
   source: ISO/TC 184/SC 4 Secretariat
   city: JPSPK
@@ -15,18 +17,21 @@ decisions:
   dates:
   - date: '1991-07-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank conveners, project leaders, and technical experts for STEP version
+  title:
+  - spelling: eng
+    value: Thank conveners, project leaders, and technical experts for STEP version
       one
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '1991-07-15'
-        type: effective
-      message: |
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '1991-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 wishes to thank the conveners, project leaders and the many technical experts
         who have given extraordinarily of themselves during the past years in our common
         effort to develop STEP version one.
@@ -38,17 +43,20 @@ decisions:
   dates:
   - date: '1991-07-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Direct all working groups to use STEP methodology and tools
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: directs
-      date_effective:
-        date: '1991-07-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Direct all working groups to use STEP methodology and tools
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: directs
+    date_effective:
+      date: '1991-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 directs all SC 4 working groups to use the methodology and tools developed for
         STEP, unless proven not suitable.
 - identifier:
@@ -59,17 +67,20 @@ decisions:
   dates:
   - date: '1991-07-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Instruct PMAG to plan integration and testing resources for projects
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: instructs
-      date_effective:
-        date: '1991-07-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Instruct PMAG to plan integration and testing resources for projects
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: instructs
+    date_effective:
+      date: '1991-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 instructs PMAG to plan the application of adequate resources for integration,
         qualification, data interpretation and development of conformance testing material
         through the lifecycle of each project, as part of the project approval process.
@@ -81,18 +92,21 @@ decisions:
   dates:
   - date: '1991-07-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Request P-members to designate representatives for STEP integration and
+  title:
+  - spelling: eng
+    value: Request P-members to designate representatives for STEP integration and
       testing
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '1991-07-15'
-        type: effective
-      message: |
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '1991-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         In order to facilitate the STEP development process, SC 4 asks each P Member that is
         involved in the development of STEP application protocols and/or resource models to
         designate at least one representative to receive training in and to participate actively in
@@ -103,18 +117,22 @@ decisions:
         * editing
         * interpretation
         * conformance testing procedures
-    - type: encourages
-      date_effective:
-        date: '1991-07-15'
-        type: effective
-      message: |
+  - type: encourages
+    date_effective:
+      date: '1991-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 encourages externally funded programmes and projects to provide and/or
         sponsor these representatives.
-    - type: requests
-      date_effective:
-        date: '1991-07-15'
-        type: effective
-      message: |
+  - type: requests
+    date_effective:
+      date: '1991-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests its Secretariat to invite P Members to
         nominate representatives to WG 4 to participate in the qualification and integration of
         resource models and application protocols.
@@ -126,17 +144,20 @@ decisions:
   dates:
   - date: '1991-07-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Request PMAG to complete procedures for integration and testing
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '1991-07-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Request PMAG to complete procedures for integration and testing
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '1991-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests PMAG to ensure the completion of an integrated set of methods and
         procedures for integration, qualification, data interpretation and development of
         abstract test suites, together with associated documentation and training materials, as
@@ -149,17 +170,20 @@ decisions:
   dates:
   - date: '1991-07-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Invite P-members to nominate representatives to WG 5 for ISO 10303 methods
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '1991-07-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Invite P-members to nominate representatives to WG 5 for ISO 10303 methods
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '1991-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests its Secretariat to invite P Members to nominate representatives to WG
         5 to participate in the continued development of ISO 10303 methods.
 - identifier:
@@ -170,17 +194,20 @@ decisions:
   dates:
   - date: '1991-07-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Approve SC 4 formal procedures for STEP development and documentation
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: approves
-      date_effective:
-        date: '1991-07-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Approve SC 4 formal procedures for STEP development and documentation
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: approves
+    date_effective:
+      date: '1991-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 approves the principle of setting up formal procedures within its organisation.
         SC 4 welcomes its Chairman's proposals for the following procedures:
 
@@ -189,18 +216,22 @@ decisions:
         3. responsibilities of a project leader
         4. SC 4 documentation approval levels
         5. STEP part titles
-    - type: directs
-      date_effective:
-        date: '1991-07-15'
-        type: effective
-      message: |
+  - type: directs
+    date_effective:
+      date: '1991-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 directs SPAG to review these proposed documents and to analyse their
         consistency with respect to the SC 4 methodology before SC 4 approves them.
-    - type: directs
-      date_effective:
-        date: '1991-07-15'
-        type: effective
-      message: |
+  - type: directs
+    date_effective:
+      date: '1991-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 directs PMAG to assess the adequacy of the procedures against their
         operational requirements.
 
@@ -215,17 +246,20 @@ decisions:
   dates:
   - date: '1991-07-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Establish WG 8 for Industrial Manufacturing Management Data
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: establishes
-      date_effective:
-        date: '1991-07-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Establish WG 8 for Industrial Manufacturing Management Data
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: establishes
+    date_effective:
+      date: '1991-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         Following the assignment of the accepted new work item on Industrial Manufacturing
         Management Data (N60), ISO/TC 184/SC 4 establishes a new working group (WG
         8) with the following title and scope:
@@ -236,18 +270,22 @@ decisions:
         Method and development to standardise data
         which express information exchanged inside industrial
         manufacturing plants, except for product definition data
-    - type: accepts
-      date_effective:
-        date: '1991-07-15'
-        type: effective
-      message: |
+  - type: accepts
+    date_effective:
+      date: '1991-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 accepts the offer of the member body of France to undertake the convenership
         of this WG.
-    - type: appoints
-      date_effective:
-        date: '1991-07-15'
-        type: effective
-      message: 'SC 4 appoints Mr. Albert Colin as convener of WG 8.
+  - type: appoints
+    date_effective:
+      date: '1991-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 appoints Mr. Albert Colin as convener of WG 8.
 
         '
 - identifier:
@@ -258,18 +296,21 @@ decisions:
   dates:
   - date: '1991-07-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Assign three projects to the Industrial Manufacturing Management Data work
+  title:
+  - spelling: eng
+    value: Assign three projects to the Industrial Manufacturing Management Data work
       item
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: allocates
-      date_effective:
-        date: '1991-07-15'
-        type: effective
-      message: |
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: allocates
+    date_effective:
+      date: '1991-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         Following the creation of a WG 8, SC 4 recommends that the following three projects
         be part of the new work item on Industrial Manufacturing Management Data:
 
@@ -282,18 +323,22 @@ decisions:
         * To develop an international standard dealing with model, form and attributes of
           data controlling and monitoring the flow of materials within an industrial
           manufacturing company.
-    - type: requests
-      date_effective:
-        date: '1991-07-15'
-        type: effective
-      message: |
+  - type: requests
+    date_effective:
+      date: '1991-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 charges the WG 8 convener to recommend, to the SC 4 secretariat, candidates
         for project leaders.
-    - type: encourages
-      date_effective:
-        date: '1991-07-15'
-        type: effective
-      message: |
+  - type: encourages
+    date_effective:
+      date: '1991-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 encourages as many experts as needed to participate in
         these projects. Names shall be forwarded to the SC 4 secretariat by 1st September
         1991.
@@ -305,17 +350,20 @@ decisions:
   dates:
   - date: '1991-07-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Establish JWG 9 with IEC/TC 3 for electrical and electronic applications
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: establishes
-      date_effective:
-        date: '1991-07-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Establish JWG 9 with IEC/TC 3 for electrical and electronic applications
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: establishes
+    date_effective:
+      date: '1991-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 welcomes the proposal from IEC/TC 3 to work jointly on the topic of electrical
         and electronic product data standards and establishes a joint working group (JWG 9)
         with the following title and scope:
@@ -327,21 +375,25 @@ decisions:
         Develop resource models and application protocols
         using STEP methodologies taking into account documented efforts
         such as EDIF, IGES, SET and VNS.
-    - type: allocates
-      date_effective:
-        date: '1991-07-15'
-        type: effective
-      message: |
+  - type: allocates
+    date_effective:
+      date: '1991-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 offers the convenership of JWG 9 to IEC. The current activities of the ISO/TC
         184/SC 4/WG 3 electrical project will be transferred to JWG 9.
 
         Care must be taken to ensure that the work can continuously proceed without losing
         the results achieved so far.
-    - type: accepts
-      date_effective:
-        date: '1991-07-15'
-        type: effective
-      message: |
+  - type: accepts
+    date_effective:
+      date: '1991-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 accepts as a new work item proposal the work on STEP Data Access Interface
         described in SC 4 N71.
 - identifier:
@@ -352,17 +404,20 @@ decisions:
   dates:
   - date: '1991-07-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Modify terms of reference for the Strategic Planning Advisory Group
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: defines
-      date_effective:
-        date: '1991-07-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Modify terms of reference for the Strategic Planning Advisory Group
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: defines
+    date_effective:
+      date: '1991-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 modifies the terms of reference for the SPAG (SC 4 resolution 48) as
         follows: replace:
 
@@ -381,17 +436,20 @@ decisions:
   dates:
   - date: '1991-07-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Assign additional responsibilities to the Strategic Planning Advisory Group
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: allocates
-      date_effective:
-        date: '1991-07-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Assign additional responsibilities to the Strategic Planning Advisory Group
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: allocates
+    date_effective:
+      date: '1991-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         The Strategic Planning Advisory Group is given the additional responsibility for:
 
         * Reviewing any new work item proposal to be presented to SC 4.
@@ -405,17 +463,20 @@ decisions:
   dates:
   - date: '1991-07-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Request SPAG to select or create an enterprise taxonomy
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '1991-07-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Request SPAG to select or create an enterprise taxonomy
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '1991-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 asks that the SPAG review existing materials with the intent to select or create
         an enterprise taxonomy. The deliverable from this task would provide an approach for SC 4 to use, as a tool, to account for and to manage the development of standards
         within the enterprise-data domain so that overlaps and gaps in SC 4 standard
@@ -428,17 +489,20 @@ decisions:
   dates:
   - date: '1991-07-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Send proposed SPAG strategic policy statement for mail ballot
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '1991-07-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Send proposed SPAG strategic policy statement for mail ballot
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '1991-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 sends out for mail ballot the proposed strategic policy statement developed by
         the SPAG in document ISO/TC 184/SC 4/SPAG N27.
 - identifier:
@@ -449,17 +513,20 @@ decisions:
   dates:
   - date: '1991-07-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appoint Mr. Jean-Pierre Letouzey as chairman of SPAG
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appoints
-      date_effective:
-        date: '1991-07-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Appoint Mr. Jean-Pierre Letouzey as chairman of SPAG
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '1991-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 appoints Mr. Jean-Pierre Letouzey as chairman of the Strategic Planning
         Advisory Group.
 - identifier:
@@ -470,17 +537,20 @@ decisions:
   dates:
   - date: '1991-07-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appoint Mr. Jerry Weiss as chairman of PMAG
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appoints
-      date_effective:
-        date: '1991-07-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Appoint Mr. Jerry Weiss as chairman of PMAG
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '1991-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 appoints Mr. Jerry Weiss as chairman of the Project Management Advisory
         Group.
 - identifier:
@@ -491,17 +561,20 @@ decisions:
   dates:
   - date: '1991-07-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Establish liaison with ISO/IEC JTC 1/SC 21/WG 3 and appoint representative
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appoints
-      date_effective:
-        date: '1991-07-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Establish liaison with ISO/IEC JTC 1/SC 21/WG 3 and appoint representative
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '1991-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 moves to accept the offer of a liaison with ISO/IEC JTC 1/SC 21/WG 3 and
         appoints Mr Augusto Nieva (Italy) to serve in this role.
 - identifier:
@@ -512,17 +585,20 @@ decisions:
   dates:
   - date: '1991-07-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Encourage liaison with bodies developing STEP application protocols
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: encourages
-      date_effective:
-        date: '1991-07-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Encourage liaison with bodies developing STEP application protocols
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: encourages
+    date_effective:
+      date: '1991-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 encourages and welcomes liaison with any external body which meets the ISO
         criteria and is developing STEP application protocols.
 - identifier:
@@ -533,17 +609,20 @@ decisions:
   dates:
   - date: '1991-07-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Request P-members to assess national requirements for ISO 10303
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '1991-07-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Request P-members to assess national requirements for ISO 10303
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '1991-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 asks all P Members to assess their national requirements for future editions of
         ISO 10303. An initial list is requested by 1 Oct 91 to be sent to SPAG.
 - identifier:
@@ -554,17 +633,20 @@ decisions:
   dates:
   - date: '1991-07-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Establish Editing Committee for ISO 10303 and appoint chairman
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: establishes
-      date_effective:
-        date: '1991-07-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Establish Editing Committee for ISO 10303 and appoint chairman
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: establishes
+    date_effective:
+      date: '1991-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 directs its Secretariat to establish an Editing Committee for ISO 10303 in
         accordance with the ISO Directives. In addition to assistance in the preparation of
         texts, consistent between themselves and with the ISO directives, the Editing
@@ -576,11 +658,13 @@ decisions:
         Chairman in order to achieve committee objectives.
 
         This resolution supersedes SC 4 Resolution #76.
-    - type: appoints
-      date_effective:
-        date: '1991-07-15'
-        type: effective
-      message: |
+  - type: appoints
+    date_effective:
+      date: '1991-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 directs its Secretariat to appoint Mr. Nigel Shaw as chairman of the Editing
         Committee for ISO 10303.
 - identifier:
@@ -591,17 +675,20 @@ decisions:
   dates:
   - date: '1991-07-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Establish four-month review period for first Committee Drafts of STEP Parts
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: defines
-      date_effective:
-        date: '1991-07-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Establish four-month review period for first Committee Drafts of STEP Parts
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: defines
+    date_effective:
+      date: '1991-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         It is SC 4 policy that the review period for first Committee Drafts of STEP Parts should
         be not less than four months.
 - identifier:
@@ -612,17 +699,20 @@ decisions:
   dates:
   - date: '1991-07-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Japan member body and NICOGRAPH for meeting hospitality
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '1991-07-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Japan member body and NICOGRAPH for meeting hospitality
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '1991-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 wishes to thank the Japan member body and NICOGRAPH for their hospitality
         and for the quality of their meeting arrangements during the SC 4 session in
         Sapporo.

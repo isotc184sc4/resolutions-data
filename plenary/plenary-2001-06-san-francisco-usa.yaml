@@ -1,7 +1,9 @@
 ---
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, San Francisco, United
-    States, June 10, 2001 -- June 15, 2001
+  title:
+  - spelling: eng
+    value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, San Francisco, United
+      States, June 10, 2001 -- June 15, 2001
   date: '2001-06-10'
   source: ISO/TC 184/SC 4 Secretariat
   city: USSFO
@@ -15,17 +17,20 @@ decisions:
   dates:
   - date: '2001-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Approve new project leaders and editors for SC 4 projects
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: approves
-      date_effective:
-        date: '2001-06-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Approve new project leaders and editors for SC 4 projects
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: approves
+    date_effective:
+      date: '2001-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 approves the following new project leaders or project editors for the associated SC 4 projects:
 
         |===
@@ -46,17 +51,20 @@ decisions:
   dates:
   - date: '2001-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Cancel ISO 10303-217 Application Protocol Ship Piping
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2001-06-15'
-        type: effective
-      message: 'SC 4 cancels ISO 10303-217, Application Protocol: Ship Piping.
+  title:
+  - spelling: eng
+    value: Cancel ISO 10303-217 Application Protocol Ship Piping
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2001-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 cancels ISO 10303-217, Application Protocol: Ship Piping.
 
         '
 - identifier:
@@ -67,17 +75,20 @@ decisions:
   dates:
   - date: '2001-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Develop Test Case Guidelines for implementable standards
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2001-06-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Develop Test Case Guidelines for implementable standards
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2001-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         In accordance with Resolution 469, SC 4 requests all Project Leaders to (1) submit a
         summary of the industrial demand for test cases in their implementable standards and
         technical specifications projects and (2) indicate the status, technical approach, and any
@@ -92,25 +103,30 @@ decisions:
   dates:
   - date: '2001-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Cooperate with Industry Alliance for Interoperability (IAI)
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: welcomes
-      date_effective:
-        date: '2001-06-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Cooperate with Industry Alliance for Interoperability (IAI)
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: welcomes
+    date_effective:
+      date: '2001-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 welcomes the cooperation with the Industry Alliance for Interoperability on
         processing its existing specifications as ISO deliverables, and the efforts to ensure
         consistency between IAI and SC 4 deliverables.
-    - type: encourages
-      date_effective:
-        date: '2001-06-15'
-        type: effective
-      message: |
+  - type: encourages
+    date_effective:
+      date: '2001-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 encourages its member bodies to develop cooperation with national chapters
         and experts of the IAI in order to facilitate the international activities.
 - identifier:
@@ -121,17 +137,20 @@ decisions:
   dates:
   - date: '2001-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appoint Jochen Haenisch as Deputy Convenor of WG 12
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appoints
-      date_effective:
-        date: '2001-06-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Appoint Jochen Haenisch as Deputy Convenor of WG 12
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '2001-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 thanks Christian Donges for his efforts as Deputy Convenor of WG 12 and
         approves Jochen Haenisch as Deputy Convenor of ISO/TC 184/SC 4/WG 12 "Common Resources".
 - identifier:
@@ -142,17 +161,20 @@ decisions:
   dates:
   - date: '2001-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Cancel PWI 0033 on SGML and industrial data
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2001-06-15'
-        type: effective
-      message: 'SC 4 cancels its project 10303-pwi 0033 "Preliminary work item: SGML
+  title:
+  - spelling: eng
+    value: Cancel PWI 0033 on SGML and industrial data
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2001-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 cancels its project 10303-pwi 0033 "Preliminary work item: SGML
         and industrial data".
 
         '
@@ -164,17 +186,20 @@ decisions:
   dates:
   - date: '2001-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Create ad hoc group on Industrial data on the web
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: creates
-      date_effective:
-        date: '2001-06-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Create ad hoc group on Industrial data on the web
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: creates
+    date_effective:
+      date: '2001-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 creates an ad hoc group to investigate how SC 4's standards can be used for
         communication of industrial data using the internet and the World Wide Web. The
         primary focus of the ad hoc group shall be the use of standards developed by SC 4
@@ -192,43 +217,53 @@ decisions:
         * initiation of new SC 4 projects (preliminary work items or new work items);
         * marketing initiatives that promote the applicability of SC 4's standards to
           the internet
-    - type: directs
-      date_effective:
-        date: '2001-06-15'
-        type: effective
-      message: |
+  - type: directs
+    date_effective:
+      date: '2001-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 directs the ad hoc group to liaise with the team established by WG 3 and the
         QC to create guidelines for the use of XML and HTML for development and
         publication of SC 4 standards. The ad hoc group should also take into consideration
         the results of the PWI on SGML and Industrial Data (WG 10 n324 Annex B).
-    - type: directs
-      date_effective:
-        date: '2001-06-15'
-        type: effective
-      message: |
+  - type: directs
+    date_effective:
+      date: '2001-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 directs the ad hoc group to present its initial results to the SC 4 meeting in
         Fukuoka (October 2001) and its final results to the SC 4 meeting in Myrtle Beach SC
         (March 2002).
-    - type: appoints
-      date_effective:
-        date: '2001-06-15'
-        type: effective
-      message: 'SC 4 appoints Julian Fowler as the leader of this ad hoc group.
+  - type: appoints
+    date_effective:
+      date: '2001-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 appoints Julian Fowler as the leader of this ad hoc group.
 
         '
-    - type: requests
-      date_effective:
-        date: '2001-06-15'
-        type: effective
-      message: |
+  - type: requests
+    date_effective:
+      date: '2001-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests the conveners of WG 2, WG 3, JWG 8, JWG 9, WG 10, WG 11, and WG 12, and the
         coordinator of the Quality Committee to each nominate at least one expert to the ad
         hoc group.
-    - type: requests
-      date_effective:
-        date: '2001-06-15'
-        type: effective
-      message: |
+  - type: requests
+    date_effective:
+      date: '2001-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests its P-members and A-liaisons to nominate additional
         experts to the ad hoc group by the end of July.
 
@@ -241,17 +276,20 @@ decisions:
   dates:
   - date: '2001-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Pilot use of PDES, Inc. Ballot Software
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: encourages
-      date_effective:
-        date: '2001-06-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Pilot use of PDES, Inc. Ballot Software
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: encourages
+    date_effective:
+      date: '2001-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 invites its member bodies to install and pilot the PDES, Inc. Ballot Software for
         the PDM Module Ballot.
 
@@ -265,17 +303,20 @@ decisions:
   dates:
   - date: '2001-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank US Pro and Cathedral Hill Hotel for hosting
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2001-06-15'
-        type: adoption
-      message: |
+  title:
+  - spelling: eng
+    value: Thank US Pro and Cathedral Hill Hotel for hosting
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2001-06-15'
+      type: adoption
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its appreciation to US Pro and the staff of the Cathedral Hill Hotel for
         their efforts in organizing this meeting, arranging the facilities, excellent food, and
         social events. SC 4 also expresses its appreciation for their hospitality and
@@ -292,17 +333,20 @@ decisions:
   dates:
   - date: '2001-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Jim Mandracchia of EXOSTAR for his presentation
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2001-06-15'
-        type: adoption
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Jim Mandracchia of EXOSTAR for his presentation
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2001-06-15'
+      type: adoption
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its appreciation to Mr. Jim Mandracchia, Chief Strategist,
         EXOSTAR, for his insightful presentation during the Monday luncheon meeting.
 - identifier:
@@ -313,16 +357,19 @@ decisions:
   dates:
   - date: '2001-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Ricardo Gonçalves for Funchal meeting video
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2001-06-15'
-        type: adoption
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Ricardo Gonçalves for Funchal meeting video
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2001-06-15'
+      type: adoption
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its appreciation to Mr. Ricardo Gonçalves for the video summary of
         the SC 4 Funchal meeting.
