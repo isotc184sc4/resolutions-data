@@ -1,7 +1,9 @@
 ---
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Sun City, South Africa,
-    June 8, 2008 -- June 13, 2008
+  title:
+  - spelling: eng
+    value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Sun City, South
+      Africa, June 8, 2008 -- June 13, 2008
   date: '2008-06-08'
   source: ISO/TC 184/SC 4 Secretariat
   city: ZASUN
@@ -15,17 +17,20 @@ decisions:
   dates:
   - date: '2008-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appoint WG 13 Deputy Conveners
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appoints
-      date_effective:
-        date: '2008-06-15'
-        type: effective
-      message: 'SC4 approves the appointment of Ms. Emily Grantner and Mr. Leif Gyllström
+  title:
+  - spelling: eng
+    value: Appoint WG 13 Deputy Conveners
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '2008-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC4 approves the appointment of Ms. Emily Grantner and Mr. Leif Gyllström
         as Deputy Conveners for WG 13 for a period of three years.
 
         '
@@ -37,24 +42,29 @@ decisions:
   dates:
   - date: '2008-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appoint Phil Spiby as INCOSE liaison officer
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appoints
-      date_effective:
-        date: '2008-06-15'
-        type: effective
-      message: 'SC4 appoints Dr. Phil Spiby as the liaison officer to the INCOSE.
+  title:
+  - spelling: eng
+    value: Appoint Phil Spiby as INCOSE liaison officer
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '2008-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC4 appoints Dr. Phil Spiby as the liaison officer to the INCOSE.
 
         '
-    - type: thanks
-      date_effective:
-        date: '2008-06-15'
-        type: effective
-      message: 'SC4 expresses its appreciation to David Oliver for his liaison role
+  - type: thanks
+    date_effective:
+      date: '2008-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC4 expresses its appreciation to David Oliver for his liaison role
         with INCOSE and accepts his resignation from that position. SC4 thanks Dr.
         Phil Spiby for his offer to act as the liaison officer from SC4 to INCOSE.
 
@@ -67,46 +77,55 @@ decisions:
   dates:
   - date: '2008-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Express concerns regarding ISO/TC 37/SC 3 NWI 22274
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2008-06-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Express concerns regarding ISO/TC 37/SC 3 NWI 22274
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2008-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 expresses the following concerns regarding NWI 22274 from ISO/TC 37/SC 3:
 
         * This proposal appears to violate the agreements made at the ISO/TC 37 Beijing 2006 and Provo 2007 meetings.
         * SC4's request that ISO/TC 37/SC 3 delay circulating a NWI proposal for 22274 until a harmonised position between ISO/TC 184/SC 4 and ISO/TC 37 could be agreed and until a draft could be produced that could be circulated as a combined NWI/CD was not followed.
         * This proposal seems to have expanded to cover product classification schemes, which are within scope of SC4 and not of ISO/TC 37.
-    - type: directs
-      date_effective:
-        date: '2008-06-15'
-        type: effective
-      message: 'SC4 directs the Chair, Secretariat, and liaison officers to ISO/TC
-        37/SC 3 to jointly develop a liaison statement expressing SC4''s concerns
-        about this project, for submission to ISO/TC 37/SC 3.
+  - type: directs
+    date_effective:
+      date: '2008-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC4 directs the Chair, Secretariat, and liaison officers to ISO/TC 37/SC
+        3 to jointly develop a liaison statement expressing SC4''s concerns about
+        this project, for submission to ISO/TC 37/SC 3.
 
         '
-    - type: requests
-      date_effective:
-        date: '2008-06-15'
-        type: effective
-      message: 'SC4 requests the liaison officers to coordinate an SC4 review of the
+  - type: requests
+    date_effective:
+      date: '2008-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC4 requests the liaison officers to coordinate an SC4 review of the
         NWI and prepare a set of ballot comments, noting the ballot closing date of
         2008-07-31.
 
         '
-    - type: encourages
-      date_effective:
-        date: '2008-06-15'
-        type: effective
-      message: 'SC4 encourages its member countries to submit corresponding ballot
-        comments through their national bodies.
+  - type: encourages
+    date_effective:
+      date: '2008-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC4 encourages its member countries to submit corresponding ballot comments
+        through their national bodies.
 
         '
 - identifier:
@@ -117,17 +136,20 @@ decisions:
   dates:
   - date: '2008-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Terminate liaisons to IEC SB3 and ISO/TC 10/SC 6
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2008-06-15'
-        type: effective
-      message: 'SC4 requests its secretariat to terminate the liaison to IEC SB3 and
+  title:
+  - spelling: eng
+    value: Terminate liaisons to IEC SB3 and ISO/TC 10/SC 6
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2008-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC4 requests its secretariat to terminate the liaison to IEC SB3 and
         ISO/TC 10/SC 6.
 
         '
@@ -139,17 +161,20 @@ decisions:
   dates:
   - date: '2008-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Propose new scope for ISO/TC 184/SC 4
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2008-06-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Propose new scope for ISO/TC 184/SC 4
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2008-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 requests its secretariat by 2008-06-30 to provide ISO/TC 184 with the following proposed new scope for SC4:
 
         Standardization of the definition, integration and quality management of information which is shared, exchanged and archived in the context of:
@@ -165,35 +190,42 @@ decisions:
   dates:
   - date: '2008-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Align OMG activity on data quality with WG 13
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2008-06-15'
-        type: effective
-      message: 'SC4 invites the Object Management Group (OMG) to take account of the
+  title:
+  - spelling: eng
+    value: Align OMG activity on data quality with WG 13
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2008-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC4 invites the Object Management Group (OMG) to take account of the
         scope and deliverables of the approved ISO 8000 work programme on data quality
         (ISO/TC 184/SC 4 N2271) in moving forward with activities around data quality.
 
         '
-    - type: appoints
-      date_effective:
-        date: '2008-06-15'
-        type: effective
-      message: 'SC4 appoints Peter Benson as its delegate to attend the MIT Information
+  - type: appoints
+    date_effective:
+      date: '2008-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC4 appoints Peter Benson as its delegate to attend the MIT Information
         Quality Industry Symposium (2008-07) and subsequent OMG Proposed Data Quality
         Standard Preparatory Meeting.
 
         '
-    - type: requests
-      date_effective:
-        date: '2008-06-15'
-        type: effective
-      message: 'SC4 requests Mr Benson to promote the full scope of the ISO 8000 work
+  - type: requests
+    date_effective:
+      date: '2008-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC4 requests Mr Benson to promote the full scope of the ISO 8000 work
         programme at these meetings, to identify individuals with whom to establish
         working relationships and to report his findings back to SC4.
 
@@ -206,36 +238,43 @@ decisions:
   dates:
   - date: '2008-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Subdivide ISO 15926-7 into parts 7 through 10
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: noting
-      date_effective:
-        date: '2008-06-15'
-        type: effective
-      message: 'Noting the successful second CD-TS ballot on ISO 15926-7
-
-        '
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2008-06-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Subdivide ISO 15926-7 into parts 7 through 10
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2008-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 resolves that the current content may be published as the following ISO 15926 parts:
 
         * Part 7: Templates and methodology
         * Part 8: OWL representation
         * Part 9: Interfaces through facades
         * Part 10: Test methods
-    - type: requests
-      date_effective:
-        date: '2008-06-15'
-        type: effective
-      message: 'SC4 requests its Secretariat to inform ISO of this subdivision.
+  - type: requests
+    date_effective:
+      date: '2008-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC4 requests its Secretariat to inform ISO of this subdivision.
+
+        '
+  considerations:
+  - type: noting
+    date_effective:
+      date: '2008-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'Noting the successful second CD-TS ballot on ISO 15926-7
 
         '
 - identifier:
@@ -246,17 +285,20 @@ decisions:
   dates:
   - date: '2008-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Open Technical Forum presenters
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2008-06-15'
-        type: adoption
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Open Technical Forum presenters
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2008-06-15'
+      type: adoption
+    message:
+    - spelling: eng
+      value: |
         SC4 offers thanks to those external projects who presented their material at the Open Technical Forum:
 
         * "Combining Gellish and RDF" (Leo van Ruijven)
@@ -269,17 +311,20 @@ decisions:
   dates:
   - date: '2008-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank SC 4 Liaisons and Liaison Plenary presenters
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2008-06-15'
-        type: adoption
-      message: |
+  title:
+  - spelling: eng
+    value: Thank SC 4 Liaisons and Liaison Plenary presenters
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2008-06-15'
+      type: adoption
+    message:
+    - spelling: eng
+      value: |
         SC4 expresses its appreciation to our SC4 Liaisons and those projects who presented at the Liaison Plenary:
 
         * IAI (Thomas Liebich)
@@ -296,17 +341,20 @@ decisions:
   dates:
   - date: '2008-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Acknowledge resignation of Len Slovensky
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: notes
-      date_effective:
-        date: '2008-06-15'
-        type: adoption
-      message: 'SC4 notes with regret the resignation of Len Slovensky from the positions
+  title:
+  - spelling: eng
+    value: Acknowledge resignation of Len Slovensky
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: notes
+    date_effective:
+      date: '2008-06-15'
+      type: adoption
+    message:
+    - spelling: eng
+      value: 'SC4 notes with regret the resignation of Len Slovensky from the positions
         of WG 3 Deputy Convenor and AP229 project leader and editor, and wishes him
         well in his future endeavours.
 
@@ -319,17 +367,20 @@ decisions:
   dates:
   - date: '2008-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank hosts and sponsors of the Sun City meeting
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2008-06-15'
-        type: adoption
-      message: |
+  title:
+  - spelling: eng
+    value: Thank hosts and sponsors of the Sun City meeting
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2008-06-15'
+      type: adoption
+    message:
+    - spelling: eng
+      value: |
         SC4 expresses its appreciation to SABS, PiLog, SASOL, Transnet and Traces of Africa for their hosting and support of the 55th ISO/TC 184/SC 4 Plenary Meeting at the Sun City Hotel, Sun City, South Africa. We especially commend Dr Salomon de Jager (PiLog), Dr Hanneke du Preez, Mrs Charlotte du Plessis, and Ms Barrie-Anne Basson (Traces of Africa) for an excellent venue and outstanding service to the SC4 community.
 
         A special acknowledgement is extended to Ms Erna Stadtlander, Sun City Conference Coordinator, and her Support Team.

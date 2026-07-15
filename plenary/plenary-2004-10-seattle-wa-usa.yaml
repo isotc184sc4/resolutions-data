@@ -1,7 +1,9 @@
 ---
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Seattle, United States,
-    October 3, 2004 -- October 8, 2004
+  title:
+  - spelling: eng
+    value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Seattle, United
+      States, October 3, 2004 -- October 8, 2004
   date: '2004-10-03'
   source: ISO/TC 184/SC 4 Secretariat
   city: USSEA
@@ -15,17 +17,20 @@ decisions:
   dates:
   - date: '2004-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Approve project leader for ISO 10303-0058
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: approves
-      date_effective:
-        date: '2004-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Approve project leader for ISO 10303-0058
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: approves
+    date_effective:
+      date: '2004-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 approves the following new project leaders or project editors for the associated SC 4 projects:
 
         |===
@@ -41,28 +46,33 @@ decisions:
   dates:
   - date: '2004-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Request ISO CS consider module progress to avoid AP cancellation
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2004-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Request ISO CS consider module progress to avoid AP cancellation
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2004-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests ISO to consider the progress of individual modules when
         deciding whether it is appropriate to cancel an AP Project for lack of progress.
         In particular, ballot submission of a substantive set of the new implementation and
         foundation modules that are included within the scope of an AP (as defined in its
         NWI), should also be considered as a change in the status for the overall AP
         document, and should therefore preclude its cancellation for lack of progress.
-    - type: requests
-      date_effective:
-        date: '2004-10-15'
-        type: effective
-      message: |
+  - type: requests
+    date_effective:
+      date: '2004-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests its Secretariat to ask ISO to apply this approach to the development of
         AP233 as a test case, noting the substantive progress on an initial set of modules, and
         the threat of cancellation of the AP project in January 2005.
@@ -74,17 +84,20 @@ decisions:
   dates:
   - date: '2004-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Request retention of ISO/TS 10303-28 ed1 after ed2 publication
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2004-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Request retention of ISO/TS 10303-28 ed1 after ed2 publication
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2004-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests the ISO Central Secretariat to retain the listing of ISO TS 10303-28
         edition 1 in the ISO catalogue of available International Standards, after the
         publication of the ISO TS 10303-28 edition 2 "Implementation methods: XML
@@ -99,30 +112,35 @@ decisions:
   dates:
   - date: '2004-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appoint Darren Meister as Education and Outreach Rapporteur
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: recognizing
-      date_effective:
-        date: '2004-10-15'
-        type: effective
-      message: |
-        Recognizing the continuing need to make industry, the public, the research
-        community, and other stakeholders knowledgeable of SC 4 standards and SC 4
-        activities.
-    actions:
-    - type: appoints
-      date_effective:
-        date: '2004-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Appoint Darren Meister as Education and Outreach Rapporteur
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '2004-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 appoints Mr. Darren Meister as the new SC 4 Education and Outreach
         Rapporteur to act as the focal point for SC 4 outreach, education, and promotional
         activities. These activities should be closely linked to International Industry STEP
         Centers (ISC) related marketing and promotional activities.
+  considerations:
+  - type: recognizing
+    date_effective:
+      date: '2004-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
+        Recognizing the continuing need to make industry, the public, the research
+        community, and other stakeholders knowledgeable of SC 4 standards and SC 4
+        activities.
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '625'
@@ -131,17 +149,20 @@ decisions:
   dates:
   - date: '2004-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Create NWI for lifecycle support of AEC facilities
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2004-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Create NWI for lifecycle support of AEC facilities
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2004-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         The goal of this PWI is to create a NWI for a model for lifecycle support of AEC
         facilities. The following tasks will be performed:
 
@@ -154,11 +175,13 @@ decisions:
         * Explore feasibility and best approach to combine existing standards. The
         different approaches of developing a modular AP or a conventional approach
         will be assessed.
-    - type: directs
-      date_effective:
-        date: '2004-10-15'
-        type: effective
-      message: |
+  - type: directs
+    date_effective:
+      date: '2004-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 directs WG 3 to create the NWI within 6 months forward it to SC 4 for review and
         approval, and appoints Inhan Kim and Wolfgang Haas as co project leaders.
 
@@ -172,25 +195,30 @@ decisions:
   dates:
   - date: '2004-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Create ad hoc group to assess SASIG PDQ 2.0 PAS proposal
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: creates
-      date_effective:
-        date: '2004-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Create ad hoc group to assess SASIG PDQ 2.0 PAS proposal
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: creates
+    date_effective:
+      date: '2004-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 creates an ad hoc group led by Oscar Rocha to assess the proposal from
         SASIG to transpose the PDQ 2.0 guidelines into a Publicly Available Specification
         (PAS).
-    - type: requests
-      date_effective:
-        date: '2004-10-15'
-        type: effective
-      message: |
+  - type: requests
+    date_effective:
+      date: '2004-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 invites WG 3, WG 11, WG 12, PPC and the Quality Committee (QC) to
         nominate representatives by 2004-11-30. The ad hoc group is requested to assess
         the specification and explanatory report (SC 4 N1792), negotiate with SASIG on any
@@ -204,25 +232,30 @@ decisions:
   dates:
   - date: '2004-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appoint Wolfgang Wilkes and Gerry Radack as liaisons to ISO/IEC JWG 1
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appoints
-      date_effective:
-        date: '2004-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Appoint Wolfgang Wilkes and Gerry Radack as liaisons to ISO/IEC JWG 1
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '2004-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 appoints Dr. Wolfgang Wilkes and Dr. Gerry Radack as the SC 4 Rapporteurs to
         ISO/IEC/JWG 1.
-    - type: resolves
-      date_effective:
-        date: '2004-10-15'
-        type: effective
-      message: 'SC 4 extends the mandate of the delegates to JWG 1 as nominated in
-        Resolution 611.
+  - type: resolves
+    date_effective:
+      date: '2004-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 extends the mandate of the delegates to JWG 1 as nominated in Resolution
+        611.
 
         '
 - identifier:
@@ -233,55 +266,68 @@ decisions:
   dates:
   - date: '2004-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Split ISO 13584-501 and direct IEC SC 65B liaison actions
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: decides
-      date_effective:
-        date: '2004-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Split ISO 13584-501 and direct IEC SC 65B liaison actions
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: decides
+    date_effective:
+      date: '2004-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 decides to split the scope of the registered dictionary defined by ISO 13584 Part
         501 (ISO id 39753) into two parts, covering (a) laboratory and environment measuring
         instruments and (b) industrial process measuring instruments.
-    - type: directs
-      date_effective:
-        date: '2004-10-15'
-        type: effective
-      message: |
+  - type: directs
+    date_effective:
+      date: '2004-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 directs WG 2 to stop the work on item (b) and directs its Secretariat to offer the
         work on this item to IEC SC 65B for potential publication either as a joint ISO/IEC
         standard or as an IEC standard.
-    - type: directs
-      date_effective:
-        date: '2004-10-15'
-        type: effective
-      message: |
+  - type: directs
+    date_effective:
+      date: '2004-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 directs WG 2 to continue the work on item (a), and authorizes a new delivery
         date for the DIS ballot of 2004-11-30.
-    - type: requests
-      date_effective:
-        date: '2004-10-15'
-        type: effective
-      message: |
+  - type: requests
+    date_effective:
+      date: '2004-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 invites IEC experts to contribute to the work on item (a) in WG 2, both during
         the further development of the standard and during the operation of the registration
         authority.
-    - type: encourages
-      date_effective:
-        date: '2004-10-15'
-        type: effective
-      message: |
+  - type: encourages
+    date_effective:
+      date: '2004-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 encourages WG 2 experts who are also members of IEC to
         participate in the work of IEC SC 65B on item (b).
-    - type: instructs
-      date_effective:
-        date: '2004-10-15'
-        type: effective
-      message: |
+  - type: instructs
+    date_effective:
+      date: '2004-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 instructs WG 2 to take into account forthcoming results of ISO/IEC JWG 1
         concerning the maintenance of dictionaries during the preparation of the next
         versions of the ISO 13584-501 standard.
@@ -293,25 +339,30 @@ decisions:
   dates:
   - date: '2004-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appoint Timothy King as liaison to OASIS PLCS Technical Committee
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: accepts
-      date_effective:
-        date: '2004-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Appoint Timothy King as liaison to OASIS PLCS Technical Committee
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: accepts
+    date_effective:
+      date: '2004-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 accepts the nomination of Dr. Timothy King as the OASIS PLCS Technical
         Committee Liaison, and nominates Dr. Timothy King as the SC 4 liaison to the OASIS
         PLCS Technical Committee.
-    - type: thanks
-      date_effective:
-        date: '2004-10-15'
-        type: effective
-      message: 'SC 4 would like to express its appreciation to Ms. Margaret Christison
+  - type: thanks
+    date_effective:
+      date: '2004-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 would like to express its appreciation to Ms. Margaret Christison
         who has previously acted in these roles.
 
         '
@@ -323,17 +374,20 @@ decisions:
   dates:
   - date: '2004-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Chuck Stark for organizing North American SC 4 meetings
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2004-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Chuck Stark for organizing North American SC 4 meetings
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2004-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its utmost appreciation to Chuck Stark for his many years of
         dedication organizing all SC 4 meetings held in North America for the last 14 years.
         Chuck has provided an extremely high level of support and hospitality to make these
@@ -346,17 +400,20 @@ decisions:
   dates:
   - date: '2004-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Tony Fry for leadership of WG 3/T23
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2004-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Tony Fry for leadership of WG 3/T23
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2004-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its sincere thanks to Tony Fry for his long-standing, dedicated efforts
         and excellent performance in the leadership of WG 3/T23, and wishes him all the best
         for his future. In particular, it would like to commend him for his efforts leading to the
@@ -370,17 +427,20 @@ decisions:
   dates:
   - date: '2004-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Ricardo Goncalves for leading the Education and Outreach Initiative
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2004-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Ricardo Goncalves for leading the Education and Outreach Initiative
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2004-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its appreciation to Ricardo Goncalves for his dedication, untiring
         efforts, enthusiasm, and creativity as the leader for the SC 4 Education and Outreach
         Initiative. Ricardo will be remembered for his willingness to take on unpopular, but
@@ -395,17 +455,20 @@ decisions:
   dates:
   - date: '2004-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank US PRO and Renaissance Hotel for organizing the meeting
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2004-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank US PRO and Renaissance Hotel for organizing the meeting
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2004-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 wishes to give its unanimous thanks to US PRO, its Members and the staff of the
         Seattle Renaissance Hotel for their efforts in organizing this meeting, arranging the
         facilities, excellent food, and excellent social events.
@@ -417,17 +480,20 @@ decisions:
   dates:
   - date: '2004-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Commend Chuck Stark for outstanding meeting arrangements
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2004-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Commend Chuck Stark for outstanding meeting arrangements
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2004-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 commends Chuck Stark for the outstanding arrangements that contributed to the
         successful completion of SC 4 business.
 - identifier:
@@ -438,17 +504,20 @@ decisions:
   dates:
   - date: '2004-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Sarah Hartline and Karri McGough for administrative support
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2004-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Sarah Hartline and Karri McGough for administrative support
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2004-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 recognizes the unique talents and demanding requirements necessary to
         support the SC 4 meeting workload. A special recognition to Ms Sarah Hartline and
         Ms Karri McGough for their superior administrative support, outstanding hospitality,

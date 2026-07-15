@@ -1,7 +1,9 @@
 ---
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, New Orleans, United
-    States, November 8, 1999 -- November 18, 1999
+  title:
+  - spelling: eng
+    value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, New Orleans, United
+      States, November 8, 1999 -- November 18, 1999
   date: '1999-11-08'
   source: ISO/TC 184/SC 4 Secretariat
   city: USMSY
@@ -15,17 +17,20 @@ decisions:
   dates:
   - date: '1999-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Approve project leaders and editors for ISO 10303 projects
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: approves
-      date_effective:
-        date: '1999-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Approve project leaders and editors for ISO 10303 projects
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: approves
+    date_effective:
+      date: '1999-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 approves the following new project leaders or project editors for the associated SC4 projects:
 
         |===
@@ -43,25 +48,30 @@ decisions:
   dates:
   - date: '1999-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Request retention of 1994 editions of ISO 10303-41, -42, -43, and -44
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '1999-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Request retention of 1994 editions of ISO 10303-41, -42, -43, and -44
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '1999-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 requests that the ISO Central Secretariat retain the 1994 editions of ISO 10303-41,
         -42, -43, and -44 in order to support parts 104, 204, 205, 209, 213 and 518 and
         the corresponding ATSs.
-    - type: directs
-      date_effective:
-        date: '1999-11-15'
-        type: effective
-      message: |
+  - type: directs
+    date_effective:
+      date: '1999-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 directs the Project Teams of the respective parts to modify their documents to
         reflect this decision.
 - identifier:
@@ -72,17 +82,20 @@ decisions:
   dates:
   - date: '1999-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Ballot EXPRESS amendment to support modularization as DIS
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: resolves
-      date_effective:
-        date: '1999-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Ballot EXPRESS amendment to support modularization as DIS
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: resolves
+    date_effective:
+      date: '1999-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 resolves that the proposed amendment (WG 11N084 as amended) to ISO
         10303-11(1994) EXPRESS to support modularization be balloted as a DIS and
         incorporated in a new document with Technical Corrigendum 1 and Technical
@@ -95,17 +108,20 @@ decisions:
   dates:
   - date: '1999-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Support continuation of joint OMG/SC 4 harmonization activity
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: recognizes
-      date_effective:
-        date: '1999-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Support continuation of joint OMG/SC 4 harmonization activity
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: recognizes
+    date_effective:
+      date: '1999-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 recognizes and supports the continuation of the harmonization activity by the
         OMG Manufacturing Domain Task Force and members of the SC4 community. SC4
         requests that members disseminate information about this white paper and the
@@ -118,17 +134,20 @@ decisions:
   dates:
   - date: '1999-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Update Minor Revision process in SC 4 Handbook
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '1999-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Update Minor Revision process in SC 4 Handbook
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '1999-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 requests the Secretary to make the following changes to Clause 3.1.3 Revision
         of the SC4 Handbook.
 
@@ -188,17 +207,20 @@ decisions:
   dates:
   - date: '1999-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Identify actions to migrate SC 4 to electronic balloting
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: instructs
-      date_effective:
-        date: '1999-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Identify actions to migrate SC 4 to electronic balloting
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: instructs
+    date_effective:
+      date: '1999-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 instructs the Secretariat to identify actions necessary to migrate to a totally
         electronic operation of SC4 as soon as feasible and to prepare any necessary
         proposals for approval at Melbourne.
@@ -210,17 +232,20 @@ decisions:
   dates:
   - date: '1999-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Amend Organization Handbook regarding balloting of Technical Specifications
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: approves
-      date_effective:
-        date: '1999-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Amend Organization Handbook regarding balloting of Technical Specifications
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: approves
+    date_effective:
+      date: '1999-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 approves the following amendments to the Organization Handbook (changes in
         italics):
 
@@ -256,11 +281,13 @@ decisions:
         . resubmit the document for a further CD ballot.
 
         Clauses 6.2.4, 7.6, 8.2: Add TS to CD in the list of documents.
-    - type: requests
-      date_effective:
-        date: '1999-11-15'
-        type: effective
-      message: |
+  - type: requests
+    date_effective:
+      date: '1999-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 further requests its secretariat to make the corresponding changes to the SC4
         web pages.
 - identifier:
@@ -271,17 +298,20 @@ decisions:
   dates:
   - date: '1999-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Reconfirm conveners for WG 11, WG 8, and WG 2
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: confirms
-      date_effective:
-        date: '1999-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Reconfirm conveners for WG 11, WG 8, and WG 2
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: confirms
+    date_effective:
+      date: '1999-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 reconfirms the following conveners:
 
         * David Price as Deputy Convener WG 11
@@ -296,17 +326,20 @@ decisions:
   dates:
   - date: '1999-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Establish Category A liaison with PLCS, Inc. and appoint John Dunford
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: accepts
-      date_effective:
-        date: '1999-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Establish Category A liaison with PLCS, Inc. and appoint John Dunford
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: accepts
+    date_effective:
+      date: '1999-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 accepts the request of PLCS, Inc. to establish a Category liaison from PLCS,
         Inc. to SC4 and appoints John Dunford as liaison officer.
 - identifier:
@@ -317,17 +350,20 @@ decisions:
   dates:
   - date: '1999-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Authorize Bernd Wenzel as SC 4 representative to OMG
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: approves
-      date_effective:
-        date: '1999-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Authorize Bernd Wenzel as SC 4 representative to OMG
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: approves
+    date_effective:
+      date: '1999-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 authorizes Bernd Wenzel to act as the representative of SC4 in his contacts
         with OMG regarding modelling language requirements.
 - identifier:
@@ -338,17 +374,20 @@ decisions:
   dates:
   - date: '1999-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Establish Category A liaison with INCOSE and appoint David Oliver
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: approves
-      date_effective:
-        date: '1999-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Establish Category A liaison with INCOSE and appoint David Oliver
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: approves
+    date_effective:
+      date: '1999-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 approves a Category A liaison with INCOSE, appoints Mr. David Oliver as the
         liaison officer, and requests that the SC4 secretary confirm this liaison with the ISO
         Central Secretariat.
@@ -360,17 +399,20 @@ decisions:
   dates:
   - date: '1999-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Authorize ISO 10303-518 Project Leader to prepare DIS document
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: approves
-      date_effective:
-        date: '1999-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Authorize ISO 10303-518 Project Leader to prepare DIS document
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: approves
+    date_effective:
+      date: '1999-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 authorizes the Project Leader for ISO 10303-518 to prepare the document as a
         DIS.
 - identifier:
@@ -381,34 +423,41 @@ decisions:
   dates:
   - date: '1999-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Invite SC 1 WG 7 to jointly specify process flow requirements
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: noting
-      date_effective:
-        date: '1999-11-15'
-        type: effective
-      message: |
-        SC4 notes the SC 1 requirements for the functionality's including, but not limited to
-        looping, branching, conditionals and parallel execution.
-    actions:
-    - type: requests
-      date_effective:
-        date: '1999-11-15'
-        type: effective
-      message: 'SC4 invites SC 1 WG 7 to work jointly with SC4 to specify these requirements.
+  title:
+  - spelling: eng
+    value: Invite SC 1 WG 7 to jointly specify process flow requirements
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '1999-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC4 invites SC 1 WG 7 to work jointly with SC4 to specify these requirements.
 
         '
-    - type: requests
-      date_effective:
-        date: '1999-11-15'
-        type: effective
-      message: |
+  - type: requests
+    date_effective:
+      date: '1999-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 requests SC 1 WG 7 to defer the DIS ballot on ISO 14649 in order to resolve
         issues related to integration of its information models with SC4 Standards.
+  considerations:
+  - type: noting
+    date_effective:
+      date: '1999-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
+        SC4 notes the SC 1 requirements for the functionality's including, but not limited to
+        looping, branching, conditionals and parallel execution.
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: 199911-acclaim-01
@@ -417,17 +466,20 @@ decisions:
   dates:
   - date: '1999-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Michael Endres Jr. for his service as WG 12 Deputy Convener
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '1999-11-15'
-        type: effective
-      message: 'SC4 thanks Michael Endres Jr. for his efforts as Deputy Convener WG
+  title:
+  - spelling: eng
+    value: Thank Michael Endres Jr. for his service as WG 12 Deputy Convener
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '1999-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC4 thanks Michael Endres Jr. for his efforts as Deputy Convener WG
         12.
 
         '
@@ -439,17 +491,20 @@ decisions:
   dates:
   - date: '1999-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Approve Christian Donges as WG 12 Deputy Convener
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: approves
-      date_effective:
-        date: '1999-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Approve Christian Donges as WG 12 Deputy Convener
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: approves
+    date_effective:
+      date: '1999-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 approves Christian Donges as Deputy Convener of ISO/TC 184/SC 4/WG 12
         "Common Resources".
 - identifier:
@@ -460,41 +515,50 @@ decisions:
   dates:
   - date: '1999-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Allow SC 4 projects to enter Stage 3 ballot using HTML format
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: resolves
-      date_effective:
-        date: '1999-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Allow SC 4 projects to enter Stage 3 ballot using HTML format
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: resolves
+    date_effective:
+      date: '1999-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 resolves to allow SC4 projects to enter their Stage 3 ballot with drafts
         documented using HTML.
-    - type: resolves
-      date_effective:
-        date: '1999-11-15'
-        type: effective
-      message: |
+  - type: resolves
+    date_effective:
+      date: '1999-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 resolves that the project be required to provide a printable review version of
         the materials.
-    - type: resolves
-      date_effective:
-        date: '1999-11-15'
-        type: effective
-      message: |
+  - type: resolves
+    date_effective:
+      date: '1999-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 resolves that these printable review versions and the html versions of the
         materials be excepted from conformance to the presentation requirements of the
         Supplementary Directives for ISO 10303. The provisions of Resolution 395 with
         respect to the use of guidelines development by the WG 10 STEP Modularization PWI
         remain in effect.
-    - type: instructs
-      date_effective:
-        date: '1999-11-15'
-        type: effective
-      message: |
+  - type: instructs
+    date_effective:
+      date: '1999-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 instructs the Quality Committee and the WG 10 STEP Modularization PWI Project
         to provide advice on the use of html to present documents.
 - identifier:
@@ -505,28 +569,33 @@ decisions:
   dates:
   - date: '1999-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Split ISO 10303-27 into two parts and publish as Technical Specifications
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: resolves
-      date_effective:
-        date: '1999-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Split ISO 10303-27 into two parts and publish as Technical Specifications
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: resolves
+    date_effective:
+      date: '1999-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 resolves that the technical content of ISO 10303-27 shall be published as two
         separate parts and as Technical Specifications rather than as a single part as a Draft
         International Standard. Conformance Class 3 of ISO 10303-27 shall be published as
         ISO 10303-27 under the title of the current ISO 10303-27 and Conformance Class 1
         and 2 shall be published as ISO 10303-29 under the title of "Lightweight SDAI (
         insert trademark) Java Programming Language Binding".
-    - type: directs
-      date_effective:
-        date: '1999-11-15'
-        type: effective
-      message: |
+  - type: directs
+    date_effective:
+      date: '1999-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 directs the Secretariat to update the URL containing the titles of all ISO 10303
         parts to reflect this change.
 - identifier:
@@ -537,17 +606,20 @@ decisions:
   dates:
   - date: '1999-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Investigate impact and benefits of the new EXPRESS document
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '1999-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Investigate impact and benefits of the new EXPRESS document
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '1999-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 requests its WGs to investigate the impact and benefits of the new Express
         document (see resolution C) and to put forward NWIs for revising parts, as
         appropriate.
@@ -559,17 +631,20 @@ decisions:
   dates:
   - date: '1999-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank US PRO, Central Secretariat, and TC 184 Secretariat for their support
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '1999-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank US PRO, Central Secretariat, and TC 184 Secretariat for their support
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '1999-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 wishes to express their appreciation:
 
         * To the US for hosting the New Orleans SC4 meeting. A special thanks goes

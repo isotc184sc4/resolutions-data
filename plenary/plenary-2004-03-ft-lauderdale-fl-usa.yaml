@@ -1,7 +1,9 @@
 ---
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Fort Lauderdale, United
-    States, February 29, 2004 -- March 5, 2004
+  title:
+  - spelling: eng
+    value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Fort Lauderdale,
+      United States, February 29, 2004 -- March 5, 2004
   date: '2004-02-29'
   source: ISO/TC 184/SC 4 Secretariat
   city: USFLL
@@ -15,17 +17,20 @@ decisions:
   dates:
   - date: '2004-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Approve project leaders and editors for SC 4 projects
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: approves
-      date_effective:
-        date: '2004-03-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Approve project leaders and editors for SC 4 projects
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: approves
+    date_effective:
+      date: '2004-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 approves the following new project leaders or project editors for the associated SC 4 projects:
 
         |===
@@ -45,25 +50,30 @@ decisions:
   dates:
   - date: '2004-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Reappoint Gerry Radack as Convener of WG 3
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appreciates
-      date_effective:
-        date: '2004-03-15'
-        type: effective
-      message: 'SC 4 appreciates and accepts the offer of Dr. Radack to serve as Convener
+  title:
+  - spelling: eng
+    value: Reappoint Gerry Radack as Convener of WG 3
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appreciates
+    date_effective:
+      date: '2004-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 appreciates and accepts the offer of Dr. Radack to serve as Convener
         of WG 3.
 
         '
-    - type: approves
-      date_effective:
-        date: '2004-03-15'
-        type: effective
-      message: 'SC 4 approves the nomination of Dr. Radack to serve for an additional
+  - type: approves
+    date_effective:
+      date: '2004-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 approves the nomination of Dr. Radack to serve for an additional
         three year term.
 
         '
@@ -75,17 +85,20 @@ decisions:
   dates:
   - date: '2004-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Nominate liaison officers to IEC SC 65B/WG 10
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: nominates
-      date_effective:
-        date: '2004-03-15'
-        type: effective
-      message: 'SC 4 nominates Hiroshi Murayama as primary liaison officer, with Dr.
+  title:
+  - spelling: eng
+    value: Nominate liaison officers to IEC SC 65B/WG 10
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: nominates
+    date_effective:
+      date: '2004-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 nominates Hiroshi Murayama as primary liaison officer, with Dr.
         Wolfgang Wilkes as alternate, to IEC SC 65B/WG 10 for a period of two years,
         and welcomes Dr. Jean-Philippe Herzog as liaison officer from SC 65B.
 
@@ -98,18 +111,21 @@ decisions:
   dates:
   - date: '2004-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Request ISO/CS to retain ISO 10303-203 ed1 in the catalogue
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2004-03-15'
-        type: effective
-      message: 'SC 4 requests the ISO Central Secretariat to retain the listing of
-        ISO 10303-203 edition 1 in the ISO catalogue of available International Standards,
+  title:
+  - spelling: eng
+    value: Request ISO/CS to retain ISO 10303-203 ed1 in the catalogue
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2004-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests the ISO Central Secretariat to retain the listing of ISO
+        10303-203 edition 1 in the ISO catalogue of available International Standards,
         after the publication of the ISO 10303-203 edition 2 as a Technical Specification.
 
         '
@@ -121,28 +137,33 @@ decisions:
   dates:
   - date: '2004-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Propose Category A liaison with NATO AC/135 and nominate Steven Arnett
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2004-03-15'
-        type: effective
-      message: 'SC 4 proposes a Category A liaison with NATO AC/135, nominates Steven
+  title:
+  - spelling: eng
+    value: Propose Category A liaison with NATO AC/135 and nominate Steven Arnett
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2004-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 proposes a Category A liaison with NATO AC/135, nominates Steven
         Arnett, US Defense Logistics Information Service, as the liaison officer,
         and requests that the SC 4 secretary confirms this liaison with the ISO Central
         Secretariat.
 
         '
-    - type: requests
-      date_effective:
-        date: '2004-03-15'
-        type: effective
-      message: 'SC 4 invites AC/135 to make a reciprocal nomination, and to invite
-        any of its constituent bodies with activities in the scope of SC 4 to establish
+  - type: requests
+    date_effective:
+      date: '2004-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 invites AC/135 to make a reciprocal nomination, and to invite any
+        of its constituent bodies with activities in the scope of SC 4 to establish
         liaison arrangements.
 
         '
@@ -154,26 +175,31 @@ decisions:
   dates:
   - date: '2004-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Support IDW investigation of language usage with EXPRESS
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: supports
-      date_effective:
-        date: '2004-03-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Support IDW investigation of language usage with EXPRESS
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: supports
+    date_effective:
+      date: '2004-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 supports the proposed investigation by the Industrial Data on the Web Group (IDW) of the relationship between SC 4 standards and OASIS, W3C and OMG standards.
 
         Use of languages such as UML and OWL in coordination with EXPRESS is to be included as part of this investigation.
-    - type: requests
-      date_effective:
-        date: '2004-03-15'
-        type: effective
-      message: 'SC 4 requests the IDW team to present a report on this activity at
-        the Bath meeting.
+  - type: requests
+    date_effective:
+      date: '2004-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests the IDW team to present a report on this activity at the
+        Bath meeting.
 
         '
 - identifier:
@@ -184,29 +210,34 @@ decisions:
   dates:
   - date: '2004-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Extend timeline for Dictionaries Task Force draft report
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: noting
-      date_effective:
-        date: '2004-03-15'
-        type: effective
-      message: 'SC 4 notes the work done to date by the Task Force for Dictionaries,
-        Part Libraries, and Reference Data Libraries and acknowledges the need for
-        additional time to achieve consensus.
+  title:
+  - spelling: eng
+    value: Extend timeline for Dictionaries Task Force draft report
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: directs
+    date_effective:
+      date: '2004-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 directs the Task Force to circulate a draft report to the SC 4
+        community by 2004-06-18 and to report to SC 4 at the next ISO/TC 184/SC 4
+        meeting in Bath, UK.
 
         '
-    actions:
-    - type: directs
-      date_effective:
-        date: '2004-03-15'
-        type: effective
-      message: 'SC 4 directs the Task Force to circulate a draft report to the SC
-        4 community by 2004-06-18 and to report to SC 4 at the next ISO/TC 184/SC
-        4 meeting in Bath, UK.
+  considerations:
+  - type: noting
+    date_effective:
+      date: '2004-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 notes the work done to date by the Task Force for Dictionaries,
+        Part Libraries, and Reference Data Libraries and acknowledges the need for
+        additional time to achieve consensus.
 
         '
 - identifier:
@@ -217,17 +248,20 @@ decisions:
   dates:
   - date: '2004-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank the host organizations and staff for the Fort Lauderdale meeting
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2004-03-15'
-        type: effective
-      message: 'SC 4 expresses its deep appreciation to US PRO, its Members and the
+  title:
+  - spelling: eng
+    value: Thank the host organizations and staff for the Fort Lauderdale meeting
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2004-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 expresses its deep appreciation to US PRO, its Members and the
         staff of the Bonaventure Resort and Spa Hotel for their efforts in organizing
         this meeting, arranging the facilities, excellent food, and excellent social
         events. SC 4 also expresses its appreciation for their hospitality and outstanding
@@ -242,17 +276,20 @@ decisions:
   dates:
   - date: '2004-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank SC 4 liaisons and presenters
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2004-03-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank SC 4 liaisons and presenters
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2004-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         Appreciation to our SC 4 Liaisons. We appreciate your representation to and for ISO/TC 184/SC 4. A special thank you to the SC 4 Liaison Plenary presenters for their insightful and comprehensive presentations:
 
         |===
@@ -272,18 +309,21 @@ decisions:
   dates:
   - date: '2004-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank administrative staff for their support
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2004-03-15'
-        type: effective
-      message: 'SC 4 expresses its particular thanks to Mr. Chuck Stark, Ms Sarah
-        Hartline and Ms Tina Conlon for their superior administrative support, outstanding
+  title:
+  - spelling: eng
+    value: Thank administrative staff for their support
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2004-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 expresses its particular thanks to Mr. Chuck Stark, Ms Sarah Hartline
+        and Ms Tina Conlon for their superior administrative support, outstanding
         hospitality, and patience both before and during the ISO/TC 184/SC 4 meeting.
 
         '

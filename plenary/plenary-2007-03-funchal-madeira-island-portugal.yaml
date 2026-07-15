@@ -1,7 +1,9 @@
 ---
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Funchal, Portugal,
-    March 26, 2007 -- March 30, 2007
+  title:
+  - spelling: eng
+    value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Funchal, Portugal,
+      March 26, 2007 -- March 30, 2007
   date: '2007-03-26'
   source: ISO/TC 184/SC 4 Secretariat
   city: PTFNC
@@ -15,17 +17,20 @@ decisions:
   dates:
   - date: '2007-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Approval of Project Leaders and Project Editors for SC 4 Projects
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: approves
-      date_effective:
-        date: '2007-03-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Approval of Project Leaders and Project Editors for SC 4 Projects
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: approves
+    date_effective:
+      date: '2007-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 approves the following new project leaders or project editors for the associated SC 4 projects:
 
         |===
@@ -44,27 +49,32 @@ decisions:
   dates:
   - date: '2007-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Reappointment of WG 3 Convener
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: noting
-      date_effective:
-        date: '2007-03-15'
-        type: effective
-      message: 'SC 4 appreciates and accepts the offer of Dr. Radack to serve as Convener
-        of WG 3.
+  title:
+  - spelling: eng
+    value: Reappointment of WG 3 Convener
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: approves
+    date_effective:
+      date: '2007-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 approves the nomination of Dr. Radack to serve for an additional
+        three year term.
 
         '
-    actions:
-    - type: approves
-      date_effective:
-        date: '2007-03-15'
-        type: effective
-      message: 'SC 4 approves the nomination of Dr. Radack to serve for an additional
-        three year term.
+  considerations:
+  - type: noting
+    date_effective:
+      date: '2007-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 appreciates and accepts the offer of Dr. Radack to serve as Convener
+        of WG 3.
 
         '
 - identifier:
@@ -75,17 +85,20 @@ decisions:
   dates:
   - date: '2007-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Establish internal liaison with ISO/TC 59/SC 13
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: accepts
-      date_effective:
-        date: '2007-03-15'
-        type: effective
-      message: 'SC 4 accepts the request from ISO/TC 59/SC 13 to establish an internal
+  title:
+  - spelling: eng
+    value: Establish internal liaison with ISO/TC 59/SC 13
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: accepts
+    date_effective:
+      date: '2007-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 accepts the request from ISO/TC 59/SC 13 to establish an internal
         two-way liaison and appoints Mr. Tatsuo Terai as the liaison officer from
         SC 4 to ISO/TC 59/SC 13.
 
@@ -98,28 +111,33 @@ decisions:
   dates:
   - date: '2007-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Establish Category A Liaison with Ecma International TC 43
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: accepts
-      date_effective:
-        date: '2007-03-15'
-        type: effective
-      message: 'SC 4 accepts the request from Ecma (European Computer Manufacturers
+  title:
+  - spelling: eng
+    value: Establish Category A Liaison with Ecma International TC 43
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: accepts
+    date_effective:
+      date: '2007-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 accepts the request from Ecma (European Computer Manufacturers
         Association) International Technical Committee 43 to establish a Category
         A liaison and appoints King Yee as the liaison officer from ISO/TC 184/SC
         4 to Ecma TC 43.
 
         '
-    - type: welcomes
-      date_effective:
-        date: '2007-03-15'
-        type: effective
-      message: 'SC 4 welcomes Tom-Michael Thamm as liaison officer from Ecma TC 43
-        to ISO/TC 184/SC 4.
+  - type: welcomes
+    date_effective:
+      date: '2007-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 welcomes Tom-Michael Thamm as liaison officer from Ecma TC 43 to
+        ISO/TC 184/SC 4.
 
         '
 - identifier:
@@ -130,17 +148,20 @@ decisions:
   dates:
   - date: '2007-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Initiate DIS ballot for ISO 13584-35
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2007-03-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Initiate DIS ballot for ISO 13584-35
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2007-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests its Secretariat to initiate a DIS ballot on ISO 13584-35 as soon as the DIS document is available.
 
         Nominations:
@@ -155,18 +176,21 @@ decisions:
   dates:
   - date: '2007-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Establish liaison to IEC SC 65 E
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2007-03-15'
-        type: effective
-      message: 'SC 4 requests its secretariat to establish a liaison to IEC SC 65
-        E and appoints Hiroshi Murayama as liaison officer.
+  title:
+  - spelling: eng
+    value: Establish liaison to IEC SC 65 E
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2007-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests its secretariat to establish a liaison to IEC SC 65 E
+        and appoints Hiroshi Murayama as liaison officer.
 
         '
 - identifier:
@@ -177,25 +201,30 @@ decisions:
   dates:
   - date: '2007-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Establish internal liaison with ISO/IEC JTC 1/SC 32/WG 2 "Common Logic"
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: establishes
-      date_effective:
-        date: '2007-03-15'
-        type: effective
-      message: 'SC 4 establishes a liaison from SC 4 to ISO/IEC JTC 1/SC 32/WG 2 and
+  title:
+  - spelling: eng
+    value: Establish internal liaison with ISO/IEC JTC 1/SC 32/WG 2 "Common Logic"
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: establishes
+    date_effective:
+      date: '2007-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 establishes a liaison from SC 4 to ISO/IEC JTC 1/SC 32/WG 2 and
         nominates Matthew West as the liaison officer.
 
         '
-    - type: requests
-      date_effective:
-        date: '2007-03-15'
-        type: effective
-      message: 'SC 4 requests JWG 8 to nominate an additional liaison officer to cover
+  - type: requests
+    date_effective:
+      date: '2007-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests JWG 8 to nominate an additional liaison officer to cover
         PSL matters.
 
         '
@@ -207,17 +236,20 @@ decisions:
   dates:
   - date: '2007-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Prepare FDIS documents for STEP IR 43, 46, and 101 minor revisions
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: directs
-      date_effective:
-        date: '2007-03-15'
-        type: effective
-      message: 'SC 4 directs WG 12 to prepare FDIS documents for ISO 10303 parts 43,
+  title:
+  - spelling: eng
+    value: Prepare FDIS documents for STEP IR 43, 46, and 101 minor revisions
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: directs
+    date_effective:
+      date: '2007-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 directs WG 12 to prepare FDIS documents for ISO 10303 parts 43,
         46, & 101 and submit them to ISO for processing as minor revisions.
 
         '
@@ -229,17 +261,20 @@ decisions:
   dates:
   - date: '2007-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Initiate FDIS ballot for ISO 13584-26 amendment
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: asks
-      date_effective:
-        date: '2007-03-15'
-        type: effective
-      message: 'SC 4 asks its secretariat to initiate the FDIS ballot on the amendment
+  title:
+  - spelling: eng
+    value: Initiate FDIS ballot for ISO 13584-26 amendment
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: asks
+    date_effective:
+      date: '2007-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 asks its secretariat to initiate the FDIS ballot on the amendment
         to ISO 13584-26 as soon as the document is available.
 
         '
@@ -251,17 +286,20 @@ decisions:
   dates:
   - date: '2007-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Terminate liaison to ISO/IEC JTC 1/SC 34
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: decides
-      date_effective:
-        date: '2007-03-15'
-        type: effective
-      message: 'SC 4 terminates its liaison to ISO/IEC JTC 1/SC 34.
+  title:
+  - spelling: eng
+    value: Terminate liaison to ISO/IEC JTC 1/SC 34
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: decides
+    date_effective:
+      date: '2007-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 terminates its liaison to ISO/IEC JTC 1/SC 34.
 
         '
 - identifier:
@@ -272,17 +310,20 @@ decisions:
   dates:
   - date: '2007-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Create Ad Hoc Group on Visualization
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: creates
-      date_effective:
-        date: '2007-03-15'
-        type: effective
-      message: 'SC 4 creates an ad hoc group to define requirements for 3D visualization
+  title:
+  - spelling: eng
+    value: Create Ad Hoc Group on Visualization
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: creates
+    date_effective:
+      date: '2007-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 creates an ad hoc group to define requirements for 3D visualization
         specifications. Oscar Rocha is appointed as chair. Members of this group shall
         include King Yee, Martin Hardwick and David Leal. National bodies shall be
         invited to nominate additional representatives. The Group shall report back
@@ -297,27 +338,31 @@ decisions:
   dates:
   - date: '2007-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Request exemption from ISO Standards limit dates
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2007-03-15'
-        type: effective
-      message: 'SC 4 requests its chair and Secretariat to negotiate a waiver from
-        the TMB to restore the use of planned target dates rather than limit dates
-        in the ISO work programme for SC 4 standards.
+  title:
+  - spelling: eng
+    value: Request exemption from ISO Standards limit dates
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2007-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests its chair and Secretariat to negotiate a waiver from the
+        TMB to restore the use of planned target dates rather than limit dates in
+        the ISO work programme for SC 4 standards.
 
         '
-    - type: requests
-      date_effective:
-        date: '2007-03-15'
-        type: effective
-      message: 'SC 4 requests its P-members to support the proposal with their TMB
-        representatives.
+  - type: requests
+    date_effective:
+      date: '2007-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests its P-members to support the proposal with their TMB representatives.
 
         '
 - identifier:
@@ -328,17 +373,20 @@ decisions:
   dates:
   - date: '2007-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Clarify copyright statement for executable electronic inserts
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2007-03-15'
-        type: effective
-      message: 'SC 4 requests its chair and Secretariat to agree with ISO CS a form
+  title:
+  - spelling: eng
+    value: Clarify copyright statement for executable electronic inserts
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2007-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests its chair and Secretariat to agree with ISO CS a form
         of words which can be used where necessary in SC 4 deliverables to ensure
         that electronic inserts containing processable content, such as XML, EXPRESS,
         PSL, STEP part 21 files, OWL, RDF, Common Logic, UML models and reference
@@ -346,12 +394,14 @@ decisions:
         copyright statement.
 
         '
-    - type: requests
-      date_effective:
-        date: '2007-03-15'
-        type: effective
-      message: 'SC 4 requests its QC to ensure that the necessary changes are made
-        to the Supplementary Directives.
+  - type: requests
+    date_effective:
+      date: '2007-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests its QC to ensure that the necessary changes are made to
+        the Supplementary Directives.
 
         '
 - identifier:
@@ -362,17 +412,20 @@ decisions:
   dates:
   - date: '2007-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Establish internal liaison with ISO/IEC JTC 1/SC 7
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: establishes
-      date_effective:
-        date: '2007-03-15'
-        type: effective
-      message: 'SC 4 establishes a liaison from SC 4 to ISO/IEC JTC 1/SC 7 and nominates
+  title:
+  - spelling: eng
+    value: Establish internal liaison with ISO/IEC JTC 1/SC 7
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: establishes
+    date_effective:
+      date: '2007-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 establishes a liaison from SC 4 to ISO/IEC JTC 1/SC 7 and nominates
         Phil Spiby as the liaison officer.
 
         '
@@ -384,17 +437,20 @@ decisions:
   dates:
   - date: '2007-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Establish internal liaison with ISO/IEC JTC 1/SC 31 "AIDC"
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: confirms
-      date_effective:
-        date: '2007-03-15'
-        type: effective
-      message: 'SC 4 reconfirms a liaison from SC 4 to ISO/IEC JTC 1/SC 31 and nominates
+  title:
+  - spelling: eng
+    value: Establish internal liaison with ISO/IEC JTC 1/SC 31 "AIDC"
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: confirms
+    date_effective:
+      date: '2007-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 reconfirms a liaison from SC 4 to ISO/IEC JTC 1/SC 31 and nominates
         Howard Mason and Peter Benson as additional liaison officers. JWG 8 is invited
         to nominate an appropriate expert for manufacturing matters.
 
@@ -407,17 +463,20 @@ decisions:
   dates:
   - date: '2007-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Norman Swindells for his support and wish well in retirement
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2007-03-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Norman Swindells for his support and wish well in retirement
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2007-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         Norman Swindells has played a pivotal role in the many successes of ISO/TC 184/SC 4.
 
         SC 4 expresses its sincere appreciation and gratitude to Norman Swindells for all his support of the work of SC 4 over the last two decades, and wishes him the very best in his retirement.
@@ -429,17 +488,20 @@ decisions:
   dates:
   - date: '2007-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank SC 4 Liaisons and Open Technical Forum presenters
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2007-03-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank SC 4 Liaisons and Open Technical Forum presenters
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2007-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         Appreciation to our SC 4 Liaisons. We appreciate your representation to and for ISO/TC 184/SC 4.
 
         |===
@@ -469,17 +531,20 @@ decisions:
   dates:
   - date: '2007-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Government of Madeira and its officials for support
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2007-03-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Government of Madeira and its officials for support
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2007-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its special thanks to the Government of Madeira, its President, Alberto Joao Jardim, and Secretario Regional do Turismo e Cultura Joao Carlos Abreu, Secretaria Regional dos Assuntos Sociais, Conceicao Estudante, for its outstanding support and sponsorship.
 
         Also special thanks to the Director Regional de Turismo Maria Graca Luis for its superior assistance and organization of memorable social events.
@@ -491,17 +556,20 @@ decisions:
   dates:
   - date: '2007-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank IMS, XECOMPEX-XEROX, Cabo TV, and Universidade da Madeira
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2007-03-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank IMS, XECOMPEX-XEROX, Cabo TV, and Universidade da Madeira
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2007-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 also recognizes IMS for support of the SC 4 Conference and the close involvement of the Honorable Mr. Dan Nagy.
 
         XECOMPEX-XEROX Portugal, Mr. Joao Rodrigues, for outstanding technical support and conference equipment support.
@@ -517,17 +585,20 @@ decisions:
   dates:
   - date: '2007-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Universidade Nova de Lisboa and on-location support staff
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2007-03-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Universidade Nova de Lisboa and on-location support staff
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2007-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its particular thanks to Mr. Fernando Santana, Director of Faculdade de Ciencias e Tecnologia da Universidade Nova de Lisboa, Mr. Adolfo Steiger-Garcao, Mr. Ricardo Jardim Gonçalves and Mrs. Cristina Gorba, and their on-location support staff;
 
         Bruno Almeida, Marco Delgado, Maria Brazão, Sérgio Onofre, Maria Marques, Pedro Maló, Ruben Costa, Nelson Alves, Moisés Dutra, Miguel Beça, Fátima Brazão, Carlos Agostinho, Hugo Vieira, Gustavo Fernandes, João Pedro Mendonça, Licínia Santos, João Sarraipa

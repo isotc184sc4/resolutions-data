@@ -1,7 +1,9 @@
 ---
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Vico Equense, Italy,
-    October 2010
+  title:
+  - spelling: eng
+    value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Vico Equense, Italy,
+      October 2010
   date: '2010-10-15'
   source: ISO/TC 184/SC 4 Secretariat
   city: ITNAP
@@ -15,49 +17,60 @@ decisions:
   dates:
   - date: '2010-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Manage ISO 29002 vocabulary as a database via Annex ST procedures
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2010-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Manage ISO 29002 vocabulary as a database via Annex ST procedures
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2010-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 resolves to manage the ISO 29002 vocabulary using the ISO Annex ST
         procedures for the management of standards as databases, as customized in
         the SC 4 standing document "Procedure for the maintenance of ISO/TC 184/SC
         4 vocabulary".
-    - type: requests
-      date_effective:
-        date: '2010-10-15'
-        type: effective
-      message: |
+  - type: requests
+    date_effective:
+      date: '2010-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests the ISO 29002 project to nominate a member to the
         maintenance team.
-    - type: requests
-      date_effective:
-        date: '2010-10-15'
-        type: effective
-      message: |
+  - type: requests
+    date_effective:
+      date: '2010-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests its Secretariat to invite P-members, Category A liaisons,
         internal liaisons, and the WG 13 convener to nominate additional experts,
         as needed under the agreed procedure.
-    - type: requests
-      date_effective:
-        date: '2010-10-15'
-        type: effective
-      message: |
+  - type: requests
+    date_effective:
+      date: '2010-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests its Secretariat to invite all P-members, Category A
         liaisons and internal liaisons to appoint one member each to the
         validation team.
-    - type: requests
-      date_effective:
-        date: '2010-10-15'
-        type: effective
-      message: |
+  - type: requests
+    date_effective:
+      date: '2010-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests its Secretariat to establish a Configuration Management
         Repository for the ISO 29002 vocabulary.
 - identifier:
@@ -68,17 +81,20 @@ decisions:
   dates:
   - date: '2010-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Return ISO 15926 Parts 9 and 10 to Stage 10.99 for recycling
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2010-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Return ISO 15926 Parts 9 and 10 to Stage 10.99 for recycling
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2010-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests its Secretariat to request ISO CS to return ISO 15926
         Part 9 and Part 10 to Stage 10.99.
 - identifier:
@@ -89,17 +105,20 @@ decisions:
   dates:
   - date: '2010-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Open Technical Forum presenters for their contributions
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2010-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Open Technical Forum presenters for their contributions
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2010-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 offers thanks to those external projects who presented their
         material at the Open Technical Forum:
 
@@ -114,17 +133,20 @@ decisions:
   dates:
   - date: '2010-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank SC 4 Liaisons and Liaison Plenary presenters for their representations
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2010-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank SC 4 Liaisons and Liaison Plenary presenters for their representations
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2010-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its appreciation to our SC 4 Liaisons and those projects
         who presented at the Liaison Plenary:
 
@@ -145,17 +167,20 @@ decisions:
   dates:
   - date: '2010-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Paul van Exel and Anna Moreno for organizing the Implementation Forum
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2010-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Paul van Exel and Anna Moreno for organizing the Implementation Forum
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2010-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its appreciation to the Implementation Forum organizers,
         Paul van Exel and Anna Moreno, for their efforts in organizing the
         excellent event, speakers and venue.
@@ -167,17 +192,20 @@ decisions:
   dates:
   - date: '2010-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Anna Moreno, family, and team for hosting the Vico Equense plenary
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2010-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Anna Moreno, family, and team for hosting the Vico Equense plenary
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2010-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its appreciation to Anna Moreno, her family, and her team
         for their hosting and support of the 60th ISO TC 184/SC 4 Plenary meetings
         at the Oriente Hotel in Vico Equense, Italy. SC 4 especially commends

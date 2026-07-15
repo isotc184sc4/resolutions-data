@@ -1,7 +1,9 @@
 ---
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Gothenburg, Sweden,
-    June 25, 1990 -- July 5, 1990
+  title:
+  - spelling: eng
+    value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Gothenburg, Sweden,
+      June 25, 1990 -- July 5, 1990
   date: '1990-06-25'
   source: ISO/TC 184/SC 4 Secretariat
   city: SEGOT
@@ -15,17 +17,20 @@ decisions:
   dates:
   - date: '1990-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Instruct SPAG to resolve EIA petition to IEC
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: instructs
-      date_effective:
-        date: '1990-06-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Instruct SPAG to resolve EIA petition to IEC
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: instructs
+    date_effective:
+      date: '1990-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 charges the Strategic Planning Advisory Group with carrying out the intent of SC
         4 Resolution 44 (Electrical Harmonization), particularly working toward a resolution of
         the developing situation with regard to the EIA petition to IEC (dated April 12, 1990).
@@ -38,17 +43,20 @@ decisions:
   dates:
   - date: '1990-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Ask electrical project leader to develop electrical schematic APs
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: asks
-      date_effective:
-        date: '1990-06-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Ask electrical project leader to develop electrical schematic APs
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: asks
+    date_effective:
+      date: '1990-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 asks its electrical project leader to develop one or more electrical schematic
         application protocols based upon documented efforts such as the German VNS, the
         French SET electrical, the IEC/TC 3, and the U.S. IGES and EDIF electrical projects.
@@ -60,21 +68,24 @@ decisions:
   dates:
   - date: '1990-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Adopt recommendation for STEP Version 1.0 Application Protocols
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: adopts
-      date_effective:
-        date: '1990-06-15'
-        type: effective
-      message: "SC 4 adopts the following recommendation of the ad hoc Application
-        Protocols group:\n\nFollowing the WG 1 decision that STEP Version 1.0 must
-        include at least one\ndraughting related AP, the SC 4 ad hoc group on APs
-        recommends that STEP\nVersion 1.0 should include the proposed AP #3,\n\"Exchange
-        of 2D geometrically explicit CAD drawings with explicit annotation.\"\n\nProposed
+  title:
+  - spelling: eng
+    value: Adopt recommendation for STEP Version 1.0 Application Protocols
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: adopts
+    date_effective:
+      date: '1990-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: "SC 4 adopts the following recommendation of the ad hoc Application Protocols
+        group:\n\nFollowing the WG 1 decision that STEP Version 1.0 must include at
+        least one\ndraughting related AP, the SC 4 ad hoc group on APs recommends
+        that STEP\nVersion 1.0 should include the proposed AP #3,\n\"Exchange of 2D
+        geometrically explicit CAD drawings with explicit annotation.\"\n\nProposed
         AP #3 is the top priority for STEP Version 1.0. The proposed APs #4, 5, 6
         &\n18 should be reviewed by the end of October 1990 to assess their adequacy.
         These\nAPs could be included in STEP Version 1.0 if they do not require extensive
@@ -93,41 +104,50 @@ decisions:
   dates:
   - date: '1990-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Assign AP project leaders for APs 3, 5, and 18
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: adopts
-      date_effective:
-        date: '1990-06-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Assign AP project leaders for APs 3, 5, and 18
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: adopts
+    date_effective:
+      date: '1990-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 adopts the following recommendation of the ad hoc Application Protocols group:
 
         In order to ensure the timely delivery of APs, a project leader must be assigned for
         each of the APs listed in Resolution # 62. The project leaders will report directly to
         the PMAG.
-    - type: appoints
-      date_effective:
-        date: '1990-06-15'
-        type: effective
-      message: 'SC 4 appoints Bruno Schilli as project leader for AP #3.
+  - type: appoints
+    date_effective:
+      date: '1990-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 appoints Bruno Schilli as project leader for AP #3.
 
         '
-    - type: appoints
-      date_effective:
-        date: '1990-06-15'
-        type: effective
-      message: 'SC 4 appoints Steve Ryan as project leader for AP #5.
+  - type: appoints
+    date_effective:
+      date: '1990-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 appoints Steve Ryan as project leader for AP #5.
 
         '
-    - type: appoints
-      date_effective:
-        date: '1990-06-15'
-        type: effective
-      message: |
+  - type: appoints
+    date_effective:
+      date: '1990-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 appoints Ray Goult as project leader for AP #18.
 
         The PMAG will appoint project leaders for APs #4 and #6 as soon as possible, to be confirmed by SC 4.
@@ -139,30 +159,35 @@ decisions:
   dates:
   - date: '1990-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Define guidelines for AP development outside SC 4
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: recognizing
-      date_effective:
-        date: '1990-06-15'
-        type: effective
-      message: |
-        As well as the need for normative APs, SC 4 recognizes that there exists an industrial
-        requirement for additional APs to be defined outside the SC 4 organization at the
-        industry, national, or regional level.
-    actions:
-    - type: requests
-      date_effective:
-        date: '1990-06-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Define guidelines for AP development outside SC 4
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '1990-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests the PMAG to define requirements
         for guidelines to permit the development of APs both inside and outside SC 4.
         Provision should also be made for the registration of APs with SC 4 to ensure the
         consistency of related standards.
+  considerations:
+  - type: recognizing
+    date_effective:
+      date: '1990-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
+        As well as the need for normative APs, SC 4 recognizes that there exists an industrial
+        requirement for additional APs to be defined outside the SC 4 organization at the
+        industry, national, or regional level.
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '65'
@@ -171,17 +196,20 @@ decisions:
   dates:
   - date: '1990-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Adopt reorganization structure and disband WG 1
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: adopts
-      date_effective:
-        date: '1990-06-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Adopt reorganization structure and disband WG 1
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: adopts
+    date_effective:
+      date: '1990-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 adopts the reorganization structure as proposed by the ad hoc reorganization
         group in Reston. The current WG 1 is to be disbanded, effective at the end of the
         Gothenburg meeting, and its current work is to be allocated to the following new
@@ -200,17 +228,20 @@ decisions:
   dates:
   - date: '1990-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Jerry Weiss for his leadership of WG 1
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '1990-06-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Jerry Weiss for his leadership of WG 1
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '1990-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 thanks the WG 1 convener, Mr Jerry Weiss, for his pioneering leadership and
         personal dedication to the STEP development over the last six years, and looks
         forward to his continuing support as Project Management Advisory Group convener in
@@ -223,17 +254,20 @@ decisions:
   dates:
   - date: '1990-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appoint conveners for WG 3 through 7
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appoints
-      date_effective:
-        date: '1990-06-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Appoint conveners for WG 3 through 7
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '1990-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 appoints the following working group conveners:
 
         * WG 3 Product Modeling: Barbara Warthen (USA)
@@ -249,17 +283,20 @@ decisions:
   dates:
   - date: '1990-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Define the parts that comprise STEP Version 1.0
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: resolves
-      date_effective:
-        date: '1990-06-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Define the parts that comprise STEP Version 1.0
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: resolves
+    date_effective:
+      date: '1990-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 resolves that STEP Version 1.0 comprises the following parts:
 
         * Overview (Part 1)
@@ -276,11 +313,13 @@ decisions:
         included if its inclusion will result in a schedule slippage.
 
         Moreover, if there is slippage in the adopted schedule of any part in the above list, then SC 4 may vote to defer that part to a future version of STEP.
-    - type: recognizes
-      date_effective:
-        date: '1990-06-15'
-        type: effective
-      message: |
+  - type: recognizes
+    date_effective:
+      date: '1990-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 recognizes the importance of both the documentation architecture and the
         schema framework, and directs the PMAG to ensure their inclusion in STEP Version
         1.0.
@@ -292,17 +331,20 @@ decisions:
   dates:
   - date: '1990-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Direct project leaders to complete STEP parts for CD ballot
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: directs
-      date_effective:
-        date: '1990-06-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Direct project leaders to complete STEP parts for CD ballot
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: directs
+    date_effective:
+      date: '1990-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 directs the project leaders who are responsible for the development of the
         following STEP parts to complete their documents both technically and editorially, for
         CD ballot by December 1990:
@@ -311,11 +353,13 @@ decisions:
         * Physical File (Part 21)
         * Conformance Testing (Part 31)
         * Shape Representation (Part 42)
-    - type: directs
-      date_effective:
-        date: '1990-06-15'
-        type: effective
-      message: |
+  - type: directs
+    date_effective:
+      date: '1990-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 directs the project leaders who are responsible for the development of the
         following STEP parts to complete their documents both technically and editorially, as
         early as possible in 1991 for CD ballot, completing them no later than July 1991:
@@ -332,17 +376,20 @@ decisions:
   dates:
   - date: '1990-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Direct PMAG to organize WG work to achieve CD ballot goals
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: directs
-      date_effective:
-        date: '1990-06-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Direct PMAG to organize WG work to achieve CD ballot goals
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: directs
+    date_effective:
+      date: '1990-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 directs PMAG to organize the work of the Working Groups in order to achieve
         the goals in Resolutions # 68 and # 69.
 
@@ -355,17 +402,20 @@ decisions:
   dates:
   - date: '1990-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Welcome Part 11 EXPRESS as first Committee Draft of STEP
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: welcomes
-      date_effective:
-        date: '1990-06-15'
-        type: effective
-      message: 'SC 4 welcomes Part 11 EXPRESS (WG 1 N496) as the first CD of the STEP
+  title:
+  - spelling: eng
+    value: Welcome Part 11 EXPRESS as first Committee Draft of STEP
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: welcomes
+    date_effective:
+      date: '1990-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 welcomes Part 11 EXPRESS (WG 1 N496) as the first CD of the STEP
         work item.
 
         '
@@ -377,27 +427,32 @@ decisions:
   dates:
   - date: '1990-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Require CDs circulated within SC 4 to be circulated for ballot
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: considering
-      date_effective:
-        date: '1990-06-15'
-        type: effective
-      message: |
-        Whereas the new ISO/IEC procedures in 2.4.1 allow the circulation of documents for
-        comment or for voting by P members on their approval as Committee Drafts (CDs),
-    actions:
-    - type: resolves
-      date_effective:
-        date: '1990-06-15'
-        type: effective
-      message: 'CDs circulated within SC 4 shall only be circulated for ballot.
+  title:
+  - spelling: eng
+    value: Require CDs circulated within SC 4 to be circulated for ballot
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: resolves
+    date_effective:
+      date: '1990-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'CDs circulated within SC 4 shall only be circulated for ballot.
 
         '
+  considerations:
+  - type: considering
+    date_effective:
+      date: '1990-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
+        Whereas the new ISO/IEC procedures in 2.4.1 allow the circulation of documents for
+        comment or for voting by P members on their approval as Committee Drafts (CDs),
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '73'
@@ -406,17 +461,20 @@ decisions:
   dates:
   - date: '1990-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Accept new work item on industrial manufacturing management data
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: accepts
-      date_effective:
-        date: '1990-06-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Accept new work item on industrial manufacturing management data
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: accepts
+    date_effective:
+      date: '1990-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 moves to accept for ballot a new work item on industrial manufacturing
         management data (SC 4 N60, submitted by France).
 - identifier:
@@ -427,17 +485,20 @@ decisions:
   dates:
   - date: '1990-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Amend PMAG terms of reference item "c"
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: resolves
-      date_effective:
-        date: '1990-06-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Amend PMAG terms of reference item "c"
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: resolves
+    date_effective:
+      date: '1990-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         Terms of reference item "c" for the PMAG that is defined in SC 4 Resolution # 49 shall
         be changed so that it shall read, "coordinate activities between Product Data Definition
         Working Groups and the Editing Committee."
@@ -449,17 +510,20 @@ decisions:
   dates:
   - date: '1990-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Establish new Editing Committee for STEP Parts and define its tasks
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: establishes
-      date_effective:
-        date: '1990-06-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Establish new Editing Committee for STEP Parts and define its tasks
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: establishes
+    date_effective:
+      date: '1990-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 establishes an Editing Committee to finalise the texts of the Parts of the STEP
         standard for submission as a Draft International Standard and maintain configuration
         control so that all future changes be documented and approved.
@@ -489,16 +553,19 @@ decisions:
   dates:
   - date: '1990-06-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Sweden for hosting the SC 4 meeting in Gothenburg
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '1990-06-15'
-        type: effective
-      message: 'SC 4 wishes to thank Sweden for hosting the SC 4 meeting in Gothenburg.
+  title:
+  - spelling: eng
+    value: Thank Sweden for hosting the SC 4 meeting in Gothenburg
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '1990-06-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 wishes to thank Sweden for hosting the SC 4 meeting in Gothenburg.
 
         '

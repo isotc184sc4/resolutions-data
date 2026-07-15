@@ -1,7 +1,9 @@
 ---
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Busan, Korea, October
-    27, 2008 -- November 7, 2008
+  title:
+  - spelling: eng
+    value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Busan, Korea, October
+      27, 2008 -- November 7, 2008
   date: '2008-10-27'
   source: ISO/TC 184/SC 4 Secretariat
   city: KRPUS
@@ -15,17 +17,20 @@ decisions:
   dates:
   - date: '2008-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Approve project leaders and editors for SC 4 projects
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: approves
-      date_effective:
-        date: '2008-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Approve project leaders and editors for SC 4 projects
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: approves
+    date_effective:
+      date: '2008-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 approves the following new project leaders or project editors for the associated SC 4 projects:
 
         |===
@@ -45,25 +50,30 @@ decisions:
   dates:
   - date: '2008-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appoint liaison representatives to ISO/TC 154
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appoints
-      date_effective:
-        date: '2008-11-15'
-        type: effective
-      message: 'SC 4 appoints Mr. Peter Benson, Dr. Wolfgang Wilkes and Dr. Ricardo
+  title:
+  - spelling: eng
+    value: Appoint liaison representatives to ISO/TC 154
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '2008-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 appoints Mr. Peter Benson, Dr. Wolfgang Wilkes and Dr. Ricardo
         Goncalves as its liaison officers to ISO/TC 154.
 
         '
-    - type: thanks
-      date_effective:
-        date: '2008-11-15'
-        type: effective
-      message: 'SC 4 thanks Mr. Peter Benson and Dr. Ricardo Goncalves for their offers
+  - type: thanks
+    date_effective:
+      date: '2008-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 thanks Mr. Peter Benson and Dr. Ricardo Goncalves for their offers
         to act as liaisons from SC 4 to ISO/TC 154.
 
         '
@@ -75,27 +85,32 @@ decisions:
   dates:
   - date: '2008-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Register Usage Guide for ISO 10303-214 as TS and circulate for ballot
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: decides
-      date_effective:
-        date: '2008-11-15'
-        type: effective
-      message: 'ISO/TC 184/SC 4 decides to register the project “Usage Guide for ISO
+  title:
+  - spelling: eng
+    value: Register Usage Guide for ISO 10303-214 as TS and circulate for ballot
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: decides
+    date_effective:
+      date: '2008-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'ISO/TC 184/SC 4 decides to register the project “Usage Guide for ISO
         10303-214 for gear units” as a separate ISO project, to be published as a
         TS. The project team is requested to work with WG 3, WG 12, and the Quality
         Committee on the development of a common format for usage guidance.
 
         '
-    - type: requests
-      date_effective:
-        date: '2008-11-15'
-        type: effective
-      message: |
+  - type: requests
+    date_effective:
+      date: '2008-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests its Secretariat to circulate the amended document for a confirmatory ballot.
 
         This resolution cancelled by Resolution 781.
@@ -107,35 +122,42 @@ decisions:
   dates:
   - date: '2008-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Manage ISO 10303 application modules under part 1000 and adopt N2402
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2008-11-15'
-        type: effective
-      message: 'SC 4 resolves to manage the ISO 10303 application modules in the 400
+  title:
+  - spelling: eng
+    value: Manage ISO 10303 application modules under part 1000 and adopt N2402
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2008-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 resolves to manage the ISO 10303 application modules in the 400
         and 1000 series using the ISO Procedures for the Management of standards as
         databases.
 
         '
-    - type: requests
-      date_effective:
-        date: '2008-11-15'
-        type: effective
-      message: 'SC 4 requests its Secretariat to submit the operating procedures described
+  - type: requests
+    date_effective:
+      date: '2008-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests its Secretariat to submit the operating procedures described
         in SC 4 N2401 for a one-month committee internal Yes/No ballot. Any negative
         votes must be accompanied by comments.
 
         '
-    - type: requests
-      date_effective:
-        date: '2008-11-15'
-        type: effective
-      message: |
+  - type: requests
+    date_effective:
+      date: '2008-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests its Secretariat to:
 
         * Forward to ISO for publication an initial version of ISO/TS 10303-1000 consisting of all ISO 10303 application modules that have already been published or are ready for publication, with references to resource parts and AICs.
@@ -145,20 +167,24 @@ decisions:
         ** part 1000 as defined;
         ** individual APs and either the 1000 part or just the referenced application modules;
         ** CD with all ISO 10303 parts
-    - type: decides
-      date_effective:
-        date: '2008-11-15'
-        type: effective
-      message: 'SC 4 decides that no new ISO 10303 application modules or new editions
+  - type: decides
+    date_effective:
+      date: '2008-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 decides that no new ISO 10303 application modules or new editions
         of existing ISO 10303 application modules will be submitted for publication
         as separate parts, once Part 1000 is published.
 
         '
-    - type: adopts
-      date_effective:
-        date: '2008-11-15'
-        type: effective
-      message: 'SC 4 adopts the plan of action in SC 4 N2402.
+  - type: adopts
+    date_effective:
+      date: '2008-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 adopts the plan of action in SC 4 N2402.
 
         '
 - identifier:
@@ -169,27 +195,32 @@ decisions:
   dates:
   - date: '2008-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Cancel project ISO 10303-229 due to lack of resources
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: noting
-      date_effective:
-        date: '2008-11-15'
-        type: effective
-      message: 'Having received no offer of resources to complete remaining work on
-        ISO 10303-229.
+  title:
+  - spelling: eng
+    value: Cancel project ISO 10303-229 due to lack of resources
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2008-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests its Secretary to inform ISO CS of the cancellation of
+        the project.
 
         '
-    actions:
-    - type: requests
-      date_effective:
-        date: '2008-11-15'
-        type: effective
-      message: 'SC 4 requests its Secretary to inform ISO CS of the cancellation of
-        the project.
+  considerations:
+  - type: noting
+    date_effective:
+      date: '2008-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'Having received no offer of resources to complete remaining work on
+        ISO 10303-229.
 
         '
 - identifier:
@@ -200,38 +231,45 @@ decisions:
   dates:
   - date: '2008-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Direct Visualization ad hoc group to complete format assessment
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: noting
-      date_effective:
-        date: '2008-11-15'
-        type: effective
-      message: 'SC 4 notes that the 3D Visualization ad hoc group has made significant
-        progress at this meeting in moving forward the harvesting process for visualization
-        formats.
-
-        '
-    actions:
-    - type: directs
-      date_effective:
-        date: '2008-11-15'
-        type: effective
-      message: 'In acknowledgement of this effort, SC 4 directs the 3D Visualization
+  title:
+  - spelling: eng
+    value: Direct Visualization ad hoc group to complete format assessment
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: directs
+    date_effective:
+      date: '2008-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'In acknowledgement of this effort, SC 4 directs the 3D Visualization
         ad hoc group to complete the assessment of the candidates and provide the
         summary report no later than 2009-03-31.
 
         '
-    - type: directs
-      date_effective:
-        date: '2008-11-15'
-        type: effective
-      message: 'SC 4 directs the Chair and secretariat to initiate the PAS ballots
-        for any candidates which pass the SC 4 Harvesting qualification process immediately
+  - type: directs
+    date_effective:
+      date: '2008-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 directs the Chair and secretariat to initiate the PAS ballots for
+        any candidates which pass the SC 4 Harvesting qualification process immediately
         after the delivery of the committee report.
+
+        '
+  considerations:
+  - type: noting
+    date_effective:
+      date: '2008-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 notes that the 3D Visualization ad hoc group has made significant
+        progress at this meeting in moving forward the harvesting process for visualization
+        formats.
 
         '
 - identifier:
@@ -242,17 +280,20 @@ decisions:
   dates:
   - date: '2008-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appoint SC 4 delegates to ISO 22274 project
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appoints
-      date_effective:
-        date: '2008-11-15'
-        type: effective
-      message: 'For the improvement of communication and active participation in the
+  title:
+  - spelling: eng
+    value: Appoint SC 4 delegates to ISO 22274 project
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '2008-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'For the improvement of communication and active participation in the
         project ISO 22274, ”Systems to Manage Terminology, Knowledge and Content --
         Internationalization and Concepts -- Related Aspects of Classification Systems”
         SC 4 appoints the following experts as delegates to the ISO 22274 project:
@@ -268,18 +309,21 @@ decisions:
   dates:
   - date: '2008-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Extend submission dates for ISO 10303-52, 53, and 110
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2008-11-15'
-        type: effective
-      message: 'SC 4 requests its Secretariat to inform ISO that the target dates
-        for the submission of 10303 parts -52, -53 and -110 for DIS ballot are extended
+  title:
+  - spelling: eng
+    value: Extend submission dates for ISO 10303-52, 53, and 110
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2008-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests its Secretariat to inform ISO that the target dates for
+        the submission of 10303 parts -52, -53 and -110 for DIS ballot are extended
         to 2009-01-30, and that these parts should not be automatically cancelled
         as a recovery plan is in place.
 
@@ -292,17 +336,20 @@ decisions:
   dates:
   - date: '2008-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Submit ISO 10303 parts as minor revisions
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: directs
-      date_effective:
-        date: '2008-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Submit ISO 10303 parts as minor revisions
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: directs
+    date_effective:
+      date: '2008-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 directs WG 12 to prepare FDIS documents for ISO 10303-47, 503, 504, 506, 517, 518, 519, 521, and 523 and submit them to ISO for processing as minor revisions.
 
         This amendment has been superseded by Resolution 779.
@@ -314,28 +361,33 @@ decisions:
   dates:
   - date: '2008-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Create Ad Hoc Group for Gellish-RDF
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: creates
-      date_effective:
-        date: '2008-11-15'
-        type: effective
-      message: 'SC 4 creates an Ad Hoc Group for Gellish-RDF with project leader Paul
+  title:
+  - spelling: eng
+    value: Create Ad Hoc Group for Gellish-RDF
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: creates
+    date_effective:
+      date: '2008-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 creates an Ad Hoc Group for Gellish-RDF with project leader Paul
         van Exel and editor Leo van Ruijven. The group is requested to clarify the
         position of the proposed standard with respect to SC 4 and W3C standards,
         and seek alignment where appropriate.
 
         '
-    - type: directs
-      date_effective:
-        date: '2008-11-15'
-        type: effective
-      message: 'SC 4 directs the group to develop any necessary NWI proposals for
-        review by the Change Management Team at the next SC 4 meeting, in May 2009.
+  - type: directs
+    date_effective:
+      date: '2008-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 directs the group to develop any necessary NWI proposals for review
+        by the Change Management Team at the next SC 4 meeting, in May 2009.
 
         '
 - identifier:
@@ -346,30 +398,35 @@ decisions:
   dates:
   - date: '2008-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Direct WG 13 to draft ISO 8000 scope and plan
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: directs
-      date_effective:
-        date: '2008-11-15'
-        type: effective
-      message: 'SC 4 directs WG 13 to deliver a brief (1-3 page) draft scope statement
+  title:
+  - spelling: eng
+    value: Direct WG 13 to draft ISO 8000 scope and plan
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: directs
+    date_effective:
+      date: '2008-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 directs WG 13 to deliver a brief (1-3 page) draft scope statement
         and phased delivery plan for ISO 8000 as a whole, and a definition of other
         standardization requirements both inside and outside SC 4 for consideration
         by SC 4 at its next meeting (2009-05).
 
         '
-    - type: requests
-      date_effective:
-        date: '2008-11-15'
-        type: effective
-      message: 'SC 4 requests its Secretariat to circulate the original content of
-        this resolution, resolution #676 and #733, and SC 4 N 2271, WG 13 N 0107,
-        and SC 4 N 2292 to member bodies with a request for comments by year end in
-        order to provide further guidance to WG 13.
+  - type: requests
+    date_effective:
+      date: '2008-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests its Secretariat to circulate the original content of this
+        resolution, resolution #676 and #733, and SC 4 N 2271, WG 13 N 0107, and SC
+        4 N 2292 to member bodies with a request for comments by year end in order
+        to provide further guidance to WG 13.
 
         '
 - identifier:
@@ -380,26 +437,31 @@ decisions:
   dates:
   - date: '2008-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Submit procedures for standards as databases for ballot
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2008-11-15'
-        type: effective
-      message: 'SC 4 requests its Secretariat to submit the operating procedures described
+  title:
+  - spelling: eng
+    value: Submit procedures for standards as databases for ballot
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2008-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests its Secretariat to submit the operating procedures described
         in SC 4 N2407 for a two-month committee internal ballot. Any negative votes
         must be accompanied by comments.
 
         '
-    - type: requests
-      date_effective:
-        date: '2008-11-15'
-        type: effective
-      message: 'SC 4 requests the ad hoc group to complete the detailed operational
+  - type: requests
+    date_effective:
+      date: '2008-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests the ad hoc group to complete the detailed operational
         processes.
 
         '
@@ -411,17 +473,20 @@ decisions:
   dates:
   - date: '2008-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Open Technical Forum presenters
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2008-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Open Technical Forum presenters
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2008-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 offers thanks to those external projects who presented their material at the Open Technical Forum:
 
         * Dr. Salomon de Jager: "Case Study of ISO 8000 Implementation"
@@ -436,17 +501,20 @@ decisions:
   dates:
   - date: '2008-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appreciate SC 4 Liaisons and presenters
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appreciation
-      date_effective:
-        date: '2008-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Appreciate SC 4 Liaisons and presenters
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appreciation
+    date_effective:
+      date: '2008-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its appreciation to our SC 4 Liaisons and those projects who presented at the Liaison Plenary:
 
         * SASIG: Takamasa Tanaka
@@ -467,17 +535,20 @@ decisions:
   dates:
   - date: '2008-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Opening Plenary presenter Dr. Gerry Radack
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2008-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Opening Plenary presenter Dr. Gerry Radack
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2008-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 thanks our SC 4 short report presenters at the Opening Plenary:
 
         * ISO TC 37: Dr. Gerry Radack
@@ -491,17 +562,20 @@ decisions:
   dates:
   - date: '2008-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Korean hosts and sponsors of the 56th Plenary
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appreciation
-      date_effective:
-        date: '2008-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Korean hosts and sponsors of the 56th Plenary
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appreciation
+    date_effective:
+      date: '2008-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its appreciation to KATS -- Korean Agency for Technology and Standards, Korea STEP Center, ECIF, Korea Database Promotion Center, PartDB, Busan Convention & Visitors Bureau, Korea Tourism Organization, and The Plan for their hosting and support of the 56th ISO TC 184/SC 4 Plenary meetings at the Paradise Hotel, Busan, Korea. We especially commend Prof. Inhan Kim -- Kyung Hee University and Mr. Kyungik An -- Korea STEP Center for an excellent venue and outstanding service to the SC 4 community. A special acknowledgement is extended to Mr. Sejin Kim and Mr. Yongdeuk Kim, KATS.
 
         Special acknowledgement is extended to the Paradise Hotel, Busan and its staff for their seamless and attentive support.

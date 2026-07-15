@@ -1,7 +1,9 @@
 ---
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Vico Equense, Italy,
-    March 5, 2006 -- March 10, 2006
+  title:
+  - spelling: eng
+    value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Vico Equense, Italy,
+      March 5, 2006 -- March 10, 2006
   date: '2006-03-05'
   source: ISO/TC 184/SC 4 Secretariat
   city: ITNAP
@@ -15,17 +17,20 @@ decisions:
   dates:
   - date: '2006-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Approval of Project Leaders and Project Editors for SC 4 Projects
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: approves
-      date_effective:
-        date: '2006-03-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Approval of Project Leaders and Project Editors for SC 4 Projects
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: approves
+    date_effective:
+      date: '2006-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 approves the following new project leaders or project editors for the associated SC 4 projects:
 
         |===
@@ -41,27 +46,32 @@ decisions:
   dates:
   - date: '2006-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Reappointment of WG 3 Deputy Convenor
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: noting
-      date_effective:
-        date: '2006-03-15'
-        type: effective
-      message: 'SC 4 appreciates and accepts the offer of Len Slovensky to serve as
-        Deputy Convenor of WG 3.
+  title:
+  - spelling: eng
+    value: Reappointment of WG 3 Deputy Convenor
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: approves
+    date_effective:
+      date: '2006-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 approves the nomination of Len Slovensky to serve for an additional
+        three year term.
 
         '
-    actions:
-    - type: approves
-      date_effective:
-        date: '2006-03-15'
-        type: effective
-      message: 'SC 4 approves the nomination of Len Slovensky to serve for an additional
-        three year term.
+  considerations:
+  - type: noting
+    date_effective:
+      date: '2006-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 appreciates and accepts the offer of Len Slovensky to serve as
+        Deputy Convenor of WG 3.
 
         '
 - identifier:
@@ -72,27 +82,32 @@ decisions:
   dates:
   - date: '2006-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Reappointment of JWG 8 Convenor
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: noting
-      date_effective:
-        date: '2006-03-15'
-        type: effective
-      message: 'SC 4 appreciates and accepts the offer of Jean-Jacques Michel to serve
-        as Convenor of JWG 8.
+  title:
+  - spelling: eng
+    value: Reappointment of JWG 8 Convenor
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: approves
+    date_effective:
+      date: '2006-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 approves the nomination of Jean-Jacques Michel to serve for an
+        additional three year term.
 
         '
-    actions:
-    - type: approves
-      date_effective:
-        date: '2006-03-15'
-        type: effective
-      message: 'SC 4 approves the nomination of Jean-Jacques Michel to serve for an
-        additional three year term.
+  considerations:
+  - type: noting
+    date_effective:
+      date: '2006-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 appreciates and accepts the offer of Jean-Jacques Michel to serve
+        as Convenor of JWG 8.
 
         '
 - identifier:
@@ -103,27 +118,32 @@ decisions:
   dates:
   - date: '2006-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Reappointment of WG 12 Convenor
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: noting
-      date_effective:
-        date: '2006-03-15'
-        type: effective
-      message: 'SC 4 appreciates and accepts the offer of Keith Hunten to serve as
-        Convenor of WG 12.
+  title:
+  - spelling: eng
+    value: Reappointment of WG 12 Convenor
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: approves
+    date_effective:
+      date: '2006-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 approves the nomination of Keith Hunten to serve for an additional
+        three year term.
 
         '
-    actions:
-    - type: approves
-      date_effective:
-        date: '2006-03-15'
-        type: effective
-      message: 'SC 4 approves the nomination of Keith Hunten to serve for an additional
-        three year term.
+  considerations:
+  - type: noting
+    date_effective:
+      date: '2006-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 appreciates and accepts the offer of Keith Hunten to serve as Convenor
+        of WG 12.
 
         '
 - identifier:
@@ -134,34 +154,41 @@ decisions:
   dates:
   - date: '2006-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Request active liaison with ISO/TC 229 and appoint liaison officers
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2006-03-15'
-        type: effective
-      message: 'SC 4 requests an active two-way liaison with ISO/TC 229, Nanotechnology,
+  title:
+  - spelling: eng
+    value: Request active liaison with ISO/TC 229 and appoint liaison officers
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2006-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests an active two-way liaison with ISO/TC 229, Nanotechnology,
         and requests the SC 4 Secretary to confirm these liaisons with the ISO Central
         Secretariat.
 
         '
-    - type: appoints
-      date_effective:
-        date: '2006-03-15'
-        type: effective
-      message: 'SC 4 appoints Ms Nonna Bond and Dr. Lars Ericson as the liaison officers
+  - type: appoints
+    date_effective:
+      date: '2006-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 appoints Ms Nonna Bond and Dr. Lars Ericson as the liaison officers
         from SC 4 to ISO/TC 229.
 
         '
-    - type: requests
-      date_effective:
-        date: '2006-03-15'
-        type: effective
-      message: 'The SC 4 Secretary is also requested to solicit additional nominations
+  - type: requests
+    date_effective:
+      date: '2006-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'The SC 4 Secretary is also requested to solicit additional nominations
         from the ISO/TC 184/SC 4 P-members.
 
         '
@@ -173,17 +200,20 @@ decisions:
   dates:
   - date: '2006-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Launch AP 203 ed 2 DIS ballot and register New Work Item
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: accepts
-      date_effective:
-        date: '2006-03-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Launch AP 203 ed 2 DIS ballot and register New Work Item
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: accepts
+    date_effective:
+      date: '2006-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 accepts the proposal of the AP 203 ed2 project team to launch a DIS ballot on the revised Technical Specification ISO/TS 10303-203, and requests its Secretariat to register the necessary New Work Item with ISO.
 
         Referenced documents: See WG 2N1591 -- issues log for AP203 and WG 12N3277 issues log for GD&T modules for additional information.
@@ -197,17 +227,20 @@ decisions:
   dates:
   - date: '2006-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Register New Work Items for ISO 10303-52, 10303-53, and 10303-110
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2006-03-15'
-        type: effective
-      message: 'SC 4 requests its Secretariat to register the necessary New Work Items
+  title:
+  - spelling: eng
+    value: Register New Work Items for ISO 10303-52, 10303-53, and 10303-110
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2006-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests its Secretariat to register the necessary New Work Items
         for 10303-52, 10303-53, and 10303-110 with ISO, in order to allow them to
         proceed to DIS ballot.
 
@@ -220,17 +253,20 @@ decisions:
   dates:
   - date: '2006-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Assign ISO 8000 to WG 12 temporarily
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: assigns
-      date_effective:
-        date: '2006-03-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Assign ISO 8000 to WG 12 temporarily
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: assigns
+    date_effective:
+      date: '2006-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 assigns the current project ISO 8000 -- (Catalogue Management Systems - Requirements) to its Working Group 12 on a temporary basis until the establishment of a new Working Group 13 for Industrial Data Quality.
 
         Action to Secretariat: Secretariat is asked to inform the National Member Bodies of the new project and request them to nominate experts to the project.
@@ -242,27 +278,32 @@ decisions:
   dates:
   - date: '2006-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Extend New Work Item Ballot for AP241
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2006-03-15'
-        type: effective
-      message: 'Based on the comments from IAI and SC 4 members, SC 4, as an exception,
+  title:
+  - spelling: eng
+    value: Extend New Work Item Ballot for AP241
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2006-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'Based on the comments from IAI and SC 4 members, SC 4, as an exception,
         extends the ballot closing date for the New Work Item proposal on Generic
         Model for Life Cycle Support of AEC Facilities until July 31, 2006.
 
         '
-    - type: encourages
-      date_effective:
-        date: '2006-03-15'
-        type: effective
-      message: 'SC 4 encourages IAI and WG 3 Teams 8, 22, and 23 to refine the NWI
-        proposal so that it is mutually acceptable.
+  - type: encourages
+    date_effective:
+      date: '2006-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 encourages IAI and WG 3 Teams 8, 22, and 23 to refine the NWI proposal
+        so that it is mutually acceptable.
 
         '
 - identifier:
@@ -273,17 +314,20 @@ decisions:
   dates:
   - date: '2006-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Invite host organizations to organize industry sector themes for meetings
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: asks
-      date_effective:
-        date: '2006-03-15'
-        type: effective
-      message: 'SC 4 invites host organizations to work with the International Industry
+  title:
+  - spelling: eng
+    value: Invite host organizations to organize industry sector themes for meetings
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: asks
+    date_effective:
+      date: '2006-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 invites host organizations to work with the International Industry
         STEP Centers and the SC 4 Chairman and Secretariat to organize industry sector
         themes for SC 4 meetings as appropriate, which may be reflected in the content
         of OTF, Liaison Plenary, training, tutorials and Implementation activities.
@@ -297,27 +341,32 @@ decisions:
   dates:
   - date: '2006-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Express interest in taking responsibility for RFID standards and appoint
+  title:
+  - spelling: eng
+    value: Express interest in taking responsibility for RFID standards and appoint
       delegates
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2006-03-15'
-        type: effective
-      message: 'SC 4 expresses its interest in taking responsibility for Industrial
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2006-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 expresses its interest in taking responsibility for Industrial
         Data application standards for radio frequency identifiers (RFIDs), in cooperation
         with ISO/IEC JTC 1/SC 31.
 
         '
-    - type: appoints
-      date_effective:
-        date: '2006-03-15'
-        type: effective
-      message: |
+  - type: appoints
+    date_effective:
+      date: '2006-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 appoints the following as delegates to attend the meeting of the joint ad hoc group to consider how to take ISO 21849 forward to multiple industries to be held in Lawrenceville, NJ, USA, 2006-04-11/12.
 
         * King Yee
@@ -327,11 +376,13 @@ decisions:
         * David Leal
         * Norman Swindells
         * Howard Mason
-    - type: requests
-      date_effective:
-        date: '2006-03-15'
-        type: effective
-      message: |
+  - type: requests
+    date_effective:
+      date: '2006-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests the delegation to provide a written report within two weeks of the meeting, and an oral report at the next SC 4 meeting.
 
         Note: Resolution amended by RESOLUTION 688 (Toulouse, France - June 2006).
@@ -343,17 +394,20 @@ decisions:
   dates:
   - date: '2006-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Submit Technical Corrigenda for STEP modules for publication
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2006-03-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Submit Technical Corrigenda for STEP modules for publication
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2006-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests its Secretariat to submit the Technical Corrigenda for the following STEP modules to ISO for publication as second editions.
 
         ISO/TS 10303-1103, 1104, 1108, 1109, 1110, 1111, 1112, 1129, 1341, 1342, 1343, 1344, 1346, 1347, 1351, 1352
@@ -365,17 +419,20 @@ decisions:
   dates:
   - date: '2006-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Establish Working Group 13 on Industrial Data Quality
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: creates
-      date_effective:
-        date: '2006-03-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Establish Working Group 13 on Industrial Data Quality
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: creates
+    date_effective:
+      date: '2006-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 resolves to establish a new Working Group 13, Industrial Data Quality.
 
         The task of this working group will be to:
@@ -383,12 +440,14 @@ decisions:
         * Establish a coherent definition of the structure of Quality Standards to be produced by SC 4, based on the results of the Product Data Quality Strategy meeting held on 2006-03-07 (SC 4 N2078)
         * Identify NWI and develop the necessary standards for accreditation of organizations and processes, and the quality criteria for information complying with each of the SC 4 standards, all to be published under the ISO 8000 series.
         * The current ISO 8000 work item will become part of the ISO 8000 series.
-    - type: requests
-      date_effective:
-        date: '2006-03-15'
-        type: effective
-      message: 'SC 4 requests its Secretariat to invite National Member Bodies to
-        nominate experts and candidates for Convenorship for the group.
+  - type: requests
+    date_effective:
+      date: '2006-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests its Secretariat to invite National Member Bodies to nominate
+        experts and candidates for Convenorship for the group.
 
         '
 - identifier:
@@ -399,35 +458,42 @@ decisions:
   dates:
   - date: '2006-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Participate in JWG with ISO/TC 171/SC 2 on PDF/E
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2006-03-15'
-        type: effective
-      message: 'SC 4 expresses its interest to participate in the proposed JWG with
+  title:
+  - spelling: eng
+    value: Participate in JWG with ISO/TC 171/SC 2 on PDF/E
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2006-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 expresses its interest to participate in the proposed JWG with
         ISO/TC 171/SC 2 on PDF/E.
 
         '
-    - type: nominates
-      date_effective:
-        date: '2006-03-15'
-        type: effective
-      message: |
+  - type: nominates
+    date_effective:
+      date: '2006-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 nominates as participants:
 
         * Max Ungerer
         * Paul van Exel
-    - type: directs
-      date_effective:
-        date: '2006-03-15'
-        type: effective
-      message: 'SC 4 directs the delegation to provide written reports on progress
-        with the project.
+  - type: directs
+    date_effective:
+      date: '2006-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 directs the delegation to provide written reports on progress with
+        the project.
 
         '
 - identifier:
@@ -438,26 +504,31 @@ decisions:
   dates:
   - date: '2006-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Invite submission of NWI for gear design data exchange
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: noting
-      date_effective:
-        date: '2006-03-15'
-        type: effective
-      message: 'SC 4 welcomes the proposition from Germany to initiate a gear design
-        project based upon the work in specification VDMA 23900.
+  title:
+  - spelling: eng
+    value: Invite submission of NWI for gear design data exchange
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: asks
+    date_effective:
+      date: '2006-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 invites them to submit any necessary NWI to SC 4 for consideration.
 
         '
-    actions:
-    - type: asks
-      date_effective:
-        date: '2006-03-15'
-        type: effective
-      message: 'SC 4 invites them to submit any necessary NWI to SC 4 for consideration.
+  considerations:
+  - type: noting
+    date_effective:
+      date: '2006-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 welcomes the proposition from Germany to initiate a gear design
+        project based upon the work in specification VDMA 23900.
 
         '
 - identifier:
@@ -468,27 +539,32 @@ decisions:
   dates:
   - date: '2006-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appointment of QC Coordinator
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: noting
-      date_effective:
-        date: '2006-03-15'
-        type: effective
-      message: 'SC 4 appreciates and accepts the offer of Peter Benson to serve as
-        Quality Coordinator.
+  title:
+  - spelling: eng
+    value: Appointment of QC Coordinator
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: approves
+    date_effective:
+      date: '2006-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 approves the nomination of Peter Benson to serve for a three year
+        term.
 
         '
-    actions:
-    - type: approves
-      date_effective:
-        date: '2006-03-15'
-        type: effective
-      message: 'SC 4 approves the nomination of Peter Benson to serve for a three
-        year term.
+  considerations:
+  - type: noting
+    date_effective:
+      date: '2006-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 appreciates and accepts the offer of Peter Benson to serve as Quality
+        Coordinator.
 
         '
 - identifier:
@@ -499,17 +575,20 @@ decisions:
   dates:
   - date: '2006-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank SC 4 Liaisons and Plenary presenters
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2006-03-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank SC 4 Liaisons and Plenary presenters
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2006-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 appreciates our SC 4 Liaisons for their representation to and for ISO/TC 184/SC 4.
 
         A special thank you to the SC 4 Liaison Plenary presenters for their insightful and comprehensive presentations:
@@ -533,19 +612,22 @@ decisions:
   dates:
   - date: '2006-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank ENEA and Oriente Hotel for hosting meeting
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2006-03-15'
-        type: effective
-      message: 'SC 4 wishes to give its unanimous thanks to ENEA, its Members and
-        the staff of the Oriente Hotel for their efforts in organizing this meeting,
-        arranging the facilities, excellent food, and excellent social events.
+  title:
+  - spelling: eng
+    value: Thank ENEA and Oriente Hotel for hosting meeting
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2006-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 wishes to give its unanimous thanks to ENEA, its Members and the
+        staff of the Oriente Hotel for their efforts in organizing this meeting, arranging
+        the facilities, excellent food, and excellent social events.
 
         '
 - identifier:
@@ -556,17 +638,20 @@ decisions:
   dates:
   - date: '2006-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Dr. Anna Moreno and staff for meeting coordination
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2006-03-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Dr. Anna Moreno and staff for meeting coordination
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2006-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its particular thanks to Dr. Anna Moreno for providing the overall excellent coordination for the entire SC 4 Meeting in Vico Equense.
 
         SC 4 also wishes to recognize the members of her staff for their superior administrative support, outstanding hospitality, both before and during the ISO/TC 184/SC 4 meeting. They are; Mario Montanino, Anna Amato, Celestina Coccia, Augusto Massari, Enzo Moreno and Imma e Francesco Arpino.
@@ -578,17 +663,20 @@ decisions:
   dates:
   - date: '2006-03-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Rosaria Savarese
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2006-03-15'
-        type: effective
-      message: 'SC 4 expresses its particular thanks to Rosaria Savarese from the
-        Town Hall for taking time to speak to the SC 4 members.
+  title:
+  - spelling: eng
+    value: Thank Rosaria Savarese
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2006-03-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 expresses its particular thanks to Rosaria Savarese from the Town
+        Hall for taking time to speak to the SC 4 members.
 
         '

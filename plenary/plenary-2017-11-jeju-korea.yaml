@@ -1,7 +1,9 @@
 ---
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Jeju, Korea, November
-    5, 2017 -- November 10, 2017
+  title:
+  - spelling: eng
+    value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Jeju, Korea, November
+      5, 2017 -- November 10, 2017
   date: '2017-11-05'
   source: ISO/TC 184/SC 4 Secretariat
   city: KRJEU
@@ -15,17 +17,20 @@ decisions:
   dates:
   - date: '2017-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Approve Project Leaders and Project Editors for SC 4 Projects
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: approves
-      date_effective:
-        date: '2017-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Approve Project Leaders and Project Editors for SC 4 Projects
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: approves
+    date_effective:
+      date: '2017-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 approves the following Project Leaders and Project Editors for the associated Projects:
 
         |===
@@ -41,17 +46,20 @@ decisions:
   dates:
   - date: '2017-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Reappoint JWG 08 Deputy Convenor
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appoints
-      date_effective:
-        date: '2017-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Reappoint JWG 08 Deputy Convenor
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '2017-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 appoints Bob Young as Deputy Convener for the JWG 08 “Joint ISO/TC 184/SC 4
         - ISO/TC 184/SC 5 WG; Manufacturing process and management information” for a
         further three year term, with appreciation for his offer to serve in that capacity.
@@ -63,17 +71,20 @@ decisions:
   dates:
   - date: '2017-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appoint Liaison Officer to ECCMA
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appoints
-      date_effective:
-        date: '2017-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Appoint Liaison Officer to ECCMA
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '2017-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 appoints Peter Eales as liaison officer to ECCMA for a three year term, with
         appreciation for his offer to serve in that capacity.
 - identifier:
@@ -84,17 +95,20 @@ decisions:
   dates:
   - date: '2017-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appoint Liaison Officer to ISO/TC 154
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appoints
-      date_effective:
-        date: '2017-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Appoint Liaison Officer to ISO/TC 154
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '2017-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 appoints Torbjorn Holm as Liaison Officer to ISO/TC 154 “Processes, data
         elements and documents in commerce, industry and administration” for a three year
         term with specific interest in the Value Stream Management project, with appreciation
@@ -110,31 +124,38 @@ decisions:
   dates:
   - date: '2017-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Establish category D Liaison with the A&D PLM Action Group
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: welcomes
-      date_effective:
-        date: '2017-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Establish category D Liaison with the A&D PLM Action Group
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: welcomes
+    date_effective:
+      date: '2017-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 welcomes the application of the A&D PLM Action Group as a category D Liaison
         to WG 12 and WG 15.
-    - type: requests
-      date_effective:
-        date: '2017-11-15'
-        type: effective
-      message: |
+  - type: requests
+    date_effective:
+      date: '2017-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests its Secretariat to submit its application to ISO CS
         for processing.
-    - type: appoints
-      date_effective:
-        date: '2017-11-15'
-        type: effective
-      message: |
+  - type: appoints
+    date_effective:
+      date: '2017-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 appoints Kenny Swope as Liaison Officer for a three year term, with appreciation
         for his offer to serve in that capacity.
 - identifier:
@@ -145,17 +166,20 @@ decisions:
   dates:
   - date: '2017-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Establish Ballot Duration of the New Work Item for ISO 8000-116
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2017-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Establish Ballot Duration of the New Work Item for ISO 8000-116
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2017-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests its Secretariat to apply the 8 week ballot duration to the NP for ISO 8000-116
         on Authoritative Legal Entity Identifier (ALEI).
 - identifier:
@@ -166,17 +190,20 @@ decisions:
   dates:
   - date: '2017-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Establish Ballot Duration of the New Work Item for Digital Twin Manufacturing
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2017-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Establish Ballot Duration of the New Work Item for Digital Twin Manufacturing
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2017-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests its Secretariat to apply the 8 week ballot duration to the NP for ‘Digital
         Twin Manufacturing Framework’.
 - identifier:
@@ -187,17 +214,20 @@ decisions:
   dates:
   - date: '2017-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Establish Ballot Duration of the New Work Item for STEP geometry services
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2017-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Establish Ballot Duration of the New Work Item for STEP geometry services
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2017-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests its Secretariat to apply the 8 week ballot duration to the NP for STEP
         geometry services.
 - identifier:
@@ -208,17 +238,20 @@ decisions:
   dates:
   - date: '2017-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Approve a NP to create a new edition 3 of ISO 10303-209
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: approves
-      date_effective:
-        date: '2017-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Approve a NP to create a new edition 3 of ISO 10303-209
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: approves
+    date_effective:
+      date: '2017-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 approves a NP to create a new edition 3 of ISO 10303-209 with the same scope
         as ISO 10303-209 edition 2 “Multidisciplinary analysis and design”, using SDT48, with
         Jochen Haenisch as the project leader.
@@ -230,17 +263,20 @@ decisions:
   dates:
   - date: '2017-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Establish WG 16 for Formats for Visualization
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2017-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Establish WG 16 for Formats for Visualization
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2017-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests its Secretariat to create WG 16 with the following title and scope
         Title: Formats for Visualization and other derived forms of product data
         Scope:
@@ -254,19 +290,22 @@ decisions:
         standards.
         * Establish liaison with other standards activities working on information models for
         3D visualization
-    - type: requests
-      date_effective:
-        date: '2017-11-15'
-        type: effective
-      message: 'SC 4 requests its Secretariat to assign any NP within scope to WG
-        16
+  - type: requests
+    date_effective:
+      date: '2017-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests its Secretariat to assign any NP within scope to WG 16
 
         '
-    - type: appoints
-      date_effective:
-        date: '2017-11-15'
-        type: effective
-      message: |
+  - type: appoints
+    date_effective:
+      date: '2017-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 appoints
         Soonhung Han as Convenor and Christophe Mouton as Deputy Convenor each for a
         three year term, with appreciation for this offer to serve in that capacity.
@@ -278,17 +317,20 @@ decisions:
   dates:
   - date: '2017-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank SC 4 Liaisons and presenters
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2017-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank SC 4 Liaisons and presenters
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2017-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its appreciation to our SC 4 Liaisons and the presentations that were
         provided:
 
@@ -302,17 +344,20 @@ decisions:
   dates:
   - date: '2017-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Industry Day participants
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2017-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Industry Day participants
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2017-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its appreciation to the following individuals and organizations for their
         participation in the 74th ISO/TC 184/SC 4 Industry Day in Jeju, Korea 2017-11-08:
 
@@ -353,17 +398,20 @@ decisions:
   dates:
   - date: '2017-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank KATS and other organizers for hosting the Plenary
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2017-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank KATS and other organizers for hosting the Plenary
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2017-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its appreciation to Korean Agency for Technology and Standards
         (KATS) for hosting the 74th ISO/TC 184/SC 4 Plenary in Jeju, Korea 2017-11-05/10 SC
         4 also expresses thanks to the Korea STEP Center (KSTEP), KAIST, NIA and all other
@@ -378,17 +426,20 @@ decisions:
   dates:
   - date: '2017-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank tribute organizers for Howard Mason
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2017-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank tribute organizers for Howard Mason
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2017-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 expresses its appreciation to the group of individuals who prepared a tribute to
         Howard Mason for presentation during the social event banquet. This group consisted
         of: Sunho Kim, Allison Barnard Feeney, Nigel Shaw, Keith Hunten, Torbjorn Holm, Tom
@@ -401,17 +452,20 @@ decisions:
   dates:
   - date: '2017-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Korean hosts for Howard Mason's gift and cake
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2017-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Korean hosts for Howard Mason's gift and cake
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2017-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 also thanks the Korean hosts for preparing a gift and cake to mark the occasion for
         Howard and his wife.
 - identifier:
@@ -422,17 +476,20 @@ decisions:
   dates:
   - date: '2017-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Howard Mason for 17 years of service as SC 4 Chair
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2017-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Howard Mason for 17 years of service as SC 4 Chair
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2017-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its sincere appreciation to Howard Mason for 17 years of dedicated
         service as Chair of SC 4 with his extensive technical knowledge of Industrial Data
         standards, ISO Procedures and for his outstanding leadership of SC 4.

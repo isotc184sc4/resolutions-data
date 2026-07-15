@@ -1,7 +1,9 @@
 ---
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Washington, D.C.,
-    United States, July 11, 1984 -- July 21, 1984
+  title:
+  - spelling: eng
+    value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Washington, D.C.,
+      United States, July 11, 1984 -- July 21, 1984
   date: '1984-07-11'
   source: ISO/TC 184/SC 4 Secretariat
   city: USGAI
@@ -15,17 +17,20 @@ decisions:
   dates:
   - date: '1984-07-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Recognize the need for a new standard for product model data exchange
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: recognizes
-      date_effective:
-        date: '1984-07-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Recognize the need for a new standard for product model data exchange
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: recognizes
+    date_effective:
+      date: '1984-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 recognizes the need for a new standard for the external
         representation of product model data. This standard will be based upon
         existing data exchange initiatives including the US IGES and PDDI, the
@@ -38,17 +43,20 @@ decisions:
   dates:
   - date: '1984-07-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Adopt goal and objectives for the STEP standard
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: adopts
-      date_effective:
-        date: '1984-07-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Adopt goal and objectives for the STEP standard
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: adopts
+    date_effective:
+      date: '1984-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 adopts the following goal and objectives.
 
         *Goal*: The creation of a standard which enables the capture of
@@ -103,17 +111,20 @@ decisions:
   dates:
   - date: '1984-07-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Recommend national organizational structure with four technical topics
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: recommends
-      date_effective:
-        date: '1984-07-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Recommend national organizational structure with four technical topics
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: recommends
+    date_effective:
+      date: '1984-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 recommends that its member bodies involved in the technical
         development of the standard for the external representation of product
         model data should adopt an organizational structure within their national
@@ -134,18 +145,21 @@ decisions:
   dates:
   - date: '1984-07-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Establish WG 1 for Technical Coordination and Support, appoint Jerry Weiss
+  title:
+  - spelling: eng
+    value: Establish WG 1 for Technical Coordination and Support, appoint Jerry Weiss
       as Convener
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: establishes
-      date_effective:
-        date: '1984-07-15'
-        type: effective
-      message: |
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: establishes
+    date_effective:
+      date: '1984-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 establishes Working Group 1, Technical Coordination and Support,
         with the following terms of reference:
 
@@ -155,11 +169,13 @@ decisions:
         * To collate national technical contributions for inclusion in the draft ISO document.
 
         SC 4 appoints Jerry Weiss as Convener of WG 1.
-    - type: recognizes
-      date_effective:
-        date: '1984-07-15'
-        type: effective
-      message: |
+  - type: recognizes
+    date_effective:
+      date: '1984-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 recognizes a possible need to establish other working groups in the
         future to cover:
 
@@ -175,17 +191,20 @@ decisions:
   dates:
   - date: '1984-07-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Nominate Bradford Smith as Chairman of ISO/TC 184/SC 4
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: nominates
-      date_effective:
-        date: '1984-07-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Nominate Bradford Smith as Chairman of ISO/TC 184/SC 4
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: nominates
+    date_effective:
+      date: '1984-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 thanks Mr. Bradford Smith for providing his excellent work as
         chairman of this meeting and proposes to nominate Mr. Smith as Chairman
         of ISO/TC 184/SC 4 for a three-year term.
@@ -197,17 +216,20 @@ decisions:
   dates:
   - date: '1984-07-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank NBS, ANSI, and member delegations for hosting the inaugural meeting
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '1984-07-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank NBS, ANSI, and member delegations for hosting the inaugural meeting
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '1984-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         ISO/TC 184/SC 4 expresses its appreciation to NBS and ANSI and the
         members of these delegations for their gracious hospitality and for the
         excellent services provided for this meeting.

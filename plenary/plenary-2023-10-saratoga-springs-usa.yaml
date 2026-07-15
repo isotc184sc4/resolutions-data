@@ -1,7 +1,9 @@
 ---
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Saratoga Springs,
-    United States, October 22, 2023 -- October 27, 2023
+  title:
+  - spelling: eng
+    value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Saratoga Springs,
+      United States, October 22, 2023 -- October 27, 2023
   date: '2023-10-22'
   source: ISO/TC 184/SC 4 Secretariat
   city: USSAR
@@ -15,17 +17,20 @@ decisions:
   dates:
   - date: '2023-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Approve Project Leaders and Project Editors for SC 4 Projects
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: approves
-      date_effective:
-        date: '2023-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Approve Project Leaders and Project Editors for SC 4 Projects
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: approves
+    date_effective:
+      date: '2023-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 Approves the following Project Leaders and Project Editors for the listed Projects:
 
         |===
@@ -43,17 +48,20 @@ decisions:
   dates:
   - date: '2023-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Set 8-week ballot duration for new work item proposals
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2023-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Set 8-week ballot duration for new work item proposals
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2023-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests its Committee Manager to apply the 8-week ballot duration to the
         following NP ballots and coordinate with the appropriate committees in joint work:
 
@@ -74,26 +82,20 @@ decisions:
   dates:
   - date: '2023-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appoint Convenors and Deputy Convenors for SC 4
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: noting
-      date_effective:
-        date: '2023-10-15'
-        type: effective
-      message: 'Noting that continuity of operations and management of work is an
-        important consideration to the successful operation of advisory groups
-
-        '
-    actions:
-    - type: appoints
-      date_effective:
-        date: '2023-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Appoint Convenors and Deputy Convenors for SC 4
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '2023-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 appoints the following Convenors and Deputy Convenors for a three-year term, with appreciation to serve in this capacity:
 
         |===
@@ -105,6 +107,17 @@ decisions:
         |WG 23 |Deputy Convenor |Hayley Thompson
         |WG 26 |Deputy Convenor |Maja Miličić Brandt
         |===
+  considerations:
+  - type: noting
+    date_effective:
+      date: '2023-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'Noting that continuity of operations and management of work is an important
+        consideration to the successful operation of advisory groups
+
+        '
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '1129'
@@ -113,31 +126,36 @@ decisions:
   dates:
   - date: '2023-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Launch DTR ballot for ISO/TR 24464 ed2
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: noting
-      date_effective:
-        date: '2023-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Launch DTR ballot for ISO/TR 24464 ed2
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2023-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
+        SC 4 appreciates the recommendation of ISO/TC 184/AG 0 and requests its Committee
+        Manager coordinate with ISO/CS and launch a DTR ballot of Visualization elements of
+        digital twin - Visualization fidelity as edition 2.
+  considerations:
+  - type: noting
+    date_effective:
+      date: '2023-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         Noting that:
 
         * A revision to ISO/TR 24464 ed1 started in 2021-11 and was reviewed at the change management meeting,
         * A working group consultation was held in 2021-11, and
         * A CIB was launched in 2022-10,
-    actions:
-    - type: requests
-      date_effective:
-        date: '2023-10-15'
-        type: effective
-      message: |
-        SC 4 appreciates the recommendation of ISO/TC 184/AG 0 and requests its Committee
-        Manager coordinate with ISO/CS and launch a DTR ballot of Visualization elements of
-        digital twin - Visualization fidelity as edition 2.
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '1130'
@@ -146,29 +164,34 @@ decisions:
   dates:
   - date: '2023-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Revise the title of ISO/DIS 3151-2 and proceed with ballot
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: noting
-      date_effective:
-        date: '2023-10-15'
-        type: effective
-      message: |
-        Noting that resolution of comments for ISO/CD 3151-2 has revised the title to be:
-        Visualization elements of PLM-MES interface - 3D error feedback in heavy industry, and
-        the project id (84702), project portal states the title as: Visualization elements of PLM-MES interface -- Part 2: 3D error feedback in the plant industry
-    actions:
-    - type: requests
-      date_effective:
-        date: '2023-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Revise the title of ISO/DIS 3151-2 and proceed with ballot
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2023-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 requests its Committee Manager coordinate with ISO/CS to change the title of project 84702 to be
         Visualization elements of PLM-MES interface - 3D error feedback in heavy industry and
         proceed with the DIS ballot.
+  considerations:
+  - type: noting
+    date_effective:
+      date: '2023-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
+        Noting that resolution of comments for ISO/CD 3151-2 has revised the title to be:
+        Visualization elements of PLM-MES interface - 3D error feedback in heavy industry, and
+        the project id (84702), project portal states the title as: Visualization elements of PLM-MES interface -- Part 2: 3D error feedback in the plant industry
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '1131'
@@ -177,32 +200,37 @@ decisions:
   dates:
   - date: '2023-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Restart ISO/DTR 23164 as Technical Specification ISO/DTS 23164
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: noting
-      date_effective:
-        date: '2023-10-15'
-        type: effective
-      message: 'Noting the report from ISO/TC 184/SC 4/AG 3, the recommendation of
-        the ISO Editor and the consensus of the PPC ISO/TC 184/SC 4
-
-        '
-    actions:
-    - type: requests
-      date_effective:
-        date: '2023-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Restart ISO/DTR 23164 as Technical Specification ISO/DTS 23164
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2023-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests its Committee Manager to coordinate with ISO/CS to proceed with
         balloting ISO/CD TR 23164 ed1 (project id. 87378),
 
         * Requests its Committee Manager to launch ISO/NP 23164 -- Automation systems and integration -- Core terminology for industrial data as a TS with an eight-week ballot duration at stage 40.00,
         * Nominates David Leal as project leader, and
         * Invites member bodies to nominate additional experts to this project.
+  considerations:
+  - type: noting
+    date_effective:
+      date: '2023-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'Noting the report from ISO/TC 184/SC 4/AG 3, the recommendation of the
+        ISO Editor and the consensus of the PPC ISO/TC 184/SC 4
+
+        '
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '1132'
@@ -211,27 +239,20 @@ decisions:
   dates:
   - date: '2023-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Restart SMRL modules ISO/TS 1848, 1849, 1850, 1851, and 1853
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: recalling
-      date_effective:
-        date: '2023-10-15'
-        type: effective
-      message: |
-        Recalling the creation of ISO/AWI TS 10303-1848, -1849, -1850, -1851, and -1853 as
-        required modules of the ISO 10303 SMRL subject to the special procedures for
-        managing standards in a database format, and noting the progress of the project team
-        to complete a CD quality ISO TS 1848, 1849, 1850, 1851, and 1853
-    actions:
-    - type: requests
-      date_effective:
-        date: '2023-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Restart SMRL modules ISO/TS 1848, 1849, 1850, 1851, and 1853
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2023-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 notes the pending limit date for this set of projects and appreciates the actions taken to address
         the integration issues. Further, SC 4 requests its Committee Manager coordinate with
         ISO/CS to restart ISO/AWI TS 1848 (project id = 81490), 1849 (project id = 81491),
@@ -244,6 +265,18 @@ decisions:
 
         And nominates Hiroyuki Hiraoka as project leader for -1848, -1849, -1850, and -1851,
         and nominates Tom Thurman as project leader for -1853.
+  considerations:
+  - type: recalling
+    date_effective:
+      date: '2023-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
+        Recalling the creation of ISO/AWI TS 10303-1848, -1849, -1850, -1851, and -1853 as
+        required modules of the ISO 10303 SMRL subject to the special procedures for
+        managing standards in a database format, and noting the progress of the project team
+        to complete a CD quality ISO TS 1848, 1849, 1850, 1851, and 1853
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '1133'
@@ -252,31 +285,36 @@ decisions:
   dates:
   - date: '2023-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Launch an Amendment to ISO 17506 ed2
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: noting
-      date_effective:
-        date: '2023-10-15'
-        type: effective
-      message: 'Noting the recommendation of ISO/TC 184/SC 4/AG 0
-
-        '
-    actions:
-    - type: requests
-      date_effective:
-        date: '2023-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Launch an Amendment to ISO 17506 ed2
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2023-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 requests its Committee Manager to coordinate with ISO/CS to amend ISO 17506:2022 with the following schedule:
 
         * DIS (40.00): 2024-02-28
         * Publication (60.00): 2024-04-30
 
         And nominates Hwanyong Lee, hwan@ajou.ac.kr as project leader.
+  considerations:
+  - type: noting
+    date_effective:
+      date: '2023-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'Noting the recommendation of ISO/TC 184/SC 4/AG 0
+
+        '
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '1134'
@@ -285,17 +323,20 @@ decisions:
   dates:
   - date: '2023-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Launch ISO/DTR 8000-320 on AI training data quality
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2023-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Launch ISO/DTR 8000-320 on AI training data quality
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2023-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests its Committee Manager to coordinate with ISO/CS to initiate the
         development of ISO/TR 8000-320 with the title "Data quality -- Part 320: AI training data
         quality for smart manufacturing" with Giljo Kim (KOR) as project leader and the target
@@ -311,28 +352,33 @@ decisions:
   dates:
   - date: '2023-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Launch minor revision of ISO 8000-115
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2023-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Launch minor revision of ISO 8000-115
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2023-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 resolves to initiate the development of a minor revision of ISO 8000-115 (Master
         data: Exchange of quality identifiers: Syntactic, semantic and resolution requirements)
         with Hayley Thompson (USA) as project leader and the target dates:
 
         * submission of revised document by 2023-12-31,
         * publication of the minor revision by 2024-06-30
-    - type: requests
-      date_effective:
-        date: '2023-10-15'
-        type: effective
-      message: |
+  - type: requests
+    date_effective:
+      date: '2023-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests its Committee Manager to prepare and submit to ISO/CS the necessary
         ISO Form 8B for this minor revision.
 - identifier:
@@ -343,17 +389,20 @@ decisions:
   dates:
   - date: '2023-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank STEP Tools, Inc. and local staff for organizing the 86th Plenary
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2023-10-15'
-        type: adoption
-      message: |
+  title:
+  - spelling: eng
+    value: Thank STEP Tools, Inc. and local staff for organizing the 86th Plenary
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2023-10-15'
+      type: adoption
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its appreciation to the following individuals at STEP Tools, Inc. for
         organizing the 86th ISO/TC 184/SC 4 Plenary in Saratoga Springs, NY from 2023-10-22
         to 2023-10-27:
@@ -380,17 +429,20 @@ decisions:
   dates:
   - date: '2023-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank contributors and presenters at the Open Technical Forum
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2023-10-15'
-        type: adoption
-      message: |
+  title:
+  - spelling: eng
+    value: Thank contributors and presenters at the Open Technical Forum
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2023-10-15'
+      type: adoption
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its appreciation to the following individuals for contributing and
         presenting at the Open Technical Forum discussion on Monday evening:
 
@@ -405,17 +457,20 @@ decisions:
   dates:
   - date: '2023-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Nils Sandsmark for organizing the cross-coordination meeting
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2023-10-15'
-        type: adoption
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Nils Sandsmark for organizing the cross-coordination meeting
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2023-10-15'
+      type: adoption
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its appreciation to Nils Sandsmark for organizing and facilitating the
         multi-group cross-coordination meeting held on 2023-06-24 and to the participants who
         provided technical content to the betterment of SC 4 level harmonization.
@@ -427,17 +482,20 @@ decisions:
   dates:
   - date: '2023-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank contributors and presenters at the Implementation Forum
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2023-10-15'
-        type: adoption
-      message: |
+  title:
+  - spelling: eng
+    value: Thank contributors and presenters at the Implementation Forum
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2023-10-15'
+      type: adoption
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its appreciation to the following individuals for contributing and
         presenting at the Implementation Forum on Tuesday evening:
 
@@ -452,17 +510,20 @@ decisions:
   dates:
   - date: '2023-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank contributors and presenters at Industry Day
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2023-10-15'
-        type: adoption
-      message: |
+  title:
+  - spelling: eng
+    value: Thank contributors and presenters at Industry Day
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2023-10-15'
+      type: adoption
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its appreciation to the following individuals for contributing and
         presenting at Industry Day on Wednesday morning:
 
@@ -478,17 +539,20 @@ decisions:
   dates:
   - date: '2023-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank the staff of the Lake George Steamboat Company
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2023-10-15'
-        type: adoption
-      message: |
+  title:
+  - spelling: eng
+    value: Thank the staff of the Lake George Steamboat Company
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2023-10-15'
+      type: adoption
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its appreciation all the staff of the Lake George Steamboat Company
         for a fantastic cruise of Lake George on the Mohican.
 - identifier:
@@ -499,17 +563,20 @@ decisions:
   dates:
   - date: '2023-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank the staff at Star Trek Original Series Set Tour
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2023-10-15'
-        type: adoption
-      message: |
+  title:
+  - spelling: eng
+    value: Thank the staff at Star Trek Original Series Set Tour
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2023-10-15'
+      type: adoption
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its appreciation to the staff at Star Trek Original Series Set Tour for an
         amazing tour:
 
@@ -529,17 +596,20 @@ decisions:
   dates:
   - date: '2023-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank the staff at Burleigh’s Luncheonette
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2023-10-15'
-        type: adoption
-      message: |
+  title:
+  - spelling: eng
+    value: Thank the staff at Burleigh’s Luncheonette
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2023-10-15'
+      type: adoption
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its appreciation to the staff at Burleigh’s Luncheonette for a great
         dining experience:
 
@@ -554,17 +624,20 @@ decisions:
   dates:
   - date: '2023-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank SC 4 Liaisons for their reports at the 86th Plenary
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2023-10-15'
-        type: adoption
-      message: |
+  title:
+  - spelling: eng
+    value: Thank SC 4 Liaisons for their reports at the 86th Plenary
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2023-10-15'
+      type: adoption
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its appreciation to all our SC 4 Liaisons who provided reports at the 86th
         Plenary:
 
@@ -590,17 +663,20 @@ decisions:
   dates:
   - date: '2023-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank all experts, delegates, and leaders for a successful hybrid plenary
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2023-10-15'
-        type: adoption
-      message: |
+  title:
+  - spelling: eng
+    value: Thank all experts, delegates, and leaders for a successful hybrid plenary
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2023-10-15'
+      type: adoption
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its sincere appreciation to all the experts, delegates, and leaders for
         executing our hybrid plenary meeting successfully while undergoing numerous
         challenges.

@@ -1,7 +1,9 @@
 ---
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Marina del Rey, United
-    States, November 3, 2019 -- November 8, 2019
+  title:
+  - spelling: eng
+    value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Marina del Rey,
+      United States, November 3, 2019 -- November 8, 2019
   date: '2019-11-03'
   source: ISO/TC 184/SC 4 Secretariat
   city: USLAX
@@ -15,17 +17,20 @@ decisions:
   dates:
   - date: '2019-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Approve Project Leaders and Editors for SC 4 Projects
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: approves
-      date_effective:
-        date: '2019-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Approve Project Leaders and Editors for SC 4 Projects
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: approves
+    date_effective:
+      date: '2019-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 approves the following Project Leaders and Project Editors for the
         associated Projects:
 
@@ -49,17 +54,20 @@ decisions:
   dates:
   - date: '2019-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appoint Véronique Dubillot as Quality Committee Convenor
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appoints
-      date_effective:
-        date: '2019-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Appoint Véronique Dubillot as Quality Committee Convenor
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '2019-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 appoints Véronique Dubillot as the Convenor for the Quality Committee
         for a three-year term, with appreciation for her offer to serve in that
         capacity.
@@ -71,17 +79,20 @@ decisions:
   dates:
   - date: '2019-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appoint Melissa Harvey as Quality Committee Secretary
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appoints
-      date_effective:
-        date: '2019-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Appoint Melissa Harvey as Quality Committee Secretary
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '2019-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 appoints Melissa Harvey as the Secretary of the Quality Committee for
         a three-year term, with appreciation for her offer to serve in that
         capacity.
@@ -93,29 +104,34 @@ decisions:
   dates:
   - date: '2019-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Reappoint Jochen Haenisch as WG 12 and WG 21 Deputy Convenor
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: noting
-      date_effective:
-        date: '2019-11-15'
-        type: effective
-      message: |
-        Noting that continuity of operations and management of work is an important
-        consideration to the successful operation of large working groups
-    actions:
-    - type: appoints
-      date_effective:
-        date: '2019-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Reappoint Jochen Haenisch as WG 12 and WG 21 Deputy Convenor
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '2019-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 appoints Jochen Haenisch as Deputy Convenor for the WG 12 "STEP
         Modeling Product and Resources" and WG 21 "SMRL validation team" for a
         further three-year term, with appreciation for his offer to serve in that
         capacity.
+  considerations:
+  - type: noting
+    date_effective:
+      date: '2019-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
+        Noting that continuity of operations and management of work is an important
+        consideration to the successful operation of large working groups
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '1022'
@@ -124,27 +140,32 @@ decisions:
   dates:
   - date: '2019-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appoint David Leal as Liaison Officer to NAFEMS
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: noting
-      date_effective:
-        date: '2019-11-15'
-        type: effective
-      message: |
-        Noting that coordination with external liaisons is an important
-        consideration to the successful development and implementation of standards
-    actions:
-    - type: appoints
-      date_effective:
-        date: '2019-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Appoint David Leal as Liaison Officer to NAFEMS
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '2019-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 appoints David Leal for a three-year term, with appreciation for his
         offer to serve in that capacity.
+  considerations:
+  - type: noting
+    date_effective:
+      date: '2019-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
+        Noting that coordination with external liaisons is an important
+        consideration to the successful development and implementation of standards
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '1023'
@@ -153,17 +174,20 @@ decisions:
   dates:
   - date: '2019-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Apply 24-month development track to ISO 15926-14
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2019-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Apply 24-month development track to ISO 15926-14
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2019-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         Upon reviewing the work plan of ISO 15926-14, SC 4 recognizes the progress
         made to date and requests its Committee Manager apply the 24-month
         development track to the ISO 15926-14 project in order to complete required
@@ -176,28 +200,33 @@ decisions:
   dates:
   - date: '2019-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Extend term of AHG 1 Core Industrial Data Set of Terms
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: noting
-      date_effective:
-        date: '2019-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Extend term of AHG 1 Core Industrial Data Set of Terms
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: decides
+    date_effective:
+      date: '2019-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
+        SC 4 extends the term for AHG 1 to the next meeting where a final report
+        will be provided.
+  considerations:
+  - type: noting
+    date_effective:
+      date: '2019-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         Noting the progress made by AHG 1 "Core Industrial Data Set of Terms" and
         the additional work needed to develop recommendations for inclusion in
         their final report
-    actions:
-    - type: decides
-      date_effective:
-        date: '2019-11-15'
-        type: effective
-      message: |
-        SC 4 extends the term for AHG 1 to the next meeting where a final report
-        will be provided.
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '1025'
@@ -206,27 +235,20 @@ decisions:
   dates:
   - date: '2019-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Create Task Force for ISO 10303 SMRL Architecture innovation
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: noting
-      date_effective:
-        date: '2019-11-15'
-        type: effective
-      message: |
-        Noting the workshop held 29–30 October, 2019 between ISO CS and SC 4, a
-        significant opportunity to enhance efficiency and improve quality has
-        emerged regarding the publication of the ISO 10303 STEP Modular Reference
-        Library
-    actions:
-    - type: creates
-      date_effective:
-        date: '2019-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Create Task Force for ISO 10303 SMRL Architecture innovation
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: creates
+    date_effective:
+      date: '2019-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 creates a Task Force titled "ISO 10303 SMRL Architecture innovation"
         with the following term of reference:
 
@@ -239,13 +261,27 @@ decisions:
 
         4. Deliver a final report to SC 4 on a schedule agreeable between the Task
         Force and SC4
-    - type: nominates
-      date_effective:
-        date: '2019-11-15'
-        type: effective
-      message: |
+  - type: nominates
+    date_effective:
+      date: '2019-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 nominates Brandon Sapp to lead the Task Force and requests nominations
         from member bodies and relevant liaisons to participate in the Task Force.
+  considerations:
+  - type: noting
+    date_effective:
+      date: '2019-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
+        Noting the workshop held 29–30 October, 2019 between ISO CS and SC 4, a
+        significant opportunity to enhance efficiency and improve quality has
+        emerged regarding the publication of the ISO 10303 STEP Modular Reference
+        Library
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '1026'
@@ -254,25 +290,30 @@ decisions:
   dates:
   - date: '2019-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Establish PWI for Ontology for geometry and topology
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: establishes
-      date_effective:
-        date: '2019-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Establish PWI for Ontology for geometry and topology
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: establishes
+    date_effective:
+      date: '2019-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 establishes a PWI to create a Technical Report on Ontology for geometry
         and topology. The report is to be delivered in May 2020 for review at the
         next SC 4 meeting.
-    - type: nominates
-      date_effective:
-        date: '2019-11-15'
-        type: effective
-      message: |
+  - type: nominates
+    date_effective:
+      date: '2019-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 nominates Ben Urick (US) as project leader with appreciation to serve in
         this capacity and requests member bodies and liaisons to nominate experts to
         this preliminary work.
@@ -284,31 +325,36 @@ decisions:
   dates:
   - date: '2019-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Cancel ISO 8000-64 and launch NP Ballot
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: noting
-      date_effective:
-        date: '2019-11-15'
-        type: effective
-      message: |
-        Noting that the existing 48-month project may no longer receive a 9-month
-        extension from ISO TMB
-    actions:
-    - type: requests
-      date_effective:
-        date: '2019-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Cancel ISO 8000-64 and launch NP Ballot
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2019-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests its Committee Manager to cancel ISO 8000-64 and, after
         receiving the appropriate documentation from WG 13, launch an NP Ballot of
         ISO 8000-64 with the document attached to the ISO Form 4 to be registered as
         a Committee Draft (stage 30.00) and to apply the 8-week ballot duration to
         that ballot. In addition, SC 4 requests WG 13 to deliver the NP/CD
         ballot to the committee manager by 2020-01-15.
+  considerations:
+  - type: noting
+    date_effective:
+      date: '2019-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
+        Noting that the existing 48-month project may no longer receive a 9-month
+        extension from ISO TMB
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '1028'
@@ -317,27 +363,32 @@ decisions:
   dates:
   - date: '2019-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Prepare report to combine ISO 8000 master data standards
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2019-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Prepare report to combine ISO 8000 master data standards
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2019-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests WG 13 to prepare a technical report outlining the steps
         necessary to combine existing (and any future) standards in the ISO 8000
         series of parts relating to master data and names Peter Benson as project
         leader. This technical report will allow the national bodies to prepare
         their own publication strategies for future editions of these parts.
-    - type: requests
-      date_effective:
-        date: '2019-11-15'
-        type: effective
-      message: 'SC 4 requests member bodies and liaisons to nominate experts to this
+  - type: requests
+    date_effective:
+      date: '2019-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests member bodies and liaisons to nominate experts to this
         work.
 
         '
@@ -349,17 +400,20 @@ decisions:
   dates:
   - date: '2019-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Identify experts to review ISO/DIS 29002 Edition 2
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2019-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Identify experts to review ISO/DIS 29002 Edition 2
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2019-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests its Committee Manager to ask member National Bodies and SC 4
         Working Group Convenors to identify experts to contact Peter Eales, project
         leader of ISO 29002 Edition 2, and Tim King, Convenor of WG 13, to volunteer
@@ -373,25 +427,20 @@ decisions:
   dates:
   - date: '2019-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Document mapping between ISO 10303 STEP and ISO 23952 QIF
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: noting
-      date_effective:
-        date: '2019-11-15'
-        type: effective
-      message: |
-        Noting the formal documentation of the mapping between STEP and QIF to
-        harmonize terms and definitions
-    actions:
-    - type: requests
-      date_effective:
-        date: '2019-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Document mapping between ISO 10303 STEP and ISO 23952 QIF
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2019-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests its Committee Manager launch a PWI/TR to develop a Technical
         Report formally documenting the correspondence between the entities in ISO
         10303 and ISO 23952 using a mapping language. The following persons did
@@ -411,14 +460,26 @@ decisions:
         |End user expert |Atsuto Soma
         |End user expert |Martin Hardwick
         |===
-    - type: nominates
-      date_effective:
-        date: '2019-11-15'
-        type: effective
-      message: |
+  - type: nominates
+    date_effective:
+      date: '2019-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 nominates Dr. Martin Hardwick as project leader and Mr. Atsuto Soma as
         editor with appreciation to support in this capacity and requests member
         bodies and liaisons to nominate experts to this preliminary work.
+  considerations:
+  - type: noting
+    date_effective:
+      date: '2019-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
+        Noting the formal documentation of the mapping between STEP and QIF to
+        harmonize terms and definitions
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '1031'
@@ -427,26 +488,31 @@ decisions:
   dates:
   - date: '2019-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Circulate CIB for draft ISO Committee Specific Procedure
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2019-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Circulate CIB for draft ISO Committee Specific Procedure
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2019-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests the Committee Manager to circulate a Committee Internal Ballot
         with a draft of the ISO Committee Specific Procedure (CSP) for comment and
         invite relevant ISO committees to join in liaison to JWG24 for development
         of the process and management of the CDD content.
-    - type: investigates
-      date_effective:
-        date: '2019-11-15'
-        type: effective
-      message: 'SC 4 invites IEC to comment through its membership to JWG24.
+  - type: investigates
+    date_effective:
+      date: '2019-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 invites IEC to comment through its membership to JWG24.
 
         '
 - identifier:
@@ -457,17 +523,20 @@ decisions:
   dates:
   - date: '2019-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appoint Yoshiaki Sonoda as Liaison Officer to IEC SC 3D
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: nominates
-      date_effective:
-        date: '2019-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Appoint Yoshiaki Sonoda as Liaison Officer to IEC SC 3D
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: nominates
+    date_effective:
+      date: '2019-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 nominates Yoshiaki Sonoda to serve as liaison officer to IEC SC 3D for
         a three-year term, with appreciation for his offer to serve in that
         capacity.
@@ -479,17 +548,20 @@ decisions:
   dates:
   - date: '2019-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appoint Mario Tucci as SC 4 Implementation Forum Deputy Convenor
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appoints
-      date_effective:
-        date: '2019-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Appoint Mario Tucci as SC 4 Implementation Forum Deputy Convenor
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '2019-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 appoints Mario Tucci as Deputy Convenor of SC 4/AG 02 "Implementation
         Forum" for a three-year term, with appreciation for his offer to serve in
         that capacity.
@@ -501,25 +573,20 @@ decisions:
   dates:
   - date: '2019-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Create Ad hoc team for Nuclear Digital Ecosystem Specification
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: noting
-      date_effective:
-        date: '2019-11-15'
-        type: effective
-      message: |
-        Noting the interest in developing a TR assessing the nuclear industry needs
-        for information standards
-    actions:
-    - type: requests
-      date_effective:
-        date: '2019-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Create Ad hoc team for Nuclear Digital Ecosystem Specification
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2019-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests its Committee Manager launch an Ad hoc team with following
         participants:
 
@@ -531,16 +598,28 @@ decisions:
         * Youngsoo Jung, Myongji University, South Korea
         * Kevin Zhang, Plant Resource Technology, China
         * Resources from other TC's as required
-    - type: appoints
-      date_effective:
-        date: '2019-11-15'
-        type: effective
-      message: |
+  - type: appoints
+    date_effective:
+      date: '2019-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 appoints Christophe Mouton as project leader with appreciation to serve
         in that capacity, and requests that Christophe coordinate with ISO/TC 85
         with the opportunity to contribute to that report. The Ad hoc team will have
         regular teleconferences and report bi-monthly to the IF Convenor and at the
         TC 184/SC 4 meeting in Bergen, Norway in May 2020.
+  considerations:
+  - type: noting
+    date_effective:
+      date: '2019-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
+        Noting the interest in developing a TR assessing the nuclear industry needs
+        for information standards
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '1035'
@@ -549,17 +628,20 @@ decisions:
   dates:
   - date: '2019-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Call for requirements on data visualization for industrial artefacts
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2019-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Call for requirements on data visualization for industrial artefacts
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2019-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 calls SC 4 WG conveners and liaison organizations to deliver to JWG 16,
         their use cases, examples, and requirements about data visualization in the
         context of industrial artefacts before end January 2020. JWG 16 will
@@ -574,17 +656,20 @@ decisions:
   dates:
   - date: '2019-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Apply 8-week CD ballot duration to ISO 10303-59 ed3
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2019-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Apply 8-week CD ballot duration to ISO 10303-59 ed3
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2019-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests its Committee Manager to make the CD ballot duration of
         ISO 10303-59 ed3 to eight weeks.
 - identifier:
@@ -595,17 +680,20 @@ decisions:
   dates:
   - date: '2019-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Véronique Dubillot for Quality Committee Secretary service
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2019-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Véronique Dubillot for Quality Committee Secretary service
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2019-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 wishes to express thanks to Véronique Dubillot for her prior service
         as the secretary for the Quality Committee.
 - identifier:
@@ -616,17 +704,20 @@ decisions:
   dates:
   - date: '2019-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Anna Moreno for Implementation Forum service
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2019-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Anna Moreno for Implementation Forum service
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2019-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 wishes to express thanks to Anna Moreno for her prior service on the
         Implementation Forum.
 - identifier:
@@ -637,17 +728,20 @@ decisions:
   dates:
   - date: '2019-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank SC 4 Liaisons for presentations at 78th Plenary
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2019-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank SC 4 Liaisons for presentations at 78th Plenary
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2019-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its appreciation to our SC 4 Liaisons and the presentations
         that were provided:
 
@@ -666,17 +760,20 @@ decisions:
   dates:
   - date: '2019-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Open Technical Forum participants
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2019-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Open Technical Forum participants
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2019-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its appreciation to the following individuals and
         organizations for their participation in the Open Technical Forum:
 
@@ -693,17 +790,20 @@ decisions:
   dates:
   - date: '2019-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank SC 4 Industry Day presenters and facilitators
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2019-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank SC 4 Industry Day presenters and facilitators
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2019-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its appreciation to the following individuals and
         organizations for their participation in the 78th SC 4 Industry Day event:
 
@@ -740,17 +840,20 @@ decisions:
   dates:
   - date: '2019-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank ECCMA and Hotel MdR for organizing 78th Plenary
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2019-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank ECCMA and Hotel MdR for organizing 78th Plenary
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2019-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its appreciation to Peter Benson, Brandi Fisher, and the
         rest of ECCMA's staff for organizing the 78th SC 4 Plenary in Marina del
         Rey, CA, USA during 2019-11-03/08. Special acknowledgement is extended to

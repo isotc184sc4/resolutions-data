@@ -1,7 +1,9 @@
 ---
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Ibusuki, Japan, July
-    1, 2007 -- July 6, 2007
+  title:
+  - spelling: eng
+    value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Ibusuki, Japan,
+      July 1, 2007 -- July 6, 2007
   date: '2007-07-01'
   source: ISO/TC 184/SC 4 Secretariat
   city: JPIBK
@@ -15,17 +17,20 @@ decisions:
   dates:
   - date: '2007-07-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Approve new project leaders and editors
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: approves
-      date_effective:
-        date: '2007-07-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Approve new project leaders and editors
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: approves
+    date_effective:
+      date: '2007-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC4 approves the following new project leaders or project editors for the associated SC4 projects:
 
         |===
@@ -43,26 +48,31 @@ decisions:
   dates:
   - date: '2007-07-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appoint Nikolaus Ondracek as WG 2 Convener
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appoints
-      date_effective:
-        date: '2007-07-15'
-        type: effective
-      message: 'SC4 appreciates and accepts the offer of Nikolaus Ondracek to serve
+  title:
+  - spelling: eng
+    value: Appoint Nikolaus Ondracek as WG 2 Convener
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '2007-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC4 appreciates and accepts the offer of Nikolaus Ondracek to serve
         as Convener of WG 2 and approves the nomination of Mr. Ondracek to serve for
         a three year term.
 
         '
-    - type: thanks
-      date_effective:
-        date: '2007-07-15'
-        type: effective
-      message: 'SC4 thanks Dr. Wolfgang Wilkes for his significant contributions in
+  - type: thanks
+    date_effective:
+      date: '2007-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC4 thanks Dr. Wolfgang Wilkes for his significant contributions in
         his role as convener, lead technical expert and also his successes as a consensus
         builder throughout his appointments.
 
@@ -75,19 +85,22 @@ decisions:
   dates:
   - date: '2007-07-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Reappoint Jochen Haenisch as WG 12 Deputy Convener
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appoints
-      date_effective:
-        date: '2007-07-15'
-        type: effective
-      message: 'SC4 appreciates and accepts the offer of Jochen Haenisch to serve
-        as Deputy Convener of WG 12 and approves the nomination of Mr. Haenisch to
-        serve for an additional three year term.
+  title:
+  - spelling: eng
+    value: Reappoint Jochen Haenisch as WG 12 Deputy Convener
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '2007-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC4 appreciates and accepts the offer of Jochen Haenisch to serve as
+        Deputy Convener of WG 12 and approves the nomination of Mr. Haenisch to serve
+        for an additional three year term.
 
         '
 - identifier:
@@ -98,25 +111,30 @@ decisions:
   dates:
   - date: '2007-07-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appoint Nikolaus Ondracek as liaison officer to ISO/TC 172
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appoints
-      date_effective:
-        date: '2007-07-15'
-        type: effective
-      message: 'SC4 nominates Nikolaus Ondracek as liaison officer to ISO/TC 172 "Optics
+  title:
+  - spelling: eng
+    value: Appoint Nikolaus Ondracek as liaison officer to ISO/TC 172
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '2007-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC4 nominates Nikolaus Ondracek as liaison officer to ISO/TC 172 "Optics
         and Photonics".
 
         '
-    - type: thanks
-      date_effective:
-        date: '2007-07-15'
-        type: effective
-      message: 'SC4 expresses its special thanks to Dr. Wilkes, for his outstanding
+  - type: thanks
+    date_effective:
+      date: '2007-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC4 expresses its special thanks to Dr. Wilkes, for his outstanding
         support and sponsorship.
 
         '
@@ -128,25 +146,30 @@ decisions:
   dates:
   - date: '2007-07-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appoint Nikolaus Ondracek as alternate liaison officer to IEC SC 65E
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appoints
-      date_effective:
-        date: '2007-07-15'
-        type: effective
-      message: 'SC4 nominates Nikolaus Ondracek as alternate liaison officer to IEC
+  title:
+  - spelling: eng
+    value: Appoint Nikolaus Ondracek as alternate liaison officer to IEC SC 65E
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '2007-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC4 nominates Nikolaus Ondracek as alternate liaison officer to IEC
         SC 65E System engineering and management.
 
         '
-    - type: thanks
-      date_effective:
-        date: '2007-07-15'
-        type: effective
-      message: 'SC4 again expresses its special thanks to Dr. Wilkes for his outstanding
+  - type: thanks
+    date_effective:
+      date: '2007-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC4 again expresses its special thanks to Dr. Wilkes for his outstanding
         support and sponsorship.
 
         '
@@ -158,28 +181,33 @@ decisions:
   dates:
   - date: '2007-07-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Invite participation in planning, machining and measurement demonstration
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: recognizing
-      date_effective:
-        date: '2007-07-15'
-        type: effective
-      message: 'Recognizing the success of the demonstrations at the Toulouse and
-        Ibusuki meetings
-
-        '
-    actions:
-    - type: requests
-      date_effective:
-        date: '2007-07-15'
-        type: effective
-      message: 'SC4 requests its Secretariat to invite additional countries to join
+  title:
+  - spelling: eng
+    value: Invite participation in planning, machining and measurement demonstration
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2007-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC4 requests its Secretariat to invite additional countries to join
         France, Japan, Sweden, UK and USA in the planning, machining and measurement
         demonstration to be given in Dallas, with a deadline for response of 2007-09-15.
+
+        '
+  considerations:
+  - type: recognizing
+    date_effective:
+      date: '2007-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'Recognizing the success of the demonstrations at the Toulouse and Ibusuki
+        meetings
 
         '
 - identifier:
@@ -190,30 +218,35 @@ decisions:
   dates:
   - date: '2007-07-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Circulate visualization requirements and evaluate candidate formats
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: recognizing
-      date_effective:
-        date: '2007-07-15'
-        type: effective
-      message: 'Recognizing the progress made by the ad hoc group on visualization
-        and encourages completion of the requirements by the end of July
-
-        '
-    actions:
-    - type: requests
-      date_effective:
-        date: '2007-07-15'
-        type: effective
-      message: 'SC4 requests its Secretariat to circulate the completed requirements
+  title:
+  - spelling: eng
+    value: Circulate visualization requirements and evaluate candidate formats
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2007-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC4 requests its Secretariat to circulate the completed requirements
         statement for a two month ballot as soon as it is available, and to initiate
         in parallel a call for experts to participate in a new ad hoc group to undertake
         an independent evaluation of candidate 3D visualization formats against the
         agreed requirements. Oscar Rocha is appointed to chair the new group.
+
+        '
+  considerations:
+  - type: recognizing
+    date_effective:
+      date: '2007-07-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'Recognizing the progress made by the ad hoc group on visualization and
+        encourages completion of the requirements by the end of July
 
         '
 - identifier:
@@ -224,17 +257,20 @@ decisions:
   dates:
   - date: '2007-07-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank SC4 Liaisons and Open Technical Forum presenters
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2007-07-15'
-        type: adoption
-      message: |
+  title:
+  - spelling: eng
+    value: Thank SC4 Liaisons and Open Technical Forum presenters
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2007-07-15'
+      type: adoption
+    message:
+    - spelling: eng
+      value: |
         SC4 expresses its appreciation to our SC4 Liaisons for their representation to and for ISO/TC 184/SC 4:
 
         * buildingSMART (Thomas Liebich)
@@ -256,20 +292,23 @@ decisions:
   dates:
   - date: '2007-07-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Open Seminars organizers and presenters
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2007-07-15'
-        type: adoption
-      message: 'SC4 expresses thanks to all the organizers, presenters and session
-        chairs at the three Open Seminars held during the course of the week. The
-        seminars provided technical insight through a combined total of 27 presentations
-        across the three separate themes of "Data Quality", "Dictionary/Ontology Register
+  title:
+  - spelling: eng
+    value: Thank Open Seminars organizers and presenters
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2007-07-15'
+      type: adoption
+    message:
+    - spelling: eng
+      value: 'SC4 expresses thanks to all the organizers, presenters and session chairs
+        at the three Open Seminars held during the course of the week. The seminars
+        provided technical insight through a combined total of 27 presentations across
+        the three separate themes of "Data Quality", "Dictionary/Ontology Register
         & Maintenance" and "Planning, Machining & Measurement using STEP & STEP-NC".
         SC4 appreciates the significant contribution that such events make to identifying
         a solid foundation on which SC4 can develop standards embodying international
@@ -284,17 +323,20 @@ decisions:
   dates:
   - date: '2007-07-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank JIPDEC and Hakusuikan Hotel for hosting the meeting
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2007-07-15'
-        type: adoption
-      message: |
+  title:
+  - spelling: eng
+    value: Thank JIPDEC and Hakusuikan Hotel for hosting the meeting
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2007-07-15'
+      type: adoption
+    message:
+    - spelling: eng
+      value: |
         SC4 expresses its deep appreciation to the Japan Information Processing Development Corporation (JIPDEC) and the staff of the Hakusuikan Hotel for their efforts in organizing this meeting, arranging the facilities, excellent food, and social events. SC4 also expresses its appreciation to Mr. Tadataka Simotakehara (Executive Vice President), Mr. Hiroo Nagata (General Manager of Hakusuikan), and Mr. Kichinori Takata (Manager in charge of the ISO conference), for their hospitality and outstanding support. Their quality of service has set a new standard of excellence for SC4 meetings.
 
         SC4 addresses a special recognition to Mr. Hiroshi Murayama, Organizer, Mr. Masaru Suzuki, Chief of Staff and staff members Mr. Shinichi Nakagawa, Ms Chie Kouchi and, Mr. Akira Hosokawa for their superior administrative support, and outstanding hospitality both before and during the ISO/TC 184/SC 4 meeting.

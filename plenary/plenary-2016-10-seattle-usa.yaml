@@ -1,7 +1,9 @@
 ---
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Seattle, United States,
-    October 2, 2016 -- October 7, 2016
+  title:
+  - spelling: eng
+    value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Seattle, United
+      States, October 2, 2016 -- October 7, 2016
   date: '2016-10-02'
   source: ISO/TC 184/SC 4 Secretariat
   city: USSEA
@@ -15,17 +17,20 @@ decisions:
   dates:
   - date: '2016-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Approve Project Leaders and Project Editors for SC 4 Projects
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: approves
-      date_effective:
-        date: '2016-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Approve Project Leaders and Project Editors for SC 4 Projects
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: approves
+    date_effective:
+      date: '2016-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 approves the following Project Leaders and Project Editors for the associated Projects:
 
         |===
@@ -42,17 +47,20 @@ decisions:
   dates:
   - date: '2016-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appoint Quality Committee Convenor
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appoints
-      date_effective:
-        date: '2016-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Appoint Quality Committee Convenor
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '2016-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 appoints Hikmet Hussain as Convenor of the Quality Committee for a three year
         term, with appreciation for his offer to serve in that capacity.
 - identifier:
@@ -63,17 +71,20 @@ decisions:
   dates:
   - date: '2016-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Reappoint SC 4 Implementation Forum Co-Deputy Convenor
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appoints
-      date_effective:
-        date: '2016-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Reappoint SC 4 Implementation Forum Co-Deputy Convenor
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '2016-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 appoints Martin Hardwick as Co-Deputy Convener for the SC 4 Implementation
         Forum for a further three year term, with appreciation for his offer to serve in that
         capacity.
@@ -85,17 +96,20 @@ decisions:
   dates:
   - date: '2016-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Reappoint WG 12 Deputy Convenor
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appoints
-      date_effective:
-        date: '2016-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Reappoint WG 12 Deputy Convenor
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '2016-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 appoints Jochen Haenisch as Deputy Convener for the WG 12 “STEP Product
         Modelling and Resources” for a further three year term, with appreciation for this offer to
         serve in that capacity.
@@ -107,17 +121,20 @@ decisions:
   dates:
   - date: '2016-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Nominate SC 4 Chair-elect
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2016-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Nominate SC 4 Chair-elect
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2016-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests the Secretariat to nominate Kenny Swope from Boeing as the SC 4
         Chair-elect, commencing January 2017, and to submit the required Chair nomination
         package to ANSI.
@@ -129,17 +146,20 @@ decisions:
   dates:
   - date: '2016-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Establish 8-week ballot duration for ISO 18828-5 NP
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2016-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Establish 8-week ballot duration for ISO 18828-5 NP
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2016-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests its Secretariat to apply the 8 week ballot duration to the NP for ISO
         18828-5 on Manufacturing Change Management.
 - identifier:
@@ -150,17 +170,20 @@ decisions:
   dates:
   - date: '2016-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Establish 8-week ballot duration for ISO 10303 MoSSEC NP
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2016-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Establish 8-week ballot duration for ISO 10303 MoSSEC NP
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2016-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests its Secretariat to apply the 8 week ballot duration to the NP for ISO
         10303 MoSSEC.
 - identifier:
@@ -171,17 +194,20 @@ decisions:
   dates:
   - date: '2016-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appoint SC 4 Liaison to ISO/TC 307
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: appoints
-      date_effective:
-        date: '2016-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Appoint SC 4 Liaison to ISO/TC 307
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '2016-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 appoints Jean Brange for a three-year term as the SC 4 Liaison to ISO/TC 307
         Blockchain and electronic distributed ledger technologies, with appreciation for his offer
         to serve in that capacity. The principal objective is to explore the potential applicability
@@ -194,25 +220,30 @@ decisions:
   dates:
   - date: '2016-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Express concern over IEC TC 65 adoption of RAMI 4.0
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: notes
-      date_effective:
-        date: '2016-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Express concern over IEC TC 65 adoption of RAMI 4.0
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: notes
+    date_effective:
+      date: '2016-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses concern over the IEC TC 65 work to adopt RAMI 4.0 as a PAS with
         undue haste contrary to the recommendation of the SAG-SM and the ISO TMB
         resolution 104/2016
-    - type: supports
-      date_effective:
-        date: '2016-10-15'
-        type: effective
-      message: |
+  - type: supports
+    date_effective:
+      date: '2016-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 strongly supports the TMB proposal for a joint activity as
         already decided by TC 184 and invites the TMB to resolve this matter with the IEC
         SMB.
@@ -224,17 +255,20 @@ decisions:
   dates:
   - date: '2016-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank SC 4 Liaisons and presenters
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2016-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank SC 4 Liaisons and presenters
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2016-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its appreciation to our SC 4 Liaisons and the presentations that were
         provided:
 
@@ -248,17 +282,20 @@ decisions:
   dates:
   - date: '2016-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Open Technical Forum participants
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2016-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Open Technical Forum participants
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2016-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its appreciation to the following individuals and organizations for their
         participation in the 72nd ISO/TC 184/SC 4 Open Technical Forum in Seattle, WA USA
         2016-10-03:
@@ -273,17 +310,20 @@ decisions:
   dates:
   - date: '2016-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Industry Day participants
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2016-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Industry Day participants
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2016-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its appreciation to the following individuals and organizations for their
         participation in the 72nd ISO/TC 184/SC 4 Industry Day in Seattle, WA, 2016-10-05:
 
@@ -300,17 +340,20 @@ decisions:
   dates:
   - date: '2016-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank ECCMA and Hilton Garden Inn for hosting the Plenary
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2016-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank ECCMA and Hilton Garden Inn for hosting the Plenary
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2016-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its appreciation to Peter Benson, Brandi Fisher, and the rest of
         ECCMA’s staff for hosting the 72nd ISO/TC 184/SC 4 Plenary in Seattle, Washington
         2016-10-02/07. Special acknowledgement is extended to the Hilton Garden Inn Seattle
@@ -323,16 +366,19 @@ decisions:
   dates:
   - date: '2016-10-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Kenny Swope and Boeing for the Everett VIP tour
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2016-10-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Kenny Swope and Boeing for the Everett VIP tour
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2016-10-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its sincere thanks to Kenny Swope and our Boeing hosts for the
         excellent VIP tour of the Everett production facility.

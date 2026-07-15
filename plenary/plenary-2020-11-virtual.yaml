@@ -1,8 +1,9 @@
-# yaml-language-server: $schema=https://raw.githubusercontent.com/edoxen/edoxen/refs/heads/main/schema/edoxen.yaml
 ---
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Virtual, November
-    2, 2020 -- November 6, 2020
+  title:
+  - spelling: eng
+    value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Virtual, November
+      2, 2020 -- November 6, 2020
   date: '2020-11-02'
   source: ISO/TC 184/SC 4 Secretariat
 decisions:
@@ -14,27 +15,32 @@ decisions:
   dates:
   - date: '2020-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appoint Hayley Thompson as WG 23 Deputy Convenor
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: noting
-      date_effective:
-        date: '2020-11-15'
-        type: effective
-      message: |
-        Noting that continuity of operations and management of work is an important
-        consideration to the successful operation of large working groups
-    actions:
-    - type: appoints
-      date_effective:
-        date: '2020-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Appoint Hayley Thompson as WG 23 Deputy Convenor
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: appoints
+    date_effective:
+      date: '2020-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 appoints Hayley Thompson as the Deputy Convenor for WG 23 for a
         three-year term, with appreciation for her offer to serve in that capacity.
+  considerations:
+  - type: noting
+    date_effective:
+      date: '2020-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
+        Noting that continuity of operations and management of work is an important
+        consideration to the successful operation of large working groups
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '1053'
@@ -43,24 +49,29 @@ decisions:
   dates:
   - date: '2020-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appoint Tim King as liaison representative to ISO/IEC JTC 1/SC 7
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2020-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Appoint Tim King as liaison representative to ISO/IEC JTC 1/SC 7
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2020-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         Additional liaison representative from SC 4 to ISO/IEC JTC 1/SC 7 (Software
         and systems engineering)
-    - type: appoints
-      date_effective:
-        date: '2020-11-15'
-        type: effective
-      message: |
+  - type: appoints
+    date_effective:
+      date: '2020-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 appoints Tim King as an additional liaison representative from SC 4 to
         ISO/IEC JTC 1/SC 7 (Software and systems engineering) for a three-year term,
         with appreciation for his offer to serve in that capacity.
@@ -72,29 +83,34 @@ decisions:
   dates:
   - date: '2020-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Extend term of AHG 1 on Core Industrial Data Set of Terms
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: noting
-      date_effective:
-        date: '2020-11-15'
-        type: effective
-      message: |
-        Noting the progress made by AHG 1 "Core industrial data set of terms" and
-        the further work needed
-    actions:
-    - type: requests
-      date_effective:
-        date: '2020-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Extend term of AHG 1 on Core Industrial Data Set of Terms
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2020-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 extends the term of the AHG 1 and requests its final report at the
         81st Plenary meeting of SC 4. AHG 1 is requested to provide a plan for the
         further work itemized in the introduction to this resolution. Further,
         France nominates Yves Keraron and Yves Baudier as experts to this group.
+  considerations:
+  - type: noting
+    date_effective:
+      date: '2020-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
+        Noting the progress made by AHG 1 "Core industrial data set of terms" and
+        the further work needed
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '1055'
@@ -103,37 +119,44 @@ decisions:
   dates:
   - date: '2020-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Extend term of AHG 2 on Nuclear Digital Ecosystem Specification
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: noting
-      date_effective:
-        date: '2020-11-15'
-        type: effective
-      message: |
-        Noting the progress made by AHG 2 "Nuclear Digital Ecosystem Specification",
-        the ongoing national survey and the additional work needed to develop
-        recommendations for inclusion in their final report
-    actions:
-    - type: decides
-      date_effective:
-        date: '2020-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Extend term of AHG 2 on Nuclear Digital Ecosystem Specification
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: decides
+    date_effective:
+      date: '2020-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 extends the term for AHG 2 to the 81st plenary where a final report
         will be provided.
-    - type: encourages
-      date_effective:
-        date: '2020-11-15'
-        type: effective
-      message: |
+  - type: encourages
+    date_effective:
+      date: '2020-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 encourages its members to join Ad Hoc Group 2 and take part to the
         ongoing national survey to collect national needs and interoperability
         requirements in terms of specifications for a digital ecosystem for the
         nuclear industry.
+  considerations:
+  - type: noting
+    date_effective:
+      date: '2020-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
+        Noting the progress made by AHG 2 "Nuclear Digital Ecosystem Specification",
+        the ongoing national survey and the additional work needed to develop
+        recommendations for inclusion in their final report
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '1057'
@@ -142,46 +165,55 @@ decisions:
   dates:
   - date: '2020-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Initiate review of Liaison appointments through SC 4 Newsletter
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: recognizing
-      date_effective:
-        date: '2020-11-15'
-        type: effective
-      message: |
-        Recognizing that Liaisons are an important component to a healthy technical
-        competency for SC 4 and that Liaison representative play a critical role
-        in establishing and maintaining effective lines of communication between
-        organizations
-    - type: noting
-      date_effective:
-        date: '2020-11-15'
-        type: effective
-      message: |
-        Noting the cursory review of SC 4's published liaisons through the
-        SC 4 Newsletter and the significant number of errors
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2020-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Initiate review of Liaison appointments through SC 4 Newsletter
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2020-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 regularly publishes the current Liaisons through the SC 4 Newsletter
         twice yearly.
-    - type: requests
-      date_effective:
-        date: '2020-11-15'
-        type: effective
-      message: |
+  - type: requests
+    date_effective:
+      date: '2020-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests the Committee Manager initiate a review of the Liaisons and
         validate Liaisons through interrogation of the ISO Global Directory for
         membership and/or correspondence with each identified Liaison
         representative. Further, if no response is received within four weeks of
         initiation, the liaison assignment will be considered inactive.
+  considerations:
+  - type: recognizing
+    date_effective:
+      date: '2020-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
+        Recognizing that Liaisons are an important component to a healthy technical
+        competency for SC 4 and that Liaison representative play a critical role
+        in establishing and maintaining effective lines of communication between
+        organizations
+  - type: noting
+    date_effective:
+      date: '2020-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
+        Noting the cursory review of SC 4's published liaisons through the
+        SC 4 Newsletter and the significant number of errors
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '1058'
@@ -190,28 +222,33 @@ decisions:
   dates:
   - date: '2020-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Approve ISO/AWI 17506 to move to DIS ballot
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: noting
-      date_effective:
-        date: '2020-11-15'
-        type: effective
-      message: 'Noting the progress of ISO/AWI 17506 and the use of ISO/PAS 17506
-        in industry
-
-        '
-    actions:
-    - type: requests
-      date_effective:
-        date: '2020-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Approve ISO/AWI 17506 to move to DIS ballot
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2020-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 resolves to promote ISO/AWI 17506 to a DIS ballot and requests the
         Committee Manager to launch a DIS ballot.
+  considerations:
+  - type: noting
+    date_effective:
+      date: '2020-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'Noting the progress of ISO/AWI 17506 and the use of ISO/PAS 17506 in
+        industry
+
+        '
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '1059'
@@ -220,27 +257,32 @@ decisions:
   dates:
   - date: '2020-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Move ISO 10303-17 from SDT 24 to SDT 36 development track
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: noting
-      date_effective:
-        date: '2020-11-15'
-        type: effective
-      message: |
-        Noting the progress of the project team and the updated project plan to
-        circulate a CD/TS ballot on 15 January, 2021 and resolve comments
-    actions:
-    - type: requests
-      date_effective:
-        date: '2020-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Move ISO 10303-17 from SDT 24 to SDT 36 development track
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2020-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests its Committee Manager to apply the 36-month development track
         to the ISO 10303-17 project.
+  considerations:
+  - type: noting
+    date_effective:
+      date: '2020-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
+        Noting the progress of the project team and the updated project plan to
+        circulate a CD/TS ballot on 15 January, 2021 and resolve comments
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '1060'
@@ -249,17 +291,20 @@ decisions:
   dates:
   - date: '2020-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Request 9-month extension for ISO 10303-209 ed3 from ISO TMB
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2020-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Request 9-month extension for ISO 10303-209 ed3 from ISO TMB
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2020-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 requests the ISO TMB to grant a nine months extension to ISO 10303-209
         edition 3 allowing the project team additional time to complete CD by
         15 January 2021, and DIS by 15 July 2021 through necessary coordination
@@ -273,31 +318,36 @@ decisions:
   dates:
   - date: '2020-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Circulate CIB for draft JWG 24 procedure for managing standards
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: noting
-      date_effective:
-        date: '2020-11-15'
-        type: effective
-      message: |
-        Noting the mandate from the ISO/TMB through Resolution 81/2017 and
-        development by experts from ISO and IEC in ISO/TC 184/SC 4/JWG 24
-        (IEC SC 3D/JWG 1), a draft procedure has been drafted for committee use in
-        managing standards in database form
-    actions:
-    - type: acknowledges
-      date_effective:
-        date: '2020-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Circulate CIB for draft JWG 24 procedure for managing standards
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: acknowledges
+    date_effective:
+      date: '2020-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 acknowledges the contribution of the draft procedure and requests its
         Committee Manager distribute a six-week Committee Internal Ballot for
         comments in preparation of submitting a Committee Specific Procedure to
         ISO/TMB.
+  considerations:
+  - type: noting
+    date_effective:
+      date: '2020-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
+        Noting the mandate from the ISO/TMB through Resolution 81/2017 and
+        development by experts from ISO and IEC in ISO/TC 184/SC 4/JWG 24
+        (IEC SC 3D/JWG 1), a draft procedure has been drafted for committee use in
+        managing standards in database form
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: 202011-acclaim-01
@@ -306,17 +356,20 @@ decisions:
   dates:
   - date: '2020-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank SC 4 Liaisons for reports to 80th Plenary
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2020-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank SC 4 Liaisons for reports to 80th Plenary
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2020-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its appreciation to our SC 4 Liaisons and reports provided
         to the 80th Plenary:
 
@@ -331,17 +384,20 @@ decisions:
   dates:
   - date: '2020-11-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank experts and leaders for virtual plenary success
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2020-11-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank experts and leaders for virtual plenary success
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2020-11-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its sincere appreciation to all the experts, delegates, and
         leaders for executing a completely virtual plenary meeting successfully while
         undergoing numerous challenges during this extraordinary time for

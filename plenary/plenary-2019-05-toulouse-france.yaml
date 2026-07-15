@@ -1,7 +1,9 @@
 ---
 metadata:
-  title: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Toulouse, France,
-    May 12, 2019 -- May 17, 2019
+  title:
+  - spelling: eng
+    value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Toulouse, France,
+      May 12, 2019 -- May 17, 2019
   date: '2019-05-12'
   source: ISO/TC 184/SC 4 Secretariat
   city: FRTLS
@@ -15,17 +17,20 @@ decisions:
   dates:
   - date: '2019-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Approve Project Leaders and Project Editors for SC 4 Projects
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: approves
-      date_effective:
-        date: '2019-05-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Approve Project Leaders and Project Editors for SC 4 Projects
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: approves
+    date_effective:
+      date: '2019-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 approves the following Project Leaders and Project Editors for the associated Projects:
 
         |===
@@ -51,17 +56,20 @@ decisions:
   dates:
   - date: '2019-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Cancel ISO 8000-63
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2019-05-15'
-        type: effective
-      message: 'SC 4 requests its Committee Manager to cancel ISO 8000-63 and, after
+  title:
+  - spelling: eng
+    value: Cancel ISO 8000-63
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2019-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests its Committee Manager to cancel ISO 8000-63 and, after
         receiving the appropriate documentation from WG 13, launch an NP Ballot of
         ISO 8000-63 to proceed to stage 40.00.
 
@@ -74,34 +82,41 @@ decisions:
   dates:
   - date: '2019-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Cancel ISO 10303-239 ed3
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: noting
-      date_effective:
-        date: '2019-05-15'
-        type: effective
-      message: 'Noting the schedule for ISO 10303-239 ed3, the status from the project
-        team, and dependencies on other projects in the committee.
+  title:
+  - spelling: eng
+    value: Cancel ISO 10303-239 ed3
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2019-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests its Committee Manager cancel project ISO 10303-239 ed3.
 
         '
-    actions:
-    - type: requests
-      date_effective:
-        date: '2019-05-15'
-        type: effective
-      message: 'SC 4 requests its Committee Manager cancel project ISO 10303-239 ed3.
-
-        '
-    - type: instructs
-      date_effective:
-        date: '2019-05-15'
-        type: effective
-      message: 'SC 4 instructs the project team to preserve existing project materials
+  - type: instructs
+    date_effective:
+      date: '2019-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 instructs the project team to preserve existing project materials
         for future use.
+
+        '
+  considerations:
+  - type: noting
+    date_effective:
+      date: '2019-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'Noting the schedule for ISO 10303-239 ed3, the status from the project
+        team, and dependencies on other projects in the committee.
 
         '
 - identifier:
@@ -112,33 +127,40 @@ decisions:
   dates:
   - date: '2019-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Establish PWI for ISO 10303-239ed3
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: noting
-      date_effective:
-        date: '2019-05-15'
-        type: effective
-      message: 'Noting the contribution of previous work on ISO 10303-239 ed3 and
-        the gaps that remain to be filled in the standard.
+  title:
+  - spelling: eng
+    value: Establish PWI for ISO 10303-239ed3
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2019-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests its Committee Manager to establish a PWI for ISO 10303-239ed3.
 
         '
-    actions:
-    - type: requests
-      date_effective:
-        date: '2019-05-15'
-        type: effective
-      message: 'SC 4 requests its Committee Manager to establish a PWI for ISO 10303-239ed3.
+  - type: encourages
+    date_effective:
+      date: '2019-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 encourages its member bodies to nominate experts to the project.
 
         '
-    - type: encourages
-      date_effective:
-        date: '2019-05-15'
-        type: effective
-      message: 'SC 4 encourages its member bodies to nominate experts to the project.
+  considerations:
+  - type: noting
+    date_effective:
+      date: '2019-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'Noting the contribution of previous work on ISO 10303-239 ed3 and the
+        gaps that remain to be filled in the standard.
 
         '
 - identifier:
@@ -149,28 +171,33 @@ decisions:
   dates:
   - date: '2019-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Create Committee Innovation to evaluate continuous integration
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: noting
-      date_effective:
-        date: '2019-05-15'
-        type: effective
-      message: 'Noting the project results from the Committee Innovation project to
-        evaluate Jira and GIT and the positive outcome.
+  title:
+  - spelling: eng
+    value: Create Committee Innovation to evaluate continuous integration
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2019-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests its Committee Manager submit a Committee Innovation proposal
+        to the Living Lab task force requesting a committee innovation to evaluate
+        continuous integration methods.
 
         '
-    actions:
-    - type: requests
-      date_effective:
-        date: '2019-05-15'
-        type: effective
-      message: 'SC 4 requests its Committee Manager submit a Committee Innovation
-        proposal to the Living Lab task force requesting a committee innovation to
-        evaluate continuous integration methods.
+  considerations:
+  - type: noting
+    date_effective:
+      date: '2019-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'Noting the project results from the Committee Innovation project to
+        evaluate Jira and GIT and the positive outcome.
 
         '
 - identifier:
@@ -181,26 +208,30 @@ decisions:
   dates:
   - date: '2019-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Establish Category A Liaison with ASM International
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: welcomes
-      date_effective:
-        date: '2019-05-15'
-        type: effective
-      message: 'SC 4 welcomes the application of ASM International as a category A
-        Liaison.
+  title:
+  - spelling: eng
+    value: Establish Category A Liaison with ASM International
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: welcomes
+    date_effective:
+      date: '2019-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 welcomes the application of ASM International as a category A Liaison.
 
         '
-    - type: requests
-      date_effective:
-        date: '2019-05-15'
-        type: effective
-      message: 'SC 4 requests its Committee Manager to submit their application to
-        ISO CS for processing.
+  - type: requests
+    date_effective:
+      date: '2019-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests its Committee Manager to submit their application to ISO
+        CS for processing.
 
         '
 - identifier:
@@ -211,17 +242,20 @@ decisions:
   dates:
   - date: '2019-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Move ISO 10303-243 to 48-month development track
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2019-05-15'
-        type: effective
-      message: 'SC 4 requests its Committee Manager to apply the 48-month development
+  title:
+  - spelling: eng
+    value: Move ISO 10303-243 to 48-month development track
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2019-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests its Committee Manager to apply the 48-month development
         track to the ISO 10303-243 project.
 
         '
@@ -233,17 +267,20 @@ decisions:
   dates:
   - date: '2019-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Request 9-month extension for ISO 10303-210ed4
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2019-05-15'
-        type: effective
-      message: 'SC 4 requests the ISO TMB to grant a 9-month extension to ISO 10303-210
+  title:
+  - spelling: eng
+    value: Request 9-month extension for ISO 10303-210ed4
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2019-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests the ISO TMB to grant a 9-month extension to ISO 10303-210
         ed4 in accordance with the justification provided.
 
         '
@@ -255,25 +292,30 @@ decisions:
   dates:
   - date: '2019-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Establish PWI for Digital Validation by simulation
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: establishes
-      date_effective:
-        date: '2019-05-15'
-        type: effective
-      message: 'SC 4 establishes a PWI to create a Technical Report on Digital Validation
+  title:
+  - spelling: eng
+    value: Establish PWI for Digital Validation by simulation
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: establishes
+    date_effective:
+      date: '2019-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 establishes a PWI to create a Technical Report on Digital Validation
         by effective use of simulation.
 
         '
-    - type: encourages
-      date_effective:
-        date: '2019-05-15'
-        type: effective
-      message: 'SC 4 encourages its member bodies to nominate experts to this preliminary
+  - type: encourages
+    date_effective:
+      date: '2019-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 encourages its member bodies to nominate experts to this preliminary
         work.
 
         '
@@ -285,25 +327,30 @@ decisions:
   dates:
   - date: '2019-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Establish PWI on Visualization elements of digital twins
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: establishes
-      date_effective:
-        date: '2019-05-15'
-        type: effective
-      message: 'SC 4 establishes a PWI to create a Technical Report on Visualization
+  title:
+  - spelling: eng
+    value: Establish PWI on Visualization elements of digital twins
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: establishes
+    date_effective:
+      date: '2019-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 establishes a PWI to create a Technical Report on Visualization
         elements of digital twins.
 
         '
-    - type: encourages
-      date_effective:
-        date: '2019-05-15'
-        type: effective
-      message: 'SC 4 encourages its member bodies to nominate experts to this preliminary
+  - type: encourages
+    date_effective:
+      date: '2019-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 encourages its member bodies to nominate experts to this preliminary
         work.
 
         '
@@ -315,39 +362,46 @@ decisions:
   dates:
   - date: '2019-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Convert ISO/PAS 17506 (COLLADA) to IS
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: noting
-      date_effective:
-        date: '2019-05-15'
-        type: effective
-      message: 'Noting the document as a fundamental technology of AutomationML (IEC
-        62714 in IEC/TC 65/SC 65E).
+  title:
+  - spelling: eng
+    value: Convert ISO/PAS 17506 (COLLADA) to IS
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2019-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 resolves to convert the ISO/PAS 17506 to an IS with no change in
+        scope with target dates: DIS 2020-06-01, IS 2021-06-01.
 
         '
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2019-05-15'
-        type: effective
-      message: 'SC 4 resolves to convert the ISO/PAS 17506 to an IS with no change
-        in scope with target dates: DIS 2020-06-01, IS 2021-06-01.
-
-        '
-    - type: assigns
-      date_effective:
-        date: '2019-05-15'
-        type: effective
-      message: 'SC 4 assigns the work to JWG 16 and requests ISO CS to preserve the
+  - type: assigns
+    date_effective:
+      date: '2019-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 assigns the work to JWG 16 and requests ISO CS to preserve the
         project and prevent cancellation while JWG 16 confirms the project leader
         and the Committee Manager reports the leader to ISO CS. The organization originally
         responsible for the format is invited to collaborate with the development
         project to formulate the development strategy including how to cope with new
         versions of the standard.
+
+        '
+  considerations:
+  - type: noting
+    date_effective:
+      date: '2019-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'Noting the document as a fundamental technology of AutomationML (IEC
+        62714 in IEC/TC 65/SC 65E).
 
         '
 - identifier:
@@ -358,27 +412,32 @@ decisions:
   dates:
   - date: '2019-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Nominate SC 4 Liaison to JTC 1 Digital Twin AG
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: acknowledges
-      date_effective:
-        date: '2019-05-15'
-        type: effective
-      message: 'SC 4 acknowledges the report of JTC 1 N14262 and Resolution 20 and
-        nominates Sangkeun Yoo to be a liaison to the digital twin advisory group
-        in accordance with membership category 2.
+  title:
+  - spelling: eng
+    value: Nominate SC 4 Liaison to JTC 1 Digital Twin AG
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: acknowledges
+    date_effective:
+      date: '2019-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 acknowledges the report of JTC 1 N14262 and Resolution 20 and nominates
+        Sangkeun Yoo to be a liaison to the digital twin advisory group in accordance
+        with membership category 2.
 
         '
-    - type: recommends
-      date_effective:
-        date: '2019-05-15'
-        type: effective
-      message: 'SC 4 recommends that TC 184 also nominate a representative to the
-        advisory group.
+  - type: recommends
+    date_effective:
+      date: '2019-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 recommends that TC 184 also nominate a representative to the advisory
+        group.
 
         '
 - identifier:
@@ -389,19 +448,21 @@ decisions:
   dates:
   - date: '2019-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Correct Title of ISO 8000-81
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2019-05-15'
-        type: effective
-      message: 'SC 4 requests its Committee Manager to inform ISO CS that the new
-        title of ISO 8000-81 is "Data quality -- Part 81: Data quality assessment:
-        Profiling".
+  title:
+  - spelling: eng
+    value: Correct Title of ISO 8000-81
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2019-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests its Committee Manager to inform ISO CS that the new title
+        of ISO 8000-81 is "Data quality -- Part 81: Data quality assessment: Profiling".
 
         '
 - identifier:
@@ -412,27 +473,32 @@ decisions:
   dates:
   - date: '2019-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Establish Ad Hoc Group on Core industrial data set of terms
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: establishes
-      date_effective:
-        date: '2019-05-15'
-        type: effective
-      message: 'SC 4 establishes an Ad Hoc Group on Core industrial data set of terms
+  title:
+  - spelling: eng
+    value: Establish Ad Hoc Group on Core industrial data set of terms
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: establishes
+    date_effective:
+      date: '2019-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 establishes an Ad Hoc Group on Core industrial data set of terms
         and appoints Nils Sandsmark as Convenor to lead the team of Tor Arne Irgens,
         David Leal, Hiroshi Murayama, Allison Barnard Feeney, Phil Spiby, Jeong Sam
         Yang, and Matthew West.
 
         '
-    - type: asks
-      date_effective:
-        date: '2019-05-15'
-        type: effective
-      message: 'SC 4 invites other experts to participate in the group.
+  - type: asks
+    date_effective:
+      date: '2019-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 invites other experts to participate in the group.
 
         '
 - identifier:
@@ -443,26 +509,31 @@ decisions:
   dates:
   - date: '2019-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Nominate SC 4 Liaison to TC 68/SC 8 and TC 68/SC 9
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: requests
-      date_effective:
-        date: '2019-05-15'
-        type: effective
-      message: 'SC 4 requests liaison to ISO/TC 68/SC8 and SC9 and appoints Peter
-        Benson as liaison officer from ISO/TC 184/SC 4.
+  title:
+  - spelling: eng
+    value: Nominate SC 4 Liaison to TC 68/SC 8 and TC 68/SC 9
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2019-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests liaison to ISO/TC 68/SC8 and SC9 and appoints Peter Benson
+        as liaison officer from ISO/TC 184/SC 4.
 
         '
-    - type: asks
-      date_effective:
-        date: '2019-05-15'
-        type: effective
-      message: 'SC 4 invites ISO/TC 68 SC 8 and SC 9 to appoint liaisons to ISO/TC
-        184/SC 4 in order for them to participate in the work in WG13.
+  - type: asks
+    date_effective:
+      date: '2019-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 invites ISO/TC 68 SC 8 and SC 9 to appoint liaisons to ISO/TC 184/SC
+        4 in order for them to participate in the work in WG13.
 
         '
 - identifier:
@@ -473,26 +544,31 @@ decisions:
   dates:
   - date: '2019-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Place JWG 8 on Standby
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    considerations:
-    - type: recognizing
-      date_effective:
-        date: '2019-05-15'
-        type: effective
-      message: 'Recognizing that all work is complete in JWG 8.
+  title:
+  - spelling: eng
+    value: Place JWG 8 on Standby
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: requests
+    date_effective:
+      date: '2019-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 requests its Committee Manager to notify SC 5 and ISO CS of the
+        same and place JWG 8 on standby.
 
         '
-    actions:
-    - type: requests
-      date_effective:
-        date: '2019-05-15'
-        type: effective
-      message: 'SC 4 requests its Committee Manager to notify SC 5 and ISO CS of the
-        same and place JWG 8 on standby.
+  considerations:
+  - type: recognizing
+    date_effective:
+      date: '2019-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'Recognizing that all work is complete in JWG 8.
 
         '
 - identifier:
@@ -503,17 +579,20 @@ decisions:
   dates:
   - date: '2019-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Anne-Françoise Cutting-Decelle for leadership of JWG 8
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2019-05-15'
-        type: effective
-      message: 'SC 4 expresses thanks to Anne-Françoise Cutting-Decelle for her leadership
+  title:
+  - spelling: eng
+    value: Thank Anne-Françoise Cutting-Decelle for leadership of JWG 8
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2019-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 expresses thanks to Anne-Françoise Cutting-Decelle for her leadership
         and to the experts that contributed to the success of the work programme.
 
         '
@@ -525,17 +604,20 @@ decisions:
   dates:
   - date: '2019-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank SC 4 Liaisons and presenters
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2019-05-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank SC 4 Liaisons and presenters
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2019-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its appreciation to our SC 4 Liaisons and the presentations that were provided:
 
         * JTC 1/SC 24 and Web3D Consortium, Christophe Mouton
@@ -552,17 +634,20 @@ decisions:
   dates:
   - date: '2019-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Open Technical Forum presenters
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2019-05-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Open Technical Forum presenters
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2019-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its appreciation to the following individuals and organizations for their participation in the Open Technical Forum:
 
         * Brief of JETI (JTC 1 Emerging Technology and Innovation) TTR (technology trend report) on Digital Twin - Sangkeun YOO (KATS/ETRI)
@@ -580,17 +665,20 @@ decisions:
   dates:
   - date: '2019-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Industry Day participants
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2019-05-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Industry Day participants
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2019-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its appreciation to the following individuals and organizations for their participation in the Industry Day event:
 
         Opening:
@@ -646,17 +734,20 @@ decisions:
   dates:
   - date: '2019-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Toulouse meeting organizers and hosts
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2019-05-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Toulouse meeting organizers and hosts
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2019-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its appreciation to the following individuals for organizing the 77th ISO/TC 184/SC 4 Plenary in Toulouse, France during 2010-05-13/17:
 
         * Alain Costes, Isabelle Rimbert, Stéphane Moulière, Caroline de Condé, Martine Degardin, Melissa Jean, and Roxana Turcanu -- AFNOR Normalisation
@@ -671,17 +762,20 @@ decisions:
   dates:
   - date: '2019-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank meeting sponsors
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2019-05-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank meeting sponsors
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2019-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its sincere thanks to the following organizations for their support and sponsorship of the meeting and weekly events:
 
         * EDF
@@ -695,18 +789,21 @@ decisions:
   dates:
   - date: '2019-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Airbus for assembly line tour and dinner
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2019-05-15'
-        type: effective
-      message: 'SC 4 expresses its thanks to Airbus for the excellent Airbus A380
-        assembly line tour and dinner afterwards.
+  title:
+  - spelling: eng
+    value: Thank Airbus for assembly line tour and dinner
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2019-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'SC 4 expresses its thanks to Airbus for the excellent Airbus A380 assembly
+        line tour and dinner afterwards.
 
         '
 - identifier:
@@ -717,17 +814,20 @@ decisions:
   dates:
   - date: '2019-05-15'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Thank Howard Mason for 35 years of service
-    subject: ISO/TC 184/SC 4 "Industrial data"
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2019-05-15'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Thank Howard Mason for 35 years of service
+  subject:
+  - spelling: eng
+    value: ISO/TC 184/SC 4 "Industrial data"
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2019-05-15'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         SC 4 expresses its sincere appreciation to Howard Mason for 35 years of dedicated service and consummate leadership of ISO/TC 184/SC 4. During this time, Howard spent 17 years as Chairman of SC 4, leading numerous accomplishments and innovations in industrial data standardization. This included the 2007 ISO Lawrence D. Eicher Award recognizing unmatched excellence in standards development.
 
         SC 4 wishes all the best to Howard in his next journey and future endeavours.
