@@ -1,0 +1,60 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 2012-06
+urn: urn:iso:tc184:sc4:meeting:plenary-2012-06
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Stockholm, Sweden,
+    June 10, 2012 -- June 15, 2012
+city: SESTO
+country_code: SE
+venues:
+- kind: physical
+  country_code: SE
+  unlocode: SESTO
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '830'
+- prefix: ISO/TC 184/SC 4
+  number: '831'
+- prefix: ISO/TC 184/SC 4
+  number: '832'
+- prefix: ISO/TC 184/SC 4
+  number: '833'
+- prefix: ISO/TC 184/SC 4
+  number: '834'
+- prefix: ISO/TC 184/SC 4
+  number: '835'
+- prefix: ISO/TC 184/SC 4
+  number: '836'
+- prefix: ISO/TC 184/SC 4
+  number: '837'
+- prefix: ISO/TC 184/SC 4
+  number: '838'
+- prefix: ISO/TC 184/SC 4
+  number: '839'
+- prefix: ISO/TC 184/SC 4
+  number: 201206-acclaim-01
+- prefix: ISO/TC 184/SC 4
+  number: 201206-acclaim-02
+- prefix: ISO/TC 184/SC 4
+  number: 201206-acclaim-03
+- prefix: ISO/TC 184/SC 4
+  number: 201206-acclaim-04
+- prefix: ISO/TC 184/SC 4
+  number: 201206-acclaim-05
+- prefix: ISO/TC 184/SC 4
+  number: 201206-acclaim-06
+- prefix: ISO/TC 184/SC 4
+  number: 201206-acclaim-07
+- prefix: ISO/TC 184/SC 4
+  number: 201206-acclaim-08
+- prefix: ISO/TC 184/SC 4
+  number: 201206-acclaim-09
+scheduled_date_range:
+  start: '2012-06-10'
+  end: '2012-06-10'

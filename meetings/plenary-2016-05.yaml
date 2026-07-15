@@ -1,0 +1,50 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 2016-05
+urn: urn:iso:tc184:sc4:meeting:plenary-2016-05
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Sapporo, Japan, May
+    22, 2016 -- May 27, 2016
+city: JPSPK
+country_code: JP
+venues:
+- kind: physical
+  country_code: JP
+  unlocode: JPSPK
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '922'
+- prefix: ISO/TC 184/SC 4
+  number: '923'
+- prefix: ISO/TC 184/SC 4
+  number: '924'
+- prefix: ISO/TC 184/SC 4
+  number: '925'
+- prefix: ISO/TC 184/SC 4
+  number: '926'
+- prefix: ISO/TC 184/SC 4
+  number: '927'
+- prefix: ISO/TC 184/SC 4
+  number: '928'
+- prefix: ISO/TC 184/SC 4
+  number: '929'
+- prefix: ISO/TC 184/SC 4
+  number: 201605-acclaim-01
+- prefix: ISO/TC 184/SC 4
+  number: 201605-acclaim-02
+- prefix: ISO/TC 184/SC 4
+  number: 201605-acclaim-03
+- prefix: ISO/TC 184/SC 4
+  number: 201605-acclaim-04
+- prefix: ISO/TC 184/SC 4
+  number: 201605-acclaim-05
+- prefix: ISO/TC 184/SC 4
+  number: 201605-acclaim-06
+scheduled_date_range:
+  start: '2016-05-22'
+  end: '2016-05-22'

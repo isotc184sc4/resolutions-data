@@ -1,0 +1,56 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 2021-11
+urn: urn:iso:tc184:sc4:meeting:plenary-2021-11
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Virtual, November
+    8, 2021 -- November 12, 2021
+venues:
+- kind: physical
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '1077'
+- prefix: ISO/TC 184/SC 4
+  number: '1078'
+- prefix: ISO/TC 184/SC 4
+  number: '1079'
+- prefix: ISO/TC 184/SC 4
+  number: '1080'
+- prefix: ISO/TC 184/SC 4
+  number: '1081'
+- prefix: ISO/TC 184/SC 4
+  number: '1082'
+- prefix: ISO/TC 184/SC 4
+  number: '1083'
+- prefix: ISO/TC 184/SC 4
+  number: '1084'
+- prefix: ISO/TC 184/SC 4
+  number: '1085'
+- prefix: ISO/TC 184/SC 4
+  number: '1086'
+- prefix: ISO/TC 184/SC 4
+  number: '1087'
+- prefix: ISO/TC 184/SC 4
+  number: '1088'
+- prefix: ISO/TC 184/SC 4
+  number: 202111-acclaim-01
+- prefix: ISO/TC 184/SC 4
+  number: 202111-acclaim-02
+- prefix: ISO/TC 184/SC 4
+  number: 202111-acclaim-03
+- prefix: ISO/TC 184/SC 4
+  number: 202111-acclaim-04
+- prefix: ISO/TC 184/SC 4
+  number: 202111-acclaim-05
+- prefix: ISO/TC 184/SC 4
+  number: 202111-acclaim-06
+- prefix: ISO/TC 184/SC 4
+  number: 202111-acclaim-07
+scheduled_date_range:
+  start: '2021-11-08'
+  end: '2021-11-08'

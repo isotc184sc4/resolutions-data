@@ -1,0 +1,58 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 2021-05
+urn: urn:iso:tc184:sc4:meeting:plenary-2021-05
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Virtual, May 10, 2021
+    -- May 14, 2021
+venues:
+- kind: physical
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '1063'
+- prefix: ISO/TC 184/SC 4
+  number: '1064'
+- prefix: ISO/TC 184/SC 4
+  number: '1065'
+- prefix: ISO/TC 184/SC 4
+  number: '1066'
+- prefix: ISO/TC 184/SC 4
+  number: '1067'
+- prefix: ISO/TC 184/SC 4
+  number: '1069'
+- prefix: ISO/TC 184/SC 4
+  number: '1071'
+- prefix: ISO/TC 184/SC 4
+  number: '1072'
+- prefix: ISO/TC 184/SC 4
+  number: '1073'
+- prefix: ISO/TC 184/SC 4
+  number: '1074'
+- prefix: ISO/TC 184/SC 4
+  number: 202105-acclaim-01
+- prefix: ISO/TC 184/SC 4
+  number: 202105-acclaim-02
+- prefix: ISO/TC 184/SC 4
+  number: 202105-acclaim-03
+- prefix: ISO/TC 184/SC 4
+  number: 202105-acclaim-04
+- prefix: ISO/TC 184/SC 4
+  number: 202105-acclaim-05
+- prefix: ISO/TC 184/SC 4
+  number: 202105-acclaim-06
+- prefix: ISO/TC 184/SC 4
+  number: 202105-acclaim-07
+- prefix: ISO/TC 184/SC 4
+  number: 202105-acclaim-08
+- prefix: ISO/TC 184/SC 4
+  number: 202105-acclaim-09
+- prefix: ISO/TC 184/SC 4
+  number: 202105-acclaim-10
+scheduled_date_range:
+  start: '2021-05-10'
+  end: '2021-05-10'

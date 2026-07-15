@@ -1,0 +1,66 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 2025-05
+urn: urn:iso:tc184:sc4:meeting:plenary-2025-05
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Little Rock, United
+    States, May 18, 2025 -- May 23, 2025
+city: USLIT
+country_code: US
+venues:
+- kind: physical
+  country_code: US
+  unlocode: USLIT
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '1152'
+- prefix: ISO/TC 184/SC 4
+  number: '1153'
+- prefix: ISO/TC 184/SC 4
+  number: '1154'
+- prefix: ISO/TC 184/SC 4
+  number: '1155'
+- prefix: ISO/TC 184/SC 4
+  number: '1156'
+- prefix: ISO/TC 184/SC 4
+  number: '1157'
+- prefix: ISO/TC 184/SC 4
+  number: '1158'
+- prefix: ISO/TC 184/SC 4
+  number: '1159'
+- prefix: ISO/TC 184/SC 4
+  number: '1160'
+- prefix: ISO/TC 184/SC 4
+  number: '1161'
+- prefix: ISO/TC 184/SC 4
+  number: '1162'
+- prefix: ISO/TC 184/SC 4
+  number: '1163'
+- prefix: ISO/TC 184/SC 4
+  number: '1164'
+- prefix: ISO/TC 184/SC 4
+  number: '1165'
+- prefix: ISO/TC 184/SC 4
+  number: '1166'
+- prefix: ISO/TC 184/SC 4
+  number: '1167'
+- prefix: ISO/TC 184/SC 4
+  number: '1168'
+- prefix: ISO/TC 184/SC 4
+  number: 202505-acclaim-01
+- prefix: ISO/TC 184/SC 4
+  number: 202505-acclaim-02
+- prefix: ISO/TC 184/SC 4
+  number: 202505-acclaim-03
+- prefix: ISO/TC 184/SC 4
+  number: 202505-acclaim-04
+- prefix: ISO/TC 184/SC 4
+  number: 202505-acclaim-05
+scheduled_date_range:
+  start: '2025-05-18'
+  end: '2025-05-18'

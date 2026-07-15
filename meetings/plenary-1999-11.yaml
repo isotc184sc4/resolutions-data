@@ -1,0 +1,60 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 1999-11
+urn: urn:iso:tc184:sc4:meeting:plenary-1999-11
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, New Orleans, United
+    States, November 8, 1999 -- November 18, 1999
+city: USMSY
+country_code: US
+venues:
+- kind: physical
+  country_code: US
+  unlocode: USMSY
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '422'
+- prefix: ISO/TC 184/SC 4
+  number: '423'
+- prefix: ISO/TC 184/SC 4
+  number: '424'
+- prefix: ISO/TC 184/SC 4
+  number: '425'
+- prefix: ISO/TC 184/SC 4
+  number: '426'
+- prefix: ISO/TC 184/SC 4
+  number: '427'
+- prefix: ISO/TC 184/SC 4
+  number: '428'
+- prefix: ISO/TC 184/SC 4
+  number: '429'
+- prefix: ISO/TC 184/SC 4
+  number: '430'
+- prefix: ISO/TC 184/SC 4
+  number: '431'
+- prefix: ISO/TC 184/SC 4
+  number: '432'
+- prefix: ISO/TC 184/SC 4
+  number: '433'
+- prefix: ISO/TC 184/SC 4
+  number: '434'
+- prefix: ISO/TC 184/SC 4
+  number: 199911-acclaim-01
+- prefix: ISO/TC 184/SC 4
+  number: '435'
+- prefix: ISO/TC 184/SC 4
+  number: '436'
+- prefix: ISO/TC 184/SC 4
+  number: '437'
+- prefix: ISO/TC 184/SC 4
+  number: '438'
+- prefix: ISO/TC 184/SC 4
+  number: 199911-acclaim-02
+scheduled_date_range:
+  start: '1999-11-08'
+  end: '1999-11-08'

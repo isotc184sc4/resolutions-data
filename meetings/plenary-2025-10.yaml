@@ -1,0 +1,58 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 2025-10
+urn: urn:iso:tc184:sc4:meeting:plenary-2025-10
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Nagasaki, Japan, October
+    25, 2025 -- October 31, 2025
+city: JPNGS
+country_code: JP
+venues:
+- kind: physical
+  country_code: JP
+  unlocode: JPNGS
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '1169'
+- prefix: ISO/TC 184/SC 4
+  number: '1170'
+- prefix: ISO/TC 184/SC 4
+  number: '1171'
+- prefix: ISO/TC 184/SC 4
+  number: '1172'
+- prefix: ISO/TC 184/SC 4
+  number: '1173'
+- prefix: ISO/TC 184/SC 4
+  number: '1174'
+- prefix: ISO/TC 184/SC 4
+  number: '1175'
+- prefix: ISO/TC 184/SC 4
+  number: '1176'
+- prefix: ISO/TC 184/SC 4
+  number: '1177'
+- prefix: ISO/TC 184/SC 4
+  number: '1178'
+- prefix: ISO/TC 184/SC 4
+  number: 202510-acclaim-01
+- prefix: ISO/TC 184/SC 4
+  number: 202510-acclaim-02
+- prefix: ISO/TC 184/SC 4
+  number: 202510-acclaim-03
+- prefix: ISO/TC 184/SC 4
+  number: 202510-acclaim-04
+- prefix: ISO/TC 184/SC 4
+  number: 202510-acclaim-05
+- prefix: ISO/TC 184/SC 4
+  number: 202510-acclaim-06
+- prefix: ISO/TC 184/SC 4
+  number: 202510-acclaim-07
+- prefix: ISO/TC 184/SC 4
+  number: 202510-acclaim-08
+scheduled_date_range:
+  start: '2025-10-25'
+  end: '2025-10-25'

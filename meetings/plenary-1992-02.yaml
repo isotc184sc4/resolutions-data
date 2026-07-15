@@ -1,0 +1,68 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 1992-02
+urn: urn:iso:tc184:sc4:meeting:plenary-1992-02
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Oslo, Norway, February
+    7, 1992 -- February 17, 1992
+city: NOOSL
+country_code: 'NO'
+venues:
+- kind: physical
+  country_code: 'NO'
+  unlocode: NOOSL
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '101'
+- prefix: ISO/TC 184/SC 4
+  number: '102'
+- prefix: ISO/TC 184/SC 4
+  number: '103'
+- prefix: ISO/TC 184/SC 4
+  number: '104'
+- prefix: ISO/TC 184/SC 4
+  number: '105'
+- prefix: ISO/TC 184/SC 4
+  number: '106'
+- prefix: ISO/TC 184/SC 4
+  number: '107'
+- prefix: ISO/TC 184/SC 4
+  number: '108'
+- prefix: ISO/TC 184/SC 4
+  number: '109'
+- prefix: ISO/TC 184/SC 4
+  number: '110'
+- prefix: ISO/TC 184/SC 4
+  number: '111'
+- prefix: ISO/TC 184/SC 4
+  number: '112'
+- prefix: ISO/TC 184/SC 4
+  number: '113'
+- prefix: ISO/TC 184/SC 4
+  number: '114'
+- prefix: ISO/TC 184/SC 4
+  number: '115'
+- prefix: ISO/TC 184/SC 4
+  number: '116'
+- prefix: ISO/TC 184/SC 4
+  number: '117'
+- prefix: ISO/TC 184/SC 4
+  number: '118'
+- prefix: ISO/TC 184/SC 4
+  number: '119'
+- prefix: ISO/TC 184/SC 4
+  number: '120'
+- prefix: ISO/TC 184/SC 4
+  number: '121'
+- prefix: ISO/TC 184/SC 4
+  number: '122'
+- prefix: ISO/TC 184/SC 4
+  number: '123'
+scheduled_date_range:
+  start: '1992-02-07'
+  end: '1992-02-07'

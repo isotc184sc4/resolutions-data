@@ -1,0 +1,42 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 2002-02
+urn: urn:iso:tc184:sc4:meeting:plenary-2002-02
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Myrtle Beach, United
+    States, February 25, 2002 -- March 1, 2002
+city: USMYR
+country_code: US
+venues:
+- kind: physical
+  country_code: US
+  unlocode: USMYR
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '523'
+- prefix: ISO/TC 184/SC 4
+  number: '524'
+- prefix: ISO/TC 184/SC 4
+  number: '525'
+- prefix: ISO/TC 184/SC 4
+  number: '526'
+- prefix: ISO/TC 184/SC 4
+  number: '527'
+- prefix: ISO/TC 184/SC 4
+  number: '528'
+- prefix: ISO/TC 184/SC 4
+  number: 200203-acclaim-01
+- prefix: ISO/TC 184/SC 4
+  number: 200203-acclaim-02
+- prefix: ISO/TC 184/SC 4
+  number: 200203-acclaim-03
+- prefix: ISO/TC 184/SC 4
+  number: 200203-acclaim-04
+scheduled_date_range:
+  start: '2002-02-25'
+  end: '2002-02-25'

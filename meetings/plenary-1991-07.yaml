@@ -1,0 +1,66 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 1991-07
+urn: urn:iso:tc184:sc4:meeting:plenary-1991-07
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Sapporo, Japan, July
+    1991
+city: JPSPK
+country_code: JP
+venues:
+- kind: physical
+  country_code: JP
+  unlocode: JPSPK
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '77'
+- prefix: ISO/TC 184/SC 4
+  number: '78'
+- prefix: ISO/TC 184/SC 4
+  number: '79'
+- prefix: ISO/TC 184/SC 4
+  number: '80'
+- prefix: ISO/TC 184/SC 4
+  number: '82'
+- prefix: ISO/TC 184/SC 4
+  number: '83'
+- prefix: ISO/TC 184/SC 4
+  number: '84'
+- prefix: ISO/TC 184/SC 4
+  number: '85'
+- prefix: ISO/TC 184/SC 4
+  number: '86'
+- prefix: ISO/TC 184/SC 4
+  number: '87'
+- prefix: ISO/TC 184/SC 4
+  number: '89'
+- prefix: ISO/TC 184/SC 4
+  number: '90'
+- prefix: ISO/TC 184/SC 4
+  number: '91'
+- prefix: ISO/TC 184/SC 4
+  number: '92'
+- prefix: ISO/TC 184/SC 4
+  number: '93'
+- prefix: ISO/TC 184/SC 4
+  number: '94'
+- prefix: ISO/TC 184/SC 4
+  number: '95'
+- prefix: ISO/TC 184/SC 4
+  number: '96'
+- prefix: ISO/TC 184/SC 4
+  number: '97'
+- prefix: ISO/TC 184/SC 4
+  number: '98'
+- prefix: ISO/TC 184/SC 4
+  number: '99'
+- prefix: ISO/TC 184/SC 4
+  number: '100'
+scheduled_date_range:
+  start: '1991-07-15'
+  end: '1991-07-15'

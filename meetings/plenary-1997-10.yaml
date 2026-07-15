@@ -1,0 +1,52 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 1997-10
+urn: urn:iso:tc184:sc4:meeting:plenary-1997-10
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Florence, Italy, October
+    19, 1997 -- October 29, 1997
+city: ITFLR
+country_code: IT
+venues:
+- kind: physical
+  country_code: IT
+  unlocode: ITFLR
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '339'
+- prefix: ISO/TC 184/SC 4
+  number: '340'
+- prefix: ISO/TC 184/SC 4
+  number: '341'
+- prefix: ISO/TC 184/SC 4
+  number: '342'
+- prefix: ISO/TC 184/SC 4
+  number: '343'
+- prefix: ISO/TC 184/SC 4
+  number: '344'
+- prefix: ISO/TC 184/SC 4
+  number: '345'
+- prefix: ISO/TC 184/SC 4
+  number: '346'
+- prefix: ISO/TC 184/SC 4
+  number: '347'
+- prefix: ISO/TC 184/SC 4
+  number: '348'
+- prefix: ISO/TC 184/SC 4
+  number: '349'
+- prefix: ISO/TC 184/SC 4
+  number: '350'
+- prefix: ISO/TC 184/SC 4
+  number: '351'
+- prefix: ISO/TC 184/SC 4
+  number: '352'
+- prefix: ISO/TC 184/SC 4
+  number: '353'
+scheduled_date_range:
+  start: '1997-10-19'
+  end: '1997-10-19'

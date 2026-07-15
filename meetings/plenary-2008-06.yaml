@@ -1,0 +1,44 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 2008-06
+urn: urn:iso:tc184:sc4:meeting:plenary-2008-06
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Sun City, South Africa,
+    June 8, 2008 -- June 13, 2008
+city: ZASUN
+country_code: ZA
+venues:
+- kind: physical
+  country_code: ZA
+  unlocode: ZASUN
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '747'
+- prefix: ISO/TC 184/SC 4
+  number: '748'
+- prefix: ISO/TC 184/SC 4
+  number: '749'
+- prefix: ISO/TC 184/SC 4
+  number: '750'
+- prefix: ISO/TC 184/SC 4
+  number: '751'
+- prefix: ISO/TC 184/SC 4
+  number: '752'
+- prefix: ISO/TC 184/SC 4
+  number: '753'
+- prefix: ISO/TC 184/SC 4
+  number: 200806-acclaim-01
+- prefix: ISO/TC 184/SC 4
+  number: 200806-acclaim-02
+- prefix: ISO/TC 184/SC 4
+  number: 200806-acclaim-03
+- prefix: ISO/TC 184/SC 4
+  number: 200806-acclaim-04
+scheduled_date_range:
+  start: '2008-06-08'
+  end: '2008-06-08'

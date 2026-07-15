@@ -1,0 +1,60 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 2022-10
+urn: urn:iso:tc184:sc4:meeting:plenary-2022-10
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Hamamatsu, Japan,
+    October 31, 2022 -- November 4, 2022
+city: JPHMZ
+country_code: JP
+venues:
+- kind: physical
+  country_code: JP
+  unlocode: JPHMZ
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '1101'
+- prefix: ISO/TC 184/SC 4
+  number: '1102'
+- prefix: ISO/TC 184/SC 4
+  number: '1103'
+- prefix: ISO/TC 184/SC 4
+  number: '1104'
+- prefix: ISO/TC 184/SC 4
+  number: '1105'
+- prefix: ISO/TC 184/SC 4
+  number: '1106'
+- prefix: ISO/TC 184/SC 4
+  number: '1107'
+- prefix: ISO/TC 184/SC 4
+  number: '1108'
+- prefix: ISO/TC 184/SC 4
+  number: '1109'
+- prefix: ISO/TC 184/SC 4
+  number: '1110'
+- prefix: ISO/TC 184/SC 4
+  number: '1111'
+- prefix: ISO/TC 184/SC 4
+  number: '1112'
+- prefix: ISO/TC 184/SC 4
+  number: '1113'
+- prefix: ISO/TC 184/SC 4
+  number: 202211-acclaim-01
+- prefix: ISO/TC 184/SC 4
+  number: 202211-acclaim-02
+- prefix: ISO/TC 184/SC 4
+  number: 202211-acclaim-03
+- prefix: ISO/TC 184/SC 4
+  number: 202211-acclaim-04
+- prefix: ISO/TC 184/SC 4
+  number: 202211-acclaim-05
+- prefix: ISO/TC 184/SC 4
+  number: 202211-acclaim-06
+scheduled_date_range:
+  start: '2022-10-31'
+  end: '2022-10-31'

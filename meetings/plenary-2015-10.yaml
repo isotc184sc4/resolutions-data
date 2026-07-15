@@ -1,0 +1,58 @@
+---
+identifier:
+- prefix: ISO/TC 184/SC 4
+  number: 2015-10
+urn: urn:iso:tc184:sc4:meeting:plenary-2015-10
+type: plenary
+status: completed
+committee: ISO/TC 184/SC 4
+title:
+- spelling: eng
+  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Baltimore, United
+    States, October 18, 2015 -- October 23, 2015
+city: USBAL
+country_code: US
+venues:
+- kind: physical
+  country_code: US
+  unlocode: USBAL
+decisions:
+- prefix: ISO/TC 184/SC 4
+  number: '907'
+- prefix: ISO/TC 184/SC 4
+  number: '908'
+- prefix: ISO/TC 184/SC 4
+  number: '909'
+- prefix: ISO/TC 184/SC 4
+  number: '910'
+- prefix: ISO/TC 184/SC 4
+  number: '911'
+- prefix: ISO/TC 184/SC 4
+  number: '912'
+- prefix: ISO/TC 184/SC 4
+  number: '913'
+- prefix: ISO/TC 184/SC 4
+  number: '914'
+- prefix: ISO/TC 184/SC 4
+  number: '915'
+- prefix: ISO/TC 184/SC 4
+  number: '916'
+- prefix: ISO/TC 184/SC 4
+  number: '917'
+- prefix: ISO/TC 184/SC 4
+  number: '918'
+- prefix: ISO/TC 184/SC 4
+  number: '919'
+- prefix: ISO/TC 184/SC 4
+  number: '920'
+- prefix: ISO/TC 184/SC 4
+  number: '921'
+- prefix: ISO/TC 184/SC 4
+  number: 201510-acclaim-01
+- prefix: ISO/TC 184/SC 4
+  number: 201510-acclaim-02
+- prefix: ISO/TC 184/SC 4
+  number: 201510-acclaim-03
+scheduled_date_range:
+  start: '2015-10-18'
+  end: '2015-10-18'
