@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://isotc184sc4.github.io/resolutions-data/sitemap.xml
