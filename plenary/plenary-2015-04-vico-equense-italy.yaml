@@ -12,6 +12,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '892'
+  urn: urn:iso:tc184:sc4:resolution:892
   kind: resolution
   status: decided
   dates:
@@ -37,6 +38,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '893'
+  urn: urn:iso:tc184:sc4:resolution:893
   kind: resolution
   status: decided
   dates:
@@ -62,6 +64,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '894'
+  urn: urn:iso:tc184:sc4:resolution:894
   kind: resolution
   status: decided
   dates:
@@ -86,6 +89,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '895'
+  urn: urn:iso:tc184:sc4:resolution:895
   kind: resolution
   status: decided
   dates:
@@ -110,6 +114,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '896'
+  urn: urn:iso:tc184:sc4:resolution:896
   kind: resolution
   status: decided
   dates:
@@ -134,6 +139,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '897'
+  urn: urn:iso:tc184:sc4:resolution:897
   kind: resolution
   status: decided
   dates:
@@ -158,6 +164,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '898'
+  urn: urn:iso:tc184:sc4:resolution:898
   kind: resolution
   status: decided
   dates:
@@ -188,6 +195,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '899'
+  urn: urn:iso:tc184:sc4:resolution:899
   kind: resolution
   status: decided
   dates:
@@ -222,6 +230,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '900'
+  urn: urn:iso:tc184:sc4:resolution:900
   kind: resolution
   status: decided
   dates:
@@ -256,6 +265,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '901'
+  urn: urn:iso:tc184:sc4:resolution:901
   kind: resolution
   status: decided
   dates:
@@ -292,6 +302,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '902'
+  urn: urn:iso:tc184:sc4:resolution:902
   kind: resolution
   status: decided
   dates:
@@ -317,6 +328,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '903'
+  urn: urn:iso:tc184:sc4:resolution:903
   kind: resolution
   status: decided
   dates:
@@ -350,6 +362,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '904'
+  urn: urn:iso:tc184:sc4:resolution:904
   kind: resolution
   status: decided
   dates:
@@ -378,6 +391,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '905'
+  urn: urn:iso:tc184:sc4:resolution:905
   kind: resolution
   status: decided
   dates:
@@ -419,6 +433,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '906'
+  urn: urn:iso:tc184:sc4:resolution:906
   kind: resolution
   status: decided
   dates:
@@ -443,6 +458,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: 201504-acclaim-01
+  urn: urn:iso:tc184:sc4:resolution:201504-acclaim-01
   kind: resolution
   status: decided
   dates:
@@ -472,6 +488,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: 201504-acclaim-02
+  urn: urn:iso:tc184:sc4:resolution:201504-acclaim-02
   kind: resolution
   status: decided
   dates:

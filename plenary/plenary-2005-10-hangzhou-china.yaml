@@ -12,6 +12,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '654'
+  urn: urn:iso:tc184:sc4:resolution:654
   kind: resolution
   status: decided
   dates:
@@ -41,6 +42,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '655'
+  urn: urn:iso:tc184:sc4:resolution:655
   kind: resolution
   status: decided
   dates:
@@ -78,6 +80,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '656'
+  urn: urn:iso:tc184:sc4:resolution:656
   kind: resolution
   status: decided
   dates:
@@ -114,6 +117,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '657'
+  urn: urn:iso:tc184:sc4:resolution:657
   kind: resolution
   status: decided
   dates:
@@ -149,6 +153,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '658'
+  urn: urn:iso:tc184:sc4:resolution:658
   kind: resolution
   status: decided
   dates:
@@ -183,6 +188,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '659'
+  urn: urn:iso:tc184:sc4:resolution:659
   kind: resolution
   status: decided
   dates:
@@ -227,6 +233,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '660'
+  urn: urn:iso:tc184:sc4:resolution:660
   kind: resolution
   status: decided
   dates:
@@ -251,6 +258,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '661'
+  urn: urn:iso:tc184:sc4:resolution:661
   kind: resolution
   status: decided
   dates:
@@ -276,6 +284,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '662'
+  urn: urn:iso:tc184:sc4:resolution:662
   kind: resolution
   status: decided
   dates:
@@ -305,6 +314,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: 200510-acclaim-01
+  urn: urn:iso:tc184:sc4:resolution:200510-acclaim-01
   kind: resolution
   status: decided
   dates:
@@ -337,6 +347,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: 200510-acclaim-02
+  urn: urn:iso:tc184:sc4:resolution:200510-acclaim-02
   kind: resolution
   status: decided
   dates:
@@ -362,6 +373,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: 200510-acclaim-03
+  urn: urn:iso:tc184:sc4:resolution:200510-acclaim-03
   kind: resolution
   status: decided
   dates:
