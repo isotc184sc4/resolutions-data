@@ -94,6 +94,14 @@ internal staging name, not the model version):
 - `_data/committee.yaml` is a MeetingSeries; its `name`, `description`,
   `contact.name` (a structured Name under `value`), and `contact.affiliation`
   are per-field Localized arrays.
+- `_data/bodies.yaml` (BodyRegister), `_data/contacts.yaml` (ContactRegister),
+  `_data/venues.yaml` (VenueRegister) are the authoritative entity registers
+  (TODO.updates 01–03). They are **inert** for now: meetings keep inline
+  `committee:` Body and inline venues until ref-resolution works end-to-end in
+  the published toolchain (gem release + `@edoxen/edoxen` entity-scoping
+  sync). `_data/venues.yaml` is generated — re-run
+  `scripts/build-venue-register.rb` after changing any meeting `venues:`.
+  Virtual meetings carry `venues: [{ kind: virtual }]` (no location fields).
 
 **`README.adoc` is stale** — its example shows the v1.0 shape (`resolutions:`,
 plain string messages, no `urn:`). Trust the real files in `plenary/`, not the
@@ -116,7 +124,8 @@ Existing scripts: `migrate_to_v2.rb`, `migrate-to-v3.rb`, `generate-meetings.rb`
 (creates `meetings/*.yaml` from plenary data), `add_venue_metadata.rb`,
 `promote-committee-to-body.rb` (scalar `committee:` → inline Body on meetings),
 `add-decision-urns.rb` (adds `urn:` to every decision — required for browser
-detail pages).
+detail pages), `build-venue-register.rb` (regenerates `_data/venues.yaml`
+from meeting `venues:`).
 
 ## Canonical edoxen model — off-repo
 
