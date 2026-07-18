@@ -13,8 +13,12 @@ identifier:
   - prefix: "ISO/TC 184/SC 4"
     number: "series"
 urn: urn:iso:tc184:sc4:series
-name: "ISO/TC 184/SC 4"
-description: "Standardization of the content, meaning, structure, representation and quality management of information for engineered products throughout their lifecycle."
+name:
+  - spelling: eng
+    value: "ISO/TC 184/SC 4"
+description:
+  - spelling: eng
+    value: "Standardization of the content, meaning, structure, representation and quality management of information for engineered products throughout their lifecycle."
 kind: committee
 term: "1984–present"
 
@@ -25,8 +29,12 @@ hosts:
 
 contact:
   name:
-    formatted: "Kenneth Swope"
-  affiliation: "ANSI (United States)"
+    - spelling: eng
+      value:
+        formatted: "Kenneth Swope"
+  affiliation:
+    - spelling: eng
+      value: "ANSI (United States)"
   kind: person
   role: chair
 

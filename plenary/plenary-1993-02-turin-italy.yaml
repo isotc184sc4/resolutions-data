@@ -12,6 +12,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '161'
+  urn: urn:iso:tc184:sc4:resolution:161
   kind: resolution
   status: decided
   dates:
@@ -38,6 +39,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '162'
+  urn: urn:iso:tc184:sc4:resolution:162
   kind: resolution
   status: decided
   dates:
@@ -78,6 +80,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '163'
+  urn: urn:iso:tc184:sc4:resolution:163
   kind: resolution
   status: decided
   dates:
@@ -119,6 +122,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '164'
+  urn: urn:iso:tc184:sc4:resolution:164
   kind: resolution
   status: decided
   dates:
@@ -143,6 +147,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '165'
+  urn: urn:iso:tc184:sc4:resolution:165
   kind: resolution
   status: decided
   dates:
@@ -167,6 +172,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '166'
+  urn: urn:iso:tc184:sc4:resolution:166
   kind: resolution
   status: decided
   dates:
@@ -196,6 +202,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '167'
+  urn: urn:iso:tc184:sc4:resolution:167
   kind: resolution
   status: decided
   dates:

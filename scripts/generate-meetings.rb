@@ -35,8 +35,11 @@ Dir.glob(File.join(SRC_DIR, "*.yaml")).sort.each do |path|
     "urn" => "urn:iso:tc184:sc4:meeting:plenary-#{year_month}",
     "type" => "plenary",
     "status" => "completed",
-    "date_range" => { "start" => date_str, "end" => end_date || date_str },
-    "committee" => "ISO/TC 184/SC 4",
+    "scheduled_date_range" => { "start" => date_str, "end" => end_date || date_str },
+    "committee" => {
+      "code" => "ISO/TC 184/SC 4",
+      "name" => [{ "spelling" => "eng", "value" => "ISO/TC 184/SC 4" }],
+    },
     "title" => meta["title"],
   }
   meeting["city"] = meta["city"] if meta["city"]

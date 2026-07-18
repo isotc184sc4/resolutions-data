@@ -12,6 +12,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '1142'
+  urn: urn:iso:tc184:sc4:resolution:1142
   kind: resolution
   status: decided
   dates:
@@ -49,6 +50,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '1143'
+  urn: urn:iso:tc184:sc4:resolution:1143
   kind: resolution
   status: decided
   dates:
@@ -95,6 +97,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '1144'
+  urn: urn:iso:tc184:sc4:resolution:1144
   kind: resolution
   status: decided
   dates:
@@ -136,6 +139,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '1145'
+  urn: urn:iso:tc184:sc4:resolution:1145
   kind: resolution
   status: decided
   dates:
@@ -174,6 +178,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '1146'
+  urn: urn:iso:tc184:sc4:resolution:1146
   kind: resolution
   status: decided
   dates:
@@ -212,6 +217,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '1147'
+  urn: urn:iso:tc184:sc4:resolution:1147
   kind: resolution
   status: decided
   dates:
@@ -260,6 +266,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '1148'
+  urn: urn:iso:tc184:sc4:resolution:1148
   kind: resolution
   status: decided
   dates:
@@ -316,6 +323,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '1149'
+  urn: urn:iso:tc184:sc4:resolution:1149
   kind: resolution
   status: decided
   dates:
@@ -354,6 +362,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '1150'
+  urn: urn:iso:tc184:sc4:resolution:1150
   kind: resolution
   status: decided
   dates:
@@ -402,6 +411,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '1151'
+  urn: urn:iso:tc184:sc4:resolution:1151
   kind: resolution
   status: decided
   dates:
@@ -440,6 +450,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: 202410-acclaim-01
+  urn: urn:iso:tc184:sc4:resolution:202410-acclaim-01
   kind: resolution
   status: decided
   dates:
@@ -465,6 +476,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: 202410-acclaim-02
+  urn: urn:iso:tc184:sc4:resolution:202410-acclaim-02
   kind: resolution
   status: decided
   dates:
@@ -496,6 +508,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: 202410-acclaim-03
+  urn: urn:iso:tc184:sc4:resolution:202410-acclaim-03
   kind: resolution
   status: decided
   dates:
@@ -525,6 +538,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: 202410-acclaim-04
+  urn: urn:iso:tc184:sc4:resolution:202410-acclaim-04
   kind: resolution
   status: decided
   dates:
@@ -550,6 +564,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: 202410-acclaim-05
+  urn: urn:iso:tc184:sc4:resolution:202410-acclaim-05
   kind: resolution
   status: decided
   dates:
@@ -575,6 +590,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: 202410-acclaim-06
+  urn: urn:iso:tc184:sc4:resolution:202410-acclaim-06
   kind: resolution
   status: decided
   dates:
@@ -599,6 +615,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: 202410-acclaim-07
+  urn: urn:iso:tc184:sc4:resolution:202410-acclaim-07
   kind: resolution
   status: decided
   dates:
@@ -624,6 +641,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: 202410-acclaim-08
+  urn: urn:iso:tc184:sc4:resolution:202410-acclaim-08
   kind: resolution
   status: decided
   dates:
@@ -668,6 +686,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: 202410-acclaim-09
+  urn: urn:iso:tc184:sc4:resolution:202410-acclaim-09
   kind: resolution
   status: decided
   dates:
@@ -693,6 +712,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: 202410-acclaim-10
+  urn: urn:iso:tc184:sc4:resolution:202410-acclaim-10
   kind: resolution
   status: decided
   dates:
@@ -724,6 +744,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: 202410-acclaim-11
+  urn: urn:iso:tc184:sc4:resolution:202410-acclaim-11
   kind: resolution
   status: decided
   dates:

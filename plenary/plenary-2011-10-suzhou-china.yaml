@@ -12,6 +12,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '826'
+  urn: urn:iso:tc184:sc4:resolution:826
   kind: resolution
   status: decided
   dates:
@@ -77,6 +78,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '827'
+  urn: urn:iso:tc184:sc4:resolution:827
   kind: resolution
   status: decided
   dates:
@@ -101,6 +103,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '828'
+  urn: urn:iso:tc184:sc4:resolution:828
   kind: resolution
   status: decided
   dates:
@@ -137,6 +140,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '829'
+  urn: urn:iso:tc184:sc4:resolution:829
   kind: resolution
   status: decided
   dates:
