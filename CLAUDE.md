@@ -51,6 +51,16 @@ pnpm build     # type-check (vue-tsc) + Astro build → browser/dist
 pnpm preview
 ```
 
+Browser notes:
+- Astro is pinned to **^7** — `@edoxen/browser` is developed/tested against
+  Astro 7 (astro 5 builds silently produce hollow pages).
+- Decision detail pages are keyed by `Decision.urn` — every decision in
+  `plenary/` must carry a `urn:` (`scripts/add-decision-urns.rb` added them).
+- `data.meetings` is intentionally NOT wired into `edoxen.config.ts` yet:
+  published `@edoxen/edoxen` (≤ 0.2.1) still validates `Meeting.committee`
+  as a String and rejects the new inline Body. Wire it up once the
+  entity-scoping sync (edoxen-js PR #10) is merged and published.
+
 ## URN scheme
 
 ```
@@ -77,6 +87,13 @@ internal staging name, not the model version):
 - Each Decision has a `urn:` field.
 - Meeting YAMLs use `scheduled_date_range:`, `venues: [{ kind: physical, unlocode, country_code }]`,
   and a `decisions:` array of `{ prefix, number }` references.
+- `Meeting.committee` is an inline **Body** (TODO.updates/02, migrated by
+  `scripts/promote-committee-to-body.rb`):
+  `committee: { code: "ISO/TC 184/SC 4", name: [{ spelling: eng, value: "ISO/TC 184/SC 4" }] }`.
+  A Body can also be a `ref:`/`local_ref:` reference instead of inline data.
+- `_data/committee.yaml` is a MeetingSeries; its `name`, `description`,
+  `contact.name` (a structured Name under `value`), and `contact.affiliation`
+  are per-field Localized arrays.
 
 **`README.adoc` is stale** — its example shows the v1.0 shape (`resolutions:`,
 plain string messages, no `urn:`). Trust the real files in `plenary/`, not the
@@ -96,7 +113,10 @@ model version (the data is on canonical model v1.0 today). The convention
    (or `scripts/validate-against-schema.rb` against the latest model).
 
 Existing scripts: `migrate_to_v2.rb`, `migrate-to-v3.rb`, `generate-meetings.rb`
-(creates `meetings/*.yaml` from plenary data), `add_venue_metadata.rb`.
+(creates `meetings/*.yaml` from plenary data), `add_venue_metadata.rb`,
+`promote-committee-to-body.rb` (scalar `committee:` → inline Body on meetings),
+`add-decision-urns.rb` (adds `urn:` to every decision — required for browser
+detail pages).
 
 ## Canonical edoxen model — off-repo
 

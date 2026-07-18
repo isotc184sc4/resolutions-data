@@ -12,6 +12,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '747'
+  urn: urn:iso:tc184:sc4:resolution:747
   kind: resolution
   status: decided
   dates:
@@ -37,6 +38,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '748'
+  urn: urn:iso:tc184:sc4:resolution:748
   kind: resolution
   status: decided
   dates:
@@ -72,6 +74,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '749'
+  urn: urn:iso:tc184:sc4:resolution:749
   kind: resolution
   status: decided
   dates:
@@ -131,6 +134,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '750'
+  urn: urn:iso:tc184:sc4:resolution:750
   kind: resolution
   status: decided
   dates:
@@ -156,6 +160,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '751'
+  urn: urn:iso:tc184:sc4:resolution:751
   kind: resolution
   status: decided
   dates:
@@ -185,6 +190,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '752'
+  urn: urn:iso:tc184:sc4:resolution:752
   kind: resolution
   status: decided
   dates:
@@ -233,6 +239,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '753'
+  urn: urn:iso:tc184:sc4:resolution:753
   kind: resolution
   status: decided
   dates:
@@ -280,6 +287,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: 200806-acclaim-01
+  urn: urn:iso:tc184:sc4:resolution:200806-acclaim-01
   kind: resolution
   status: decided
   dates:
@@ -306,6 +314,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: 200806-acclaim-02
+  urn: urn:iso:tc184:sc4:resolution:200806-acclaim-02
   kind: resolution
   status: decided
   dates:
@@ -336,6 +345,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: 200806-acclaim-03
+  urn: urn:iso:tc184:sc4:resolution:200806-acclaim-03
   kind: resolution
   status: decided
   dates:
@@ -362,6 +372,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: 200806-acclaim-04
+  urn: urn:iso:tc184:sc4:resolution:200806-acclaim-04
   kind: resolution
   status: decided
   dates:

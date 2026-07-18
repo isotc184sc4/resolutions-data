@@ -12,6 +12,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '559'
+  urn: urn:iso:tc184:sc4:resolution:559
   kind: resolution
   status: decided
   dates:
@@ -45,6 +46,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '560'
+  urn: urn:iso:tc184:sc4:resolution:560
   kind: resolution
   status: decided
   dates:
@@ -69,6 +71,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '561'
+  urn: urn:iso:tc184:sc4:resolution:561
   kind: resolution
   status: decided
   dates:
@@ -96,6 +99,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '562'
+  urn: urn:iso:tc184:sc4:resolution:562
   kind: resolution
   status: decided
   dates:
@@ -130,6 +134,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '563'
+  urn: urn:iso:tc184:sc4:resolution:563
   kind: resolution
   status: decided
   dates:
@@ -154,6 +159,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '564'
+  urn: urn:iso:tc184:sc4:resolution:564
   kind: resolution
   status: decided
   dates:
@@ -210,6 +216,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '565'
+  urn: urn:iso:tc184:sc4:resolution:565
   kind: resolution
   status: decided
   dates:
@@ -262,6 +269,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '566'
+  urn: urn:iso:tc184:sc4:resolution:566
   kind: resolution
   status: decided
   dates:
@@ -299,6 +307,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '567'
+  urn: urn:iso:tc184:sc4:resolution:567
   kind: resolution
   status: decided
   dates:
@@ -333,6 +342,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '568'
+  urn: urn:iso:tc184:sc4:resolution:568
   kind: resolution
   status: decided
   dates:
@@ -377,6 +387,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '569'
+  urn: urn:iso:tc184:sc4:resolution:569
   kind: resolution
   status: decided
   dates:
@@ -416,6 +427,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '570'
+  urn: urn:iso:tc184:sc4:resolution:570
   kind: resolution
   status: decided
   dates:
@@ -447,6 +459,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '571'
+  urn: urn:iso:tc184:sc4:resolution:571
   kind: resolution
   status: decided
   dates:
@@ -491,6 +504,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '572'
+  urn: urn:iso:tc184:sc4:resolution:572
   kind: resolution
   status: decided
   dates:
@@ -515,6 +529,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: 200303-acclaim-01
+  urn: urn:iso:tc184:sc4:resolution:200303-acclaim-01
   kind: resolution
   status: decided
   dates:
@@ -542,6 +557,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: 200303-acclaim-02
+  urn: urn:iso:tc184:sc4:resolution:200303-acclaim-02
   kind: resolution
   status: decided
   dates:
@@ -566,6 +582,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: 200303-acclaim-03
+  urn: urn:iso:tc184:sc4:resolution:200303-acclaim-03
   kind: resolution
   status: decided
   dates:
@@ -590,6 +607,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: 200303-acclaim-04
+  urn: urn:iso:tc184:sc4:resolution:200303-acclaim-04
   kind: resolution
   status: decided
   dates:
@@ -614,6 +632,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: 200303-acclaim-05
+  urn: urn:iso:tc184:sc4:resolution:200303-acclaim-05
   kind: resolution
   status: decided
   dates:
@@ -651,6 +670,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: 200303-acclaim-06
+  urn: urn:iso:tc184:sc4:resolution:200303-acclaim-06
   kind: resolution
   status: decided
   dates:

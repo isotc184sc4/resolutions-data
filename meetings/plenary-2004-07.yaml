@@ -5,7 +5,11 @@ identifier:
 urn: urn:iso:tc184:sc4:meeting:plenary-2004-07
 type: plenary
 status: completed
-committee: ISO/TC 184/SC 4
+committee:
+  code: ISO/TC 184/SC 4
+  name:
+  - spelling: eng
+    value: ISO/TC 184/SC 4
 title:
 - spelling: eng
   value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Bath, United Kingdom,

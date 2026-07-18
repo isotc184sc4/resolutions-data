@@ -12,6 +12,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '500'
+  urn: urn:iso:tc184:sc4:resolution:500
   kind: resolution
   status: decided
   dates:
@@ -46,6 +47,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '501'
+  urn: urn:iso:tc184:sc4:resolution:501
   kind: resolution
   status: decided
   dates:
@@ -70,6 +72,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '502'
+  urn: urn:iso:tc184:sc4:resolution:502
   kind: resolution
   status: decided
   dates:
@@ -98,6 +101,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '503'
+  urn: urn:iso:tc184:sc4:resolution:503
   kind: resolution
   status: decided
   dates:
@@ -132,6 +136,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '504'
+  urn: urn:iso:tc184:sc4:resolution:504
   kind: resolution
   status: decided
   dates:
@@ -156,6 +161,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '505'
+  urn: urn:iso:tc184:sc4:resolution:505
   kind: resolution
   status: decided
   dates:
@@ -181,6 +187,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '506'
+  urn: urn:iso:tc184:sc4:resolution:506
   kind: resolution
   status: decided
   dates:
@@ -271,6 +278,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: '507'
+  urn: urn:iso:tc184:sc4:resolution:507
   kind: resolution
   status: decided
   dates:
@@ -298,6 +306,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: 200106-acclaim-01
+  urn: urn:iso:tc184:sc4:resolution:200106-acclaim-01
   kind: resolution
   status: decided
   dates:
@@ -328,6 +337,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: 200106-acclaim-02
+  urn: urn:iso:tc184:sc4:resolution:200106-acclaim-02
   kind: resolution
   status: decided
   dates:
@@ -352,6 +362,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 184/SC 4
     number: 200106-acclaim-03
+  urn: urn:iso:tc184:sc4:resolution:200106-acclaim-03
   kind: resolution
   status: decided
   dates:
