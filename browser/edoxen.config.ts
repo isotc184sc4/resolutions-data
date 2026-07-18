@@ -8,6 +8,10 @@ export default defineConfig({
   },
   data: {
     decisions: '../plenary',
+    meetings: '../meetings',
+    contacts: '../_data/contacts.yaml',
+    venues: '../_data/venues.yaml',
+    bodies: '../_data/bodies.yaml',
   },
   theme: {
     primary: '#1e3a8a',
