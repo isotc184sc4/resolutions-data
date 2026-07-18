@@ -1,0 +1,24 @@
+# BodyRegister — authoritative register of bodies that own
+# ISO/TC 184/SC 4 meetings and decisions (edoxen TODO.updates/02).
+#
+# Inert until ref-resolution lands in the published toolchain;
+# meetings keep their inline `committee:` Body meanwhile. The gem's
+# BodyRegister#find_by_urn keys members by `code` (or `ref`).
+---
+scope: isotc184sc4
+title:
+- spelling: eng
+  value: ISO/TC 184/SC 4 body register
+bodies:
+- code: ISO/TC 184/SC 4
+  name:
+  - spelling: eng
+    value: Industrial data
+  kind: subcommittee
+  parent_ref:
+    urn: urn:iso:tc184
+- code: ISO/TC 184
+  name:
+  - spelling: eng
+    value: Automation systems and integration
+  kind: committee

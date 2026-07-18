@@ -1,0 +1,23 @@
+# ContactRegister — authoritative register of ISO/TC 184/SC 4
+# contacts (edoxen TODO.updates/01).
+#
+# Inert until ref-resolution lands in the published toolchain;
+# _data/committee.yaml keeps its inline `contact:` meanwhile.
+# Members carry `urn: urn:edoxen:contact:{scope}:{local-id}`; the
+# register's scope MUST match the scope segment in member URNs.
+---
+scope: isotc184sc4
+title:
+- spelling: eng
+  value: ISO/TC 184/SC 4 contact register
+contacts:
+- urn: urn:edoxen:contact:isotc184sc4:kenneth-swope
+  kind: person
+  role: chair
+  name:
+  - spelling: eng
+    value:
+      formatted: Kenneth Swope
+  affiliation:
+  - spelling: eng
+    value: ANSI (United States)
