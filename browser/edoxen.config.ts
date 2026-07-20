@@ -13,6 +13,14 @@ export default defineConfig({
     venues: '../_data/venues.yaml',
     bodies: '../_data/bodies.yaml',
   },
+  // This committee adopts "resolutions", not "decisions" — rename the
+  // record everywhere (nav, titles, headings, stat strip, about) and
+  // move the routes to /resolutions/…
+  terminology: {
+    decision: 'resolution',
+    decisions: 'Resolutions',
+  },
+  decisionsSlug: 'resolutions',
   theme: {
     primary: '#1e3a8a',
     accent: '#3b82f6',
