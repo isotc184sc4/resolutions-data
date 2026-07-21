@@ -1,0 +1,38 @@
+# UN/LOCODE i18n — curated translations and display overrides.
+#
+# The generated _data/unlocodes.yaml takes English names verbatim from
+# the UN/LOCODE database (UNCEFACT 2025-1). Add an entry here only when:
+#   fr: the French name differs from English (Pékin, Séoul, Göteborg…), or
+#   en: the official name is not display-worthy (endonyms, compounds —
+#       Torino → Turin, Hakata/Fukuoka → Fukuoka, Saint-Denis/Paris →
+#       Saint-Denis); fr then defaults to the overridden en unless given.
+#
+# Codes absent from the official database (retired etc.) must have BOTH
+# en and fr here; the build script warns about them.
+CHDPZ: # Davos Platz (DB) — resort town, display name is Davos
+  en: "Davos"
+CNBJS:
+  fr: "Pékin"
+ESVLC:
+  fr: "Valence"
+FRSTD: # Saint-Denis/Paris (DB)
+  en: "Saint-Denis"
+ITFLR: # Firenze (DB, endonym)
+  en: "Florence"
+ITTRN: # Torino (DB, endonym)
+  en: "Turin"
+JPHKT: # Hakata/Fukuoka (DB compound)
+  en: "Fukuoka"
+KRSEL:
+  fr: "Séoul"
+PTFNC: # Funchal, Madeira (DB compound)
+  en: "Funchal"
+SEGOT: # Goteborg (DB, endonym)
+  en: "Gothenburg"
+  fr: "Göteborg"
+USBEX:
+  fr: "Bethléhem"
+USMSY:
+  fr: "La Nouvelle-Orléans"
+USPHL:
+  fr: "Philadelphie"

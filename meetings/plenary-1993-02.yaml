@@ -14,12 +14,12 @@ title:
 - spelling: eng
   value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Turin, Italy, February
     26, 1993 -- March 8, 1993
-city: ITTOA
+city: ITTRN
 country_code: IT
 venues:
 - kind: physical
   country_code: IT
-  unlocode: ITTOA
+  unlocode: ITTRN
 decisions:
 - prefix: ISO/TC 184/SC 4
   number: '161'

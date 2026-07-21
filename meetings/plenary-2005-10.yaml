@@ -14,12 +14,12 @@ title:
 - spelling: eng
   value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Hangzhou, China, October
     16, 2005 -- October 21, 2005
-city: CNHGH
+city: CNHAZ
 country_code: CN
 venues:
 - kind: physical
   country_code: CN
-  unlocode: CNHGH
+  unlocode: CNHAZ
 decisions:
 - prefix: ISO/TC 184/SC 4
   number: '654'

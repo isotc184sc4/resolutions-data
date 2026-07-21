@@ -14,12 +14,12 @@ title:
 - spelling: eng
   value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Lillehammer, Norway,
     June 7, 1999 -- June 17, 1999
-city: NOLLM
+city: NOLLH
 country_code: 'NO'
 venues:
 - kind: physical
   country_code: 'NO'
-  unlocode: NOLLM
+  unlocode: NOLLH
 decisions:
 - prefix: ISO/TC 184/SC 4
   number: '405'

@@ -14,12 +14,12 @@ title:
 - spelling: eng
   value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Hamamatsu, Japan,
     October 31, 2022 -- November 4, 2022
-city: JPHMZ
+city: JPHMM
 country_code: JP
 venues:
 - kind: physical
   country_code: JP
-  unlocode: JPHMZ
+  unlocode: JPHMM
 decisions:
 - prefix: ISO/TC 184/SC 4
   number: '1101'

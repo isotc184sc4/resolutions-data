@@ -14,12 +14,12 @@ title:
 - spelling: eng
   value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Louisville, KY, USA,
     March 2008
-city: USLOU
+city: USLUI
 country_code: US
 venues:
 - kind: physical
   country_code: US
-  unlocode: USLOU
+  unlocode: USLUI
 decisions:
 - prefix: ISO/TC 184/SC 4
   number: '736'

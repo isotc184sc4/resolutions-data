@@ -18,7 +18,7 @@ venues:
   country_code: AU
 - urn: urn:edoxen:venue:isotc184sc4:capks
   kind: physical
-  unlocode: CAPKS
+  unlocode: CAPAE
   country_code: CA
 - urn: urn:edoxen:venue:isotc184sc4:cator
   kind: physical
@@ -26,7 +26,7 @@ venues:
   country_code: CA
 - urn: urn:edoxen:venue:isotc184sc4:chdvs
   kind: physical
-  unlocode: CHDVS
+  unlocode: CHDPZ
   country_code: CH
 - urn: urn:edoxen:venue:isotc184sc4:cnbjs
   kind: physical
@@ -34,7 +34,7 @@ venues:
   country_code: CN
 - urn: urn:edoxen:venue:isotc184sc4:cnhgh
   kind: physical
-  unlocode: CNHGH
+  unlocode: CNHAZ
   country_code: CN
 - urn: urn:edoxen:venue:isotc184sc4:cnszh
   kind: physical
@@ -50,7 +50,7 @@ venues:
   country_code: DE
 - urn: urn:edoxen:venue:isotc184sc4:destg
   kind: physical
-  unlocode: DESTG
+  unlocode: DESTR
   country_code: DE
 - urn: urn:edoxen:venue:isotc184sc4:esvlc
   kind: physical
@@ -58,7 +58,7 @@ venues:
   country_code: ES
 - urn: urn:edoxen:venue:isotc184sc4:frblf
   kind: physical
-  unlocode: FRBLF
+  unlocode: FRBOR
   country_code: FR
 - urn: urn:edoxen:venue:isotc184sc4:frbod
   kind: physical
@@ -78,7 +78,7 @@ venues:
   country_code: FR
 - urn: urn:edoxen:venue:isotc184sc4:frsdn
   kind: physical
-  unlocode: FRSDN
+  unlocode: FRSTD
   country_code: FR
 - urn: urn:edoxen:venue:isotc184sc4:frtls
   kind: physical
@@ -86,7 +86,7 @@ venues:
   country_code: FR
 - urn: urn:edoxen:venue:isotc184sc4:gbbth
   kind: physical
-  unlocode: GBBTH
+  unlocode: GBBTM
   country_code: GB
 - urn: urn:edoxen:venue:isotc184sc4:itflr
   kind: physical
@@ -94,11 +94,11 @@ venues:
   country_code: IT
 - urn: urn:edoxen:venue:isotc184sc4:itnap
   kind: physical
-  unlocode: ITNAP
+  unlocode: ITVEQ
   country_code: IT
 - urn: urn:edoxen:venue:isotc184sc4:ittoa
   kind: physical
-  unlocode: ITTOA
+  unlocode: ITTRN
   country_code: IT
 - urn: urn:edoxen:venue:isotc184sc4:jphkt
   kind: physical
@@ -106,11 +106,11 @@ venues:
   country_code: JP
 - urn: urn:edoxen:venue:isotc184sc4:jphmz
   kind: physical
-  unlocode: JPHMZ
+  unlocode: JPHMM
   country_code: JP
 - urn: urn:edoxen:venue:isotc184sc4:jpibk
   kind: physical
-  unlocode: JPIBK
+  unlocode: JPIBS
   country_code: JP
 - urn: urn:edoxen:venue:isotc184sc4:jpngs
   kind: physical
@@ -134,7 +134,7 @@ venues:
   country_code: KR
 - urn: urn:edoxen:venue:isotc184sc4:krjeu
   kind: physical
-  unlocode: KRJEU
+  unlocode: KRCHA
   country_code: KR
 - urn: urn:edoxen:venue:isotc184sc4:krpus
   kind: physical
@@ -150,7 +150,7 @@ venues:
   country_code: NL
 - urn: urn:edoxen:venue:isotc184sc4:nollm
   kind: physical
-  unlocode: NOLLM
+  unlocode: NOLLH
   country_code: 'NO'
 - urn: urn:edoxen:venue:isotc184sc4:noosl
   kind: physical
@@ -178,7 +178,7 @@ venues:
   country_code: US
 - urn: urn:edoxen:venue:isotc184sc4:usbnp
   kind: physical
-  unlocode: USBNP
+  unlocode: USBEX
   country_code: US
 - urn: urn:edoxen:venue:isotc184sc4:uschi
   kind: physical
@@ -202,7 +202,7 @@ venues:
   country_code: US
 - urn: urn:edoxen:venue:isotc184sc4:usgvl
   kind: physical
-  unlocode: USGVL
+  unlocode: USGV9
   country_code: US
 - urn: urn:edoxen:venue:isotc184sc4:usheh
   kind: physical
@@ -210,7 +210,7 @@ venues:
   country_code: US
 - urn: urn:edoxen:venue:isotc184sc4:uslax
   kind: physical
-  unlocode: USLAX
+  unlocode: USMDX
   country_code: US
 - urn: urn:edoxen:venue:isotc184sc4:uslit
   kind: physical
@@ -218,7 +218,7 @@ venues:
   country_code: US
 - urn: urn:edoxen:venue:isotc184sc4:uslou
   kind: physical
-  unlocode: USLOU
+  unlocode: USLUI
   country_code: US
 - urn: urn:edoxen:venue:isotc184sc4:usmia
   kind: physical
@@ -246,7 +246,7 @@ venues:
   country_code: US
 - urn: urn:edoxen:venue:isotc184sc4:ussar
   kind: physical
-  unlocode: USSAR
+  unlocode: USSGA
   country_code: US
 - urn: urn:edoxen:venue:isotc184sc4:ussea
   kind: physical
@@ -258,7 +258,7 @@ venues:
   country_code: US
 - urn: urn:edoxen:venue:isotc184sc4:zasun
   kind: physical
-  unlocode: ZASUN
+  unlocode: ZANTY
   country_code: ZA
 - urn: urn:edoxen:venue:isotc184sc4:virtual
   kind: virtual

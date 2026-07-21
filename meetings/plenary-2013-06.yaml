@@ -14,12 +14,12 @@ title:
 - spelling: eng
   value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Saint-Denis, France,
     June 3, 2013 -- June 8, 2013
-city: FRSDN
+city: FRSTD
 country_code: FR
 venues:
 - kind: physical
   country_code: FR
-  unlocode: FRSDN
+  unlocode: FRSTD
 decisions:
 - prefix: ISO/TC 184/SC 4
   number: '852'

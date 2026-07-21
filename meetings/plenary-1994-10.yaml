@@ -14,12 +14,12 @@ title:
 - spelling: eng
   value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Greenville, United
     States, October 21, 1994 -- October 31, 1994
-city: USGVL
+city: USGV9
 country_code: US
 venues:
 - kind: physical
   country_code: US
-  unlocode: USGVL
+  unlocode: USGV9
 decisions:
 - prefix: ISO/TC 184/SC 4
   number: '211'

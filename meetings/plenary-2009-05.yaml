@@ -14,12 +14,12 @@ title:
 - spelling: eng
   value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Parksville, Canada,
     May 17, 2009 -- May 22, 2009
-city: CAPKS
+city: CAPAE
 country_code: CA
 venues:
 - kind: physical
   country_code: CA
-  unlocode: CAPKS
+  unlocode: CAPAE
 decisions:
 - prefix: ISO/TC 184/SC 4
   number: '768'
