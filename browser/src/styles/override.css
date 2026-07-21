@@ -88,3 +88,77 @@ body::before {
     display: none;
   }
 }
+
+/* ── Code blocks: TC 184/SC 4 brand treatment ──────────────────── */
+
+.edoxen-code-block {
+  background: rgb(15 23 42 / 0.03);
+  border-color: var(--edoxen-color-border);
+  font-size: 0.8rem;
+}
+
+:root[data-theme='dark'] .edoxen-code-block {
+  background: rgb(255 255 255 / 0.03);
+}
+
+.edoxen-code-key {
+  color: #0061ad;
+}
+
+:root[data-theme='dark'] .edoxen-code-key {
+  color: #38bdf8;
+}
+
+.edoxen-code-string {
+  color: #15803d;
+}
+
+:root[data-theme='dark'] .edoxen-code-string {
+  color: #4ade80;
+}
+
+/* ── Action chips: TC 184/SC 4 pill style ───────────────────────── */
+
+.edoxen-action-chip {
+  background: rgb(0 97 173 / 0.08);
+  color: #0061ad;
+  border: 1px solid rgb(0 97 173 / 0.15);
+}
+
+:root[data-theme='dark'] .edoxen-action-chip {
+  background: rgb(56 189 248 / 0.08);
+  color: #38bdf8;
+  border-color: rgb(56 189 248 / 0.15);
+}
+
+/* ── Stat strip: TC 184/SC 4 editorial emphasis ─────────────────── */
+
+.edoxen-stat-strip__value {
+  font-family: var(--edoxen-font-display);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+/* ── Home hero: mesh background (TC 184/SC 4 signature) ─────────── */
+
+.edoxen-home-hero {
+  position: relative;
+  overflow: hidden;
+}
+
+.edoxen-home-hero::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  background:
+    radial-gradient(circle at 15% 50%, rgb(0 97 173 / 0.06), transparent 25%),
+    radial-gradient(circle at 85% 30%, rgb(227 0 15 / 0.04), transparent 25%);
+  pointer-events: none;
+}
+
+:root[data-theme='dark'] .edoxen-home-hero::before {
+  background:
+    radial-gradient(circle at 15% 50%, rgb(0 97 173 / 0.12), transparent 25%),
+    radial-gradient(circle at 85% 30%, rgb(227 0 15 / 0.08), transparent 25%);
+}
