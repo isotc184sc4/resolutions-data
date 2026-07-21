@@ -12,6 +12,8 @@ export default defineConfig({
     contacts: '../_data/contacts.yaml',
     venues: '../_data/venues.yaml',
     bodies: '../_data/bodies.yaml',
+    // Committee MeetingSeries — feeds the About page's committee facts.
+    committee: '../_data/committee.yaml',
   },
   // This committee adopts "resolutions", not "decisions" — rename the
   // record everywhere (nav, titles, headings, stat strip, about) and
@@ -22,9 +24,28 @@ export default defineConfig({
   },
   decisionsSlug: 'resolutions',
   theme: {
-    primary: '#1e3a8a',
-    accent: '#3b82f6',
+    // Original site palette (slate ramp + ISO blue accent).
+    primary: '#0f172a',
+    accent: '#0061ad',
     surface: '#ffffff',
+    background: '#f8fafc',
+    text: '#0f172a',
+    muted: '#64748b',
+    border: '#e2e8f0',
+    dark: {
+      primary: '#f8fafc',
+      accent: '#38bdf8',
+      surface: '#1e293b',
+      background: '#0f172a',
+      text: '#f1f5f9',
+      muted: '#94a3b8',
+      border: '#334155',
+    },
+    logos: {
+      primary: '/assets/iso-red.svg',
+      footer: '/assets/iso-red.svg',
+      favicon: '/favicon.svg',
+    },
   },
   features: {
     search: true,
