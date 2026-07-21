@@ -1,7 +1,90 @@
-@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400..700;1,9..40,400..700&family=Fraunces:ital,opsz,wght@0,9..144,400..700;1,9..144,400..700&display=swap');
+/* ─────────────────────────────────────────────────────────────────
+   ISO/TC 184/SC 4 — brand stylesheet (CLIENT override).
+
+   Restores the original site identity on top of the CORE theme:
+   slate palette + ISO blue accent (#0061ad), ISO red brand bar
+   (#e3000f), dotted-grid canvas, Fraunces/DM Sans/JetBrains Mono,
+   sticky backdrop-blur header with the ISO logo.
+
+   Mechanism: the CORE loads this file after its base.css (see
+   theme.customCss / src/styles/override.css convention), so every
+   rule here wins the cascade. Colors come from edoxen.config.ts
+   theme tokens; this file carries what tokens can't express.
+   ───────────────────────────────────────────────────────────────── */
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400..700;1,9..40,400..700&family=Fraunces:ital,opsz,wght@0,9..144,400..700;1,9..144,400..700&family=JetBrains+Mono:wght@400;600&display=swap');
 
 :root {
   --edoxen-font-sans: 'DM Sans', system-ui, sans-serif;
   --edoxen-font-serif: 'Fraunces', Georgia, serif;
+  --edoxen-font-display: 'Fraunces', Georgia, serif;
   --edoxen-font-mono: 'JetBrains Mono', ui-monospace, monospace;
+
+  --tc184sc4-iso-red: #e3000f;
+  --tc184sc4-slate-200: #e2e8f0;
+}
+
+/* ── Dotted-grid canvas (original signature background) ─────────── */
+
+body {
+  background-image: radial-gradient(var(--tc184sc4-slate-200) 1px, transparent 1px);
+  background-size: 24px 24px;
+}
+
+:root[data-theme='dark'] body {
+  background-image: radial-gradient(rgb(255 255 255 / 0.05) 1px, transparent 1px);
+  background-size: 24px 24px;
+}
+
+/* ── ISO red brand bar (fixed top strip) ─────────────────────────── */
+
+body::before {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: var(--tc184sc4-iso-red);
+  z-index: 100;
+  pointer-events: none;
+}
+
+.edoxen-header {
+  padding-top: 3px; /* clear the brand bar */
+}
+
+/* ── Sticky backdrop-blur header with brand lockup ───────────────── */
+
+.edoxen-header {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  background: rgb(255 255 255 / 0.82);
+  backdrop-filter: blur(24px);
+  -webkit-backdrop-filter: blur(24px);
+  border-bottom: 1px solid rgb(229 231 235 / 0.6);
+}
+
+:root[data-theme='dark'] .edoxen-header {
+  background: rgb(15 23 42 / 0.82);
+  border-bottom-color: rgb(255 255 255 / 0.06);
+}
+
+.edoxen-header__brand {
+  font-weight: 700;
+  letter-spacing: -0.025em;
+}
+
+.edoxen-header__brand img {
+  height: 2.25rem;
+  width: auto;
+}
+
+/* ── Print: drop the chrome extras ───────────────────────────────── */
+
+@media print {
+  body::before {
+    display: none;
+  }
 }
