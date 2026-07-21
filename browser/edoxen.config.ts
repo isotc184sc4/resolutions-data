@@ -3,6 +3,9 @@ import { defineConfig } from '@edoxen/browser/config'
 export default defineConfig({
   site: {
     title: 'ISO/TC 184/SC 4 Resolutions',
+    // Brand lockup second line (the committee's working field, as on
+    // the original site header).
+    subtitle: 'Industrial data',
     description: 'Resolutions of ISO/TC 184/SC 4 — Industrial data.',
     url: 'https://isotc184sc4.github.io',
     // Deployed to GitHub Pages under the repo subpath. All routes,
@@ -18,6 +21,9 @@ export default defineConfig({
     bodies: '../_data/bodies.yaml',
     // Committee MeetingSeries — feeds the About page's committee facts.
     committee: '../_data/committee.yaml',
+    // UN/LOCODE → localized city names (regenerate EN skeleton with
+    // scripts/build-unlocodes.mjs; FR names are curated in-file).
+    unlocodes: '../_data/unlocodes.yaml',
   },
   // This committee adopts "resolutions", not "decisions" — rename the
   // record everywhere (nav, titles, headings, stat strip, about) and
