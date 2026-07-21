@@ -4,7 +4,11 @@ export default defineConfig({
   site: {
     title: 'ISO/TC 184/SC 4 Resolutions',
     description: 'Resolutions of ISO/TC 184/SC 4 — Industrial data.',
-    url: 'https://resolutions.isotc184sc4.org',
+    url: 'https://isotc184sc4.github.io',
+    // Deployed to GitHub Pages under the repo subpath. All routes,
+    // assets, and data endpoints are prefixed from this — without it
+    // every link and the CSS asset 404 at the root.
+    basePath: '/resolutions-data/',
   },
   data: {
     decisions: '../plenary',
