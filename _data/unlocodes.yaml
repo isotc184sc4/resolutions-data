@@ -1,0 +1,193 @@
+# UN/LOCODE → localized place names for meeting `city` codes.
+# en/fr: curated display names per meeting city. New codes are seeded
+# from UNCEFACT 2025-1 (unlocodes gem) by scripts/build-unlocodes.mjs;
+# curated entries are never overwritten — delete one to re-resolve it.
+AUMEL:
+  en: "Melbourne"
+  fr: "Melbourne"
+AUSYD:
+  en: "Sydney"
+  fr: "Sydney"
+CAPKS:
+  en: "Parksville"
+  fr: "Parksville"
+CATOR:
+  en: "Toronto"
+  fr: "Toronto"
+CHDVS:
+  en: "Davos"
+  fr: "Davos"
+CNBJS:
+  en: "Beijing"
+  fr: "Pékin"
+CNHGH:
+  en: "Hangzhou"
+  fr: "Hangzhou"
+CNSZH:
+  en: "Suzhou"
+  fr: "Suzhou"
+DEBAI:
+  en: "Bad Aibling"
+  fr: "Bad Aibling"
+DEBER:
+  en: "Berlin"
+  fr: "Berlin"
+DESTG:
+  en: "Stuttgart"
+  fr: "Stuttgart"
+ESVLC:
+  en: "Valencia"
+  fr: "Valence"
+FRBLF:
+  en: "Belfort"
+  fr: "Belfort"
+FRBOD:
+  en: "Bordeaux"
+  fr: "Bordeaux"
+FRGNB:
+  en: "Grenoble"
+  fr: "Grenoble"
+FRPAR:
+  en: "Paris"
+  fr: "Paris"
+FRPIS:
+  en: "Poitiers"
+  fr: "Poitiers"
+FRSDN:
+  en: "Saint-Denis"
+  fr: "Saint-Denis"
+FRTLS:
+  en: "Toulouse"
+  fr: "Toulouse"
+GBBTH:
+  en: "Bath"
+  fr: "Bath"
+ITFLR:
+  en: "Florence"
+  fr: "Florence"
+ITNAP:
+  en: "Vico Equense (Naples)"
+  fr: "Vico Equense (Naples)"
+ITTOA:
+  en: "Turin"
+  fr: "Turin"
+JPHKT:
+  en: "Fukuoka"
+  fr: "Fukuoka"
+JPHMZ:
+  en: "Hamamatsu"
+  fr: "Hamamatsu"
+JPIBK:
+  en: "Ibusuki"
+  fr: "Ibusuki"
+JPNGS:
+  en: "Nagasaki"
+  fr: "Nagasaki"
+JPSPK:
+  en: "Sapporo"
+  fr: "Sapporo"
+JPTYO:
+  en: "Tokyo"
+  fr: "Tokyo"
+JPUKB:
+  en: "Kobe"
+  fr: "Kobe"
+KRGJU:
+  en: "Gyeongju"
+  fr: "Gyeongju"
+KRJEU:
+  en: "Jeju"
+  fr: "Jeju"
+KRPUS:
+  en: "Busan"
+  fr: "Busan"
+KRSEL:
+  en: "Seoul"
+  fr: "Séoul"
+NLRTM:
+  en: "Rotterdam"
+  fr: "Rotterdam"
+NOLLM:
+  en: "Lillehammer"
+  fr: "Lillehammer"
+NOOSL:
+  en: "Oslo"
+  fr: "Oslo"
+NOSVG:
+  en: "Stavanger"
+  fr: "Stavanger"
+PTFNC:
+  en: "Funchal"
+  fr: "Funchal"
+SEGOT:
+  en: "Gothenburg"
+  fr: "Göteborg"
+SESTO:
+  en: "Stockholm"
+  fr: "Stockholm"
+USBAL:
+  en: "Baltimore"
+  fr: "Baltimore"
+USBNP:
+  en: "Bethlehem"
+  fr: "Bethléhem"
+USCHI:
+  en: "Chicago"
+  fr: "Chicago"
+USCHS:
+  en: "Charleston"
+  fr: "Charleston"
+USDAL:
+  en: "Dallas"
+  fr: "Dallas"
+USFLL:
+  en: "Fort Lauderdale"
+  fr: "Fort Lauderdale"
+USGAI:
+  en: "Gaithersburg"
+  fr: "Gaithersburg"
+USGVL:
+  en: "Greenville"
+  fr: "Greenville"
+USHEH:
+  en: "Hershey"
+  fr: "Hershey"
+USLAX:
+  en: "Marina del Rey"
+  fr: "Marina del Rey"
+USLIT:
+  en: "Little Rock"
+  fr: "Little Rock"
+USLOU:
+  en: "Louisville"
+  fr: "Louisville"
+USMIA:
+  en: "Miami"
+  fr: "Miami"
+USMSY:
+  en: "New Orleans"
+  fr: "La Nouvelle-Orléans"
+USMYR:
+  en: "Myrtle Beach"
+  fr: "Myrtle Beach"
+USPDX:
+  en: "Portland"
+  fr: "Portland"
+USPHL:
+  en: "Philadelphia"
+  fr: "Philadelphie"
+USSAN:
+  en: "San Diego"
+  fr: "San Diego"
+USSAR:
+  en: "Saratoga Springs"
+  fr: "Saratoga Springs"
+USSEA:
+  en: "Seattle"
+  fr: "Seattle"
+USSFO:
+  en: "San Francisco"
+  fr: "San Francisco"
+ZASUN:
+  en: "Sun City"
+  fr: "Sun City"

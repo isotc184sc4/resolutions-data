@@ -51,7 +51,9 @@ body::before {
 }
 
 .edoxen-header {
-  padding-top: 3px; /* clear the brand bar */
+  /* Clear the fixed 3px brand bar WITHOUT collapsing the base vertical
+     padding — the brand text must stay centered in the bar. */
+  padding-top: calc(1.125rem + 3px);
 }
 
 /* ── Sticky backdrop-blur header with brand lockup ───────────────── */
@@ -79,6 +81,12 @@ body::before {
 .edoxen-header__brand img {
   height: 2.25rem;
   width: auto;
+}
+
+/* ── Footer: original 2px ISO-red rule above the bottom bar ──────── */
+
+.edoxen-footer__bottom {
+  border-top: 2px solid var(--tc184sc4-iso-red);
 }
 
 /* ── Print: drop the chrome extras ───────────────────────────────── */
