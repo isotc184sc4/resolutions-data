@@ -14,12 +14,12 @@ title:
 - spelling: eng
   value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Bath, United Kingdom,
     July 4, 2004 -- July 9, 2004
-city: GBBTH
+city: GBBTM
 country_code: GB
 venues:
 - kind: physical
   country_code: GB
-  unlocode: GBBTH
+  unlocode: GBBTM
 decisions:
 - prefix: ISO/TC 184/SC 4
   number: '608'

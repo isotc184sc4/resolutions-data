@@ -14,12 +14,12 @@ title:
 - spelling: eng
   value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Belfort, France, November
     2, 2014 -- November 7, 2014
-city: FRBLF
+city: FRBOR
 country_code: FR
 venues:
 - kind: physical
   country_code: FR
-  unlocode: FRBLF
+  unlocode: FRBOR
 decisions:
 - prefix: ISO/TC 184/SC 4
   number: '882'

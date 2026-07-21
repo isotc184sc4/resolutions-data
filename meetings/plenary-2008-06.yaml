@@ -14,12 +14,12 @@ title:
 - spelling: eng
   value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Sun City, South Africa,
     June 8, 2008 -- June 13, 2008
-city: ZASUN
+city: ZANTY
 country_code: ZA
 venues:
 - kind: physical
   country_code: ZA
-  unlocode: ZASUN
+  unlocode: ZANTY
 decisions:
 - prefix: ISO/TC 184/SC 4
   number: '747'

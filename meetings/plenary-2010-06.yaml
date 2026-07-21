@@ -14,12 +14,12 @@ title:
 - spelling: eng
   value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Bethlehem, United
     States, June 6, 2010 -- June 11, 2010
-city: USBNP
+city: USBEX
 country_code: US
 venues:
 - kind: physical
   country_code: US
-  unlocode: USBNP
+  unlocode: USBEX
 decisions:
 - prefix: ISO/TC 184/SC 4
   number: '801'

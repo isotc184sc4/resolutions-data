@@ -14,12 +14,12 @@ title:
 - spelling: eng
   value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Ibusuki, Japan, July
     1, 2007 -- July 6, 2007
-city: JPIBK
+city: JPIBS
 country_code: JP
 venues:
 - kind: physical
   country_code: JP
-  unlocode: JPIBK
+  unlocode: JPIBS
 decisions:
 - prefix: ISO/TC 184/SC 4
   number: '717'

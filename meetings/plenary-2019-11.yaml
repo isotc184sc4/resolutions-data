@@ -14,12 +14,12 @@ title:
 - spelling: eng
   value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Marina del Rey, United
     States, November 3, 2019 -- November 8, 2019
-city: USLAX
+city: USMDX
 country_code: US
 venues:
 - kind: physical
   country_code: US
-  unlocode: USLAX
+  unlocode: USMDX
 decisions:
 - prefix: ISO/TC 184/SC 4
   number: '1018'

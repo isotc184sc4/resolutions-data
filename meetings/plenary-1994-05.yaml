@@ -14,12 +14,12 @@ title:
 - spelling: eng
   value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Davos, Switzerland,
     May 12, 1994 -- May 22, 1994
-city: CHDVS
+city: CHDPZ
 country_code: CH
 venues:
 - kind: physical
   country_code: CH
-  unlocode: CHDVS
+  unlocode: CHDPZ
 decisions:
 - prefix: ISO/TC 184/SC 4
   number: '195'

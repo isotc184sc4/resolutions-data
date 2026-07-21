@@ -14,12 +14,12 @@ title:
 - spelling: eng
   value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Vico Equense, Italy,
     October 2010
-city: ITNAP
+city: ITVEQ
 country_code: IT
 venues:
 - kind: physical
   country_code: IT
-  unlocode: ITNAP
+  unlocode: ITVEQ
 decisions:
 - prefix: ISO/TC 184/SC 4
   number: '813'

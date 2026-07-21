@@ -14,12 +14,12 @@ title:
 - spelling: eng
   value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Saratoga Springs,
     United States, October 22, 2023 -- October 27, 2023
-city: USSAR
+city: USSGA
 country_code: US
 venues:
 - kind: physical
   country_code: US
-  unlocode: USSAR
+  unlocode: USSGA
 decisions:
 - prefix: ISO/TC 184/SC 4
   number: '1126'
