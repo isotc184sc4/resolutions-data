@@ -6,3 +6,4 @@ browser/dist/
 !browser/public/**
 
 Gemfile.lock
+browser/.astro/
