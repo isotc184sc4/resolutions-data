@@ -12,8 +12,7 @@ committee:
     value: ISO/TC 184/SC 4
 title:
 - spelling: eng
-  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Berlin, Germany, October
-    4, 1993 -- October 14, 1993
+  value: Berlin, Germany, October 4, 1993 -- October 14, 1993
 city: DEBER
 country_code: DE
 venues:
@@ -77,4 +76,4 @@ decisions:
   number: 199310-acclaim-02
 scheduled_date_range:
   start: '1993-10-04'
-  end: '1993-10-04'
+  end: '1993-10-14'

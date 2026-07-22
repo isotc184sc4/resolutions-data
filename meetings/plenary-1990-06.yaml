@@ -12,8 +12,7 @@ committee:
     value: ISO/TC 184/SC 4
 title:
 - spelling: eng
-  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Gothenburg, Sweden,
-    June 25, 1990 -- July 5, 1990
+  value: Gothenburg, Sweden, June 25, 1990 -- July 5, 1990
 city: SEGOT
 country_code: SE
 venues:
@@ -57,4 +56,4 @@ decisions:
   number: 199006-acclaim-02
 scheduled_date_range:
   start: '1990-06-25'
-  end: '1990-06-25'
+  end: '1990-07-05'

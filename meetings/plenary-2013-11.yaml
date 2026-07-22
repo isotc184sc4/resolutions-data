@@ -12,8 +12,7 @@ committee:
     value: ISO/TC 184/SC 4
 title:
 - spelling: eng
-  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Gyeongju, Korea, November
-    3, 2013 -- November 8, 2013
+  value: Gyeongju, Korea, November 3, 2013 -- November 8, 2013
 city: KRGJU
 country_code: KR
 venues:
@@ -47,4 +46,4 @@ decisions:
   number: '865'
 scheduled_date_range:
   start: '2013-11-03'
-  end: '2013-11-03'
+  end: '2013-11-08'

@@ -12,8 +12,7 @@ committee:
     value: ISO/TC 184/SC 4
 title:
 - spelling: eng
-  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Bordeaux, France,
-    June 23, 2000 -- June 30, 2000
+  value: Bordeaux, France, June 23, 2000 -- June 30, 2000
 city: FRBOD
 country_code: FR
 venues:
@@ -77,4 +76,4 @@ decisions:
   number: 200006-acclaim-09
 scheduled_date_range:
   start: '2000-06-23'
-  end: '2000-06-23'
+  end: '2000-06-30'

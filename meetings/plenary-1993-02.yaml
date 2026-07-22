@@ -12,8 +12,7 @@ committee:
     value: ISO/TC 184/SC 4
 title:
 - spelling: eng
-  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Turin, Italy, February
-    26, 1993 -- March 8, 1993
+  value: Turin, Italy, February 26, 1993 -- March 8, 1993
 city: ITTRN
 country_code: IT
 venues:
@@ -37,4 +36,4 @@ decisions:
   number: '167'
 scheduled_date_range:
   start: '1993-02-26'
-  end: '1993-02-26'
+  end: '1993-03-08'

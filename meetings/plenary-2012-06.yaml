@@ -12,8 +12,7 @@ committee:
     value: ISO/TC 184/SC 4
 title:
 - spelling: eng
-  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Stockholm, Sweden,
-    June 10, 2012 -- June 15, 2012
+  value: Stockholm, Sweden, June 10, 2012 -- June 15, 2012
 city: SESTO
 country_code: SE
 venues:
@@ -61,4 +60,4 @@ decisions:
   number: 201206-acclaim-09
 scheduled_date_range:
   start: '2012-06-10'
-  end: '2012-06-10'
+  end: '2012-06-15'

@@ -12,8 +12,7 @@ committee:
     value: ISO/TC 184/SC 4
 title:
 - spelling: eng
-  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Oslo, Norway, February
-    7, 1992 -- February 17, 1992
+  value: Oslo, Norway, February 7, 1992 -- February 17, 1992
 city: NOOSL
 country_code: 'NO'
 venues:
@@ -69,4 +68,4 @@ decisions:
   number: '123'
 scheduled_date_range:
   start: '1992-02-07'
-  end: '1992-02-07'
+  end: '1992-02-17'

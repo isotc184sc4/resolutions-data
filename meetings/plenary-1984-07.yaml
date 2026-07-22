@@ -12,8 +12,7 @@ committee:
     value: ISO/TC 184/SC 4
 title:
 - spelling: eng
-  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Washington, D.C.,
-    United States, July 11, 1984 -- July 21, 1984
+  value: Washington, D.C., United States, July 11, 1984 -- July 21, 1984
 city: USGAI
 country_code: US
 venues:
@@ -35,4 +34,4 @@ decisions:
   number: 198407-acclaim-01
 scheduled_date_range:
   start: '1984-07-11'
-  end: '1984-07-11'
+  end: '1984-07-21'

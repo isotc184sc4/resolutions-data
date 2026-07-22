@@ -12,8 +12,7 @@ committee:
     value: ISO/TC 184/SC 4
 title:
 - spelling: eng
-  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Saint-Denis, France,
-    June 3, 2013 -- June 8, 2013
+  value: Saint-Denis, France, June 3, 2013 -- June 8, 2013
 city: FRSTD
 country_code: FR
 venues:
@@ -41,4 +40,4 @@ decisions:
   number: 201306-acclaim-03
 scheduled_date_range:
   start: '2013-06-03'
-  end: '2013-06-03'
+  end: '2013-06-08'

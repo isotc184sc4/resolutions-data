@@ -12,8 +12,7 @@ committee:
     value: ISO/TC 184/SC 4
 title:
 - spelling: eng
-  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, San Francisco, United
-    States, June 10, 2001 -- June 15, 2001
+  value: San Francisco, United States, June 10, 2001 -- June 15, 2001
 city: USSFO
 country_code: US
 venues:
@@ -45,4 +44,4 @@ decisions:
   number: 200106-acclaim-03
 scheduled_date_range:
   start: '2001-06-10'
-  end: '2001-06-10'
+  end: '2001-06-15'

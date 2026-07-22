@@ -12,8 +12,7 @@ committee:
     value: ISO/TC 184/SC 4
 title:
 - spelling: eng
-  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Saint-Denis, France,
-    June 11, 2023 -- June 17, 2023
+  value: Saint-Denis, France, June 11, 2023 -- June 17, 2023
 city: FRPAR
 country_code: FR
 venues:
@@ -61,4 +60,4 @@ decisions:
   number: 202306-acclaim-07
 scheduled_date_range:
   start: '2023-06-11'
-  end: '2023-06-11'
+  end: '2023-06-17'

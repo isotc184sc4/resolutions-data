@@ -12,8 +12,7 @@ committee:
     value: ISO/TC 184/SC 4
 title:
 - spelling: eng
-  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, New Orleans, United
-    States, November 8, 1999 -- November 18, 1999
+  value: New Orleans, United States, November 8, 1999 -- November 18, 1999
 city: USMSY
 country_code: US
 venues:
@@ -61,4 +60,4 @@ decisions:
   number: 199911-acclaim-02
 scheduled_date_range:
   start: '1999-11-08'
-  end: '1999-11-08'
+  end: '1999-11-18'

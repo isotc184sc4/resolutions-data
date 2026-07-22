@@ -12,8 +12,7 @@ committee:
     value: ISO/TC 184/SC 4
 title:
 - spelling: eng
-  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Greenville, United
-    States, October 21, 1994 -- October 31, 1994
+  value: Greenville, United States, October 21, 1994 -- October 31, 1994
 city: USGV9
 country_code: US
 venues:
@@ -63,4 +62,4 @@ decisions:
   number: 199410-acclaim-01
 scheduled_date_range:
   start: '1994-10-21'
-  end: '1994-10-21'
+  end: '1994-10-31'

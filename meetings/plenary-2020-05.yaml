@@ -12,8 +12,7 @@ committee:
     value: ISO/TC 184/SC 4
 title:
 - spelling: eng
-  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Virtual, May 3, 2020
-    -- May 8, 2020
+  value: Virtual, May 3, 2020 -- May 8, 2020
 venues:
 - kind: virtual
 decisions:
@@ -61,4 +60,4 @@ decisions:
   number: 202005-acclaim-06
 scheduled_date_range:
   start: '2020-05-03'
-  end: '2020-05-03'
+  end: '2020-05-08'

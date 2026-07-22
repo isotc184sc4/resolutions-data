@@ -12,8 +12,7 @@ committee:
     value: ISO/TC 184/SC 4
 title:
 - spelling: eng
-  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Vico Equense, Italy,
-    April 19, 2015 -- April 24, 2015
+  value: Vico Equense, Italy, April 19, 2015 -- April 24, 2015
 city: ITVEQ
 country_code: IT
 venues:
@@ -57,4 +56,4 @@ decisions:
   number: 201504-acclaim-02
 scheduled_date_range:
   start: '2015-04-19'
-  end: '2015-04-19'
+  end: '2015-04-24'

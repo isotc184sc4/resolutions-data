@@ -12,8 +12,7 @@ committee:
     value: ISO/TC 184/SC 4
 title:
 - spelling: eng
-  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Miami, United States,
-    November 11, 2012 -- November 16, 2012
+  value: Miami, United States, November 11, 2012 -- November 16, 2012
 city: USMIA
 country_code: US
 venues:
@@ -53,4 +52,4 @@ decisions:
   number: 201211-acclaim-03
 scheduled_date_range:
   start: '2012-11-11'
-  end: '2012-11-11'
+  end: '2012-11-16'

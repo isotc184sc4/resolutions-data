@@ -12,8 +12,7 @@ committee:
     value: ISO/TC 184/SC 4
 title:
 - spelling: eng
-  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Kobe, Japan, June
-    9, 1996 -- June 19, 1996
+  value: Kobe, Japan, June 9, 1996 -- June 19, 1996
 city: JPUKB
 country_code: JP
 venues:
@@ -91,4 +90,4 @@ decisions:
   number: '289'
 scheduled_date_range:
   start: '1996-06-09'
-  end: '1996-06-09'
+  end: '1996-06-19'

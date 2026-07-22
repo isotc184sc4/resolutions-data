@@ -12,8 +12,7 @@ committee:
     value: ISO/TC 184/SC 4
 title:
 - spelling: eng
-  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Seoul, Korea, May
-    12, 2024 -- May 17, 2024
+  value: Seoul, Korea, May 12, 2024 -- May 17, 2024
 city: KRSEL
 country_code: KR
 venues:
@@ -47,4 +46,4 @@ decisions:
   number: 202405-acclaim-06
 scheduled_date_range:
   start: '2024-05-12'
-  end: '2024-05-12'
+  end: '2024-05-17'

@@ -12,8 +12,7 @@ committee:
     value: ISO/TC 184/SC 4
 title:
 - spelling: eng
-  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Virtual, November
-    2, 2020 -- November 6, 2020
+  value: Virtual, November 2, 2020 -- November 6, 2020
 venues:
 - kind: virtual
 decisions:
@@ -41,4 +40,4 @@ decisions:
   number: 202011-acclaim-02
 scheduled_date_range:
   start: '2020-11-02'
-  end: '2020-11-02'
+  end: '2020-11-06'

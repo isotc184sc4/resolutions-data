@@ -12,8 +12,7 @@ committee:
     value: ISO/TC 184/SC 4
 title:
 - spelling: eng
-  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Vico Equense, Italy,
-    March 5, 2006 -- March 10, 2006
+  value: Vico Equense, Italy, March 5, 2006 -- March 10, 2006
 city: ITVEQ
 country_code: IT
 venues:
@@ -63,4 +62,4 @@ decisions:
   number: 200603-acclaim-04
 scheduled_date_range:
   start: '2006-03-05'
-  end: '2006-03-05'
+  end: '2006-03-10'

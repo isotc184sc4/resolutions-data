@@ -12,8 +12,7 @@ committee:
     value: ISO/TC 184/SC 4
 title:
 - spelling: eng
-  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, San Diego, United
-    States, June 1, 1997 -- June 11, 1997
+  value: San Diego, United States, June 1, 1997 -- June 11, 1997
 city: USSAN
 country_code: US
 venues:
@@ -81,4 +80,4 @@ decisions:
   number: '338'
 scheduled_date_range:
   start: '1997-06-01'
-  end: '1997-06-01'
+  end: '1997-06-11'

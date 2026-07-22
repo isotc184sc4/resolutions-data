@@ -12,8 +12,7 @@ committee:
     value: ISO/TC 184/SC 4
 title:
 - spelling: eng
-  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Rotterdam, Netherlands,
-    January 25, 1988 -- February 4, 1988
+  value: Rotterdam, Netherlands, January 25, 1988 -- February 4, 1988
 city: NLRTM
 country_code: NL
 venues:
@@ -55,4 +54,4 @@ decisions:
   number: '28'
 scheduled_date_range:
   start: '1988-01-25'
-  end: '1988-01-25'
+  end: '1988-02-04'

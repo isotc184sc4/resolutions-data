@@ -12,8 +12,7 @@ committee:
     value: ISO/TC 184/SC 4
 title:
 - spelling: eng
-  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Portland, Oregon,
-    United States, May 22, 2011 -- May 27, 2011
+  value: Portland, Oregon, United States, May 22, 2011 -- May 27, 2011
 city: USPDX
 country_code: US
 venues:
@@ -53,4 +52,4 @@ decisions:
   number: 201105-acclaim-06
 scheduled_date_range:
   start: '2011-05-22'
-  end: '2011-05-22'
+  end: '2011-05-27'

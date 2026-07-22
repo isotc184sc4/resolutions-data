@@ -12,8 +12,7 @@ committee:
     value: ISO/TC 184/SC 4
 title:
 - spelling: eng
-  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Hangzhou, China, October
-    16, 2005 -- October 21, 2005
+  value: Hangzhou, China, October 16, 2005 -- October 21, 2005
 city: CNHAZ
 country_code: CN
 venues:
@@ -47,4 +46,4 @@ decisions:
   number: 200510-acclaim-03
 scheduled_date_range:
   start: '2005-10-16'
-  end: '2005-10-16'
+  end: '2005-10-21'

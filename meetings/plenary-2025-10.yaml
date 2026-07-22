@@ -12,8 +12,7 @@ committee:
     value: ISO/TC 184/SC 4
 title:
 - spelling: eng
-  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Nagasaki, Japan, October
-    25, 2025 -- October 31, 2025
+  value: Nagasaki, Japan, October 25, 2025 -- October 31, 2025
 city: JPNGS
 country_code: JP
 venues:
@@ -59,4 +58,4 @@ decisions:
   number: 202510-acclaim-08
 scheduled_date_range:
   start: '2025-10-25'
-  end: '2025-10-25'
+  end: '2025-10-31'

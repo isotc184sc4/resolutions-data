@@ -12,8 +12,7 @@ committee:
     value: ISO/TC 184/SC 4
 title:
 - spelling: eng
-  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Chicago, United States,
-    November 4, 2018 -- November 9, 2018
+  value: Chicago, United States, November 4, 2018 -- November 9, 2018
 city: USCHI
 country_code: US
 venues:
@@ -63,4 +62,4 @@ decisions:
   number: 201811-acclaim-04
 scheduled_date_range:
   start: '2018-11-04'
-  end: '2018-11-04'
+  end: '2018-11-09'

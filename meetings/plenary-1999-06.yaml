@@ -12,8 +12,7 @@ committee:
     value: ISO/TC 184/SC 4
 title:
 - spelling: eng
-  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Lillehammer, Norway,
-    June 7, 1999 -- June 17, 1999
+  value: Lillehammer, Norway, June 7, 1999 -- June 17, 1999
 city: NOLLH
 country_code: 'NO'
 venues:
@@ -57,4 +56,4 @@ decisions:
   number: 199906-acclaim-04
 scheduled_date_range:
   start: '1999-06-07'
-  end: '1999-06-07'
+  end: '1999-06-17'

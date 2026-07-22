@@ -12,8 +12,7 @@ committee:
     value: ISO/TC 184/SC 4
 title:
 - spelling: eng
-  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Marina del Rey, United
-    States, November 3, 2019 -- November 8, 2019
+  value: Marina del Rey, United States, November 3, 2019 -- November 8, 2019
 city: USMDX
 country_code: US
 venues:
@@ -73,4 +72,4 @@ decisions:
   number: 201911-acclaim-06
 scheduled_date_range:
   start: '2019-11-03'
-  end: '2019-11-03'
+  end: '2019-11-08'

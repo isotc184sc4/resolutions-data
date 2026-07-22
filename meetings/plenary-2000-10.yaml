@@ -12,8 +12,7 @@ committee:
     value: ISO/TC 184/SC 4
 title:
 - spelling: eng
-  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Charleston, United
-    States, October 12, 2000 -- October 20, 2000
+  value: Charleston, United States, October 12, 2000 -- October 20, 2000
 city: USCHS
 country_code: US
 venues:
@@ -43,4 +42,4 @@ decisions:
   number: 200010-acclaim-04
 scheduled_date_range:
   start: '2000-10-12'
-  end: '2000-10-12'
+  end: '2000-10-20'

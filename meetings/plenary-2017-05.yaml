@@ -12,8 +12,7 @@ committee:
     value: ISO/TC 184/SC 4
 title:
 - spelling: eng
-  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Sandvika, Norway,
-    May 7, 2017 -- May 12, 2017
+  value: Sandvika, Norway, May 7, 2017 -- May 12, 2017
 city: NOOSL
 country_code: 'NO'
 venues:
@@ -63,4 +62,4 @@ decisions:
   number: 201705-acclaim-04
 scheduled_date_range:
   start: '2017-05-07'
-  end: '2017-05-07'
+  end: '2017-05-12'

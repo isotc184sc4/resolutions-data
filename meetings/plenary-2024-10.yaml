@@ -12,8 +12,7 @@ committee:
     value: ISO/TC 184/SC 4
 title:
 - spelling: eng
-  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Stavanger, Norway,
-    October 18, 2024 -- October 25, 2024
+  value: Stavanger, Norway, October 18, 2024 -- October 25, 2024
 city: NOSVG
 country_code: 'NO'
 venues:
@@ -65,4 +64,4 @@ decisions:
   number: 202410-acclaim-11
 scheduled_date_range:
   start: '2024-10-18'
-  end: '2024-10-18'
+  end: '2024-10-25'

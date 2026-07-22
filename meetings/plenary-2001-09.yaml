@@ -12,8 +12,7 @@ committee:
     value: ISO/TC 184/SC 4
 title:
 - spelling: eng
-  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Fukuoka, Japan, September
-    30, 2001 -- October 5, 2001
+  value: Fukuoka, Japan, September 30, 2001 -- October 5, 2001
 city: JPHKT
 country_code: JP
 venues:
@@ -57,4 +56,4 @@ decisions:
   number: 200110-acclaim-04
 scheduled_date_range:
   start: '2001-09-30'
-  end: '2001-09-30'
+  end: '2001-10-05'

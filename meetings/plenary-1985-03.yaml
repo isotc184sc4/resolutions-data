@@ -12,8 +12,7 @@ committee:
     value: ISO/TC 184/SC 4
 title:
 - spelling: eng
-  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Paris, France, March
-    19, 1985 -- March 29, 1985
+  value: Paris, France, March 19, 1985 -- March 29, 1985
 city: FRPAR
 country_code: FR
 venues:
@@ -35,4 +34,4 @@ decisions:
   number: 198503-acclaim-01
 scheduled_date_range:
   start: '1985-03-19'
-  end: '1985-03-19'
+  end: '1985-03-29'

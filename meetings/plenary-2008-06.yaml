@@ -12,8 +12,7 @@ committee:
     value: ISO/TC 184/SC 4
 title:
 - spelling: eng
-  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Sun City, South Africa,
-    June 8, 2008 -- June 13, 2008
+  value: Sun City, South Africa, June 8, 2008 -- June 13, 2008
 city: ZANTY
 country_code: ZA
 venues:
@@ -45,4 +44,4 @@ decisions:
   number: 200806-acclaim-04
 scheduled_date_range:
   start: '2008-06-08'
-  end: '2008-06-08'
+  end: '2008-06-13'

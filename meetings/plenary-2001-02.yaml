@@ -12,8 +12,7 @@ committee:
     value: ISO/TC 184/SC 4
 title:
 - spelling: eng
-  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Funchal, Portugal,
-    February 19, 2001 -- February 23, 2001
+  value: Funchal, Portugal, February 19, 2001 -- February 23, 2001
 city: PTFNC
 country_code: PT
 venues:
@@ -73,4 +72,4 @@ decisions:
   number: 200102-acclaim-08
 scheduled_date_range:
   start: '2001-02-19'
-  end: '2001-02-19'
+  end: '2001-02-23'

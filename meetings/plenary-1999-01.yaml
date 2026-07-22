@@ -12,8 +12,7 @@ committee:
     value: ISO/TC 184/SC 4
 title:
 - spelling: eng
-  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, San Francisco, United
-    States, January 18, 1999 -- January 28, 1999
+  value: San Francisco, United States, January 18, 1999 -- January 28, 1999
 city: USSFO
 country_code: US
 venues:
@@ -55,4 +54,4 @@ decisions:
   number: '404'
 scheduled_date_range:
   start: '1999-01-18'
-  end: '1999-01-18'
+  end: '1999-01-28'
