@@ -12,8 +12,7 @@ committee:
     value: ISO/TC 184/SC 4
 title:
 - spelling: eng
-  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Lillehammer, Norway,
-    February 27, 2005 -- March 4, 2005
+  value: Lillehammer, Norway, February 27, 2005 -- March 4, 2005
 city: NOLLH
 country_code: 'NO'
 venues:
@@ -45,4 +44,4 @@ decisions:
   number: 200503-acclaim-02
 scheduled_date_range:
   start: '2005-02-27'
-  end: '2005-02-27'
+  end: '2005-03-04'

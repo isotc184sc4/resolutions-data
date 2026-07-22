@@ -12,8 +12,7 @@ committee:
     value: ISO/TC 184/SC 4
 title:
 - spelling: eng
-  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Rotterdam, Netherlands,
-    November 8, 2009 -- November 13, 2009
+  value: Rotterdam, Netherlands, November 8, 2009 -- November 13, 2009
 city: NLRTM
 country_code: NL
 venues:
@@ -57,4 +56,4 @@ decisions:
   number: 200911-acclaim-04
 scheduled_date_range:
   start: '2009-11-08'
-  end: '2009-11-08'
+  end: '2009-11-13'

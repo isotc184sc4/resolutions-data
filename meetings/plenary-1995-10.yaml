@@ -12,8 +12,7 @@ committee:
     value: ISO/TC 184/SC 4
 title:
 - spelling: eng
-  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Grenoble, France,
-    October 27, 1995 -- November 6, 1995
+  value: Grenoble, France, October 27, 1995 -- November 6, 1995
 city: FRGNB
 country_code: FR
 venues:
@@ -53,4 +52,4 @@ decisions:
   number: '256'
 scheduled_date_range:
   start: '1995-10-27'
-  end: '1995-10-27'
+  end: '1995-11-06'

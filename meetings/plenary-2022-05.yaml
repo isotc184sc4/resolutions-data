@@ -12,8 +12,7 @@ committee:
     value: ISO/TC 184/SC 4
 title:
 - spelling: eng
-  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Virtual, May 16, 2022
-    -- May 20, 2022
+  value: Virtual, May 16, 2022 -- May 20, 2022
 venues:
 - kind: virtual
 decisions:
@@ -55,4 +54,4 @@ decisions:
   number: 202205-acclaim-06
 scheduled_date_range:
   start: '2022-05-16'
-  end: '2022-05-16'
+  end: '2022-05-20'

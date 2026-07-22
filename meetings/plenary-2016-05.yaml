@@ -12,8 +12,7 @@ committee:
     value: ISO/TC 184/SC 4
 title:
 - spelling: eng
-  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Sapporo, Japan, May
-    22, 2016 -- May 27, 2016
+  value: Sapporo, Japan, May 22, 2016 -- May 27, 2016
 city: JPSPK
 country_code: JP
 venues:
@@ -51,4 +50,4 @@ decisions:
   number: 201605-acclaim-06
 scheduled_date_range:
   start: '2016-05-22'
-  end: '2016-05-22'
+  end: '2016-05-27'

@@ -12,8 +12,7 @@ committee:
     value: ISO/TC 184/SC 4
 title:
 - spelling: eng
-  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Bad Aibling, Germany,
-    June 7, 1998 -- June 17, 1998
+  value: Bad Aibling, Germany, June 7, 1998 -- June 17, 1998
 city: DEBAI
 country_code: DE
 venues:
@@ -73,4 +72,4 @@ decisions:
   number: '378'
 scheduled_date_range:
   start: '1998-06-07'
-  end: '1998-06-07'
+  end: '1998-06-17'

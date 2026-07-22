@@ -12,8 +12,7 @@ committee:
     value: ISO/TC 184/SC 4
 title:
 - spelling: eng
-  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Tokyo, Japan, November
-    29, 1988 -- December 9, 1988
+  value: Tokyo, Japan, November 29, 1988 -- December 9, 1988
 city: JPTYO
 country_code: JP
 venues:
@@ -51,4 +50,4 @@ decisions:
   number: 198812-acclaim-01
 scheduled_date_range:
   start: '1988-11-29'
-  end: '1988-11-29'
+  end: '1988-12-09'

@@ -12,8 +12,7 @@ committee:
     value: ISO/TC 184/SC 4
 title:
 - spelling: eng
-  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Seoul, Korea, November
-    3, 2002 -- November 8, 2002
+  value: Seoul, Korea, November 3, 2002 -- November 8, 2002
 city: KRSEL
 country_code: KR
 venues:
@@ -63,4 +62,4 @@ decisions:
   number: 200211-acclaim-06
 scheduled_date_range:
   start: '2002-11-03'
-  end: '2002-11-03'
+  end: '2002-11-08'

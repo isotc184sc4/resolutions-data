@@ -12,8 +12,7 @@ committee:
     value: ISO/TC 184/SC 4
 title:
 - spelling: eng
-  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Toulouse, France,
-    May 12, 2019 -- May 17, 2019
+  value: Toulouse, France, May 12, 2019 -- May 17, 2019
 city: FRTLS
 country_code: FR
 venues:
@@ -71,4 +70,4 @@ decisions:
   number: 201905-acclaim-08
 scheduled_date_range:
   start: '2019-05-12'
-  end: '2019-05-12'
+  end: '2019-05-17'

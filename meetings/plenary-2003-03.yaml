@@ -12,8 +12,7 @@ committee:
     value: ISO/TC 184/SC 4
 title:
 - spelling: eng
-  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, San Diego, United
-    States, March 10, 2003 -- March 14, 2003
+  value: San Diego, United States, March 10, 2003 -- March 14, 2003
 city: USSAN
 country_code: US
 venues:
@@ -63,4 +62,4 @@ decisions:
   number: 200303-acclaim-06
 scheduled_date_range:
   start: '2003-03-10'
-  end: '2003-03-10'
+  end: '2003-03-14'

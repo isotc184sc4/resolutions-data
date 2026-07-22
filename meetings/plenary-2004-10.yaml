@@ -12,8 +12,7 @@ committee:
     value: ISO/TC 184/SC 4
 title:
 - spelling: eng
-  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Seattle, United States,
-    October 3, 2004 -- October 8, 2004
+  value: Seattle, United States, October 3, 2004 -- October 8, 2004
 city: USSEA
 country_code: US
 venues:
@@ -53,4 +52,4 @@ decisions:
   number: 200410-acclaim-06
 scheduled_date_range:
   start: '2004-10-03'
-  end: '2004-10-03'
+  end: '2004-10-08'

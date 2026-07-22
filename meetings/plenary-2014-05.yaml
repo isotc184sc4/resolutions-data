@@ -12,8 +12,7 @@ committee:
     value: ISO/TC 184/SC 4
 title:
 - spelling: eng
-  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Philadelphia, United
-    States, May 4, 2014 -- May 9, 2014
+  value: Philadelphia, United States, May 4, 2014 -- May 9, 2014
 city: USPHL
 country_code: US
 venues:
@@ -61,4 +60,4 @@ decisions:
   number: 201405-acclaim-03
 scheduled_date_range:
   start: '2014-05-04'
-  end: '2014-05-04'
+  end: '2014-05-09'

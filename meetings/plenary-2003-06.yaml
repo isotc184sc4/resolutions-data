@@ -12,8 +12,7 @@ committee:
     value: ISO/TC 184/SC 4
 title:
 - spelling: eng
-  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Stuttgart, Germany,
-    June 22, 2003 -- June 27, 2003
+  value: Stuttgart, Germany, June 22, 2003 -- June 27, 2003
 city: DESTR
 country_code: DE
 venues:
@@ -61,4 +60,4 @@ decisions:
   number: 200306-acclaim-07
 scheduled_date_range:
   start: '2003-06-22'
-  end: '2003-06-22'
+  end: '2003-06-27'

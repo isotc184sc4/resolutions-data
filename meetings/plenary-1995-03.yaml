@@ -12,8 +12,7 @@ committee:
     value: ISO/TC 184/SC 4
 title:
 - spelling: eng
-  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Sydney, Australia,
-    March 19, 1995 -- March 29, 1995
+  value: Sydney, Australia, March 19, 1995 -- March 29, 1995
 city: AUSYD
 country_code: AU
 venues:
@@ -49,4 +48,4 @@ decisions:
   number: 199503-acclaim-02
 scheduled_date_range:
   start: '1995-03-19'
-  end: '1995-03-19'
+  end: '1995-03-29'

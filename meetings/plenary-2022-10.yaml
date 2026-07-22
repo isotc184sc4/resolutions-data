@@ -12,8 +12,7 @@ committee:
     value: ISO/TC 184/SC 4
 title:
 - spelling: eng
-  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Hamamatsu, Japan,
-    October 31, 2022 -- November 4, 2022
+  value: Hamamatsu, Japan, October 31, 2022 -- November 4, 2022
 city: JPHMM
 country_code: JP
 venues:
@@ -61,4 +60,4 @@ decisions:
   number: 202211-acclaim-06
 scheduled_date_range:
   start: '2022-10-31'
-  end: '2022-10-31'
+  end: '2022-11-04'

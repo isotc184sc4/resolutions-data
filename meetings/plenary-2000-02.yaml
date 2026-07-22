@@ -12,8 +12,7 @@ committee:
     value: ISO/TC 184/SC 4
 title:
 - spelling: eng
-  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Melbourne, Australia,
-    February 14, 2000 -- February 18, 2000
+  value: Melbourne, Australia, February 14, 2000 -- February 18, 2000
 city: AUMEL
 country_code: AU
 venues:
@@ -67,4 +66,4 @@ decisions:
   number: 200002-acclaim-06
 scheduled_date_range:
   start: '2000-02-14'
-  end: '2000-02-14'
+  end: '2000-02-18'

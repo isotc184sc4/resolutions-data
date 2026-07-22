@@ -12,8 +12,7 @@ committee:
     value: ISO/TC 184/SC 4
 title:
 - spelling: eng
-  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Bethlehem, United
-    States, June 6, 2010 -- June 11, 2010
+  value: Bethlehem, United States, June 6, 2010 -- June 11, 2010
 city: USBEX
 country_code: US
 venues:
@@ -53,4 +52,4 @@ decisions:
   number: '812'
 scheduled_date_range:
   start: '2010-06-06'
-  end: '2010-06-06'
+  end: '2010-06-11'

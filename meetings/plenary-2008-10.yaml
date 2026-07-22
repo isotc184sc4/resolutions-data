@@ -12,8 +12,7 @@ committee:
     value: ISO/TC 184/SC 4
 title:
 - spelling: eng
-  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Busan, Korea, October
-    27, 2008 -- November 7, 2008
+  value: Busan, Korea, October 27, 2008 -- November 7, 2008
 city: KRPUS
 country_code: KR
 venues:
@@ -55,4 +54,4 @@ decisions:
   number: 200811-acclaim-04
 scheduled_date_range:
   start: '2008-10-27'
-  end: '2008-10-27'
+  end: '2008-11-07'

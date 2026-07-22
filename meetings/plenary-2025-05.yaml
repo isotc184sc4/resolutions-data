@@ -12,8 +12,7 @@ committee:
     value: ISO/TC 184/SC 4
 title:
 - spelling: eng
-  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Little Rock, United
-    States, May 18, 2025 -- May 23, 2025
+  value: Little Rock, United States, May 18, 2025 -- May 23, 2025
 city: USLIT
 country_code: US
 venues:
@@ -67,4 +66,4 @@ decisions:
   number: 202505-acclaim-05
 scheduled_date_range:
   start: '2025-05-18'
-  end: '2025-05-18'
+  end: '2025-05-23'

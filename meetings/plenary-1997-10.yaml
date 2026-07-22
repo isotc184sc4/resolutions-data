@@ -12,8 +12,7 @@ committee:
     value: ISO/TC 184/SC 4
 title:
 - spelling: eng
-  value: Resolutions of the plenary meeting of ISO/TC 184/SC 4, Florence, Italy, October
-    19, 1997 -- October 29, 1997
+  value: Florence, Italy, October 19, 1997 -- October 29, 1997
 city: ITFLR
 country_code: IT
 venues:
@@ -53,4 +52,4 @@ decisions:
   number: '353'
 scheduled_date_range:
   start: '1997-10-19'
-  end: '1997-10-19'
+  end: '1997-10-29'
